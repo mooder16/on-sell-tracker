@@ -11,5 +11,4 @@ images/
 Thumbs.db
 
 # 舊版大型 JSON（含 base64 圖片）
-daily_deals.json
 net_deals.json
