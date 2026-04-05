@@ -23,7 +23,7 @@ if sys.stdout.encoding != "utf-8":
 # ── 設定 ──────────────────────────────────────────────────────
 API_URL = "https://d.uniqlo.com/tw/p/search/products/by-category"
 IMAGE_BASE = "https://www.uniqlo.com/tw"
-PRODUCT_URL_BASE = "https://www.uniqlo.com/tw/zh_TW/products/E{code}-000/00"
+PRODUCT_URL_BASE = "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode={product_code}"
 OUTPUT_CSV = "daily_deals.csv"
 OUTPUT_JSON = "daily_deals.json"
 CATEGORY_CODE = "feature-sale-women"
@@ -74,10 +74,10 @@ def build_image_url(main_pic: str) -> str:
     return IMAGE_BASE + main_pic
 
 
-def build_product_url(code: str) -> str:
-    if not code:
+def build_product_url(product_code: str) -> str:
+    if not product_code:
         return ""
-    return PRODUCT_URL_BASE.format(code=code)
+    return PRODUCT_URL_BASE.format(product_code=product_code)
 
 
 def fetch_page(page: int, page_size: int = PAGE_SIZE) -> dict:
@@ -112,7 +112,7 @@ def parse_products(data: dict) -> list:
         current_price = str(item["minPrice"]) if item.get("minPrice") is not None else ""
         original_price = str(item["originPrice"]) if item.get("originPrice") is not None else ""
         image_url = build_image_url(item.get("mainPic", ""))
-        product_url = build_product_url(str(item.get("code", "")))
+        product_url = build_product_url(item.get("productCode", ""))
 
         if name:
             products.append({

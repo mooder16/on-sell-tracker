@@ -28,11 +28,9 @@ with urllib.request.urlopen(req, timeout=30) as resp:
     data = json.loads(resp.read().decode("utf-8"))
 
 items = data["resp"][0]["productList"]
-print("前3件商品的原始資料：")
-for item in items[:3]:
-    print(f"\n商品名稱: {item.get('name', '')}")
-    print(f"productCode: {item.get('productCode', '')}")
-    print(f"productId: {item.get('productId', '')}")
-    print(f"code: {item.get('code', '')}")
-    # 印出所有 key
-    print(f"所有欄位: {list(item.keys())}")
+print("前3件商品的所有欄位值：")
+for item in items[:2]:
+    print(f"\n=== {item.get('name', '')} ===")
+    for k, v in item.items():
+        if v and k not in ['sizeSequence', 'colorPic', 'colorShow', 'prices', 'stores', 'topCategories', 'categorySortList']:
+            print(f"  {k}: {v}")
