@@ -17,118 +17,170 @@ st.set_page_config(
 # ── CSS ──────────────────────────────────────────────────────
 st.markdown("""
 <style>
-.main { background-color: #f8f8f8; }
+/* 整體背景 */
+.stApp { background-color: #f0f0f0; }
+
+/* 商品卡片容器 */
 .product-card {
     background: #ffffff;
     border-radius: 12px;
-    padding: 0;
-    margin-bottom: 20px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
     overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+    margin-bottom: 4px;
     transition: transform 0.2s, box-shadow 0.2s;
 }
 .product-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 6px 20px rgba(0,0,0,0.14);
+    transform: translateY(-3px);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.15);
 }
+
+/* 卡片圖片 */
+.product-card img {
+    width: 100%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    display: block;
+}
+
+/* 卡片文字區 */
 .card-body {
-    padding: 10px 12px 12px;
-    background: #ffffff !important;
-    color: #111111 !important;
+    padding: 10px 12px 14px;
+    background: #ffffff;
 }
 .card-name {
     font-size: 13px;
     font-weight: 600;
-    color: #111111 !important;
-    background: #ffffff !important;
-    margin-bottom: 8px;
+    color: #111111;
+    margin: 6px 0 8px;
     line-height: 1.4;
     min-height: 36px;
+    overflow: hidden;
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
-    overflow: hidden;
 }
-.card-price { margin-bottom: 10px; line-height: 1.6; }
-.price-current { font-size: 20px; font-weight: 800; color: #e00; }
-.price-currency { font-size: 13px; font-weight: 600; color: #e00; }
+.card-price {
+    margin-bottom: 10px;
+    line-height: 1.8;
+}
+.price-current {
+    font-size: 22px;
+    font-weight: 800;
+    color: #cc0000;
+}
+.price-currency {
+    font-size: 13px;
+    font-weight: 700;
+    color: #cc0000;
+}
 .price-original {
-    font-size: 13px; color: #999;
+    font-size: 12px;
+    color: #999;
     text-decoration: line-through;
-    margin-left: 4px;
+    margin-left: 6px;
 }
 .price-discount {
     display: inline-block;
-    background: #e00; color: #fff;
-    font-size: 11px; font-weight: 700;
-    padding: 2px 6px; border-radius: 4px; margin-left: 4px;
+    background: #cc0000;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 2px 6px;
+    border-radius: 4px;
+    margin-left: 4px;
     vertical-align: middle;
 }
 .limit-badge {
     display: inline-block;
-    background: #ff6600; color: #fff;
-    font-size: 11px; font-weight: 700;
-    padding: 3px 8px; border-radius: 4px;
-    margin-bottom: 6px;
+    background: #ff6600;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 3px 8px;
+    border-radius: 4px;
+    margin-bottom: 4px;
 }
 .btn-buy {
-    display: block; text-align: center;
-    background: #222; color: #fff !important;
+    display: block;
+    text-align: center;
+    background: #222222;
+    color: #ffffff !important;
     text-decoration: none !important;
-    padding: 9px 0; border-radius: 6px;
-    font-size: 13px; font-weight: 600;
+    padding: 9px 0;
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 600;
     transition: background 0.2s;
 }
-.btn-buy:hover { background: #e00; color: #fff !important; }
+.btn-buy:hover { background: #cc0000; }
 .category-badge {
     display: inline-block;
-    background: #f0f0f0; color: #555;
-    font-size: 11px; padding: 2px 8px;
-    border-radius: 20px; margin-bottom: 6px;
+    background: #eeeeee;
+    color: #555555;
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 20px;
+    margin-right: 4px;
 }
 .brand-badge {
     display: inline-block;
-    font-size: 10px; padding: 2px 6px;
-    border-radius: 4px; margin-bottom: 4px;
-    font-weight: 700; margin-right: 4px;
+    font-size: 10px;
+    padding: 2px 7px;
+    border-radius: 4px;
+    font-weight: 700;
+    margin-right: 4px;
 }
-.brand-uniqlo { background: #e00; color: #fff; }
+.brand-uniqlo  { background: #cc0000; color: #fff; }
 .brand-limited { background: #ff6600; color: #fff; }
-.brand-momo { background: #e91e8c; color: #fff; }
-.brand-muji { background: #8b7355; color: #fff; }
+.brand-momo    { background: #e91e8c; color: #fff; }
+.brand-muji    { background: #8b7355; color: #fff; }
+
+/* 頁首 */
 .page-header {
-    padding: 10px 0 20px;
-    border-bottom: 2px solid #e00;
+    padding: 10px 0 18px;
+    border-bottom: 3px solid #cc0000;
     margin-bottom: 24px;
 }
-.page-title { font-size: 28px; font-weight: 800; color: #222; margin: 0; }
-.page-subtitle { font-size: 14px; color: #888; margin-top: 4px; }
+.page-title   { font-size: 26px; font-weight: 800; color: #111; margin: 0; }
+.page-subtitle { font-size: 13px; color: #888; margin-top: 4px; }
+
+/* 統計列 */
 .stats-bar {
-    background: #fff; border-radius: 8px;
-    padding: 12px 16px; margin-bottom: 20px;
+    background: #fff;
+    border-radius: 8px;
+    padding: 10px 16px;
+    margin-bottom: 18px;
     box-shadow: 0 1px 4px rgba(0,0,0,0.06);
-    font-size: 14px; color: #555;
+    font-size: 14px;
+    color: #555;
 }
-.no-data-box {
-    text-align: center; padding: 60px 20px;
-    background: #fff; border-radius: 12px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
-}
+
+/* 自動更新提示 */
 .auto-update-info {
-    background: #f0f7ff;
-    border: 1px solid #c0d8f0;
+    background: #e8f4fd;
+    border: 1px solid #b3d7f0;
     border-radius: 8px;
     padding: 10px 14px;
     font-size: 12px;
-    color: #4a7aaa;
+    color: #2a6496;
     margin-bottom: 8px;
 }
-/* 讓 st.image 在卡片內填滿 */
+
+/* 讓 st.image 填滿欄位 */
 [data-testid="stImage"] img {
-    border-radius: 0 !important;
     width: 100% !important;
     aspect-ratio: 1/1;
     object-fit: cover;
+    border-radius: 12px 12px 0 0;
+    display: block;
+}
+[data-testid="stImage"] {
+    margin-bottom: 0 !important;
+    line-height: 0;
+}
+/* 移除 st.columns 的預設間距 */
+[data-testid="column"] > div:first-child {
+    padding: 0 !important;
 }
 </style>
 """, unsafe_allow_html=True)
@@ -140,7 +192,7 @@ BRANDS = {
     "UNIQLO 日本特賣": {
         "json": BASE_DIR / "uniqlo_jp_deals.json",
         "badge_class": "brand-uniqlo",
-        "color": "#e00",
+        "color": "#cc0000",
         "currency": "¥",
     },
     "UNIQLO 日本期間限定特價": {
@@ -158,7 +210,7 @@ BRANDS = {
     "UNIQLO 台灣女性特價": {
         "json": BASE_DIR / "daily_deals.json",
         "badge_class": "brand-uniqlo",
-        "color": "#e00",
+        "color": "#cc0000",
         "currency": "NT$",
     },
 }
@@ -173,93 +225,123 @@ def load_data(json_path: str):
         return json.load(f)
 
 
+def render_card(product, badge_class, currency, brand_name):
+    """輸出完整卡片（圖片 + 文字，一個 st.markdown 呼叫）"""
+    name = product.get("商品名稱", "")
+    current = product.get("現價", "")
+    original = product.get("原價", "")
+    image_url = product.get("圖片網址", "")
+    product_url = product.get("商品連結", "")
+    category = product.get("分類", "其他")
+    brand = product.get("品牌", brand_name)
+    limit_until = product.get("截止日期", "")
+
+    # 折扣
+    discount_html = ""
+    try:
+        c, o = int(current), int(original)
+        if o > c > 0:
+            pct = round((1 - c / o) * 100)
+            discount_html = f'<span class="price-discount">-{pct}%</span>'
+    except Exception:
+        pass
+
+    orig_html = (
+        f'<span class="price-original">{currency}{original}</span>'
+        if original and original != current else ""
+    )
+    price_html = (
+        f'<span class="price-currency">{currency}</span>'
+        f'<span class="price-current">{current}</span>'
+        if current else '<span style="color:#aaa">價格未知</span>'
+    )
+    limit_html = (
+        f'<div><span class="limit-badge">⏰ {limit_until}期間限定</span></div>'
+        if limit_until else ""
+    )
+    btn_html = (
+        f'<a href="{product_url}" target="_blank" class="btn-buy">前往購買 →</a>'
+        if product_url else '<span style="color:#ccc;font-size:12px">無連結</span>'
+    )
+
+    # 圖片區：用 background-image 避免 <img> 被 Streamlit 過濾
+    if image_url:
+        img_section = (
+            f'<div style="width:100%;aspect-ratio:1/1;'
+            f'background-image:url(\'{image_url}\');'
+            f'background-size:cover;background-position:center;'
+            f'background-repeat:no-repeat;"></div>'
+        )
+    else:
+        img_section = '<div style="width:100%;aspect-ratio:1/1;background:#f5f5f5;display:flex;align-items:center;justify-content:center;font-size:40px;">👗</div>'
+
+    st.markdown(
+        f"""<div class="product-card">
+{img_section}
+<div class="card-body">
+<span class="brand-badge {badge_class}">{brand}</span><span class="category-badge">{category}</span>
+{limit_html}
+<div class="card-name">{name}</div>
+<div class="card-price">{price_html} {orig_html} {discount_html}</div>
+{btn_html}
+</div></div>""",
+        unsafe_allow_html=True,
+    )
+
+
 # ── 側邊欄 ────────────────────────────────────────────────────
 with st.sidebar:
     st.markdown("## 🛍️ 特價商品追蹤")
     st.markdown("---")
-
     st.markdown("### 🏪 選擇品牌")
-    selected_brand = st.radio(
-        "品牌",
-        list(BRANDS.keys()),
-        label_visibility="collapsed",
-    )
+    selected_brand = st.radio("品牌", list(BRANDS.keys()), label_visibility="collapsed")
 
     brand_cfg = BRANDS[selected_brand]
     data = load_data(str(brand_cfg["json"]))
     currency = brand_cfg.get("currency", "NT$")
 
     st.markdown("---")
-
-    # 自動更新說明（取代原本的更新按鈕）
     st.markdown(
-        """
-        <div class="auto-update-info">
-            🤖 <strong>自動更新</strong><br>
-            資料每 4 小時由 GitHub Actions 自動抓取更新
-        </div>
-        """,
+        '<div class="auto-update-info">🤖 <strong>自動更新</strong><br>資料每 4 小時由 GitHub Actions 自動抓取</div>',
         unsafe_allow_html=True,
     )
-
     st.markdown("---")
 
     if data:
         products_all = data.get("products", [])
+        all_cats = sorted(set(p.get("分類", "其他") for p in products_all))
+        cat_counts = {c: 0 for c in all_cats}
+        for p in products_all:
+            cat_counts[p.get("分類", "其他")] = cat_counts.get(p.get("分類", "其他"), 0) + 1
 
         st.markdown("### 📂 商品分類")
-        all_cats = sorted(set(p.get("分類", "其他") for p in products_all))
-        cat_counts = {}
-        for p in products_all:
-            c = p.get("分類", "其他")
-            cat_counts[c] = cat_counts.get(c, 0) + 1
-
         select_all = st.checkbox("全部分類", value=True)
-        selected_cats = []
-        if not select_all:
-            for cat in all_cats:
-                if st.checkbox(f"{cat}（{cat_counts.get(cat, 0)}件）", value=False):
-                    selected_cats.append(cat)
-            if not selected_cats:
-                selected_cats = all_cats
-        else:
-            selected_cats = all_cats
+        selected_cats = all_cats if select_all else [
+            cat for cat in all_cats
+            if st.checkbox(f"{cat}（{cat_counts.get(cat,0)}件）", value=False)
+        ] or all_cats
 
         st.markdown("---")
-
         st.markdown(f"### 💰 價格範圍（{currency}）")
         prices_list = []
         for p in products_all:
             try:
                 prices_list.append(int(p.get("現價", "0") or "0"))
-            except:
+            except Exception:
                 pass
-        if prices_list:
-            min_p, max_p = min(prices_list), max(prices_list)
-            if min_p < max_p:
-                price_range = st.slider(
-                    f"現價（{currency}）", min_p, max_p, (min_p, max_p), step=50
-                )
-            else:
-                price_range = (min_p, max_p)
+        if prices_list and min(prices_list) < max(prices_list):
+            price_range = st.slider(f"現價（{currency}）", min(prices_list), max(prices_list),
+                                    (min(prices_list), max(prices_list)), step=50)
         else:
             price_range = (0, 99999)
 
         st.markdown("---")
-
         st.markdown("### 🔃 排序方式")
-        sort_option = st.selectbox(
-            "排序",
-            ["預設排序", "現價：低→高", "現價：高→低", "折扣最多"],
-            label_visibility="collapsed",
-        )
-
+        sort_option = st.selectbox("排序", ["預設排序", "現價：低→高", "現價：高→低", "折扣最多"],
+                                   label_visibility="collapsed")
         st.markdown("---")
         scraped_at = data.get("scraped_at", "未知")
-        st.markdown(
-            f"<small style='color:#aaa'>最後更新：{scraped_at}</small>",
-            unsafe_allow_html=True,
-        )
+        st.markdown(f"<small style='color:#aaa'>最後更新：{scraped_at}</small>", unsafe_allow_html=True)
     else:
         sort_option = "預設排序"
         selected_cats = []
@@ -267,25 +349,20 @@ with st.sidebar:
 
 
 # ── 主內容 ────────────────────────────────────────────────────
-brand_color = brand_cfg.get("color", "#e00")
+brand_color = brand_cfg.get("color", "#cc0000")
+scraped_at_str = data.get("scraped_at", "") if data else "尚無資料"
 st.markdown(
-    f"""
-<div class='page-header' style='border-bottom-color:{brand_color}'>
-    <p class='page-title'>🛍️ {selected_brand}</p>
-    <p class='page-subtitle'>{data.get('scraped_at', '') if data else '尚無資料'} ・ 每4小時自動更新</p>
-</div>
-""",
+    f"""<div class='page-header' style='border-bottom-color:{brand_color}'>
+<p class='page-title'>🛍️ {selected_brand}</p>
+<p class='page-subtitle'>{scraped_at_str} ・ 每4小時自動更新</p>
+</div>""",
     unsafe_allow_html=True,
 )
 
 if not data:
     st.markdown(
-        """
-    <div class='no-data-box'>
-        <h3>📭 尚無資料</h3>
-        <p>資料將由 GitHub Actions 自動更新，請稍後再試</p>
-    </div>
-    """,
+        "<div style='text-align:center;padding:60px;background:#fff;border-radius:12px'>"
+        "<h3>📭 尚無資料</h3><p>資料將由 GitHub Actions 自動更新，請稍後再試</p></div>",
         unsafe_allow_html=True,
     )
 else:
@@ -298,7 +375,7 @@ else:
             continue
         try:
             price = int(p.get("現價", "0") or "0")
-        except:
+        except Exception:
             price = 0
         if price > 0 and not (price_range[0] <= price <= price_range[1]):
             continue
@@ -306,112 +383,33 @@ else:
 
     # 排序
     def get_price(p):
-        try:
-            return int(p.get("現價", "0") or "0")
-        except:
-            return 0
+        try: return int(p.get("現價", "0") or "0")
+        except Exception: return 0
 
     def get_discount(p):
         try:
-            cur = int(p.get("現價", "0") or "0")
-            ori = int(p.get("原價", "0") or "0")
-            return (ori - cur) / ori if ori > cur > 0 else 0
-        except:
-            return 0
+            c, o = int(p.get("現價", "0") or "0"), int(p.get("原價", "0") or "0")
+            return (o - c) / o if o > c > 0 else 0
+        except Exception: return 0
 
-    if sort_option == "現價：低→高":
-        filtered.sort(key=get_price)
-    elif sort_option == "現價：高→低":
-        filtered.sort(key=get_price, reverse=True)
-    elif sort_option == "折扣最多":
-        filtered.sort(key=get_discount, reverse=True)
+    if sort_option == "現價：低→高":   filtered.sort(key=get_price)
+    elif sort_option == "現價：高→低": filtered.sort(key=get_price, reverse=True)
+    elif sort_option == "折扣最多":    filtered.sort(key=get_discount, reverse=True)
 
     st.markdown(
-        f"""
-    <div class='stats-bar'>
-        顯示 <strong>{len(filtered)}</strong> 件商品（共 {len(products_all)} 件）
-    </div>
-    """,
+        f"<div class='stats-bar'>顯示 <strong>{len(filtered)}</strong> 件商品（共 {len(products_all)} 件）</div>",
         unsafe_allow_html=True,
     )
 
     if not filtered:
         st.info("😕 目前篩選條件下沒有符合的商品，請調整篩選條件。")
     else:
+        COLS = 4
         badge_class = brand_cfg.get("badge_class", "brand-uniqlo")
+        rows = [filtered[i: i + COLS] for i in range(0, len(filtered), COLS)]
 
-        # 用純 HTML grid 一次輸出所有卡片（避免 st.columns + st.image 分離問題）
-        cards_html = '<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:20px;">'
-
-        for product in filtered:
-            name = product.get("商品名稱", "")
-            current = product.get("現價", "")
-            original = product.get("原價", "")
-            image_url = product.get("圖片網址", "")
-            product_url = product.get("商品連結", "")
-            category = product.get("分類", "其他")
-            brand = product.get("品牌", selected_brand)
-
-            # 折扣計算
-            discount_html = ""
-            try:
-                cur_int = int(current)
-                ori_int = int(original)
-                if ori_int > cur_int > 0:
-                    pct = round((1 - cur_int / ori_int) * 100)
-                    discount_html = f'<span class="price-discount">-{pct}%</span>'
-            except:
-                pass
-
-            # 原價
-            orig_html = ""
-            if original and original != current:
-                orig_html = f'<span class="price-original">{currency}{original}</span>'
-
-            # 現價
-            price_display = (
-                f'<span class="price-currency">{currency}</span>'
-                f'<span class="price-current">{current}</span>'
-                if current
-                else '<span style="color:#999">價格未知</span>'
-            )
-
-            # 截止日期
-            limit_until = product.get("截止日期", "")
-            limit_html = (
-                f'<div><span class="limit-badge">⏰ {limit_until}期間限定</span></div>'
-                if limit_until else ""
-            )
-
-            # 購買按鈕
-            btn_html = (
-                f'<a href="{product_url}" target="_blank" class="btn-buy">前往購買 →</a>'
-                if product_url
-                else '<span style="color:#ccc;font-size:12px;">無連結</span>'
-            )
-
-            # 圖片
-            if image_url:
-                img_html = f'<img src="{image_url}" style="width:100%;aspect-ratio:1/1;object-fit:cover;display:block;" loading="lazy" onerror="this.style.display=\'none\'">'
-            else:
-                img_html = '<div style="text-align:center;padding:30px;font-size:36px;background:#f5f5f5;">👗</div>'
-
-            cards_html += f"""
-<div class="product-card">
-  {img_html}
-  <div class="card-body">
-    <span class="brand-badge {badge_class}">{brand}</span>
-    <span class="category-badge">{category}</span>
-    {limit_html}
-    <div class="card-name">{name}</div>
-    <div class="card-price">
-      {price_display}
-      {orig_html}
-      {discount_html}
-    </div>
-    {btn_html}
-  </div>
-</div>"""
-
-        cards_html += "</div>"
-        st.markdown(cards_html, unsafe_allow_html=True)
+        for row in rows:
+            cols = st.columns(COLS, gap="small")
+            for col, product in zip(cols, row):
+                with col:
+                    render_card(product, badge_class, currency, selected_brand)
