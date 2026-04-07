@@ -338,70 +338,65 @@ else:
     if not filtered:
         st.info("😕 目前篩選條件下沒有符合的商品，請調整篩選條件。")
     else:
-        COLS = 4
-        rows = [filtered[i : i + COLS] for i in range(0, len(filtered), COLS)]
         badge_class = brand_cfg.get("badge_class", "brand-uniqlo")
 
-        for row in rows:
-            cols = st.columns(COLS)
-            for col, product in zip(cols, row):
-                with col:
-                    name = product.get("商品名稱", "")
-                    current = product.get("現價", "")
-                    original = product.get("原價", "")
-                    image_url = product.get("圖片網址", "")
-                    product_url = product.get("商品連結", "")
-                    category = product.get("分類", "其他")
-                    brand = product.get("品牌", selected_brand)
+        # 用純 HTML grid 一次輸出所有卡片（避免 st.columns + st.image 分離問題）
+        cards_html = '<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:20px;">'
 
-                    # 折扣計算
-                    discount_html = ""
-                    try:
-                        cur_int = int(current)
-                        ori_int = int(original)
-                        if ori_int > cur_int > 0:
-                            pct = round((1 - cur_int / ori_int) * 100)
-                            discount_html = f'<span class="price-discount">-{pct}%</span>'
-                    except:
-                        pass
+        for product in filtered:
+            name = product.get("商品名稱", "")
+            current = product.get("現價", "")
+            original = product.get("原價", "")
+            image_url = product.get("圖片網址", "")
+            product_url = product.get("商品連結", "")
+            category = product.get("分類", "其他")
+            brand = product.get("品牌", selected_brand)
 
-                    # 原價（有折扣才顯示）
-                    orig_html = ""
-                    if original and original != current:
-                        orig_html = f'<span class="price-original">{currency}{original}</span>'
+            # 折扣計算
+            discount_html = ""
+            try:
+                cur_int = int(current)
+                ori_int = int(original)
+                if ori_int > cur_int > 0:
+                    pct = round((1 - cur_int / ori_int) * 100)
+                    discount_html = f'<span class="price-discount">-{pct}%</span>'
+            except:
+                pass
 
-                    # 現價
-                    price_display = (
-                        f'<span class="price-currency">{currency}</span>'
-                        f'<span class="price-current">{current}</span>'
-                        if current
-                        else '<span style="color:#999">價格未知</span>'
-                    )
+            # 原價
+            orig_html = ""
+            if original and original != current:
+                orig_html = f'<span class="price-original">{currency}{original}</span>'
 
-                    # 截止日期（期間限定特價）
-                    limit_until = product.get("截止日期", "")
-                    limit_html = (
-                        f'<div><span class="limit-badge">⏰ {limit_until}期間限定</span></div>'
-                        if limit_until
-                        else ""
-                    )
+            # 現價
+            price_display = (
+                f'<span class="price-currency">{currency}</span>'
+                f'<span class="price-current">{current}</span>'
+                if current
+                else '<span style="color:#999">價格未知</span>'
+            )
 
-                    # 購買按鈕
-                    btn_html = (
-                        f'<a href="{product_url}" target="_blank" class="btn-buy">前往購買 →</a>'
-                        if product_url
-                        else '<span style="color:#ccc;font-size:12px;">無連結</span>'
-                    )
+            # 截止日期
+            limit_until = product.get("截止日期", "")
+            limit_html = (
+                f'<div><span class="limit-badge">⏰ {limit_until}期間限定</span></div>'
+                if limit_until else ""
+            )
 
-                    # 圖片 HTML
-                    if image_url:
-                        img_html = f'<img src="{image_url}" style="width:100%;aspect-ratio:1/1;object-fit:cover;display:block;" loading="lazy">'
-                    else:
-                        img_html = '<div style="text-align:center;padding:30px;font-size:36px;background:#f5f5f5;">👗</div>'
+            # 購買按鈕
+            btn_html = (
+                f'<a href="{product_url}" target="_blank" class="btn-buy">前往購買 →</a>'
+                if product_url
+                else '<span style="color:#ccc;font-size:12px;">無連結</span>'
+            )
 
-                    # 整張卡片（圖片 + 文字）合為一個 HTML 區塊
-                    st.markdown(
-                        f"""
+            # 圖片
+            if image_url:
+                img_html = f'<img src="{image_url}" style="width:100%;aspect-ratio:1/1;object-fit:cover;display:block;" loading="lazy" onerror="this.style.display=\'none\'">'
+            else:
+                img_html = '<div style="text-align:center;padding:30px;font-size:36px;background:#f5f5f5;">👗</div>'
+
+            cards_html += f"""
 <div class="product-card">
   {img_html}
   <div class="card-body">
@@ -416,7 +411,7 @@ else:
     </div>
     {btn_html}
   </div>
-</div>
-""",
-                        unsafe_allow_html=True,
-                    )
+</div>"""
+
+        cards_html += "</div>"
+        st.markdown(cards_html, unsafe_allow_html=True)
