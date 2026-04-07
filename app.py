@@ -31,11 +31,16 @@ st.markdown("""
     transform: translateY(-4px);
     box-shadow: 0 6px 20px rgba(0,0,0,0.14);
 }
-.card-body { padding: 10px 12px 12px; }
+.card-body {
+    padding: 10px 12px 12px;
+    background: #ffffff !important;
+    color: #111111 !important;
+}
 .card-name {
     font-size: 13px;
     font-weight: 600;
-    color: #222;
+    color: #111111 !important;
+    background: #ffffff !important;
     margin-bottom: 8px;
     line-height: 1.4;
     min-height: 36px;
