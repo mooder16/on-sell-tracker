@@ -1,11 +1,9 @@
 """
 特價商品瀏覽介面（多品牌）
 支援：UNIQLO 日本特賣、UNIQLO 日本期間限定特價、momo 無印良品、UNIQLO 台灣
+資料由 GitHub Actions 每4小時自動更新
 """
 import json
-import os
-import subprocess
-import sys
 from pathlib import Path
 
 import streamlit as st
@@ -111,6 +109,15 @@ st.markdown("""
     background: #fff; border-radius: 12px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.06);
 }
+.auto-update-info {
+    background: #f0f7ff;
+    border: 1px solid #c0d8f0;
+    border-radius: 8px;
+    padding: 10px 14px;
+    font-size: 12px;
+    color: #4a7aaa;
+    margin-bottom: 8px;
+}
 /* 讓 st.image 在卡片內填滿 */
 [data-testid="stImage"] img {
     border-radius: 0 !important;
@@ -127,28 +134,24 @@ BASE_DIR = Path(__file__).parent
 BRANDS = {
     "UNIQLO 日本特賣": {
         "json": BASE_DIR / "uniqlo_jp_deals.json",
-        "scraper": BASE_DIR / "scraper_uniqlo_jp.py",
         "badge_class": "brand-uniqlo",
         "color": "#e00",
         "currency": "¥",
     },
     "UNIQLO 日本期間限定特價": {
         "json": BASE_DIR / "uniqlo_jp_limited.json",
-        "scraper": BASE_DIR / "scraper_uniqlo_jp.py",
         "badge_class": "brand-limited",
         "color": "#ff6600",
         "currency": "¥",
     },
     "momo 無印良品": {
         "json": BASE_DIR / "momo_muji_deals.json",
-        "scraper": BASE_DIR / "scraper_momo_muji.py",
         "badge_class": "brand-momo",
         "color": "#e91e8c",
         "currency": "NT$",
     },
     "UNIQLO 台灣女性特價": {
         "json": BASE_DIR / "daily_deals.json",
-        "scraper": BASE_DIR / "scraper.py",
         "badge_class": "brand-uniqlo",
         "color": "#e00",
         "currency": "NT$",
@@ -156,30 +159,13 @@ BRANDS = {
 }
 
 
-@st.cache_data(ttl=300)
+@st.cache_data(ttl=3600)
 def load_data(json_path: str):
     p = Path(json_path)
     if not p.exists():
         return None
     with open(p, encoding="utf-8") as f:
         return json.load(f)
-
-
-def run_scraper(scraper_path: Path, brand_name: str):
-    with st.spinner(f"🔄 正在抓取 {brand_name} 特價商品，請稍候..."):
-        result = subprocess.run(
-            [sys.executable, str(scraper_path)],
-            capture_output=True, text=True, timeout=600,
-            cwd=str(BASE_DIR),
-            encoding="utf-8", errors="replace",
-        )
-    if result.returncode == 0:
-        st.cache_data.clear()
-        st.success(f"✅ {brand_name} 資料更新完成！")
-        st.rerun()
-    else:
-        err = (result.stderr or result.stdout or "")[-600:]
-        st.error(f"❌ 爬蟲執行失敗：\n{err}")
 
 
 # ── 側邊欄 ────────────────────────────────────────────────────
@@ -200,8 +186,16 @@ with st.sidebar:
 
     st.markdown("---")
 
-    if st.button(f"🔄 更新 {selected_brand}", use_container_width=True, type="primary"):
-        run_scraper(brand_cfg["scraper"], selected_brand)
+    # 自動更新說明（取代原本的更新按鈕）
+    st.markdown(
+        """
+        <div class="auto-update-info">
+            🤖 <strong>自動更新</strong><br>
+            資料每 4 小時由 GitHub Actions 自動抓取更新
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
     st.markdown("---")
 
@@ -261,6 +255,10 @@ with st.sidebar:
             f"<small style='color:#aaa'>最後更新：{scraped_at}</small>",
             unsafe_allow_html=True,
         )
+    else:
+        sort_option = "預設排序"
+        selected_cats = []
+        price_range = (0, 99999)
 
 
 # ── 主內容 ────────────────────────────────────────────────────
@@ -269,7 +267,7 @@ st.markdown(
     f"""
 <div class='page-header' style='border-bottom-color:{brand_color}'>
     <p class='page-title'>🛍️ {selected_brand}</p>
-    <p class='page-subtitle'>{data.get('scraped_at', '') if data else '尚無資料'}</p>
+    <p class='page-subtitle'>{data.get('scraped_at', '') if data else '尚無資料'} ・ 每4小時自動更新</p>
 </div>
 """,
     unsafe_allow_html=True,
@@ -280,7 +278,7 @@ if not data:
         """
     <div class='no-data-box'>
         <h3>📭 尚無資料</h3>
-        <p>請點擊左側「更新」按鈕抓取商品資料</p>
+        <p>資料將由 GitHub Actions 自動更新，請稍後再試</p>
     </div>
     """,
         unsafe_allow_html=True,
