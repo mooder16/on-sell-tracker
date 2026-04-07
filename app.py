@@ -393,36 +393,29 @@ else:
                         else '<span style="color:#ccc;font-size:12px;">無連結</span>'
                     )
 
-                    # 卡片上半（圖片）
-                    st.markdown(
-                        '<div class="product-card">',
-                        unsafe_allow_html=True,
-                    )
-
-                    # 圖片：直接用圖片 URL
+                    # 圖片 HTML
                     if image_url:
-                        st.image(image_url, use_container_width=True)
+                        img_html = f'<img src="{image_url}" style="width:100%;aspect-ratio:1/1;object-fit:cover;display:block;" loading="lazy">'
                     else:
-                        st.markdown(
-                            '<div style="text-align:center;padding:30px;font-size:36px;background:#f5f5f5;">👗</div>',
-                            unsafe_allow_html=True,
-                        )
+                        img_html = '<div style="text-align:center;padding:30px;font-size:36px;background:#f5f5f5;">👗</div>'
 
-                    # 卡片下半（文字）
+                    # 整張卡片（圖片 + 文字）合為一個 HTML 區塊
                     st.markdown(
                         f"""
-<div class="card-body">
-  <span class="brand-badge {badge_class}">{brand}</span>
-  <span class="category-badge">{category}</span>
-  {limit_html}
-  <div class="card-name">{name}</div>
-  <div class="card-price">
-    {price_display}
-    {orig_html}
-    {discount_html}
+<div class="product-card">
+  {img_html}
+  <div class="card-body">
+    <span class="brand-badge {badge_class}">{brand}</span>
+    <span class="category-badge">{category}</span>
+    {limit_html}
+    <div class="card-name">{name}</div>
+    <div class="card-price">
+      {price_display}
+      {orig_html}
+      {discount_html}
+    </div>
+    {btn_html}
   </div>
-  {btn_html}
-</div>
 </div>
 """,
                         unsafe_allow_html=True,
