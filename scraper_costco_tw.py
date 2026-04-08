@@ -108,7 +108,7 @@ def scrape_costco_page(page, url: str, source_name: str) -> list:
     # 抓取商品資料
     products = page.evaluate("""
         (sourceName) => {
-            // Costco TW 使用 SAP Commerce Cloud，商品在 li.product 或類似容器
+            // Costco TW 使用 Angular + SAP Commerce Cloud
             const selectors = [
                 'li.product',
                 '.product-item',
@@ -128,47 +128,34 @@ def scrape_costco_page(page, url: str, source_name: str) -> list:
             }
 
             return items.map(item => {
-                // 商品名稱
-                const nameEl = item.querySelector(
-                    '.product-name, .productName, h2, h3, h4, ' +
-                    '[class*="name"], [class*="title"], a[title]'
-                );
+                // 商品名稱（從 a[title] 取得最準確）
+                const nameEl = item.querySelector('a[title]');
                 const name = nameEl
                     ? (nameEl.getAttribute('title') || nameEl.innerText || '').trim()
                     : '';
 
-                // 現價
-                const priceEl = item.querySelector(
-                    '.price, .current-price, .sale-price, ' +
-                    '[class*="price"]:not([class*="origin"]):not([class*="was"]):not([class*="old"])'
-                );
+                // 現價：.original-price 內的 .product-price-amount（Costco 命名有點反直覺）
+                const priceEl = item.querySelector('.original-price .product-price-amount');
                 const priceText = priceEl ? priceEl.innerText.trim() : '';
 
-                // 原價
-                const origEl = item.querySelector(
-                    '.original-price, .was-price, .old-price, del, s, ' +
-                    '[class*="origin"], [class*="was"], [class*="old"], [class*="before"]'
-                );
-                const origText = origEl ? origEl.innerText.trim() : '';
+                // 折扣金額：.discount-row-message 內含「商品已折價$X,XXX」
+                const discountEl = item.querySelector('.discount-row-message');
+                const discountText = discountEl ? discountEl.innerText.trim() : '';
 
-                // 圖片
+                // 圖片（優先 webp，其次 jpg）
                 const imgEl = item.querySelector('img');
                 const imgSrc = imgEl
                     ? (imgEl.getAttribute('data-src') || imgEl.getAttribute('src') || '')
                     : '';
 
                 // 連結
-                const linkEl = item.querySelector('a[href]');
+                const linkEl = item.querySelector('a[href][title]');
                 const href = linkEl ? linkEl.getAttribute('href') : '';
                 const link = href
                     ? (href.startsWith('http') ? href : 'https://www.costco.com.tw' + href)
                     : '';
 
-                // 商品代碼
-                const code = item.getAttribute('data-product-code') ||
-                             item.getAttribute('data-code') || '';
-
-                return { name, priceText, origText, imgSrc, link, code, source: sourceName };
+                return { name, priceText, discountText, imgSrc, link, source: sourceName };
             });
         }
     """, source_name)
@@ -247,12 +234,16 @@ def scrape():
         seen.add(key)
 
         current = parse_price(r.get("priceText", ""))
-        original = parse_price(r.get("origText", ""))
 
-        # 如果原價 <= 現價，清空原價
+        # 折扣金額：「商品已折價$4,001」→ 4001
+        discount_text = r.get("discountText", "")
+        discount_amt = parse_price(discount_text)  # 取出折扣數字
+
+        # 原價 = 現價 + 折扣金額
+        original = ""
         try:
-            if original and current and int(original) <= int(current):
-                original = ""
+            if current and discount_amt:
+                original = str(int(current) + int(discount_amt))
         except Exception:
             pass
 
