@@ -134,6 +134,7 @@ st.markdown("""
 .brand-limited { background: #ff6600; color: #fff; }
 .brand-momo    { background: #e91e8c; color: #fff; }
 .brand-muji    { background: #8b7355; color: #fff; }
+.brand-costco  { background: #005daa; color: #fff; }
 
 /* 頁首 */
 .page-header {
@@ -211,6 +212,12 @@ BRANDS = {
         "json": BASE_DIR / "daily_deals.json",
         "badge_class": "brand-uniqlo",
         "color": "#cc0000",
+        "currency": "NT$",
+    },
+    "Costco 台灣特價": {
+        "json": BASE_DIR / "costco_tw_deals.json",
+        "badge_class": "brand-costco",
+        "color": "#005daa",
         "currency": "NT$",
     },
 }

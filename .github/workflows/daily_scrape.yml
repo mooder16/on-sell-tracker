@@ -47,10 +47,14 @@ jobs:
         run: python scraper_momo_muji.py
         continue-on-error: true
 
+      - name: Run Costco Taiwan scraper (Playwright)
+        run: python scraper_costco_tw.py
+        continue-on-error: true
+
       - name: Commit and push updated data
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add daily_deals.csv daily_deals.json momo_muji_deals.json uniqlo_jp_deals.json uniqlo_jp_limited.json
+          git add daily_deals.csv daily_deals.json momo_muji_deals.json uniqlo_jp_deals.json uniqlo_jp_limited.json costco_tw_deals.json
           git diff --staged --quiet || git commit -m "chore: update daily deals data [$(date +'%Y-%m-%d')]"
           git push
