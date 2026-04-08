@@ -223,7 +223,7 @@ BRANDS = {
 }
 
 
-@st.cache_data(ttl=3600)
+@st.cache_data(ttl=300)
 def load_data(json_path: str):
     p = Path(json_path)
     if not p.exists():
