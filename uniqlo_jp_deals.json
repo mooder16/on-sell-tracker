@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-04-08 06:09:06",
-  "total": 76,
+  "scraped_at": "2026-04-08 11:34:24",
+  "total": 75,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -126,6 +126,16 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "外套",
+      "商品名稱": "ポケッタブルUVカットパーカ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/474175/item/jpgoods_02_474175_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E474175-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "外套",
       "商品名稱": "ウインドプルーフショートパーカ",
       "現價": "2990",
       "原價": "",
@@ -160,7 +170,7 @@
       "現價": "6990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483037/item/jpgoods_58_483037_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483037/item/jpgoods_34_483037_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483037-000/00"
     },
     {
@@ -645,6 +655,16 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "UTGP2025 x テート・モダン UT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481512/item/jpgoods_01_481512_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481512-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "スーピマコットンクルーネックTシャツ",
       "現價": "1990",
@@ -652,6 +672,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/455365/item/jpgoods_12_455365_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E455365-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "UTGP2025 x テート・モダン UT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481514/item/jpgoods_08_481514_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481514-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -722,46 +752,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475377/item/jpgoods_11_475377_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E475377-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "クルーネックTシャツ",
-      "現價": "1500",
-      "原價": "1500",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/422992/item/jpgoods_23_422992_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E422992-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "サンリオキャラクターズ UT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480677/item/goods_11_480677_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E480677-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "サンリオキャラクターズ UT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480678/item/goods_69_480678_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E480678-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "サンリオキャラクターズ UT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480676/item/goods_03_480676_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E480676-000/00"
     }
   ]
 }
