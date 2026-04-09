@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-04-08 22:08:37",
-  "total": 175,
+  "scraped_at": "2026-04-09 06:06:54",
+  "total": 174,
   "products": [
     {
       "分類": "外套",
@@ -572,14 +572,6 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052523"
     },
     {
-      "分類": "上衣",
-      "商品名稱": "DRY多色圓領T恤(短袖)",
-      "現價": "99",
-      "原價": "190",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052423/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052423"
-    },
-    {
       "分類": "其他",
       "商品名稱": "DRY網眼POLO衫(短袖) 465194",
       "現價": "390",
@@ -911,7 +903,7 @@
       "分類": "褲子",
       "商品名稱": "防潑水多口袋機能長褲",
       "現價": "990",
-      "原價": "790",
+      "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054066/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054066"
     },
