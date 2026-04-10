@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-04-10 11:15:02",
+  "scraped_at": "2026-04-10 14:44:05",
   "total": 77,
   "products": [
     {
@@ -362,16 +362,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/467194/item/goods_69_467194_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E467194-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "外套",
-      "商品名稱": "ステンカラーショートコートリラックスフィット",
-      "現價": "7990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484968/item/jpgoods_09_484968_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484968-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -772,6 +762,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480676/item/goods_03_480676_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E480676-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "チェンソーマン UT/リラックスフィット",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/474439/item/jpgoods_00_474439_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E474439-000/00"
     }
   ]
 }
