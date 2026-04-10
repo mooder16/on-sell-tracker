@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-04-10 06:20:00",
-  "total": 178,
+  "scraped_at": "2026-04-10 11:14:29",
+  "total": 176,
   "products": [
     {
       "分類": "外套",
@@ -885,11 +885,11 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "燈芯絨工裝長褲",
-      "現價": "590",
+      "商品名稱": "直筒牛仔褲 476209",
+      "現價": "490",
       "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052321/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052321"
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053184/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053184"
     },
     {
       "分類": "褲子",
@@ -1204,14 +1204,6 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054031"
     },
     {
-      "分類": "其他",
-      "商品名稱": "無鋼圈美型胸罩(舒適)(肩帶可調節) 473914 / 469665",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051577/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051577"
-    },
-    {
       "分類": "褲子",
       "商品名稱": "中腰內褲(櫻桃)",
       "現價": "99",
@@ -1234,14 +1226,6 @@
       "原價": "890",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054048/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054048"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "無鋼圈美型胸罩(3D包覆) 469664",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053217/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053217"
     },
     {
       "分類": "褲子",
@@ -1365,19 +1349,19 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "PEANUTS UT印花T恤(短袖)",
-      "現價": "290",
-      "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051879/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051879"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "泡泡瑪特 UT印花T恤(短袖)",
       "現價": "290",
       "原價": "490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051894/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051894"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "PEANUTS UT印花T恤(短袖)",
+      "現價": "290",
+      "原價": "490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051874/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051874"
     },
     {
       "分類": "上衣",

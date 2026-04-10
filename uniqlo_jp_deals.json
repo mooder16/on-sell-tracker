@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-04-10 06:20:34",
-  "total": 75,
+  "scraped_at": "2026-04-10 11:15:02",
+  "total": 77,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -366,6 +366,16 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "外套",
+      "商品名稱": "ステンカラーショートコートリラックスフィット",
+      "現價": "7990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484968/item/jpgoods_09_484968_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484968-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "外套",
       "商品名稱": "ロングコート",
       "現價": "5990",
       "原價": "",
@@ -616,16 +626,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
-      "商品名稱": "エアリズムコットンクルーネックTシャツ",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465193/item/jpgoods_11_465193_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465193-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
       "商品名稱": "長場雄 スウェットシャツ",
       "現價": "1990",
       "原價": "",
@@ -752,6 +752,26 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480677/item/goods_11_480677_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E480677-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "サンリオキャラクターズ UT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480678/item/goods_69_480678_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E480678-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "サンリオキャラクターズ UT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480676/item/goods_03_480676_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E480676-000/00"
     }
   ]
 }
