@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-04-10 14:44:05",
+  "scraped_at": "2026-04-10 18:10:13",
   "total": 77,
   "products": [
     {
@@ -302,16 +302,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477099/item/goods_69_477099_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E477099-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "外套",
-      "商品名稱": "感動ジャケット/XLサイズ",
-      "現價": "5990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477098/item/goods_31_477098_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E477098-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -772,6 +762,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/474439/item/jpgoods_00_474439_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E474439-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "マジック フォー オール タイムレス UT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481307/item/jpgoods_08_481307_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481307-000/00"
     }
   ]
 }
