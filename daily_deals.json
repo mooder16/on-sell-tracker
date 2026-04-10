@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-04-09 22:03:02",
-  "total": 175,
+  "scraped_at": "2026-04-10 06:20:00",
+  "total": 178,
   "products": [
     {
       "分類": "外套",
@@ -797,6 +797,14 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "防潑水多口袋機能長褲 479382 / 481269 / 482919",
+      "現價": "1290",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052885/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052885"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "直筒牛仔寬褲(稍長) 479001",
       "現價": "490",
       "原價": "1290",
@@ -1196,6 +1204,14 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054031"
     },
     {
+      "分類": "其他",
+      "商品名稱": "無鋼圈美型胸罩(舒適)(肩帶可調節) 473914 / 469665",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051577/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051577"
+    },
+    {
       "分類": "褲子",
       "商品名稱": "中腰內褲(櫻桃)",
       "現價": "99",
@@ -1218,6 +1234,14 @@
       "原價": "890",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054048/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054048"
+    },
+    {
+      "分類": "其他",
+      "商品名稱": "無鋼圈美型胸罩(3D包覆) 469664",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053217/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053217"
     },
     {
       "分類": "褲子",
