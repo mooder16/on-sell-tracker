@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-04-10 21:57:31",
-  "total": 171,
+  "scraped_at": "2026-04-11 05:19:56",
+  "total": 168,
   "products": [
     {
       "分類": "外套",
@@ -165,14 +165,6 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "防風立領布勞森外套 474894",
-      "現價": "790",
-      "原價": "1690",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051530/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051530"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "單排釦短大衣",
       "現價": "1990",
       "原價": "2490",
@@ -322,14 +314,6 @@
       "原價": "3490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052811/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052811"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "喀什米爾圓領短版開襟外套(長袖)",
-      "現價": "1990",
-      "原價": "2990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052491/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052491"
     },
     {
       "分類": "上衣",
@@ -850,14 +834,6 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052331/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052331"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "休閒寬褲 479620",
-      "現價": "490",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050611/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050611"
     },
     {
       "分類": "褲子",
