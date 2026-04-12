@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-04-12 14:11:55",
+  "scraped_at": "2026-04-12 17:55:11",
   "total": 77,
   "products": [
     {
@@ -506,16 +506,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "ボーダーT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487764/item/jpgoods_01_487764_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487764-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "リブハイネックT/長袖",
       "現價": "990",
       "原價": "",
@@ -772,6 +762,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480170/item/goods_01_480170_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E480170-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "和柄 (アニマルズ) UT/ショート丈",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480169/item/goods_64_480169_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E480169-000/00"
     }
   ]
 }

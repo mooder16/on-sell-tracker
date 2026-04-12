@@ -1,16 +1,8 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-04-12 14:11:23",
+  "scraped_at": "2026-04-12 17:54:38",
   "total": 165,
   "products": [
-    {
-      "分類": "外套",
-      "商品名稱": "PUFFTECH 輕暖科技連帽外套",
-      "現價": "1290",
-      "原價": "1990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053749/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053749"
-    },
     {
       "分類": "外套",
       "商品名稱": "可攜式防曬連帽外套 474175",
@@ -18,6 +10,14 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051630/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051630"
+    },
+    {
+      "分類": "外套",
+      "商品名稱": "PUFFTECH 輕暖科技連帽外套",
+      "現價": "1290",
+      "原價": "1990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053749/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053749"
     },
     {
       "分類": "外套",
@@ -53,6 +53,14 @@
     },
     {
       "分類": "外套",
+      "商品名稱": "西裝外套",
+      "現價": "1990",
+      "原價": "2990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053571/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053571"
+    },
+    {
+      "分類": "外套",
       "商品名稱": "風衣外套",
       "現價": "2990",
       "原價": "3490",
@@ -66,14 +74,6 @@
       "原價": "3490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052104/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052104"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "西裝外套",
-      "現價": "1990",
-      "原價": "2990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053571/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053571"
     },
     {
       "分類": "外套",
@@ -109,19 +109,19 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "防風連帽外套",
-      "現價": "1290",
-      "原價": "1690",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053535/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053535"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "工裝外套(牛仔)",
       "現價": "1290",
       "原價": "1690",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053694/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053694"
+    },
+    {
+      "分類": "外套",
+      "商品名稱": "防風連帽外套",
+      "現價": "1290",
+      "原價": "1690",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053535/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053535"
     },
     {
       "分類": "外套",
@@ -133,19 +133,19 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "無縫羽絨短大衣",
-      "現價": "2990",
-      "原價": "4990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052312/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052312"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "亞麻混紡外套",
       "現價": "1290",
       "原價": "1490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053466/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053466"
+    },
+    {
+      "分類": "外套",
+      "商品名稱": "無縫羽絨短大衣",
+      "現價": "2990",
+      "原價": "4990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052312/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052312"
     },
     {
       "分類": "外套",
@@ -180,20 +180,20 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051257"
     },
     {
-      "分類": "上衣",
-      "商品名稱": "PUFFTECH 輕暖科技背心",
-      "現價": "790",
-      "原價": "1490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052365/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052365"
-    },
-    {
       "分類": "外套",
       "商品名稱": "Peanuts 教練外套",
       "現價": "990",
       "原價": "1690",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053667/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053667"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "PUFFTECH 輕暖科技背心",
+      "現價": "790",
+      "原價": "1490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052365/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052365"
     },
     {
       "分類": "外套",
@@ -653,19 +653,19 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "府綢寬版襯衫(長袖)",
-      "現價": "990",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053611/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053611"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "牛津格紋寬版襯衫(長袖)",
       "現價": "590",
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053150/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053150"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "府綢寬版襯衫(長袖)",
+      "現價": "990",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053611/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053611"
     },
     {
       "分類": "上衣",
@@ -686,10 +686,10 @@
     {
       "分類": "上衣",
       "商品名稱": "府綢寬版襯衫(長袖)(條紋)",
-      "現價": "790",
+      "現價": "990",
       "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050462/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050462"
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053520/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053520"
     },
     {
       "分類": "上衣",
@@ -1012,20 +1012,20 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051836"
     },
     {
-      "分類": "上衣",
-      "商品名稱": "針織短洋裝",
-      "現價": "790",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052197/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052197"
-    },
-    {
       "分類": "洋裝",
       "商品名稱": "削肩BRATOP洋裝(無袖)(條紋)",
       "現價": "590",
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050930/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050930"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "針織短洋裝",
+      "現價": "790",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052197/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052197"
     },
     {
       "分類": "洋裝",
@@ -1085,19 +1085,19 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "HEATTECH U領T恤(8分袖) 478934 / 460349 / 472364",
-      "現價": "390",
-      "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000020076/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000020076"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "HEATTECH極暖 喀什米爾混紡高領T恤(長袖)",
       "現價": "490",
       "原價": "690",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053971/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053971"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "HEATTECH U領T恤(8分袖) 478934 / 460349 / 472364",
+      "現價": "390",
+      "原價": "490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000020076/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000020076"
     },
     {
       "分類": "上衣",
@@ -1117,14 +1117,6 @@
     },
     {
       "分類": "其他",
-      "商品名稱": "無鋼圈美型胸罩(裸感舒適)",
-      "現價": "590",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054046/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054046"
-    },
-    {
-      "分類": "其他",
       "商品名稱": "無鋼圈美型胸罩(3D包覆)",
       "現價": "390",
       "原價": "790",
@@ -1140,6 +1132,14 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051943"
     },
     {
+      "分類": "其他",
+      "商品名稱": "無鋼圈美型胸罩(裸感舒適)",
+      "現價": "590",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054046/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054046"
+    },
+    {
       "分類": "上衣",
       "商品名稱": "HEATTECH超極暖圓領T恤(長袖) 469756",
       "現價": "590",
@@ -1148,12 +1148,12 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054048"
     },
     {
-      "分類": "上衣",
-      "商品名稱": "HEATTECH 圓領T恤(長袖) 469742",
-      "現價": "390",
-      "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053848/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053848"
+      "分類": "褲子",
+      "商品名稱": "低腰內褲",
+      "現價": "99",
+      "原價": "190",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053358/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053358"
     },
     {
       "分類": "其他",
@@ -1164,12 +1164,12 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051570"
     },
     {
-      "分類": "褲子",
-      "商品名稱": "低腰內褲",
-      "現價": "99",
-      "原價": "190",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053358/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053358"
+      "分類": "上衣",
+      "商品名稱": "HEATTECH 圓領T恤(長袖) 469742",
+      "現價": "390",
+      "原價": "490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053848/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053848"
     },
     {
       "分類": "褲子",
@@ -1213,19 +1213,19 @@
     },
     {
       "分類": "其他",
-      "商品名稱": "運動鞋",
-      "現價": "590",
-      "原價": "1990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052585/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052585"
-    },
-    {
-      "分類": "其他",
       "商品名稱": "捲蓋後背包",
       "現價": "1290",
       "原價": "1490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053754/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053754"
+    },
+    {
+      "分類": "其他",
+      "商品名稱": "運動鞋",
+      "現價": "590",
+      "原價": "1990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052585/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052585"
     },
     {
       "分類": "其他",
@@ -1269,19 +1269,19 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "PEANUTS UT印花T恤(短袖)",
-      "現價": "290",
-      "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051874/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051874"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "TOY STORY UT印花T恤(短袖)",
       "現價": "290",
       "原價": "490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051682/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051682"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "PEANUTS UT印花T恤(短袖)",
+      "現價": "290",
+      "原價": "490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051874/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051874"
     },
     {
       "分類": "上衣",
