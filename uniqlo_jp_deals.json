@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-04-12 06:12:34",
-  "total": 77,
+  "scraped_at": "2026-04-12 10:09:56",
+  "total": 76,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -756,22 +756,12 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "矢沢あいコレクション UT",
-      "現價": "790",
+      "商品名稱": "マジック フォー オール タイムレス UT",
+      "現價": "990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480167/item/goods_00_480167_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E480167-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "矢沢あいコレクション UT",
-      "現價": "790",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475530/item/goods_30_475530_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475530-000/00"
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/480191/item/jpgoods_00_480191_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E480191-000/00"
     }
   ]
 }
