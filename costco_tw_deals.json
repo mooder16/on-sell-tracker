@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-04-13 12:00:23",
+  "scraped_at": "2026-04-13 16:44:05",
   "total": 56,
   "products": [
     {
@@ -162,16 +162,6 @@
       "原價": "599",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hfb/h33/14323128303646.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Virtues-Worship-Malt-Drink-500-ml-X-18-Can/p/206346"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Nature's Earthy Choice 奇亞籽 鼠尾草籽 907公克",
-      "現價": "254",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h82/had/65979074871326.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/NatureS-Earthy-Choice-Chia-907-g/p/582057"
     },
     {
       "品牌": "Costco 台灣",
@@ -466,22 +456,32 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Hape 豪華廚房 / 3歲以上",
-      "現價": "1335",
-      "原價": "1675",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h6a/h2f/263832553652254.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Dolls-Pretend-Play/Hape-Luxury-Kitchen-Set-Ages-3-and-Up/p/145964"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "美妝保養",
       "商品名稱": "MISSHA 嫩膚基底精華水 150毫升 X 1入 + 30毫升 X 3入",
       "現價": "459",
       "原價": "579",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he8/h9c/398742112043038.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Skin-Care/MISSHA-The-First-Essence-150ml-X-1-Pack-30-ml-X-3-Pack/p/676165"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "Blendtec Classic 食物調理機 ES3 附Wildside+容杯",
+      "現價": "12199",
+      "原價": "15599",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb4/h40/13264801660958.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Coffee-Machines-Blenders-Juicers/Blendtec-Classic-Total-Blender-ES3-with-Wildside-Jar/p/117729"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "Webber Naturals 綜合消化酵素咀嚼片 270片",
+      "現價": "304",
+      "原價": "379",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd3/hd4/272954706001950.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Webber-Naturals-Smooth-Digest-Chewable-Papaya-Enzyme-270-Tablet/p/112987"
     },
     {
       "品牌": "Costco 台灣",
