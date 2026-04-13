@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-04-13 16:41:25",
-  "total": 163,
+  "scraped_at": "2026-04-13 22:31:49",
+  "total": 161,
   "products": [
     {
       "分類": "外套",
@@ -202,14 +202,6 @@
       "原價": "1490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053459/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053459"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "無縫羽絨短版外套",
-      "現價": "2490",
-      "原價": "3490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052499/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052499"
     },
     {
       "分類": "外套",
@@ -922,14 +914,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053985/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053985"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "棉質舒適九分褲(牛仔) 478995",
-      "現價": "490",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050135/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050135"
     },
     {
       "分類": "褲子",
