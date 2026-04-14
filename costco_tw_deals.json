@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-04-14 06:22:50",
+  "scraped_at": "2026-04-14 11:44:34",
   "total": 56,
   "products": [
     {
@@ -116,16 +116,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "清潔",
-      "商品名稱": "NUDY RUDY 澳洲香皂沐浴保養 5 件組",
-      "現價": "399",
-      "原價": "999",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hba/h26/402145146634270.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/NUDY-RUDY-Body-Care-Gift-Set/p/153329"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "喜年來 原味蛋捲 72公克 X 20入",
       "現價": "369",
@@ -152,16 +142,6 @@
       "原價": "359",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha1/h1c/138087515095070.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Cadina-Popped-Green-Pea-Chips-Original-Flavor-80-g-X-10-Pack/p/138245"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "Monbana 巧克力法蘭酥 11 克 X60 入 / 共 660 克",
-      "現價": "355",
-      "原價": "435",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h7d/hdc/114625970896926.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Monbana-Chocolate-French-Gaufrettes-11g-X-60-Pack/p/136250"
     },
     {
       "品牌": "Costco 台灣",
@@ -282,16 +262,6 @@
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdb/h6f/168536164925470.jpg",
       "商品連結": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Grains-Nuts-Snacks/Viva-Dry-Roasted-Trail-Mix-42-g-X-20-Count-X-4-Pack/p/235812"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "康寶 金黃玉米濃湯 56.3公克 X 10包",
-      "現價": "269",
-      "原價": "339",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h14/h61/383052826312734.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/Knorr-Corn-Soup-Mix-563-g-X-10-Pack/p/215918"
     },
     {
       "品牌": "Costco 台灣",
@@ -482,6 +452,36 @@
       "原價": "439",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf9/h57/420197409194014.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Smiley-World-Ladies-Short-Sleeve-Crew-Neck-Tee/p/1956394"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "易口舒 無糖勁爽薄荷錠 33公克 X 8入",
+      "現價": "369",
+      "原價": "459",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8b/h8c/14720807370782.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Eclipse-Peppermint-33-g-X-8-Count/p/95816"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "Webber Naturals 綜合消化酵素咀嚼片 270片",
+      "現價": "304",
+      "原價": "379",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd3/hd4/272954706001950.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Webber-Naturals-Smooth-Digest-Chewable-Papaya-Enzyme-270-Tablet/p/112987"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "Blendtec Classic 食物調理機 ES3 附Wildside+容杯",
+      "現價": "12199",
+      "原價": "15599",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb4/h40/13264801660958.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Coffee-Machines-Blenders-Juicers/Blendtec-Classic-Total-Blender-ES3-with-Wildside-Jar/p/117729"
     },
     {
       "品牌": "Costco 台灣",
