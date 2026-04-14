@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-04-13 22:34:22",
+  "scraped_at": "2026-04-14 06:22:50",
   "total": 56,
   "products": [
     {
@@ -87,11 +87,11 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "喜年來 原味蛋捲 72公克 X 20入",
-      "現價": "369",
-      "原價": "459",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb1/h1d/70175757565982.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Serena-Egg-Roll-72-g-X-20-Pack/p/78080"
+      "商品名稱": "傳六 什錦豆 730公克",
+      "現價": "345",
+      "原價": "425",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h71/h4a/15916552060958.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Denroku-Japan-Mixed-Salty-Snacks-730-g/p/74561"
     },
     {
       "品牌": "Costco 台灣",
@@ -106,12 +106,32 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "桂格 北海道風味特濃燕麥 42公克 X 48包",
+      "現價": "419",
+      "原價": "519",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf8/h4d/30573424115742.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Extra-Rich-Creamy-Instant-Cereal-42-g-X-48-Count/p/78299"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "清潔",
       "商品名稱": "NUDY RUDY 澳洲香皂沐浴保養 5 件組",
       "現價": "399",
       "原價": "999",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hba/h26/402145146634270.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/NUDY-RUDY-Body-Care-Gift-Set/p/153329"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "喜年來 原味蛋捲 72公克 X 20入",
+      "現價": "369",
+      "原價": "459",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb1/h1d/70175757565982.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Serena-Egg-Roll-72-g-X-20-Pack/p/78080"
     },
     {
       "品牌": "Costco 台灣",
@@ -147,21 +167,21 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "傳六 什錦豆 730公克",
-      "現價": "345",
-      "原價": "425",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h71/h4a/15916552060958.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Denroku-Japan-Mixed-Salty-Snacks-730-g/p/74561"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
       "商品名稱": "崇德發 黑麥汁 500毫升 X 18入",
       "現價": "489",
       "原價": "599",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hfb/h33/14323128303646.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Virtues-Worship-Malt-Drink-500-ml-X-18-Can/p/206346"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "愛之味 豆漿燕麥 340毫升 X 12 入",
+      "現價": "254",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h81/h55/453151100665886.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/AGV-Oat-Soy-Drink-340-ml-X-12-Count/p/973134"
     },
     {
       "品牌": "Costco 台灣",
@@ -172,16 +192,6 @@
       "原價": "389",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf0/h93/380783489974302.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Gao-Duan-Quinoa-Soda-Cracker-80-g-X-10-Pack/p/108586"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "EUTHYMOL 英國百年牙膏禮盒 蜜桃花香 106公克 X 3入 + 擠牙膏器 X 1入",
-      "現價": "559",
-      "原價": "699",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha8/h30/434451310313502.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Oral-Care/EUTHYMOL-Peach-Floral-Scent-Toothpaste-Set-106-g-X-3-Pack-Squeezer-X-1-Pack/p/144975"
     },
     {
       "品牌": "Costco 台灣",
@@ -197,16 +207,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
-      "商品名稱": "百力滋 風味棒餅組 (番茄野菜 & 義式香草烤雞) 12入",
-      "現價": "359",
-      "原價": "439",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h18/h4e/261774607384606.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/PRETZ-Flavors-Stick-Biscuit-Tomato-Vegetable-Herbs-Chicken-12-Pack/p/352414"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
       "商品名稱": "Samlip 法式小麵包蒜香口味 120公克 X 6入",
       "現價": "279",
       "原價": "349",
@@ -216,12 +216,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "愛之味 豆漿燕麥 340毫升 X 12 入",
-      "現價": "254",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h81/h55/453151100665886.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/AGV-Oat-Soy-Drink-340-ml-X-12-Count/p/973134"
+      "分類": "食品",
+      "商品名稱": "百力滋 風味棒餅組 (番茄野菜 & 義式香草烤雞) 12入",
+      "現價": "359",
+      "原價": "439",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h18/h4e/261774607384606.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/PRETZ-Flavors-Stick-Biscuit-Tomato-Vegetable-Herbs-Chicken-12-Pack/p/352414"
     },
     {
       "品牌": "Costco 台灣",
@@ -266,6 +266,36 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "Kewpie 和風醬 1公升",
+      "現價": "179",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd7/hfc/32267461328926.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kewpie-Wasabi-Dressing-1-L/p/167117"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "萬歲牌 總匯點心包 42公克 X 20包 X 4盒",
+      "現價": "1789",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdb/h6f/168536164925470.jpg",
+      "商品連結": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Grains-Nuts-Snacks/Viva-Dry-Roasted-Trail-Mix-42-g-X-20-Count-X-4-Pack/p/235812"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "康寶 金黃玉米濃湯 56.3公克 X 10包",
+      "現價": "269",
+      "原價": "339",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h14/h61/383052826312734.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/Knorr-Corn-Soup-Mix-563-g-X-10-Pack/p/215918"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "得意的一天 芋頭燕麥椰奶露 750公克 X 3包",
       "現價": "339",
@@ -286,42 +316,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "康寶 金黃玉米濃湯 56.3公克 X 10包",
-      "現價": "269",
-      "原價": "339",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h14/h61/383052826312734.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/Knorr-Corn-Soup-Mix-563-g-X-10-Pack/p/215918"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Adidas 女短襪 六入組 S (22-24CM)",
-      "現價": "299",
-      "原價": "379",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8a/h4f/419358406115358.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Adidas-Ladies-Ankle-Sock-6-Pack-Set-S-22-24CM/p/217882"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "服飾",
       "商品名稱": "DKNY Jeans 女 Logo 短袖上衣",
       "現價": "439",
       "原價": "549",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0a/h34/422090885300254.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/DKNY-Jeans-Ladies-Logo-Short-Sleeve-Tee/p/155674"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Jezebel 女有機棉內褲 5入組 M",
-      "現價": "449",
-      "原價": "549",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h88/ha9/350052485922846.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Jezebel-Ladies-Organic-Cotton-Hipster-5-Pack-Set-M/p/148885"
     },
     {
       "品牌": "Costco 台灣",
@@ -337,6 +337,26 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
+      "商品名稱": "Adidas 女短襪 六入組 S (22-24CM)",
+      "現價": "299",
+      "原價": "379",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8a/h4f/419358406115358.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Adidas-Ladies-Ankle-Sock-6-Pack-Set-S-22-24CM/p/217882"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Jezebel 女有機棉內褲 5入組 M",
+      "現價": "449",
+      "原價": "549",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h88/ha9/350052485922846.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Jezebel-Ladies-Organic-Cotton-Hipster-5-Pack-Set-M/p/148885"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
       "商品名稱": "Max & Mia 女無袖連身洋裝",
       "現價": "959",
       "原價": "1199",
@@ -346,12 +366,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "Kewpie 和風醬 1公升",
-      "現價": "179",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd7/hfc/32267461328926.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kewpie-Wasabi-Dressing-1-L/p/167117"
+      "分類": "服飾",
+      "商品名稱": "滿意寶寶 瞬潔乾爽紙尿褲 XL號 168片",
+      "現價": "1079",
+      "原價": "1349",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h52/h11/333077032927262.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Baby-Extra-Dry-Size-XL-168-Piece/p/338030"
     },
     {
       "品牌": "Costco 台灣",
@@ -367,21 +387,11 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "服飾",
-      "商品名稱": "滿意寶寶 瞬潔乾爽紙尿褲 XL號 168片",
-      "現價": "1079",
-      "原價": "1349",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h52/h11/333077032927262.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Baby-Extra-Dry-Size-XL-168-Piece/p/338030"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "萬歲牌 總匯點心包 42公克 X 20包 X 4盒",
-      "現價": "1789",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdb/h6f/168536164925470.jpg",
-      "商品連結": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Grains-Nuts-Snacks/Viva-Dry-Roasted-Trail-Mix-42-g-X-20-Count-X-4-Pack/p/235812"
+      "商品名稱": "Jezebel 女有機棉內褲 5入組 XXL",
+      "現價": "449",
+      "原價": "549",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb7/hee/350052573839390.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Jezebel-Ladies-Organic-Cotton-Hipster-5-Pack-Set-XLL/p/148888"
     },
     {
       "品牌": "Costco 台灣",
@@ -392,16 +402,6 @@
       "原價": "559",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hbb/hee/155914473308190.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Meiji-Panda-Biscuit-Assortment-35-g-X-36-Pack/p/89590"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Jezebel 女有機棉內褲 5入組 XXL",
-      "現價": "449",
-      "原價": "549",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb7/hee/350052573839390.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Jezebel-Ladies-Organic-Cotton-Hipster-5-Pack-Set-XLL/p/148888"
     },
     {
       "品牌": "Costco 台灣",
@@ -436,12 +436,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "易口舒 無糖勁爽薄荷錠 33公克 X 8入",
-      "現價": "369",
-      "原價": "459",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8b/h8c/14720807370782.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Eclipse-Peppermint-33-g-X-8-Count/p/95816"
+      "分類": "美妝保養",
+      "商品名稱": "MISSHA 嫩膚基底精華水 150毫升 X 1入 + 30毫升 X 3入",
+      "現價": "459",
+      "原價": "579",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he8/h9c/398742112043038.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Skin-Care/MISSHA-The-First-Essence-150ml-X-1-Pack-30-ml-X-3-Pack/p/676165"
     },
     {
       "品牌": "Costco 台灣",
@@ -456,32 +456,32 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "美妝保養",
-      "商品名稱": "MISSHA 嫩膚基底精華水 150毫升 X 1入 + 30毫升 X 3入",
-      "現價": "459",
-      "原價": "579",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he8/h9c/398742112043038.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Skin-Care/MISSHA-The-First-Essence-150ml-X-1-Pack-30-ml-X-3-Pack/p/676165"
+      "分類": "其他",
+      "商品名稱": "Hape 豪華廚房 / 3歲以上",
+      "現價": "1335",
+      "原價": "1675",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h6a/h2f/263832553652254.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Dolls-Pretend-Play/Hape-Luxury-Kitchen-Set-Ages-3-and-Up/p/145964"
     },
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Blendtec Classic 食物調理機 ES3 附Wildside+容杯",
-      "現價": "12199",
-      "原價": "15599",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb4/h40/13264801660958.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Coffee-Machines-Blenders-Juicers/Blendtec-Classic-Total-Blender-ES3-with-Wildside-Jar/p/117729"
+      "分類": "服飾",
+      "商品名稱": "滿意寶寶 瞬潔乾爽紙尿褲 XXL號 120片",
+      "現價": "1079",
+      "原價": "1349",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h27/hf1/151586407383070.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Baby-Extra-Dry-Diaper-Size-XXL-120-Piece/p/140350"
     },
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Webber Naturals 綜合消化酵素咀嚼片 270片",
-      "現價": "304",
-      "原價": "379",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd3/hd4/272954706001950.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Webber-Naturals-Smooth-Digest-Chewable-Papaya-Enzyme-270-Tablet/p/112987"
+      "分類": "服飾",
+      "商品名稱": "Smiley World 女短袖圓領上衣",
+      "現價": "349",
+      "原價": "439",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf9/h57/420197409194014.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Smiley-World-Ladies-Short-Sleeve-Crew-Neck-Tee/p/1956394"
     },
     {
       "品牌": "Costco 台灣",
