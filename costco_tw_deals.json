@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-04-15 06:24:24",
+  "scraped_at": "2026-04-15 11:39:58",
   "total": 56,
   "products": [
     {
@@ -72,16 +72,6 @@
       "原價": "799",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h28/h0b/379898465910814.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Coats-Jackets/Kirkland-Signature-Ladies-Hoodie-Jacket/p/7771776"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Nature's Earthy Choice 奇亞籽 鼠尾草籽 907公克",
-      "現價": "254",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h82/had/65979074871326.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/NatureS-Earthy-Choice-Chia-907-g/p/582057"
     },
     {
       "品牌": "Costco 台灣",
@@ -421,7 +411,7 @@
       "現價": "949",
       "原價": "1229",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h89/hdc/378303912312862.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Skin-Care/sum37-Secret-Essence-Advanced-Treatment-80-ml-30-ml/p/679727"
+      "商品連結": "https://www.costco.com.tw/p/679727"
     },
     {
       "品牌": "Costco 台灣",
@@ -482,6 +472,16 @@
       "原價": "2849",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/heb/h87/27344289792030.jpg",
       "商品連結": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/Dachan-Taiwan-Frozen-Chicken-Tenderloin-27-kg-X-5-Pack/p/126799"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "Pocky Limited Edition 百奇冬季嚴選雙享組 268.2公克 / 6盒入",
+      "現價": "349",
+      "原價": "429",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h75/h9c/397423285010462.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Pocky-Winter-Limited-Edition-2682-g-6-Pack/p/337561"
     },
     {
       "品牌": "Costco 台灣",
