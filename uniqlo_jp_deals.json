@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-04-15 15:56:13",
-  "total": 84,
+  "scraped_at": "2026-04-15 19:56:49",
+  "total": 83,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -152,16 +152,6 @@
       "截止日期": "4/16まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487839/item/jpgoods_31_487839_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487839-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ボーダーT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "4/16まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487764/item/jpgoods_09_487764_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487764-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -475,16 +465,6 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "スウェットシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "4/16まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475377/item/jpgoods_11_475377_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475377-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "サンリオキャラクターズ UT",
       "現價": "990",
@@ -642,16 +622,6 @@
       "截止日期": "4/16まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/474439/item/jpgoods_00_474439_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E474439-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "マジック フォー オール タイムレス UT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "4/16まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481307/item/jpgoods_08_481307_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481307-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -842,6 +812,26 @@
       "截止日期": "4/16まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465707/item/jpgoods_12_465707_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E465707-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "エアリズムブラタンクトップ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "4/16まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/473979/item/goods_61_473979_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E473979-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "內搭",
+      "商品名稱": "レーサーバックブラトップ",
+      "現價": "2490",
+      "原價": "2490",
+      "截止日期": "4/16まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484830/item/jpgoods_00_484830_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484830-000/00"
     }
   ]
 }
