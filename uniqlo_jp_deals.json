@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-04-15 19:56:49",
+  "scraped_at": "2026-04-15 22:28:51",
   "total": 83,
   "products": [
     {
@@ -416,16 +416,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "ピーナッツ UT/オーバーサイズフィット",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "4/16まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/479713/item/jpgoods_03_479713_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479713-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "マンガキュレーション UT/ベルセルク/リラックス",
       "現價": "990",
       "原價": "",
@@ -832,6 +822,16 @@
       "截止日期": "4/16まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484830/item/jpgoods_00_484830_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484830-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "內搭",
+      "商品名稱": "リブブラトップ/アメリカンスリーブ",
+      "現價": "2490",
+      "原價": "2490",
+      "截止日期": "4/16まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482198/item/jpgoods_58_482198_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482198-000/00"
     }
   ]
 }
