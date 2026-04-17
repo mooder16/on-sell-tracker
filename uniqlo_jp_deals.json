@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-04-17 11:16:48",
-  "total": 81,
+  "scraped_at": "2026-04-17 15:42:10",
+  "total": 82,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -126,32 +126,12 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "ソフトリブT/長袖/ラグラン",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/476855/item/jpgoods_69_476855_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E476855-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "ミニT",
       "現價": "990",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487839/item/jpgoods_31_487839_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487839-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ボーダーT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487764/item/jpgoods_01_487764_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487764-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -320,16 +300,6 @@
       "現價": "1290",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484358/item/jpgoods_00_484358_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484358-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ズートピア UT",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485255/item/jpgoods_67_485255_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485255-000/00"
     },
@@ -462,16 +432,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480678/item/goods_69_480678_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E480678-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "サンリオキャラクターズ UT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480676/item/goods_03_480676_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E480676-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -666,16 +626,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "ピーナッツ UT/オーバーサイズフィット",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475746/item/goods_30_475746_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475746-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "ジャン＝ミシェル・バスキア UT/リラックスフィット",
       "現價": "1290",
       "原價": "",
@@ -812,6 +762,66 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482198/item/jpgoods_58_482198_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482198-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "內搭",
+      "商品名稱": "リブブラトップ/アメリカンスリーブ",
+      "現價": "2490",
+      "原價": "2490",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/473986/item/goods_00_473986_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E473986-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ホルターネックブラタンクトップ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/473990/item/goods_31_473990_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E473990-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ホルターネックブラタンクトップ",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/470938/item/goods_09_470938_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E470938-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "內搭",
+      "商品名稱": "エアリズムコットンブラチューブトップ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479089/item/goods_00_479089_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479089-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "洋裝",
+      "商品名稱": "エアリズムコットンブラワンピース/半袖",
+      "現價": "2990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/474066/item/goods_10_474066_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E474066-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "スウェットハーフジップシャツ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484154/item/jpgoods_24_484154_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484154-000/00"
     }
   ]
 }
