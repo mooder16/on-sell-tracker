@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-04-18 17:56:10",
+  "scraped_at": "2026-04-18 21:53:03",
   "total": 82,
   "products": [
     {
@@ -620,6 +620,16 @@
       "現價": "1290",
       "原價": "",
       "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477293/item/goods_08_477293_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E477293-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ジャン＝ミシェル・バスキア UT/リラックスフィット",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477292/item/goods_00_477292_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E477292-000/00"
     },
@@ -812,16 +822,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482743/item/jpgoods_01_482743_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482743-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ピーナッツ スウェットシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485028/item/jpgoods_69_485028_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485028-000/00"
     }
   ]
 }
