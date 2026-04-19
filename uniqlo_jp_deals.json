@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-04-19 10:10:07",
+  "scraped_at": "2026-04-19 14:26:06",
   "total": 82,
   "products": [
     {
@@ -122,16 +122,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484795/item/jpgoods_67_484795_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484795-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ソフトリブクルーネックT/長袖",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465751/item/jpgoods_40_465751_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465751-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -372,16 +362,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482777/item/jpgoods_09_482777_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482777-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "スーピマコットンクルーネックTシャツ",
-      "現價": "1990",
-      "原價": "1990",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/455365/item/jpgoods_12_455365_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E455365-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -715,16 +695,6 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
-      "分類": "內搭",
-      "商品名稱": "エアリズムブラキャミソール",
-      "現價": "2490",
-      "原價": "2490",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465707/item/jpgoods_12_465707_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465707-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "エアリズムブラタンクトップ",
       "現價": "1990",
@@ -820,8 +790,38 @@
       "現價": "2990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475380/item/jpgoods_11_475380_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475380/item/jpgoods_31_475380_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E475380-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ピーナッツ スウェットシャツ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482743/item/jpgoods_01_482743_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482743-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ピーナッツ スウェットシャツ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485028/item/jpgoods_69_485028_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485028-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "POP MART ハーフジップスウェットシャツ",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488023/item/jpgoods_01_488023_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488023-000/00"
     }
   ]
 }
