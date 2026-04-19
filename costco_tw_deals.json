@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-04-19 06:21:09",
+  "scraped_at": "2026-04-19 10:12:10",
   "total": 56,
   "products": [
     {
@@ -232,16 +232,6 @@
       "原價": "999",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4d/hc1/206032629301278.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Sports-Performance/Premier-Protein-Milk-Protein-Drink-Chocolate-Flavor-325-ml-X-12-Pack/p/1454974"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "清潔",
-      "商品名稱": "Villa Flora 洗手液 636毫升 X 4入",
-      "現價": "409",
-      "原價": "519",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h33/hde/363590607306782.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Facial-Cleansers-Hand-Washes/Villa-Flora-Hand-Soap-636-ml-X-4-Pack/p/150904"
     },
     {
       "品牌": "Costco 台灣",
@@ -482,6 +472,16 @@
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h2b/h75/84575320932382.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Skin-Care/Neutrogena-Hydro-Boost-Mask-60-Piece/p/224704"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "3C",
+      "商品名稱": "Acer Nitro 27吋 電競曲面螢幕 ED270 P0",
+      "現價": "2799",
+      "原價": "3499",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5b/h04/386020451975198.jpg",
+      "商品連結": "https://www.costco.com.tw/Digital-Mobile/Laptops-Computers/Monitors/Acer-Nitro-27-inch-Gaming-Curved-Monitor-ED270-P0/p/156545"
     },
     {
       "品牌": "Costco 台灣",
