@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-04-20 12:01:01",
+  "scraped_at": "2026-04-20 16:23:44",
   "total": 56,
   "products": [
     {
@@ -396,16 +396,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "3C",
-      "商品名稱": "Acer Nitro 27吋 電競曲面螢幕 ED270 P0",
-      "現價": "2799",
-      "原價": "3499",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5b/h04/386020451975198.jpg",
-      "商品連結": "https://www.costco.com.tw/Digital-Mobile/Laptops-Computers/Monitors/Acer-Nitro-27-inch-Gaming-Curved-Monitor-ED270-P0/p/156545"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "美妝保養",
       "商品名稱": "露得清 保濕面膜 60片入",
       "現價": "1259",
@@ -485,13 +475,23 @@
     },
     {
       "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Jezebel 女有機棉內褲 5入組 L",
+      "現價": "449",
+      "原價": "549",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h13/hd1/350052492673054.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Jezebel-Ladies-Organic-Cotton-Hipster-5-Pack-Set-L/p/148886"
+    },
+    {
+      "品牌": "Costco 台灣",
       "來源": "Costco 降價商品",
       "分類": "食品",
       "商品名稱": "科克蘭 鹽烤杏仁 1.13公斤",
       "現價": "469",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h73/hb7/102357830074398.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/1516851"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Dry-Roasted-Almonds-113-kg/p/1516851"
     },
     {
       "品牌": "Costco 台灣",
