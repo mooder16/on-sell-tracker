@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-04-19 21:53:21",
-  "total": 179,
+  "scraped_at": "2026-04-20 07:28:59",
+  "total": 176,
   "products": [
     {
       "分類": "外套",
@@ -588,14 +588,6 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051508"
     },
     {
-      "分類": "上衣",
-      "商品名稱": "短版條紋T恤(短袖) 476248",
-      "現價": "190",
-      "原價": "390",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050583/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050583"
-    },
-    {
       "分類": "其他",
       "商品名稱": "DRY網眼POLO衫(短袖)(滾邊)",
       "現價": "390",
@@ -933,14 +925,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "休閒寬褲 479620",
-      "現價": "490",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050611/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050611"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "休閒直筒長褲(稍長)",
       "現價": "790",
       "原價": "990",
@@ -1018,14 +1002,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053928/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053928"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "特級彈性緊身九分牛仔褲",
-      "現價": "390",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051849/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051849"
     },
     {
       "分類": "褲子",
@@ -1376,8 +1352,8 @@
       "商品名稱": "泡泡瑪特 UT印花T恤(短袖)",
       "現價": "290",
       "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051894/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051894"
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051892/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051892"
     },
     {
       "分類": "上衣",
