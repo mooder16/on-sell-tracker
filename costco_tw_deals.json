@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-04-21 11:47:29",
+  "scraped_at": "2026-04-21 16:22:23",
   "total": 56,
   "products": [
     {
@@ -276,16 +276,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Glad Press’n Seal 強力保鮮膜 3入",
-      "現價": "449",
-      "原價": "549",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h01/h6a/333378103410718.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Food-Preservation/Glad-Pressn-Seal-Plastic-Food-Wraps-3-Count/p/350086"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "Cavendish & Harvey 精裝水果硬糖 三入組 / 575公克",
       "現價": "179",
@@ -482,6 +472,16 @@
       "原價": "329",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h49/he4/379632643866654.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Dish-Detergents/Orange-House-Versatile-Odor-Remover-Powder-1250-g/p/235853"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "Via Emilia 冷凍米粒狀花椰菜 340公克 X 4包",
+      "現價": "245",
+      "原價": "295",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h74/h61/32267456938014.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Fruits-Vegetables/Via-Emilia-Frozen-Riced-Cauliflower-340-g-X-4-Pack/p/126802"
     },
     {
       "品牌": "Costco 台灣",
