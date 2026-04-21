@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-04-21 06:24:59",
+  "scraped_at": "2026-04-21 11:45:26",
   "total": 81,
   "products": [
     {
@@ -152,6 +152,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487839/item/jpgoods_31_487839_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487839-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ボーダーT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487764/item/jpgoods_01_487764_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487764-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -802,16 +812,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475378/item/jpgoods_67_475378_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E475378-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ピーナッツ スウェットシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485028/item/jpgoods_69_485028_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485028-000/00"
     }
   ]
 }
