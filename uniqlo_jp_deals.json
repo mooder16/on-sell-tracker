@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-04-22 06:25:20",
+  "scraped_at": "2026-04-22 11:43:46",
   "total": 81,
   "products": [
     {
@@ -202,16 +202,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/442063/item/jpgoods_32_442063_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E442063-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "クルーネックT",
-      "現價": "1500",
-      "原價": "1500",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/424873/item/jpgoods_10_424873_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E424873-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -606,56 +596,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "ピーナッツ UT/オーバーサイズフィット",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475746/item/goods_30_475746_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475746-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ジャン＝ミシェル・バスキア UT/リラックスフィット",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477292/item/goods_00_477292_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E477292-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ジャン＝ミシェル・バスキア UT/リラックスフィット",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477291/item/goods_01_477291_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E477291-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "アンディ・ウォーホル UT/リラックスフィット",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/474416/item/goods_00_474416_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E474416-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "キース・ヘリング UT/リラックスフィット",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477288/item/goods_00_477288_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E477288-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "ミッフィー UT",
       "現價": "990",
       "原價": "",
@@ -812,6 +752,66 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483285/item/jpgoods_30_483285_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483285-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "スウェットストレートパンツ/丈短め",
+      "現價": "3990",
+      "原價": "3990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/484855/item/goods_30_484855_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484855-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "スウェットストレートパンツ/丈長め",
+      "現價": "3990",
+      "原價": "3990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484854/item/jpgoods_30_484854_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484854-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "スウェットワイドパンツ",
+      "現價": "3990",
+      "原價": "3990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/471809/item/jpgoods_31_471809_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E471809-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "スウェットワイドパンツ",
+      "現價": "2990",
+      "原價": "2990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/479620/item/jpgoods_01_479620_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479620-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "スウェットワイドパンツ/丈短め",
+      "現價": "2990",
+      "原價": "2990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481248/item/jpgoods_01_481248_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481248-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "スウェットワイドパンツ/丈長め",
+      "現價": "2990",
+      "原價": "2990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481249/item/jpgoods_01_481249_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481249-000/00"
     }
   ]
 }
