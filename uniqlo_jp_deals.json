@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-04-21 22:26:45",
+  "scraped_at": "2026-04-22 06:25:20",
   "total": 81,
   "products": [
     {
@@ -245,16 +245,6 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "長場雄 スウェットシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484907/item/jpgoods_03_484907_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484907-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "長場雄 UT/リラックスフィット",
       "現價": "1290",
@@ -262,6 +252,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482754/item/jpgoods_00_482754_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482754-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "長場雄 スウェットシャツ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484907/item/jpgoods_03_484907_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484907-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -426,16 +426,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "サンリオキャラクターズ UT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480676/item/goods_03_480676_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E480676-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "K-POPグループ BABYMONSTER UT/ボクシー",
       "現價": "1290",
       "原價": "",
@@ -556,16 +546,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "チェンソーマン UT/リラックスフィット",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/474439/item/jpgoods_00_474439_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E474439-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "矢沢あいコレクション UT",
       "現價": "790",
       "原價": "",
@@ -622,6 +602,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479226/item/goods_51_479226_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E479226-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ピーナッツ UT/オーバーサイズフィット",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475746/item/goods_30_475746_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475746-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -692,16 +682,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476605/item/goods_00_476605_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E476605-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ポケモン UT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480350/item/goods_09_480350_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E480350-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -812,6 +792,26 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488023/item/jpgoods_01_488023_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E488023-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ピーナッツ スウェットシャツ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481055/item/jpgoods_01_481055_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481055-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "スウェットストレートパンツ",
+      "現價": "3990",
+      "原價": "3990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483285/item/jpgoods_30_483285_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483285-000/00"
     }
   ]
 }
