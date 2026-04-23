@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-04-23 06:28:56",
-  "total": 204,
+  "scraped_at": "2026-04-23 11:44:07",
+  "total": 201,
   "products": [
     {
       "分類": "上衣",
@@ -218,14 +218,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050830/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050830"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "AIRism柔軟短版T恤(短袖) 465762",
-      "現價": "190",
-      "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050864/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050864"
     },
     {
       "分類": "上衣",
@@ -733,14 +725,6 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "防風刷毛雙面連帽外套(長袖)",
-      "現價": "590",
-      "原價": "1490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052451/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052451"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "Peanuts 教練外套",
       "現價": "990",
       "原價": "1690",
@@ -917,6 +901,14 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "褲裙",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051841/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051841"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "棉質短褲",
       "現價": "390",
       "原價": "590",
@@ -938,14 +930,6 @@
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051242/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051242"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "SMART 九分褲",
-      "現價": "390",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052619/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052619"
     },
     {
       "分類": "褲子",
@@ -1122,14 +1106,6 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053753/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053753"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "直筒牛仔寬褲 480742",
-      "現價": "390",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050276/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050276"
     },
     {
       "分類": "褲子",
@@ -1605,6 +1581,14 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "WARNER BROS. MOVIES UT印花T恤(短袖)",
+      "現價": "290",
+      "原價": "490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052157/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052157"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "PEANUTS UT印花T恤(短袖)",
       "現價": "290",
       "原價": "490",
@@ -1626,14 +1610,6 @@
       "原價": "490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051693/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051693"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "WARNER BROS. MOVIES UT印花T恤(短袖)",
-      "現價": "290",
-      "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052154/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052154"
     }
   ]
 }
