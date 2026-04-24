@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-04-24 06:32:55",
+  "scraped_at": "2026-04-24 11:47:41",
   "total": 56,
   "products": [
     {
@@ -102,16 +102,6 @@
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h81/h55/453151100665886.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/AGV-Oat-Soy-Drink-340-ml-X-12-Count/p/973134"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Nature's Earthy Choice 奇亞籽 鼠尾草籽 907公克",
-      "現價": "254",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h82/had/65979074871326.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/NatureS-Earthy-Choice-Chia-907-g/p/582057"
     },
     {
       "品牌": "Costco 台灣",
@@ -306,6 +296,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "3M 文具用透明膠帶 16入 1.8公分 X 40公尺",
+      "現價": "149",
+      "原價": "189",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h05/h45/11953612193822.jpg",
+      "商品連結": "https://www.costco.com.tw/Office-School/Office-Stationary/Tapes-Scissors/3M-Office-Tape-16-Row-18-cm-X-40-m/p/64500"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "大成 台灣冷凍雞里肌肉 2.7公斤 X 5入",
       "現價": "2499",
@@ -322,16 +322,6 @@
       "原價": "429",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h75/h9c/397423285010462.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Pocky-Winter-Limited-Edition-2682-g-6-Pack/p/337561"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "Starbucks 春季限定咖啡豆 1.13公斤",
-      "現價": "835",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hba/h8b/85001690349598.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Starbucks-Spring-Blend-Coffee-Blend-113-kg/p/104660"
     },
     {
       "品牌": "Costco 台灣",
@@ -381,7 +371,7 @@
       "現價": "1259",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h2b/h75/84575320932382.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Skin-Care/Neutrogena-Hydro-Boost-Mask-60-Piece/p/224704"
+      "商品連結": "https://www.costco.com.tw/p/224704"
     },
     {
       "品牌": "Costco 台灣",
@@ -411,7 +401,7 @@
       "現價": "7399",
       "原價": "9269",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h47/he9/101182974197790.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Air-Purifiers-Filters-Accessories/Electrolux-Tailored-Air-Purifier-Pure-A9-PA91-406GY/p/136398"
+      "商品連結": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Air-Purifiers-Filters-Accessories/p/136398"
     },
     {
       "品牌": "Costco 台灣",
@@ -482,6 +472,16 @@
       "原價": "479",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h05/h5b/378303269339166.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Maison-Jacquemart-Starberry-Cookies-936-g/p/146337"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "滿意寶寶 瞬潔乾爽紙尿褲 XXL號 120片",
+      "現價": "1079",
+      "原價": "1349",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h27/hf1/151586407383070.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Baby-Extra-Dry-Diaper-Size-XXL-120-Piece/p/140350"
     },
     {
       "品牌": "Costco 台灣",

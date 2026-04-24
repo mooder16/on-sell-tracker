@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-04-24 06:30:49",
+  "scraped_at": "2026-04-24 11:45:36",
   "total": 79,
   "products": [
     {
@@ -122,6 +122,16 @@
       "截止日期": "4/30まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487839/item/jpgoods_31_487839_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487839-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ボーダーT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "4/30まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487764/item/jpgoods_15_487764_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487764-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -362,16 +372,6 @@
       "截止日期": "4/30まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475380/item/jpgoods_31_475380_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E475380-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ピーナッツ スウェットシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "4/30まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485028/item/jpgoods_69_485028_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485028-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -645,6 +645,26 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "スムースコットンVネックショートカーディガン",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "4/30まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482973/item/jpgoods_30_482973_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482973-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "3Dコットンクルーネックボリュームスリーブセーター",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "4/30まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482974/item/jpgoods_01_482974_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482974-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "3Dコットンクルーネックボリュームスリーブセーター",
       "現價": "1990",
@@ -672,16 +692,6 @@
       "截止日期": "4/30まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/480457/item/jpgoods_09_480457_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E480457-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "カシミヤクルーネックセーター",
-      "現價": "7990",
-      "原價": "",
-      "截止日期": "4/30まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481264/item/jpgoods_26_481264_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481264-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -782,16 +792,6 @@
       "截止日期": "4/30まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485271/item/jpgoods_44_485271_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485271-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "リブクルーネックセーター/長袖",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "4/30まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/479842/item/jpgoods_68_479842_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479842-000/00"
     }
   ]
 }

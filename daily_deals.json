@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-04-24 06:30:18",
-  "total": 199,
+  "scraped_at": "2026-04-24 11:45:02",
+  "total": 201,
   "products": [
     {
       "分類": "上衣",
@@ -165,19 +165,19 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "DRY-EX T恤(短袖)",
+      "現價": "390",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053976/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053976"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "圓領T恤(短袖)",
       "現價": "290",
       "原價": "390",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052958/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052958"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "DRY-EX T恤(短袖)",
-      "現價": "490",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050866/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050866"
     },
     {
       "分類": "上衣",
@@ -341,6 +341,14 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "柔軟針織刷毛圓領T恤(長袖)",
+      "現價": "290",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052400/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052400"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "休閒連帽上衣(長袖) 479798",
       "現價": "590",
       "原價": "1290",
@@ -442,6 +450,14 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052844/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052844"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "3D織法條紋棉質圓領針織衫(長袖)",
+      "現價": "490",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052996/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052996"
     },
     {
       "分類": "上衣",

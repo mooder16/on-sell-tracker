@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-04-24 06:31:20",
+  "scraped_at": "2026-04-24 11:46:07",
   "total": 72,
   "products": [
     {
@@ -526,16 +526,6 @@
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "其他",
-      "商品名稱": "ピーナッツ UT/オーバーサイズフィット",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "4/30まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/479713/item/jpgoods_03_479713_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479713-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
       "商品名稱": "浮世絵 ダークファンタジー UT",
       "現價": "1490",
       "原價": "",
@@ -722,6 +712,16 @@
       "截止日期": "4/30まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484494/item/jpgoods_36_484494_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484494-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "チアフルキャラクターズ/ケアベア/ミニ",
+      "現價": "1490",
+      "原價": "",
+      "截止日期": "4/30まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484491/item/jpgoods_00_484491_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484491-000/00"
     }
   ]
 }
