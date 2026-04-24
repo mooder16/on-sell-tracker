@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-04-23 22:11:49",
+  "scraped_at": "2026-04-24 06:30:49",
   "total": 79,
   "products": [
     {
@@ -706,22 +706,22 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
-      "商品名稱": "コットンリラックスクルーネックセーター",
-      "現價": "5990",
-      "原價": "",
-      "截止日期": "4/30まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484622/item/jpgoods_38_484622_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484622-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
       "商品名稱": "コットンブレンドクロップドクルーネックセーター",
       "現價": "3990",
       "原價": "",
       "截止日期": "4/30まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486314/item/jpgoods_69_486314_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E486314-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "コットンリラックスクルーネックセーター",
+      "現價": "5990",
+      "原價": "",
+      "截止日期": "4/30まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484622/item/jpgoods_38_484622_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484622-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -745,16 +745,6 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ウォッシャブル3Dクルーネックセーター",
-      "現價": "3990",
-      "原價": "3990",
-      "截止日期": "4/30まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482321/item/jpgoods_57_482321_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482321-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "メリノVネックカーディガン",
       "現價": "2990",
@@ -762,6 +752,16 @@
       "截止日期": "4/30まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450540/item/goods_69_450540_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E450540-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ウォッシャブル3Dクルーネックセーター",
+      "現價": "3990",
+      "原價": "3990",
+      "截止日期": "4/30まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482321/item/jpgoods_57_482321_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482321-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
