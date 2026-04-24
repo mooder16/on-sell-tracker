@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-04-24 11:46:07",
+  "scraped_at": "2026-04-24 15:55:10",
   "total": 72,
   "products": [
     {
@@ -316,16 +316,6 @@
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /キン肉マン",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "4/30まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487573/item/jpgoods_09_487573_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487573-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
       "商品名稱": "ピーナッツ UT/リラックスフィット",
       "現價": "1490",
       "原價": "",
@@ -535,16 +525,6 @@
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "浮世絵 ダークファンタジー UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "4/30まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/472195/item/jpgoods_01_472195_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E472195-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
       "分類": "上衣",
       "商品名稱": "クルーネックTシャツ",
       "現價": "990",
@@ -722,6 +702,26 @@
       "截止日期": "4/30まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484491/item/jpgoods_00_484491_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484491-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "チアフルキャラクターズ/ケアベア/ミニ",
+      "現價": "1490",
+      "原價": "",
+      "截止日期": "4/30まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484490/item/jpgoods_07_484490_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484490-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "チアフルキャラクターズ/ケアベア/ミニ",
+      "現價": "1490",
+      "原價": "",
+      "截止日期": "4/30まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483298/item/jpgoods_01_483298_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483298-000/00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-04-24 11:45:02",
-  "total": 201,
+  "scraped_at": "2026-04-24 15:54:06",
+  "total": 200,
   "products": [
     {
       "分類": "上衣",
@@ -453,14 +453,6 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "3D織法條紋棉質圓領針織衫(長袖)",
-      "現價": "490",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052996/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052996"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "可機洗米蘭羅紋圓領針織衫(長袖) 478548",
       "現價": "490",
       "原價": "990",
@@ -762,6 +754,14 @@
       "原價": "4990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052312/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052312"
+    },
+    {
+      "分類": "外套",
+      "商品名稱": "牛仔外套",
+      "現價": "1490",
+      "原價": "1690",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053347/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053347"
     },
     {
       "分類": "外套",
@@ -1196,14 +1196,6 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053918"
     },
     {
-      "分類": "洋裝",
-      "商品名稱": "修身寬襬洋裝(無袖)",
-      "現價": "790",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053570/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053570"
-    },
-    {
       "分類": "上衣",
       "商品名稱": "開領牛津襯衫式洋裝",
       "現價": "790",
@@ -1581,14 +1573,6 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "WARNER BROS. MOVIES UT印花T恤(短袖)",
-      "現價": "290",
-      "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052157/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052157"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "PEANUTS UT印花T恤(短袖)",
       "現價": "290",
       "原價": "490",
@@ -1610,6 +1594,14 @@
       "原價": "490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051693/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051693"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "WARNER BROS. MOVIES UT印花T恤(短袖)",
+      "現價": "290",
+      "原價": "490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052154/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052154"
     }
   ]
 }
