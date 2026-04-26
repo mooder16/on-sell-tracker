@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-04-26 10:32:37",
-  "total": 197,
+  "scraped_at": "2026-04-26 14:32:40",
+  "total": 195,
   "products": [
     {
       "分類": "上衣",
@@ -860,14 +860,6 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052002"
     },
     {
-      "分類": "上衣",
-      "商品名稱": "府綢襯衫(長袖)(鈕釦領/格紋)",
-      "現價": "390",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050514/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050514"
-    },
-    {
       "分類": "褲子",
       "商品名稱": "防潑水多口袋機能短褲 478227",
       "現價": "590",
@@ -1202,14 +1194,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051836/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051836"
-    },
-    {
-      "分類": "洋裝",
-      "商品名稱": "削肩BRATOP洋裝(無袖)(條紋)",
-      "現價": "590",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050930/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050930"
     },
     {
       "分類": "洋裝",
