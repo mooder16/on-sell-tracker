@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-04-25 21:55:50",
-  "total": 198,
+  "scraped_at": "2026-04-26 06:30:44",
+  "total": 196,
   "products": [
     {
       "分類": "上衣",
@@ -1101,14 +1101,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "直筒牛仔寬褲 480742",
-      "現價": "390",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050276/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050276"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "休閒寬褲",
       "現價": "1290",
       "原價": "1490",
@@ -1282,14 +1274,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053099/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053099"
-    },
-    {
-      "分類": "裙子",
-      "商品名稱": "燈芯絨短裙",
-      "現價": "390",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052479/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052479"
     },
     {
       "分類": "其他",
