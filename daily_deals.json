@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-04-26 06:30:44",
-  "total": 196,
+  "scraped_at": "2026-04-26 10:32:37",
+  "total": 197,
   "products": [
     {
       "分類": "上衣",
@@ -858,6 +858,14 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052002/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052002"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "府綢襯衫(長袖)(鈕釦領/格紋)",
+      "現價": "390",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050514/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050514"
     },
     {
       "分類": "褲子",

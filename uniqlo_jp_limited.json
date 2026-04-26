@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-04-26 06:31:46",
+  "scraped_at": "2026-04-26 10:33:42",
   "total": 72,
   "products": [
     {
@@ -342,16 +342,6 @@
       "截止日期": "4/30まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485042/item/jpgoods_00_485042_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485042-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /聖闘士星矢",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "4/30まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487572/item/jpgoods_00_487572_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487572-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
@@ -722,6 +712,16 @@
       "截止日期": "4/30まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483298/item/jpgoods_01_483298_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483298-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "サンリオキャラクターズ UT",
+      "現價": "1490",
+      "原價": "",
+      "截止日期": "4/30まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483257/item/jpgoods_00_483257_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483257-000/00"
     }
   ]
 }
