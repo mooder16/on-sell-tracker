@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-04-26 21:56:38",
+  "scraped_at": "2026-04-27 07:58:16",
   "total": 194,
   "products": [
     {
@@ -1124,14 +1124,6 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051694"
     },
     {
-      "分類": "褲子",
-      "商品名稱": "亞麻混紡連身褲",
-      "現價": "1490",
-      "原價": "1690",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053809/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053809"
-    },
-    {
       "分類": "上衣",
       "商品名稱": "可機洗針織羅紋長褲 478847 / 473802",
       "現價": "490",
@@ -1170,6 +1162,14 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053918/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053918"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "亞麻混紡連身褲",
+      "現價": "1490",
+      "原價": "1690",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053809/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053809"
     },
     {
       "分類": "上衣",
@@ -1501,14 +1501,6 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "TOY STORY UT印花T恤(短袖)",
-      "現價": "290",
-      "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051682/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051682"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "Sanrio characters UT印花T恤(短袖)",
       "現價": "390",
       "原價": "490",
@@ -1522,6 +1514,14 @@
       "原價": "490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051810/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051810"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "TOY STORY UT印花T恤(短袖)",
+      "現價": "290",
+      "原價": "490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051681/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051681"
     },
     {
       "分類": "上衣",
