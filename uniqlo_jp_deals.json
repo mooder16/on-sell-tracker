@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-04-28 07:58:04",
+  "scraped_at": "2026-04-28 16:18:57",
   "total": 79,
   "products": [
     {
@@ -186,16 +186,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "クルーネックT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/424873/item/jpgoods_10_424873_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E424873-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "エアリズムコットンT",
       "現價": "1500",
       "原價": "1500",
@@ -222,16 +212,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484907/item/jpgoods_03_484907_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484907-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "洋裝",
-      "商品名稱": "ワンピース UT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480698/item/goods_00_480698_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E480698-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -390,7 +370,7 @@
       "現價": "1990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484154/item/jpgoods_24_484154_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484154/item/jpgoods_64_484154_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484154-000/00"
     },
     {
@@ -512,16 +492,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479616/item/goods_69_479616_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E479616-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ウォッシャブルミラノリブセーター/半袖",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/478327/item/goods_01_478327_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E478327-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -792,6 +762,36 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/479842/item/jpgoods_68_479842_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E479842-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "レーヨンボウタイブラウス",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485650/item/jpgoods_61_485650_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485650-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "レーヨンスキッパーブラウス/ストライプ/7分袖",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479074/item/goods_69_479074_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479074-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "レーヨンブラウス/半袖",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475642/item/goods_41_475642_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475642-000/00"
     }
   ]
 }
