@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-04-28 16:18:57",
+  "scraped_at": "2026-04-28 23:13:49",
   "total": 79,
   "products": [
     {
@@ -306,32 +306,12 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "マンガキュレーション UT/うずまき/リラックス",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479032/item/goods_00_479032_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479032-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "ミッフィー UT",
       "現價": "990",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480656/item/goods_03_480656_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E480656-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ピーナッツ UT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475521/item/goods_03_475521_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475521-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -792,6 +772,26 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475642/item/goods_41_475642_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E475642-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "レーヨンブラウス/プリント/半袖",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475643/item/goods_01_475643_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475643-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "レーヨンノーカラーブラウス",
+      "現價": "3990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484563/item/jpgoods_55_484563_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484563-000/00"
     }
   ]
 }
