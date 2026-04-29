@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-04-29 13:13:31",
+  "scraped_at": "2026-04-29 20:22:11",
   "total": 56,
   "products": [
     {
@@ -48,8 +48,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "科克蘭 橄欖油 3公升",
-      "現價": "555",
-      "原價": "615",
+      "現價": "615",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h59/hac/272955101118494.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Pure-Olive-Oil-3-L/p/1789247"
     },
@@ -346,16 +346,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Monbana 三合一極品可可 30公克 X 40入",
-      "現價": "429",
-      "原價": "529",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h1e/h8f/61939549143070.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Monbana-3-in-1-Cocoa-Drink-30-g-X-40-Count/p/116570"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "西雅圖 即品約克夏奶茶 25公克 X 100包",
       "現價": "435",
@@ -482,6 +472,16 @@
       "原價": "1799",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h31/hdb/432046423801886.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Lao-Xie-Zen-Collagen-Beauty-Essence-65-ml-32-Pack-Original-Cranberry-Plus/p/157647"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "安永 鱸魚精 (原味) 65毫升 X 30入",
+      "現價": "3169",
+      "原價": "3969",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h73/h52/413801348562974.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Anyoung-Sante-Premium-Perch-Essence-Original-65-ml-x-30-Pack/p/157118"
     },
     {
       "品牌": "Costco 台灣",
