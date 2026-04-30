@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-04-30 07:55:40",
+  "scraped_at": "2026-04-30 13:11:19",
   "total": 72,
   "products": [
     {
@@ -282,16 +282,6 @@
       "截止日期": "5/7まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485062/item/jpgoods_09_485062_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485062-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "ドライEXクルーネックTシャツ",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465191/item/goods_00_465191_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465191-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
@@ -722,6 +712,16 @@
       "截止日期": "5/7まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484501/item/jpgoods_01_484501_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484501-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "ミッフィー イン ブルーム UT",
+      "現價": "1490",
+      "原價": "",
+      "截止日期": "5/7まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484499/item/jpgoods_50_484499_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484499-000/00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-04-30 07:54:36",
-  "total": 206,
+  "scraped_at": "2026-04-30 13:10:14",
+  "total": 208,
   "products": [
     {
       "分類": "上衣",
@@ -693,6 +693,14 @@
     },
     {
       "分類": "外套",
+      "商品名稱": "休閒連帽外套(長袖)",
+      "現價": "590",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054064/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054064"
+    },
+    {
+      "分類": "外套",
       "商品名稱": "無領長大衣",
       "現價": "1690",
       "原價": "2490",
@@ -714,14 +722,6 @@
       "原價": "1690",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053694/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053694"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "PUFFTECH 輕暖科技無領外套(印花)",
-      "現價": "790",
-      "原價": "1990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052676/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052676"
     },
     {
       "分類": "外套",
@@ -1149,6 +1149,22 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "直筒牛仔寬褲 480742",
+      "現價": "390",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050276/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050276"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "保暖彈性長褲",
+      "現價": "590",
+      "原價": "1490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052336/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052336"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "休閒寬褲",
       "現價": "1290",
       "原價": "1490",
@@ -1162,6 +1178,14 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052331/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052331"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "燈芯絨繭型褲",
+      "現價": "490",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052362/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052362"
     },
     {
       "分類": "褲子",
@@ -1530,14 +1554,6 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053623/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053623"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "運動鞋",
-      "現價": "590",
-      "原價": "1990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052585/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052585"
     },
     {
       "分類": "其他",
