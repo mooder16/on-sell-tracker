@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-04-29 20:20:03",
+  "scraped_at": "2026-04-30 07:55:09",
   "total": 78,
   "products": [
     {
@@ -126,12 +126,32 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
+      "商品名稱": "ソフトリブクルーネックT/長袖",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465751/item/jpgoods_40_465751_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465751-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
       "商品名稱": "ミニT",
       "現價": "990",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487839/item/jpgoods_31_487839_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487839-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ボーダーT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487764/item/jpgoods_09_487764_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487764-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -232,6 +252,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/478788/item/goods_69_478788_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E478788-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "スウェットシャツ",
+      "現價": "2990",
+      "原價": "2990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475377/item/jpgoods_11_475377_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475377-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -442,6 +472,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479616/item/goods_69_479616_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E479616-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ミニケーブルクルーネックセーター/ウォッシャブル",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482969/item/jpgoods_04_482969_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482969-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -742,46 +782,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475642/item/goods_41_475642_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E475642-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "レーヨンブラウス/プリント/半袖",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475643/item/goods_01_475643_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475643-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "レーヨンノーカラーブラウス",
-      "現價": "3990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484563/item/jpgoods_55_484563_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484563-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "オックスフォードシャツ/チェック",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484929/item/jpgoods_12_484929_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484929-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "オックスフォードシャツ",
-      "現價": "2990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475718/item/jpgoods_00_475718_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475718-000/00"
     }
   ]
 }
