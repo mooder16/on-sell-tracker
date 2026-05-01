@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-01 07:54:29",
+  "scraped_at": "2026-05-01 11:43:28",
   "total": 79,
   "products": [
     {
@@ -255,6 +255,16 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "クルーネックTシャツ",
+      "現價": "1500",
+      "原價": "1500",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/422992/item/jpgoods_23_422992_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E422992-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "ちいかわ x ナガノのくま UT",
       "現價": "790",
@@ -332,16 +342,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/470938/item/goods_09_470938_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E470938-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "洋裝",
-      "商品名稱": "エアリズムコットンブラワンピース/半袖",
-      "現價": "2990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/474066/item/goods_10_474066_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E474066-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -432,16 +432,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481249/item/jpgoods_01_481249_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E481249-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "スウェットワイドパンツ/丈短め",
-      "現價": "2990",
-      "原價": "2990",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481248/item/jpgoods_01_481248_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481248-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -792,6 +782,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484929/item/jpgoods_12_484929_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484929-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "オックスフォードシャツ",
+      "現價": "3990",
+      "原價": "3990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475718/item/jpgoods_00_475718_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475718-000/00"
     }
   ]
 }

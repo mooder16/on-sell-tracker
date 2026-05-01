@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-01 07:56:34",
+  "scraped_at": "2026-05-01 11:45:35",
   "total": 56,
   "products": [
     {
@@ -347,16 +347,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
-      "商品名稱": "Caffitaly 100顆咖啡膠囊組 內含3種風味 適用 Nespresso 咖啡機",
-      "現價": "949",
-      "原價": "1199",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb4/h59/152907834392606.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Caffitaly-100-Count-Coffee-Capsules-Variety-Pack-3-Flavors-Nespresso-Compatible/p/139644"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
       "商品名稱": "桂格 杏仁堅果多穀飲 25公克 X 50包",
       "現價": "369",
       "原價": "459",
@@ -482,6 +472,16 @@
       "原價": "369",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h22/h17/325943268245534.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Brookfarm-Australian-Bush-Honey-Coconut-Toasted-Granola-1-kg/p/149878"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "農心 海苔味杯麵 65公克 X 12入",
+      "現價": "309",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h73/h6a/102765951909918.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Nongshim-Seaweed-Flavor-Cup-Noodle-65-g-X-12-Pack/p/144788"
     },
     {
       "品牌": "Costco 台灣",
