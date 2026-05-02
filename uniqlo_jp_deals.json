@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-01 22:37:36",
+  "scraped_at": "2026-05-02 06:32:14",
   "total": 79,
   "products": [
     {
@@ -240,18 +240,18 @@
       "現價": "1290",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/478788/item/goods_69_478788_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E478788-000/00"
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477678/item/goods_67_477678_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E477678-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
-      "商品名稱": "クルーネックTシャツ",
-      "現價": "1500",
-      "原價": "1500",
+      "商品名稱": "ドライカノコボーダーポロシャツ",
+      "現價": "1290",
+      "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/422992/item/jpgoods_23_422992_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E422992-000/00"
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/478788/item/goods_69_478788_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E478788-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -580,6 +580,16 @@
       "現價": "1990",
       "原價": "",
       "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482974/item/jpgoods_15_482974_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482974-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "3Dコットンクルーネックボリュームスリーブセーター",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484504/item/jpgoods_69_484504_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484504-000/00"
     },
@@ -782,16 +792,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475718/item/jpgoods_00_475718_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E475718-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "オックスフォードシャツ/ストライプ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479975/item/goods_08_479975_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479975-000/00"
     }
   ]
 }
