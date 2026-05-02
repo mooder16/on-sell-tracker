@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-02 10:38:51",
+  "scraped_at": "2026-05-02 14:39:47",
   "total": 79,
   "products": [
     {
@@ -232,16 +232,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/454315/item/goods_07_454315_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E454315-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ドライカノコボーダーポロシャツ",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477678/item/goods_67_477678_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E477678-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -792,6 +782,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479975/item/goods_08_479975_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E479975-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "オックスフォードシャツ/ストライプ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/483601/item/goods_11_483601_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483601-000/00"
     }
   ]
 }
