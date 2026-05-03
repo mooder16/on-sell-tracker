@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-05-02 22:06:35",
-  "total": 200,
+  "scraped_at": "2026-05-03 07:30:22",
+  "total": 198,
   "products": [
     {
       "分類": "上衣",
@@ -716,14 +716,6 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053667"
     },
     {
-      "分類": "外套",
-      "商品名稱": "雙排釦西裝外套(印花)",
-      "現價": "1690",
-      "原價": "1990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053487/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053487"
-    },
-    {
       "分類": "上衣",
       "商品名稱": "PUFFTECH 輕暖科技背心",
       "現價": "790",
@@ -1114,14 +1106,6 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052331/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052331"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "休閒寬褲 479620",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050611/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050611"
     },
     {
       "分類": "褲子",

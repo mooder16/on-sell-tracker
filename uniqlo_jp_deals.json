@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-02 22:07:09",
+  "scraped_at": "2026-05-03 07:30:54",
   "total": 79,
   "products": [
     {
@@ -126,6 +126,16 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
+      "商品名稱": "ソフトリブクルーネックT/長袖",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465751/item/jpgoods_69_465751_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465751-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
       "商品名稱": "ミニT",
       "現價": "990",
       "原價": "",
@@ -242,6 +252,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/478788/item/goods_69_478788_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E478788-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "クルーネックTシャツ",
+      "現價": "1500",
+      "原價": "1500",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/422992/item/jpgoods_23_422992_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E422992-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -772,26 +792,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475718/item/jpgoods_00_475718_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E475718-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "オックスフォードシャツ/ストライプ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479975/item/goods_08_479975_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479975-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "オックスフォードシャツ/ストライプ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/483601/item/goods_11_483601_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483601-000/00"
     }
   ]
 }
