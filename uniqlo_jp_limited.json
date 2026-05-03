@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-05-03 07:31:26",
+  "scraped_at": "2026-05-03 11:09:05",
   "total": 72,
   "products": [
     {
@@ -435,16 +435,6 @@
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "內搭",
-      "商品名稱": "ザ・ブランズ UT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485182/item/jpgoods_30_485182_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485182-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
       "分類": "其他",
       "商品名稱": "エリオット・アーウィット UT",
       "現價": "1490",
@@ -722,6 +712,16 @@
       "截止日期": "5/7まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483298/item/jpgoods_01_483298_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483298-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "サンリオキャラクターズ UT",
+      "現價": "1490",
+      "原價": "",
+      "截止日期": "5/7まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483257/item/jpgoods_00_483257_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483257-000/00"
     }
   ]
 }
