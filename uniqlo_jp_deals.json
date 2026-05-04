@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-04 17:18:25",
-  "total": 79,
+  "scraped_at": "2026-05-04 23:14:07",
+  "total": 78,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -122,6 +122,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484795/item/jpgoods_67_484795_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484795-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ソフトリブT/長袖/ラグラン",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/476855/item/jpgoods_69_476855_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E476855-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -772,26 +782,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484521/item/jpgoods_30_484521_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484521-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "コットンオーバーサイズシャツ/ストライプ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483880001/item/jpgoods_62_483880001_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483880-001/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "コットンオーバーサイズシャツ/ストライプ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483880002/item/jpgoods_60_483880002_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483880-002/00"
     }
   ]
 }
