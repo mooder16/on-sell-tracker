@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-05 11:56:23",
+  "scraped_at": "2026-05-05 17:14:20",
   "total": 55,
   "products": [
     {
@@ -346,6 +346,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "3C",
+      "商品名稱": "三星 32吋 FHD FollowMe 移動式智慧聯網螢幕組 S32FM501EC-FOLLOWME",
+      "現價": "8499",
+      "原價": "9999",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hfb/h3a/368770488664094.jpg",
+      "商品連結": "https://www.costco.com.tw/Digital-Mobile/Laptops-Computers/Monitors/Samsung-32-inch-FHD-FollowMe-Smart-Display-S32FM501EC-FOLLOWME/p/154938"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "冠寶 起司捲心餅 178.6公克 X 5包",
       "現價": "389",
@@ -472,16 +482,6 @@
       "原價": "1349",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h27/hf1/151586407383070.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Baby-Extra-Dry-Diaper-Size-XXL-120-Piece/p/140350"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "洽富 冷凍二節翅 500公克 X 8入",
-      "現價": "659",
-      "原價": "749",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h45/h26/420739690364958.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Charming-Food-Air-Chilled-Chicken-Wings-500-g-X-8-Count/p/158983"
     },
     {
       "品牌": "Costco 台灣",

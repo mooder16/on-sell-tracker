@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-05 11:54:16",
+  "scraped_at": "2026-05-05 17:12:15",
   "total": 78,
   "products": [
     {
@@ -295,16 +295,6 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
-      "分類": "外套",
-      "商品名稱": "スウェットフルジップパーカ",
-      "現價": "3990",
-      "原價": "3990",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475380/item/jpgoods_31_475380_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475380-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "POP MART ハーフジップスウェットシャツ",
       "現價": "990",
@@ -356,32 +346,12 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
-      "商品名稱": "スウェットワイドパンツ",
-      "現價": "2990",
-      "原價": "2990",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/479620/item/jpgoods_01_479620_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479620-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
       "商品名稱": "スウェットワイドパンツ/丈長め",
       "現價": "2990",
       "原價": "2990",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481249/item/jpgoods_01_481249_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E481249-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "スウェットワイドパンツ/丈短め",
-      "現價": "2990",
-      "原價": "2990",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481248/item/jpgoods_01_481248_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481248-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -782,6 +752,36 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483880002/item/jpgoods_60_483880002_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483880-002/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "コットンオーバーサイズシャツ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483880/item/jpgoods_00_483880_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483880-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ライトコットンシャーリングブラウス",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484798/item/jpgoods_01_484798_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484798-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ライトコットンシャーリングブラウス/プリント",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484798001/item/jpgoods_38_484798001_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484798-001/00"
     }
   ]
 }
