@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-05 07:33:08",
+  "scraped_at": "2026-05-05 11:54:16",
   "total": 78,
   "products": [
     {
@@ -305,16 +305,6 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
-      "分類": "外套",
-      "商品名稱": "スウェットプルパーカ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475378/item/jpgoods_05_475378_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475378-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "POP MART ハーフジップスウェットシャツ",
       "現價": "990",
@@ -367,11 +357,11 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "スウェットワイドパンツ",
-      "現價": "3990",
-      "原價": "3990",
+      "現價": "2990",
+      "原價": "2990",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/471809/item/jpgoods_31_471809_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E471809-000/00"
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/479620/item/jpgoods_01_479620_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479620-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -382,6 +372,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481249/item/jpgoods_01_481249_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E481249-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "スウェットワイドパンツ/丈短め",
+      "現價": "2990",
+      "原價": "2990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481248/item/jpgoods_01_481248_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481248-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -412,16 +412,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484607/item/jpgoods_42_484607_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484607-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ミニケーブルクルーネックセーター/ウォッシャブル",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482969/item/jpgoods_69_482969_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482969-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -782,6 +772,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483880001/item/jpgoods_62_483880001_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483880-001/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "コットンオーバーサイズシャツ/ストライプ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483880002/item/jpgoods_60_483880002_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483880-002/00"
     }
   ]
 }
