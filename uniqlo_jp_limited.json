@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-05-06 02:46:00",
+  "scraped_at": "2026-05-06 06:30:01",
   "total": 72,
   "products": [
     {
@@ -376,22 +376,22 @@
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /ゴールデンカムイ",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487565/item/jpgoods_55_487565_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487565-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
       "商品名稱": "ジャン＝ミシェル・バスキア UT/リラックスフィット",
       "現價": "1490",
       "原價": "",
       "截止日期": "5/7まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485068/item/jpgoods_64_485068_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485068-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "マンガUT 集英社創業100周年 /ゴールデンカムイ",
+      "現價": "1490",
+      "原價": "",
+      "截止日期": "5/7まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487565/item/jpgoods_55_487565_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487565-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
@@ -456,22 +456,22 @@
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /キングダム",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487563/item/jpgoods_03_487563_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487563-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
       "商品名稱": "エリオット・アーウィット UT",
       "現價": "1490",
       "原價": "",
       "截止日期": "5/7まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482805/item/jpgoods_00_482805_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482805-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "マンガUT 集英社創業100周年 /キングダム",
+      "現價": "1490",
+      "原價": "",
+      "截止日期": "5/7まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487563/item/jpgoods_03_487563_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487563-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
@@ -532,6 +532,16 @@
       "截止日期": "5/7まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483745/item/jpgoods_00_483745_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483745-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "ズートピア UT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "5/7まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485255/item/jpgoods_67_485255_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485255-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
@@ -712,16 +722,6 @@
       "截止日期": "5/7まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484492/item/jpgoods_60_484492_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484492-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "チアフルキャラクターズ/パワパフ ガールズ/ミニ",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484494/item/jpgoods_36_484494_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484494-000/00"
     }
   ]
 }
