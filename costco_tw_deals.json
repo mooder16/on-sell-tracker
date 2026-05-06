@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-06 14:11:51",
+  "scraped_at": "2026-05-06 17:31:55",
   "total": 55,
   "products": [
     {
@@ -12,16 +12,6 @@
       "原價": "30999",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h67/hb1/80619447877662.webp",
       "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Fitness-Equipment-Accessories/Xterra-Treadmill-TRX4500/p/132978"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "Ito-En 伊藤園 Oi Ocha 綠茶 900毫升 X 12入",
-      "現價": "389",
-      "原價": "489",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hba/hf0/67984626122782.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Tea/Ito-En-Oi-Ocha-Green-Tea-900-ml-X-12-Count/p/209252"
     },
     {
       "品牌": "Costco 台灣",
@@ -42,6 +32,16 @@
       "原價": "19999",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf9/hb5/257772363710494.jpg",
       "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Fridges-Freezers/Samsung-Top-Mount-Freezer-Fridge-351-L-RT35CG562CB1TW/p/146868"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "清潔",
+      "商品名稱": "科克蘭 三層抽取衛生紙 120抽 X 72入",
+      "現價": "1069",
+      "原價": "1159",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf5/h5e/228120348950558.jpg",
+      "商品連結": "https://www.costco.com.tw/c/Kirkland-Signature-3-Ply-Interfold-Bath-Tissue-120-Sheet-X-72-Count/p/189999"
     },
     {
       "品牌": "Costco 台灣",
@@ -142,16 +142,6 @@
       "原價": "389",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb6/hd9/202920796389406.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Bee-Cheng-Hiang-Pork-Mini-Crunchies-150-g/p/143022"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "可爾必思水語 330毫升 X 24入",
-      "現價": "305",
-      "原價": "369",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h30/he1/418530812231710.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Calpis-Yogurt-Drink-330-ml-X-24-Count/p/376899"
     },
     {
       "品牌": "Costco 台灣",
@@ -396,6 +386,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "奇多 隨口脆玉米脆 28公克 X 25包 共700公克",
+      "現價": "225",
+      "原價": "275",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h93/h56/434799002255390.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Cheetos-Shots-Multi-Pack-28-g-X-25-Pack/p/558988"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "家電",
       "商品名稱": "Samsung 50吋 QLED 4K AI 量子智慧顯示器 QA50QEF1AXXZW",
       "現價": "12499",
@@ -528,8 +528,8 @@
       "來源": "Costco 降價商品",
       "分類": "居家",
       "商品名稱": "Gorilla Rack 五層強化倉儲架",
-      "現價": "6999",
-      "原價": "",
+      "現價": "5599",
+      "原價": "6999",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h20/h39/157819005534238.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-Rack-5-Tier-Industrial-Rack/p/1600209"
     },
