@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-05-06 06:30:01",
+  "scraped_at": "2026-05-06 10:18:55",
   "total": 72,
   "products": [
     {
@@ -30,7 +30,7 @@
       "現價": "1290",
       "原價": "",
       "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465751/item/jpgoods_00_465751_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465751/item/jpgoods_40_465751_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E465751-000/00"
     },
     {
@@ -536,16 +536,6 @@
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "其他",
-      "商品名稱": "ズートピア UT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485255/item/jpgoods_67_485255_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485255-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
       "商品名稱": "浮世絵ブルー UT",
       "現價": "1490",
       "原價": "",
@@ -722,6 +712,16 @@
       "截止日期": "5/7まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484492/item/jpgoods_60_484492_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484492-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "チアフルキャラクターズ/パワパフ ガールズ/ミニ",
+      "現價": "1490",
+      "原價": "",
+      "截止日期": "5/7まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484494/item/jpgoods_36_484494_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484494-000/00"
     }
   ]
 }
