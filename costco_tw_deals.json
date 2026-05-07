@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-07 02:49:45",
+  "scraped_at": "2026-05-07 06:37:01",
   "total": 55,
   "products": [
     {
@@ -207,6 +207,16 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
+      "商品名稱": "義美 減糖糙米奶 250毫升 X 24入",
+      "現價": "194",
+      "原價": "239",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha9/hc7/414650644529182.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/I-Mei-Sugar-Reduced-Brown-Rice-Milk-250-ml-X-24-Count/p/157266"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
       "商品名稱": "Ito-En 伊藤園 金萱烏龍茶 535毫升 X 24入",
       "現價": "409",
       "原價": "499",
@@ -402,16 +412,6 @@
       "原價": "479",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h1e/h6d/310638114439198.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Combos-Cheddar-Cheese-Baked-Cracker-1786-g-X-5-Pack/p/8876836"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "米森 有機黑糖老薑茶 20公克 X 36入",
-      "現價": "369",
-      "原價": "459",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9c/haa/378822772523038.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Vilson-Organic-Ginger-Drink-Mix-20-g-X-36-PacK/p/223023"
     },
     {
       "品牌": "Costco 台灣",
