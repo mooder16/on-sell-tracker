@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-07 10:24:38",
-  "total": 78,
+  "scraped_at": "2026-05-07 14:07:11",
+  "total": 77,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -30,7 +30,7 @@
       "現價": "1290",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/473990/item/goods_31_473990_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/473990/item/goods_00_473990_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E473990-000/00"
     },
     {
@@ -272,26 +272,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/470938/item/goods_09_470938_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E470938-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "スウェットハーフジップシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484154/item/jpgoods_64_484154_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484154-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "外套",
-      "商品名稱": "スウェットフルジップパーカ",
-      "現價": "3990",
-      "原價": "3990",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475380/item/jpgoods_31_475380_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475380-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -746,16 +726,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
-      "商品名稱": "コットンオーバーサイズシャツ/ストライプ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483880002/item/jpgoods_60_483880002_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483880-002/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
       "商品名稱": "コットンオーバーサイズシャツ",
       "現價": "1990",
       "原價": "",
@@ -782,6 +752,26 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484798001/item/jpgoods_38_484798001_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484798-001/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "コットンボリュームプリントブラウス",
+      "現價": "5990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486309/item/jpgoods_60_486309_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E486309-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "スタンドカラーシャツ",
+      "現價": "2990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484038/item/jpgoods_64_484038_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484038-000/00"
     }
   ]
 }
