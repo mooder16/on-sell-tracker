@@ -1,727 +1,317 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-05-07 14:07:42",
-  "total": 72,
+  "scraped_at": "2026-05-07 17:48:53",
+  "total": 31,
   "products": [
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "其他",
-      "商品名稱": "ポインテールカーディガン",
+      "商品名稱": "エアリズムUVカットクルーネックT/シルクブレンド",
       "現價": "1290",
       "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484939/item/jpgoods_17_484939_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484939-000/00"
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482155/item/jpgoods_10_482155_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482155-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "其他",
-      "商品名稱": "ポインテールカーディガン",
-      "現價": "1290",
+      "商品名稱": "クルーネックT",
+      "現價": "990",
       "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485717/item/jpgoods_69_485717_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485717-000/00"
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/424873/item/jpgoods_10_424873_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E424873-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "其他",
-      "商品名稱": "ソフトリブクルーネックT/長袖",
-      "現價": "1290",
+      "商品名稱": "エアリズムコットンクルーネックT",
+      "現價": "990",
       "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465751/item/jpgoods_00_465751_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465751-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ソフトコットンラウンドヘムT/長袖",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481484/item/jpgoods_00_481484_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481484-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ソフトコットンラウンドヘムT/長袖/ボーダー",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484196/item/jpgoods_15_484196_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484196-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ミニT",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465760/item/jpgoods_14_465760_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465760-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ポインテールラウンドネックミニT",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485025/item/jpgoods_18_485025_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485025-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ミニT",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483535/item/jpgoods_17_483535_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483535-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ワッフルフルオープンミニT",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483521/item/jpgoods_69_483521_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483521-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ミニT",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487277/item/jpgoods_14_487277_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487277-000/00"
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/474244/item/jpgoods_57_474244_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E474244-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "上衣",
-      "商品名稱": "UVカットクルーネックセーター/ウォッシャブル",
+      "商品名稱": "クルーネックTシャツ",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/422992/item/jpgoods_23_422992_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E422992-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "エアリズムUVカットUネックT/ドライEX",
       "現價": "1290",
       "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/474983/item/jpgoods_10_474983_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E474983-000/00"
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484912/item/jpgoods_60_484912_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484912-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "上衣",
-      "商品名稱": "UVカットクルーネックセーター/ウォッシャブル",
-      "現價": "1290",
+      "商品名稱": "スウェットストレートパンツ",
+      "現價": "2990",
       "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485223/item/jpgoods_69_485223_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485223-000/00"
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483285/item/jpgoods_30_483285_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483285-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "上衣",
-      "商品名稱": "ワッフルヘンリーネックTシャツ/長袖",
-      "現價": "1290",
+      "商品名稱": "スウェットストレートパンツ/丈短め",
+      "現價": "2990",
       "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482766/item/jpgoods_32_482766_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482766-000/00"
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/484855/item/goods_30_484855_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484855-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "上衣",
-      "商品名稱": "ドライワッフルヘンリーネックTシャツ",
+      "商品名稱": "スウェットストレートパンツ/丈長め",
+      "現價": "2990",
+      "原價": "",
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484854/item/jpgoods_30_484854_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484854-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "上衣",
+      "商品名稱": "スウェットワイドパンツ",
+      "現價": "2990",
+      "原價": "",
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/471809/item/jpgoods_31_471809_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E471809-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "上衣",
+      "商品名稱": "スウェットワイドパンツ/丈長め",
+      "現價": "2990",
+      "原價": "",
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/473715/item/jpgoods_31_473715_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E473715-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "シアークルーネックショートカーディガン/ウォッシャブル",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487508/item/jpgoods_41_487508_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487508-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "上衣",
+      "商品名稱": "レーヨンブラウス",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483875/item/jpgoods_18_483875_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483875-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "上衣",
+      "商品名稱": "レーヨンブラウス/プリント",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484240/item/jpgoods_01_484240_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484240-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "上衣",
+      "商品名稱": "レーヨンブラウス",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/489229/item/jpgoods_18_489229_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E489229-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "上衣",
+      "商品名稱": "レーヨンブラウス/プリント",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/489230/item/jpgoods_01_489230_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E489230-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "褲子",
+      "商品名稱": "イージーユーティリティパンツ",
+      "現價": "2990",
+      "原價": "",
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483001/item/jpgoods_30_483001_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483001-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "褲子",
+      "商品名稱": "イージーユーティリティパンツ丈短め",
+      "現價": "2990",
+      "原價": "",
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483003/item/jpgoods_30_483003_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483003-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "褲子",
+      "商品名稱": "エアリズムUVカットレギンス/ドライEX/10分丈",
       "現價": "1290",
       "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483924/item/jpgoods_30_483924_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483924-000/00"
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/474011/item/jpgoods_07_474011_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E474011-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /HUNTER×HUNTER",
-      "現價": "1490",
+      "分類": "洋裝",
+      "商品名稱": "ウルトラストレッチエアリズムワンピース/ノースリーブ/丈短め",
+      "現價": "1990",
       "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484778/item/jpgoods_00_484778_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484778-000/00"
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484883/item/jpgoods_38_484883_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484883-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /呪術廻戦",
-      "現價": "1490",
+      "分類": "洋裝",
+      "商品名稱": "ウルトラストレッチエアリズムワンピース/ノースリーブ/丈長め",
+      "現價": "1990",
       "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487559/item/jpgoods_09_487559_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487559-000/00"
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485456/item/jpgoods_38_485456_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485456-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /HUNTER×HUNTER",
-      "現價": "1490",
+      "分類": "洋裝",
+      "商品名稱": "ウルトラストレッチエアリズムワンピース/ノースリーブ",
+      "現價": "1990",
       "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482772/item/jpgoods_09_482772_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482772-000/00"
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482982/item/jpgoods_38_482982_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482982-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ピーナッツ UT/リラックスフィット",
-      "現價": "1490",
+      "分類": "洋裝",
+      "商品名稱": "ウルトラストレッチVネックワンピース/ノースリーブ",
+      "現價": "1990",
       "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485035/item/jpgoods_08_485035_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485035-000/00"
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484321/item/jpgoods_16_484321_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484321-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "長場雄 UT/リラックスフィット",
-      "現價": "990",
+      "分類": "洋裝",
+      "商品名稱": "ウルトラストレッチVネックワンピース/ノースリーブ/丈短め",
+      "現價": "1990",
       "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/485038/item/goods_03_485038_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485038-000/00"
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484886/item/jpgoods_16_484886_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484886-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /呪術廻戦",
-      "現價": "1490",
+      "分類": "洋裝",
+      "商品名稱": "ウルトラストレッチVネックワンピースノースリーブ/丈長め",
+      "現價": "1990",
       "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487560/item/jpgoods_00_487560_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487560-000/00"
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487493/item/jpgoods_16_487493_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487493-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ピーナッツ UT/リラックスフィット",
-      "現價": "1490",
+      "分類": "裙子",
+      "商品名稱": "クレープジャージーナロースカート/丈短め",
+      "現價": "1990",
       "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485033/item/jpgoods_41_485033_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485033-000/00"
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487955/item/jpgoods_30_487955_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487955-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ピーナッツ UT/リラックスフィット",
-      "現價": "1490",
+      "分類": "裙子",
+      "商品名稱": "クレープジャージーナロースカート",
+      "現價": "1990",
       "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482751/item/jpgoods_00_482751_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482751-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /ゴールデンカムイ",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487566/item/jpgoods_00_487566_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487566-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /幽★遊★白書",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487558/item/jpgoods_09_487558_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487558-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "長場雄 UT/リラックスフィット",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482754/item/jpgoods_00_482754_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482754-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "アンディ・ウォーホル UT/リラックスフィット",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485062/item/jpgoods_09_485062_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485062-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ジャン＝ミシェル・バスキア UT/リラックスフィット",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485069/item/jpgoods_02_485069_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485069-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "浮世絵ブルー UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482784/item/jpgoods_66_482784_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482784-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ピーナッツ UT/リラックスフィット",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485034/item/jpgoods_55_485034_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485034-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ピーナッツ UT/リラックスフィット",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485054/item/jpgoods_66_485054_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485054-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "浮世絵ブルー UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485073/item/jpgoods_69_485073_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485073-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "長場雄 UT/リラックスフィット",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484909/item/jpgoods_69_484909_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484909-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /キングダム",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487564/item/jpgoods_31_487564_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487564-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ピーナッツ UT/リラックスフィット",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485052/item/jpgoods_30_485052_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485052-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ジャン＝ミシェル・バスキア UT/リラックスフィット",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485071/item/jpgoods_57_485071_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485071-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "キース・へリング UT/リラックスフィット",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485065/item/jpgoods_68_485065_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485065-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ジャン＝ミシェル・バスキア UT/リラックスフィット",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485068/item/jpgoods_64_485068_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485068-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "浮世絵ブルー UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485077/item/jpgoods_01_485077_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485077-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /ゴールデンカムイ",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487565/item/jpgoods_55_487565_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487565-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "アンディ・ウォーホル UT/リラックスフィット",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482752/item/jpgoods_00_482752_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482752-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "キース・へリング UT/リラックスフィット",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485067/item/jpgoods_68_485067_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485067-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "浮世絵ブルー UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/485074/item/goods_62_485074_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485074-000/00"
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483286/item/jpgoods_30_483286_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483286-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "內搭",
-      "商品名稱": "ザ・ブランズ UT",
-      "現價": "990",
+      "商品名稱": "ワイヤレスブラ3Dホールド",
+      "現價": "1990",
       "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485042/item/jpgoods_00_485042_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485042-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "エリオット・アーウィット UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485466/item/jpgoods_08_485466_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485466-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "長場雄 UT/リラックスフィット",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484908/item/jpgoods_61_484908_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484908-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "エリオット・アーウィット UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482805/item/jpgoods_00_482805_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482805-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /キングダム",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487563/item/jpgoods_03_487563_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487563-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /幽★遊★白書",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487557/item/jpgoods_00_487557_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487557-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "エリオット・アーウィット UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485467/item/jpgoods_09_485467_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485467-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "キース・へリング UT/リラックスフィット",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485064/item/jpgoods_00_485064_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485064-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "エリオット・アーウィット UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485465/item/jpgoods_00_485465_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485465-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /キャプテン翼",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487571/item/jpgoods_68_487571_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487571-000/00"
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482659/item/jpgoods_11_482659_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482659-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "內搭",
-      "商品名稱": "ザ・ブランズ UT",
+      "商品名稱": "ワイヤレスブラ/3Dホールド",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/473913/item/jpgoods_31_473913_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E473913-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "UVカットシームレスアームカバー",
+      "現價": "790",
+      "原價": "",
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/474206/item/goods_00_474206_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E474206-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "UVカットリブアームカバー",
+      "現價": "790",
+      "原價": "",
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/482086/item/goods_37_482086_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482086-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "エアリズムUVカットフェイスカバー",
       "現價": "990",
       "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483745/item/jpgoods_00_483745_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483745-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "浮世絵ブルー UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485075/item/jpgoods_01_485075_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485075-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "浮世絵 ダークファンタジー UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/474898/item/jpgoods_09_474898_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E474898-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ピーナッツ UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484472/item/jpgoods_69_484472_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484472-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ピーナッツ UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484475/item/jpgoods_01_484475_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484475-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ピーナッツ UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484473/item/jpgoods_01_484473_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484473-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ピーナッツ UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484476/item/jpgoods_03_484476_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484476-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ピーナッツ UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484478/item/jpgoods_17_484478_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484478-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ピーナッツ UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484474/item/jpgoods_58_484474_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484474-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ピーナッツ UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484477/item/jpgoods_00_484477_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484477-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ピーナッツ UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483258/item/jpgoods_00_483258_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483258-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ミッフィー イン ブルーム UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485347/item/jpgoods_07_485347_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485347-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ミッフィー イン ブルーム UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484501/item/jpgoods_01_484501_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484501-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ミッフィー イン ブルーム UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484499/item/jpgoods_50_484499_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484499-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ミッフィー イン ブルーム UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484502/item/jpgoods_10_484502_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484502-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ミッフィー イン ブルーム UT",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484121/item/jpgoods_00_484121_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484121-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "チアフルキャラクターズ/パワパフ ガールズ/ミニ",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484493/item/jpgoods_02_484493_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484493-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "チアフルキャラクターズ/パワパフ ガールズ/ミニ",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484492/item/jpgoods_60_484492_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484492-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "チアフルキャラクターズ/パワパフ ガールズ/ミニ",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484494/item/jpgoods_36_484494_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484494-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "チアフルキャラクターズ/ケアベア/ミニ",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484491/item/jpgoods_00_484491_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484491-000/00"
+      "截止日期": "5/14まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/481618/item/goods_02_481618_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481618-000/00"
     }
   ]
 }
