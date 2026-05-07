@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-05-07 06:35:27",
+  "scraped_at": "2026-05-07 10:25:09",
   "total": 72,
   "products": [
     {
@@ -546,16 +546,6 @@
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /キン肉マン",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "5/7まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487573/item/jpgoods_09_487573_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487573-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
       "商品名稱": "浮世絵 ダークファンタジー UT",
       "現價": "1490",
       "原價": "",
@@ -722,6 +712,16 @@
       "截止日期": "5/7まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484494/item/jpgoods_36_484494_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484494-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "チアフルキャラクターズ/ケアベア/ミニ",
+      "現價": "1490",
+      "原價": "",
+      "截止日期": "5/7まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484491/item/jpgoods_00_484491_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484491-000/00"
     }
   ]
 }
