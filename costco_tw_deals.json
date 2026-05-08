@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-08 13:48:58",
+  "scraped_at": "2026-05-08 17:19:23",
   "total": 56,
   "products": [
     {
@@ -198,8 +198,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "義美 減糖糙米奶 250毫升 X 24入",
-      "現價": "194",
-      "原價": "239",
+      "現價": "239",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha9/hc7/414650644529182.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/I-Mei-Sugar-Reduced-Brown-Rice-Milk-250-ml-X-24-Count/p/157266"
     },
@@ -338,8 +338,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "久世福 極品珍味五色小魚乾 300公克",
-      "現價": "299",
-      "原價": "369",
+      "現價": "279",
+      "原價": "349",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb3/hf1/186025602973726.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kuze-Fuku-Dried-Fish-Snack-Mix-300-g/p/131670"
     },
@@ -371,7 +371,7 @@
       "現價": "369",
       "原價": "469",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9d/h87/437686995386398.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/156158"
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Levis-Mens-Active-Boxer-4-Pack-Set/p/156158"
     },
     {
       "品牌": "Costco 台灣",
@@ -392,16 +392,6 @@
       "原價": "369",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h22/h17/325943268245534.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Brookfarm-Australian-Bush-Honey-Coconut-Toasted-Granola-1-kg/p/149878"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "添云 肩頸按摩儀 BP-PJ01",
-      "現價": "819",
-      "原價": "1029",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha4/hfc/416282519142430.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Massage-Relaxation-Accessories/Tianyun-Neck-Massager-BP-PJ01/p/8522539"
     },
     {
       "品牌": "Costco 台灣",
@@ -485,6 +475,16 @@
     },
     {
       "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "Quasi 不沾單柄湯鍋 2 件組",
+      "現價": "639",
+      "原價": "799",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h1a/h9c/379632231120926.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/Quasi-Non-Stick-Pot-2-Piece-Set/p/155267"
+    },
+    {
+      "品牌": "Costco 台灣",
       "來源": "Costco 降價商品",
       "分類": "服飾",
       "商品名稱": "Downy 超濃縮衣物柔軟精 5.03公升",
@@ -541,7 +541,7 @@
       "現價": "865",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha6/h12/16243883835422.jpg",
-      "商品連結": "https://www.costco.com.tw/Patio-Furniture/p/1048251"
+      "商品連結": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Lifetime-6-ft-Fold-in-Half-Bench/p/1048251"
     },
     {
       "品牌": "Costco 台灣",
