@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-09 09:19:48",
+  "scraped_at": "2026-05-09 13:16:35",
   "total": 79,
   "products": [
     {
@@ -122,16 +122,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484795/item/jpgoods_67_484795_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484795-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ソフトリブクルーネックT/長袖",
-      "現價": "1990",
-      "原價": "1990",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465751/item/jpgoods_00_465751_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465751-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -570,7 +560,7 @@
       "現價": "2990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479616/item/goods_69_479616_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479616/item/goods_01_479616_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E479616-000/00"
     },
     {
@@ -792,6 +782,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484852/item/jpgoods_69_484852_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484852-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ウォッシャブルミラノリブクルーネックセーター",
+      "現價": "3990",
+      "原價": "3990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/453754/item/jpgoods_31_453754_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E453754-000/00"
     }
   ]
 }
