@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-05-10 02:52:04",
-  "total": 201,
+  "scraped_at": "2026-05-10 06:32:22",
+  "total": 197,
   "products": [
     {
       "分類": "上衣",
@@ -378,14 +378,6 @@
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052985/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052985"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "半開襟休閒上衣(長袖)",
-      "現價": "790",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053788/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053788"
     },
     {
       "分類": "上衣",
@@ -949,14 +941,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "棉質短褲",
-      "現價": "390",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050639/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050639"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "棉質短褲(牛仔)",
       "現價": "390",
       "原價": "590",
@@ -1125,27 +1109,11 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "防潑水多口袋機能長褲",
-      "現價": "590",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054066/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054066"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "直筒牛仔寬褲(稍長) 479001",
       "現價": "390",
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050292/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050292"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "特級彈性Active束口褲",
-      "現價": "590",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053978/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053978"
     },
     {
       "分類": "褲子",
