@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-11 11:19:23",
+  "scraped_at": "2026-05-11 14:49:31",
   "total": 79,
   "products": [
     {
@@ -120,7 +120,7 @@
       "現價": "1290",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484795/item/jpgoods_67_484795_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484795/item/jpgoods_01_484795_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484795-000/00"
     },
     {
@@ -252,16 +252,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483745/item/jpgoods_00_483745_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483745-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ズートピア UT",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485253/item/jpgoods_34_485253_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485253-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -792,6 +782,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450540/item/goods_69_450540_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E450540-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ウォッシャブル3Dクルーネックセーター",
+      "現價": "3990",
+      "原價": "3990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482321/item/jpgoods_57_482321_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482321-000/00"
     }
   ]
 }
