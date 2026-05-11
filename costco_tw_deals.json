@@ -1,7 +1,7 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-11 03:29:47",
-  "total": 48,
+  "scraped_at": "2026-05-11 07:42:38",
+  "total": 55,
   "products": [
     {
       "品牌": "Costco 台灣",
@@ -296,16 +296,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "Simon Li 牛皮電動躺椅 M553-3Q6",
-      "現價": "10299",
-      "原價": "12999",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h33/hce/279210273931294.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Simon-Li-Leather-Power-Recliner-M553-3Q6/p/1812549"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "健達 繽紛樂 43公克 X 15入",
       "現價": "369",
@@ -482,6 +472,86 @@
       "原價": "525",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h06/hfa/279946302849054.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Pest-Control-Air-Care/Febreze-Fabric-Refresher-Gold-370-ml-Refill-320-ml-X-4-Count/p/215928"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "居家",
+      "商品名稱": "Gorilla Rack 五層強化倉儲架",
+      "現價": "5599",
+      "原價": "6999",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h20/h39/157819005534238.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-Rack-5-Tier-Industrial-Rack/p/1600209"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 降價商品",
+      "分類": "食品",
+      "商品名稱": "科克蘭 杏仁 1.36公斤",
+      "現價": "519",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8c/ha5/118320266608670.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Whole-Almonds-136-kg/p/1516849"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 降價商品",
+      "分類": "食品",
+      "商品名稱": "科克蘭 鹽烤杏仁 1.13公斤",
+      "現價": "469",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h73/hb7/102357830074398.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Dry-Roasted-Almonds-113-kg/p/1516851"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 降價商品",
+      "分類": "服飾",
+      "商品名稱": "Downy 超濃縮衣物柔軟精 5.03公升",
+      "現價": "685",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he4/h04/419358168481822.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Downy-Ultra-Concentrated-HE-Fabric-Softener-503-L/p/138992"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 降價商品",
+      "分類": "其他",
+      "商品名稱": "舒特膚長效潤膚霜 550公克",
+      "現價": "499",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h15/h51/171156051525662.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Cetaphil-Moisturising-Cream-550-g/p/137177"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 降價商品",
+      "分類": "居家",
+      "商品名稱": "Lifetime 6呎折疊長椅",
+      "現價": "865",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha6/h12/16243883835422.jpg",
+      "商品連結": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Lifetime-6-ft-Fold-in-Half-Bench/p/1048251"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 降價商品",
+      "分類": "居家",
+      "商品名稱": "Gorilla Rack 五層強化倉儲架 6入",
+      "現價": "36699",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcd/hd1/157818636828702.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-Rack-5-Tier-Industrial-Rack-6-Pack/p/139736"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 降價商品",
+      "分類": "其他",
+      "商品名稱": "12呎 X 16呎 多功能雙色帆布兩入",
+      "現價": "689",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd3/h92/292858412302366.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/12-ft-X-16-ft-Reversible-Tarps-2-Pack/p/1600091"
     }
   ]
 }
