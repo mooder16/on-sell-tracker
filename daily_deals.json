@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-05-13 03:19:48",
-  "total": 195,
+  "scraped_at": "2026-05-13 06:47:24",
+  "total": 197,
   "products": [
     {
       "分類": "上衣",
@@ -277,14 +277,6 @@
     },
     {
       "分類": "其他",
-      "商品名稱": "DRY網眼POLO衫(短袖)(滾邊)",
-      "現價": "290",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050830/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050830"
-    },
-    {
-      "分類": "其他",
       "商品名稱": "DRY網眼POLO衫(短袖) 465194",
       "現價": "290",
       "原價": "790",
@@ -452,14 +444,6 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052747"
     },
     {
-      "分類": "外套",
-      "商品名稱": "米蘭羅紋襯衫式開襟外套 478550",
-      "現價": "490",
-      "原價": "1490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053108/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053108"
-    },
-    {
       "分類": "上衣",
       "商品名稱": "柔滑棉條紋POLO針織衫(長袖)",
       "現價": "390",
@@ -474,14 +458,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052900/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052900"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "柔滑棉POLO針織衫(長袖)",
-      "現價": "390",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052844/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052844"
     },
     {
       "分類": "上衣",
@@ -821,6 +797,14 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "特級亞麻襯衫(長袖)",
+      "現價": "990",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053986/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053986"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "立領襯衫(長袖)",
       "現價": "490",
       "原價": "990",
@@ -834,6 +818,14 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050642/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050642"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "牛津條紋寬版襯衫(長袖)",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052253/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052253"
     },
     {
       "分類": "上衣",
@@ -938,6 +930,14 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051841/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051841"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "棉質短褲",
+      "現價": "390",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050639/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050639"
     },
     {
       "分類": "褲子",
@@ -1117,6 +1117,14 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "防潑水多口袋機能長褲",
+      "現價": "490",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054066/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054066"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "直筒牛仔寬褲(稍長) 479001",
       "現價": "390",
       "原價": "1290",
@@ -1282,6 +1290,14 @@
       "原價": "1490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053621/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053621"
+    },
+    {
+      "分類": "裙子",
+      "商品名稱": "可機洗米蘭羅紋裙",
+      "現價": "390",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053577/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053577"
     },
     {
       "分類": "裙子",
