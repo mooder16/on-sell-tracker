@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-13 03:02:17",
+  "scraped_at": "2026-05-13 03:22:27",
   "total": 56,
   "products": [
     {
@@ -62,6 +62,16 @@
       "原價": "469",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h94/h03/118701813760030.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Lotte-Milkis-Soda-Drink-250-ml-X-30-Count/p/133053"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "奇多 隨口脆玉米脆 28公克 X 25包 共700公克",
+      "現價": "225",
+      "原價": "275",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h93/h56/434799002255390.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Cheetos-Shots-Multi-Pack-28-g-X-25-Pack/p/558988"
     },
     {
       "品牌": "Costco 台灣",
@@ -472,16 +482,6 @@
       "原價": "749",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3e/hb9/380917724217374.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Huxley-Perfumed-Hand-Cream-30-ml-X-3-Pack/p/153240"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Igloo 58公升 滾輪冰桶",
-      "現價": "1639",
-      "原價": "2099",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h72/h75/436453723963422.jpg",
-      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Coolers/Igloo-Maxcold-62QT-Rolling-Cooler/p/1872193"
     },
     {
       "品牌": "Costco 台灣",
