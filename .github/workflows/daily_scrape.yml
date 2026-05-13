@@ -7,13 +7,18 @@ on:
     - cron: "0 */4 * * *"
   workflow_dispatch:  # 允許手動觸發
 
+# 同一時間只允許一個 scrape job 執行，新的觸發會取消舊的
+concurrency:
+  group: scrape
+  cancel-in-progress: true
+
 permissions:
   contents: write  # 允許 workflow 寫入（git push）
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 60  # 增加超時時間（4個 Playwright 爬蟲需要較長時間）
+    timeout-minutes: 60
 
     steps:
       - name: Checkout repository
@@ -23,6 +28,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: "pip"
 
       - name: Install Python dependencies
         run: |
@@ -59,4 +65,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add daily_deals.csv daily_deals.json momo_muji_deals.json uniqlo_jp_deals.json uniqlo_jp_limited.json costco_tw_deals.json
           git diff --staged --quiet || git commit -m "chore: update daily deals data [$(date +'%Y-%m-%d %H:%M')]"
+          git pull --rebase
           git push
