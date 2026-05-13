@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-13 14:35:00",
+  "scraped_at": "2026-05-13 18:00:58",
   "total": 79,
   "products": [
     {
@@ -242,6 +242,26 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484838/item/jpgoods_11_484838_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484838-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ポインテールラウンドネックミニT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485025/item/jpgoods_18_485025_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485025-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ワッフルフルオープンミニT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483521/item/jpgoods_69_483521_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483521-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -726,16 +746,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
-      "商品名稱": "エアリズムブラタンクトップ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/473979/item/jpgoods_09_473979_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E473979-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
       "商品名稱": "エアリズムブラTシャツ半袖",
       "現價": "1990",
       "原價": "",
@@ -782,16 +792,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475378/item/jpgoods_31_475378_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E475378-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ピーナッツ スウェットシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/481055/item/goods_01_481055_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481055-000/00"
     }
   ]
 }
