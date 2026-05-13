@@ -1,4 +1,4 @@
-name: Daily UNIQLO Scraper
+name: Daily Scraper
 
 on:
   schedule:
@@ -13,13 +13,11 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60  # 增加超時時間（4個 Playwright 爬蟲需要較長時間）
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -38,23 +36,27 @@ jobs:
       - name: Run UNIQLO Taiwan scraper (API-based)
         run: python scraper.py
         continue-on-error: true
+        timeout-minutes: 10
 
       - name: Run UNIQLO Japan scraper (Playwright)
         run: python scraper_uniqlo_jp.py
         continue-on-error: true
+        timeout-minutes: 20
 
       - name: Run momo MUJI scraper (Playwright)
         run: python scraper_momo_muji.py
         continue-on-error: true
+        timeout-minutes: 15
 
       - name: Run Costco Taiwan scraper (Playwright)
         run: python scraper_costco_tw.py
         continue-on-error: true
+        timeout-minutes: 15
 
       - name: Commit and push updated data
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add daily_deals.csv daily_deals.json momo_muji_deals.json uniqlo_jp_deals.json uniqlo_jp_limited.json costco_tw_deals.json
-          git diff --staged --quiet || git commit -m "chore: update daily deals data [$(date +'%Y-%m-%d')]"
+          git diff --staged --quiet || git commit -m "chore: update daily deals data [$(date +'%Y-%m-%d %H:%M')]"
           git push
