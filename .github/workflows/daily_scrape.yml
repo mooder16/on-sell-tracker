@@ -63,7 +63,9 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          # 先 stash 暫存區以外的變更，pull 最新，再套用
+          git fetch origin main
+          git rebase origin/main
           git add daily_deals.csv daily_deals.json momo_muji_deals.json uniqlo_jp_deals.json uniqlo_jp_limited.json costco_tw_deals.json
           git diff --staged --quiet || git commit -m "chore: update daily deals data [$(date +'%Y-%m-%d %H:%M')]"
-          git pull --rebase
-          git push
+          git push origin main
