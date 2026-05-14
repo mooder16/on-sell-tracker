@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-14 14:12:17",
+  "scraped_at": "2026-05-14 17:51:56",
   "total": 55,
   "products": [
     {
@@ -92,16 +92,6 @@
       "原價": "839",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h97/hfd/439234014707742.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Lenor-In-Wash-Scent-Blue-Booster-885-ml-1810-ml-Refill/p/159343"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Glad Press’n Seal 強力保鮮膜 3入",
-      "現價": "449",
-      "原價": "549",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5d/hdd/454002200674334.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Food-Preservation/Glad-Pressn-Seal-Plastic-Food-Wraps-3-Count/p/350086"
     },
     {
       "品牌": "Costco 台灣",
@@ -472,6 +462,16 @@
       "原價": "1939",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h82/h10/438875893006366.jpg",
       "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Electric-Toothbrushes-Water-Flossers/Oral-B-iO-Toothbrush-Replacement-Brush-Heads-8-Count-Gentle-Care/p/155548"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "西雅圖 榛果風味濃淬咖啡球 16毫升 X 40入",
+      "現價": "305",
+      "原價": "379",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h62/h56/368770704965662.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Barista-Hazelnut-Flavor-Espresso-Shot-16-ml-X-40-Count/p/234436"
     },
     {
       "品牌": "Costco 台灣",
