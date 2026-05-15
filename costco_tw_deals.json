@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-15 14:08:35",
+  "scraped_at": "2026-05-15 17:29:32",
   "total": 55,
   "products": [
     {
@@ -337,16 +337,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
-      "商品名稱": "Brookfarm 澳洲蜂蜜椰香燕麥片 1公斤",
-      "現價": "299",
-      "原價": "369",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h22/h17/325943268245534.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Brookfarm-Australian-Bush-Honey-Coconut-Toasted-Granola-1-kg/p/149878"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
       "商品名稱": "trunature 紅藻萃取蝦紅素軟膠囊 100粒",
       "現價": "849",
       "原價": "1059",
@@ -482,6 +472,16 @@
       "原價": "749",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3e/hb9/380917724217374.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Huxley-Perfumed-Hand-Cream-30-ml-X-3-Pack/p/153240"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "FRUIT & SEED 果乾葵花籽綜合點心 737公克",
+      "現價": "379",
+      "原價": "469",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he7/had/417162019733534.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/FRUIT-SEED-Dried-Fruit-and-Sunflower-Seed-Mix-Snack-737-g/p/1944580"
     },
     {
       "品牌": "Costco 台灣",
