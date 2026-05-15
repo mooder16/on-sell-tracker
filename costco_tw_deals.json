@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-15 03:28:14",
+  "scraped_at": "2026-05-15 06:58:30",
   "total": 55,
   "products": [
     {
@@ -141,7 +141,7 @@
       "現價": "749",
       "原價": "949",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5f/h74/239741816569886.jpg",
-      "商品連結": "https://www.costco.com.tw/Electric-Toothbrushes-Water-Flossers/p/144120"
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Electric-Toothbrushes-Water-Flossers/Oral-B-Replacement-Toothbrush-Heads-8-Count/p/144120"
     },
     {
       "品牌": "Costco 台灣",
@@ -241,7 +241,7 @@
       "現價": "369",
       "原價": "469",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9d/h87/437686995386398.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/156158"
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Levis-Mens-Active-Boxer-4-Pack-Set/p/156158"
     },
     {
       "品牌": "Costco 台灣",
@@ -336,16 +336,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "汽車",
-      "商品名稱": "Soft99 免雨刷Q 70毫升 X 2入",
-      "現價": "485",
-      "原價": "615",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h38/h3c/362804935000094.jpg",
-      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Exterior-Car-Care/Soft99-Glaco-Q-70-ml-X-2-Pack/p/153955"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "Webber Naturals 舒眠草本複合膠囊 200粒",
       "現價": "489",
@@ -381,17 +371,7 @@
       "現價": "1549",
       "原價": "1939",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0e/h10/332442348748830.jpg",
-      "商品連結": "https://www.costco.com.tw/Electric-Toothbrushes-Water-Flossers/p/144257"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "Knoppers 可可牛奶威化餅 25公克 X 24入",
-      "現價": "309",
-      "原價": "379",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hea/h19/402145136803870.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Knoppers-Wafer-Crispy-25-g-X-24-Pack/p/126447"
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Electric-Toothbrushes-Water-Flossers/Oral-B-iO-Toothbrush-Replacement-Brush-Head-8-Count-Ultimate-Clean/p/144257"
     },
     {
       "品牌": "Costco 台灣",
@@ -471,7 +451,7 @@
       "現價": "349",
       "原價": "449",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he0/hba/433626081853470.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/157245"
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Totes-Backpacks/LEGO-Packing-Cubes-3-Piece-Set/p/157245"
     },
     {
       "品牌": "Costco 台灣",
@@ -482,6 +462,26 @@
       "原價": "2099",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h72/h75/436453723963422.jpg",
       "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Coolers/Igloo-Maxcold-62QT-Rolling-Cooler/p/1872193"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "塑膠衣架 50入",
+      "現價": "429",
+      "原價": "559",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd7/h63/256217796771870.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Storage-Containers-Hooks/Non-slip-Hanger-50-Pack/p/1718584"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "居家",
+      "商品名稱": "Welhome 波紋純棉浴巾 76公分 X 147公分",
+      "現價": "259",
+      "原價": "329",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5b/h18/381454942273566.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Towels/Welhome-Bumpy-Bath-Towel-76-cm-X-147-cm/p/1796225"
     },
     {
       "品牌": "Costco 台灣",
