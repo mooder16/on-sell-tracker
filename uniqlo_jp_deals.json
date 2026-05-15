@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-15 17:27:26",
+  "scraped_at": "2026-05-15 21:08:53",
   "total": 79,
   "products": [
     {
@@ -202,6 +202,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484336/item/jpgoods_19_484336_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484336-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "エアリズムボディスーツ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/484088/item/goods_74_484088_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484088-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -755,6 +765,16 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "オーバーサイズスウェットシャツ",
+      "現價": "3990",
+      "原價": "3990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481040/item/jpgoods_31_481040_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481040-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
       "分類": "外套",
       "商品名稱": "スウェットフルジップパーカ",
       "現價": "3990",
@@ -772,26 +792,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/481055/item/goods_01_481055_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E481055-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "スウェットストレートパンツ",
-      "現價": "3990",
-      "原價": "3990",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483285/item/jpgoods_30_483285_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483285-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "スウェットワイドパンツ",
-      "現價": "2990",
-      "原價": "2990",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/479620/item/jpgoods_01_479620_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479620-000/00"
     }
   ]
 }
