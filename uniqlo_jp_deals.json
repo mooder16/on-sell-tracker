@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-16 02:49:50",
+  "scraped_at": "2026-05-16 06:21:40",
   "total": 79,
   "products": [
     {
@@ -202,6 +202,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484336/item/jpgoods_19_484336_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484336-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "エアリズムボディスーツ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/484088/item/goods_01_484088_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484088-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -715,6 +725,16 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "エアリズムブラタンクトップ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/473979/item/jpgoods_09_473979_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E473979-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
       "分類": "內搭",
       "商品名稱": "レーサーバックブラトップ",
       "現價": "1990",
@@ -766,32 +786,12 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
-      "商品名稱": "スウェットワイドパンツ",
-      "現價": "2990",
-      "原價": "2990",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/479620/item/jpgoods_01_479620_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479620-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
       "商品名稱": "スウェットワイドパンツ/丈長め",
       "現價": "2990",
       "原價": "2990",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481249/item/jpgoods_01_481249_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E481249-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "スウェットワイドパンツ/丈短め",
-      "現價": "2990",
-      "原價": "2990",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481248/item/jpgoods_01_481248_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481248-000/00"
     }
   ]
 }
