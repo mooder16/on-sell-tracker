@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-05-15 21:08:10",
+  "scraped_at": "2026-05-16 02:49:17",
   "total": 188,
   "products": [
     {
@@ -621,6 +621,14 @@
     },
     {
       "分類": "外套",
+      "商品名稱": "特級彈性Active外套",
+      "現價": "590",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053322/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053322"
+    },
+    {
+      "分類": "外套",
       "商品名稱": "工裝短版牛仔外套",
       "現價": "1290",
       "原價": "1990",
@@ -1106,14 +1114,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054086/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054086"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "彈性長褲",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052743/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052743"
     },
     {
       "分類": "洋裝",
