@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-05-16 09:40:10",
-  "total": 199,
+  "scraped_at": "2026-05-16 13:20:25",
+  "total": 198,
   "products": [
     {
       "分類": "上衣",
@@ -397,14 +397,6 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "AIRism棉質圓領T恤(長袖) 479781",
-      "現價": "290",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053924/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053924"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "華夫格圓領T恤(長袖) 470127",
       "現價": "190",
       "原價": "590",
@@ -477,14 +469,6 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "編織圓領針織衫(長袖)",
-      "現價": "390",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052745/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052745"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "喀什米爾圓領毛衣(長袖)",
       "現價": "1990",
       "原價": "2990",
@@ -522,6 +506,14 @@
       "原價": "1490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053581/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053581"
+    },
+    {
+      "分類": "外套",
+      "商品名稱": "圓領拉鍊開襟外套(長袖)",
+      "現價": "490",
+      "原價": "1490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052198/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052198"
     },
     {
       "分類": "上衣",
@@ -642,6 +634,14 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051257/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051257"
+    },
+    {
+      "分類": "外套",
+      "商品名稱": "特級彈性Active外套",
+      "現價": "590",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053322/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053322"
     },
     {
       "分類": "外套",
@@ -824,8 +824,8 @@
       "商品名稱": "府綢寬版襯衫(長袖)",
       "現價": "590",
       "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053611/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053611"
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051958/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051958"
     },
     {
       "分類": "上衣",
@@ -1117,14 +1117,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "防潑水多口袋機能長褲",
-      "現價": "490",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054066/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054066"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "休閒直筒長褲(稍長)",
       "現價": "590",
       "原價": "990",
@@ -1309,6 +1301,14 @@
     },
     {
       "分類": "裙子",
+      "商品名稱": "可機洗米蘭羅紋裙",
+      "現價": "390",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053577/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053577"
+    },
+    {
+      "分類": "裙子",
       "商品名稱": "燈芯絨短裙",
       "現價": "390",
       "原價": "1290",
@@ -1404,6 +1404,14 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051570"
     },
     {
+      "分類": "其他",
+      "商品名稱": "無鋼圈美型胸罩(運動) 475629",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050148/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050148"
+    },
+    {
       "分類": "上衣",
       "商品名稱": "HEATTECH 圓領T恤(長袖) 469742",
       "現價": "390",
@@ -1426,22 +1434,6 @@
       "原價": "690",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054047/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054047"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "AIRism超無痕內褲(低腰)",
-      "現價": "99",
-      "原價": "190",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054032/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054032"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "特級彈性休閒服組(長袖)",
-      "現價": "590",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053284/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053284"
     },
     {
       "分類": "其他",
@@ -1560,8 +1552,8 @@
       "商品名稱": "Sanrio characters UT印花T恤(短袖)",
       "現價": "290",
       "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052737/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052737"
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052736/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052736"
     },
     {
       "分類": "上衣",

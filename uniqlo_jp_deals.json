@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-16 09:40:41",
+  "scraped_at": "2026-05-16 13:20:57",
   "total": 79,
   "products": [
     {
@@ -400,7 +400,7 @@
       "現價": "1290",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476141/item/goods_69_476141_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476141/item/goods_09_476141_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E476141-000/00"
     },
     {
@@ -502,16 +502,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484492/item/jpgoods_60_484492_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484492-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "チアフルキャラクターズ/パワパフ ガールズ/ミニ",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484493/item/jpgoods_02_484493_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484493-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -745,16 +735,6 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "エアリズムブラTシャツ半袖",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/477001/item/jpgoods_30_477001_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E477001-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
       "分類": "內搭",
       "商品名稱": "レーサーバックブラトップ",
       "現價": "1990",
@@ -792,6 +772,26 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/481055/item/goods_01_481055_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E481055-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "スウェットストレートパンツ",
+      "現價": "3990",
+      "原價": "3990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483285/item/jpgoods_30_483285_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483285-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "スウェットストレートパンツ/丈短め",
+      "現價": "3990",
+      "原價": "3990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/484855/item/goods_30_484855_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484855-000/00"
     }
   ]
 }
