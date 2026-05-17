@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-05-17 13:18:47",
-  "total": 183,
+  "scraped_at": "2026-05-17 16:56:48",
+  "total": 180,
   "products": [
     {
       "分類": "上衣",
@@ -509,19 +509,19 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "棉質混紡短版布勞森外套",
-      "現價": "990",
-      "原價": "1490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053452/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053452"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "AIRism防曬抗UV網眼連帽外套(長袖) 465748",
       "現價": "790",
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050783/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050783"
+    },
+    {
+      "分類": "外套",
+      "商品名稱": "棉質混紡短版布勞森外套",
+      "現價": "990",
+      "原價": "1490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053452/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053452"
     },
     {
       "分類": "外套",
@@ -581,14 +581,6 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "短版布勞森外套",
-      "現價": "1490",
-      "原價": "1990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053871/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053871"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "工裝短版牛仔外套",
       "現價": "1290",
       "原價": "1990",
@@ -613,19 +605,19 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "工裝外套(牛仔)",
-      "現價": "790",
-      "原價": "1690",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053694/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053694"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "翻領短版外套",
       "現價": "590",
       "原價": "1490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053459/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053459"
+    },
+    {
+      "分類": "外套",
+      "商品名稱": "工裝外套(牛仔)",
+      "現價": "790",
+      "原價": "1690",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053694/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053694"
     },
     {
       "分類": "外套",
@@ -821,14 +813,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "特級彈性短褲",
-      "現價": "390",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050917/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050917"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "休閒寬版短褲",
       "現價": "590",
       "原價": "790",
@@ -933,11 +917,11 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "高腰牛仔褲",
-      "現價": "790",
+      "商品名稱": "經典卡其褲",
+      "現價": "990",
       "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053895/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053895"
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053327/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053327"
     },
     {
       "分類": "褲子",
@@ -949,11 +933,11 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "經典卡其褲",
-      "現價": "990",
+      "商品名稱": "高腰牛仔褲",
+      "現價": "790",
       "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053327/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053327"
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053895/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053895"
     },
     {
       "分類": "褲子",
@@ -1386,14 +1370,6 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053622/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053622"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "拼接休閒鞋",
-      "現價": "590",
-      "原價": "1490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054037/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054037"
     },
     {
       "分類": "其他",

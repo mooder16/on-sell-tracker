@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-17 13:19:20",
+  "scraped_at": "2026-05-17 16:57:21",
   "total": 79,
   "products": [
     {
@@ -436,16 +436,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "ズートピア UT",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484358/item/jpgoods_00_484358_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484358-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "マンガキュレーション UT/ベルセルク/リラックス",
       "現價": "990",
       "原價": "",
@@ -766,16 +756,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
-      "商品名稱": "スウェットハーフジップシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484154/item/jpgoods_09_484154_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484154-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
       "商品名稱": "ピーナッツ スウェットシャツ",
       "現價": "1990",
       "原價": "",
@@ -792,6 +772,26 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483285/item/jpgoods_30_483285_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483285-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "スウェットワイドパンツ/丈長め",
+      "現價": "2990",
+      "原價": "2990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481249/item/jpgoods_01_481249_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481249-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "褲子",
+      "商品名稱": "ウォームフリースストレートパンツ",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479695/item/goods_30_479695_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479695-000/00"
     }
   ]
 }
