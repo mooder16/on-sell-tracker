@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-17 02:58:56",
+  "scraped_at": "2026-05-17 06:44:04",
   "total": 79,
   "products": [
     {
@@ -230,7 +230,7 @@
       "現價": "990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484838/item/jpgoods_11_484838_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484838/item/jpgoods_09_484838_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484838-000/00"
     },
     {
@@ -715,16 +715,6 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "エアリズムブラTシャツ半袖",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/477001/item/jpgoods_30_477001_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E477001-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
       "分類": "內搭",
       "商品名稱": "レーサーバックブラトップ",
       "現價": "1990",
@@ -792,6 +782,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479695/item/goods_30_479695_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E479695-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "外套",
+      "商品名稱": "ドライストレッチスウェットジャケット",
+      "現價": "2990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484398/item/jpgoods_69_484398_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484398-000/00"
     }
   ]
 }
