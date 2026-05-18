@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-18 03:38:56",
+  "scraped_at": "2026-05-18 08:05:29",
   "total": 56,
   "products": [
     {
@@ -487,16 +487,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 降價商品",
       "分類": "食品",
-      "商品名稱": "科克蘭 杏仁 1.36公斤",
-      "現價": "519",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8c/ha5/118320266608670.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Whole-Almonds-136-kg/p/1516849"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 降價商品",
-      "分類": "食品",
       "商品名稱": "科克蘭 鹽烤杏仁 1.13公斤",
       "現價": "469",
       "原價": "",
@@ -552,6 +542,16 @@
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcd/hd1/157818636828702.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-Rack-5-Tier-Industrial-Rack-6-Pack/p/139736"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 降價商品",
+      "分類": "食品",
+      "商品名稱": "科克蘭 杏仁 1.36公斤",
+      "現價": "519",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8c/ha5/118320266608670.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Whole-Almonds-136-kg/p/1516849"
     },
     {
       "品牌": "Costco 台灣",
