@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-19 18:06:01",
+  "scraped_at": "2026-05-19 21:19:27",
   "total": 82,
   "products": [
     {
@@ -785,6 +785,16 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "エアリズムブラTシャツ半袖",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477001/item/goods_00_477001_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E477001-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
       "分類": "內搭",
       "商品名稱": "レーサーバックブラトップ",
       "現價": "1990",
@@ -812,16 +822,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/473990/item/goods_00_473990_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E473990-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "內搭",
-      "商品名稱": "エアリズムコットンブラチューブトップ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479089/item/goods_00_479089_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479089-000/00"
     }
   ]
 }
