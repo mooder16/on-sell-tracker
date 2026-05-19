@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-19 11:17:33",
+  "scraped_at": "2026-05-19 15:19:56",
   "total": 82,
   "products": [
     {
@@ -185,16 +185,6 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "エアリズムボディスーツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/484088/item/goods_01_484088_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484088-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "ソフトニットフリースクルーネックT",
       "現價": "1290",
@@ -220,7 +210,7 @@
       "現價": "990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484838/item/jpgoods_11_484838_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484838/item/jpgoods_09_484838_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484838-000/00"
     },
     {
@@ -422,26 +412,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485071/item/jpgoods_57_485071_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485071-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ドライEXクルーネックTシャツ",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465191/item/goods_00_465191_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465191-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ドライEXTシャツ/ガラ",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476141/item/goods_02_476141_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E476141-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -822,6 +792,36 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480169/item/goods_64_480169_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E480169-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "內搭",
+      "商品名稱": "レーサーバックブラトップ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484830/item/jpgoods_00_484830_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484830-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "內搭",
+      "商品名稱": "リブブラトップ/アメリカンスリーブ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482198/item/jpgoods_03_482198_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482198-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ホルターネックブラタンクトップ",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/473990/item/goods_00_473990_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E473990-000/00"
     }
   ]
 }
