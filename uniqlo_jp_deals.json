@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-20 15:20:34",
-  "total": 81,
+  "scraped_at": "2026-05-20 18:16:05",
+  "total": 82,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -812,6 +812,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475380/item/jpgoods_31_475380_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E475380-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ピーナッツ スウェットシャツ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/481055/item/goods_01_481055_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481055-000/00"
     }
   ]
 }
