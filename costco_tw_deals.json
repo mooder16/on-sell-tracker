@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-20 07:44:12",
+  "scraped_at": "2026-05-20 10:52:28",
   "total": 56,
   "products": [
     {
@@ -256,6 +256,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "清潔",
+      "商品名稱": "歐樂B iO 電動牙刷刷頭 8入 微震清潔",
+      "現價": "1549",
+      "原價": "1939",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0e/h10/332442348748830.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Electric-Toothbrushes-Water-Flossers/Oral-B-iO-Toothbrush-Replacement-Brush-Head-8-Count-Ultimate-Clean/p/144257"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "米森 有機漢方養氣茶 6公克 X 30入",
       "現價": "379",
@@ -351,7 +361,7 @@
       "現價": "525",
       "原價": "659",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd1/h15/452308888223774.jpg",
-      "商品連結": "https://www.costco.com.tw/p/158905"
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/Pantene-White-Tea-Peony-Fine-Fragrance-Set-Shampoo-440-g-Conditioner-440-g/p/158905"
     },
     {
       "品牌": "Costco 台灣",
@@ -475,16 +485,6 @@
     },
     {
       "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Crest 3D美白牙貼 溫和型 14次 X 2入",
-      "現價": "1079",
-      "原價": "1355",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3c/hd8/116285357195294.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Oral-Care/Crest-3D-Whitestrips-Dental-Whitening-Kit-Gentle-Routine-14-Piece-X-2-Pack/p/118490"
-    },
-    {
-      "品牌": "Costco 台灣",
       "來源": "Costco 降價商品",
       "分類": "食品",
       "商品名稱": "科克蘭 鹽烤杏仁 1.13公斤",
@@ -536,16 +536,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 降價商品",
-      "分類": "居家",
-      "商品名稱": "Gorilla Rack 五層強化倉儲架 6入",
-      "現價": "36699",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcd/hd1/157818636828702.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-Rack-5-Tier-Industrial-Rack-6-Pack/p/139736"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 降價商品",
       "分類": "食品",
       "商品名稱": "科克蘭 杏仁 1.36公斤",
       "現價": "519",
@@ -562,6 +552,16 @@
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h20/h39/157819005534238.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-Rack-5-Tier-Industrial-Rack/p/1600209"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 降價商品",
+      "分類": "居家",
+      "商品名稱": "Gorilla Rack 五層強化倉儲架 6入",
+      "現價": "36699",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcd/hd1/157818636828702.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-Rack-5-Tier-Industrial-Rack-6-Pack/p/139736"
     }
   ]
 }
