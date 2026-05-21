@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-21 11:26:11",
+  "scraped_at": "2026-05-21 15:26:19",
   "total": 56,
   "products": [
     {
@@ -266,16 +266,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "歐樂B iO 電動牙刷刷頭 8入 微震溫和",
-      "現價": "1549",
-      "原價": "1939",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h82/h10/438875893006366.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Electric-Toothbrushes-Water-Flossers/Oral-B-iO-Toothbrush-Replacement-Brush-Heads-8-Count-Gentle-Care/p/155548"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "居家",
       "商品名稱": "LEGO 多功能收納袋三入組",
       "現價": "349",
@@ -482,6 +472,16 @@
       "原價": "419",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h74/hf6/420197073977374.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Jules-Destrooper-Butter-Crisp-Selection-620-g/p/152801"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "名廚美饌 冷凍德國豬腳 700公克 X 3入",
+      "現價": "719",
+      "原價": "899",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0b/h27/309921252802590.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/PGI-Cuisine-De-Chef-Frozen-Roasted-Pork-Knuckle-700-g-X-3-Count/p/141223"
     },
     {
       "品牌": "Costco 台灣",
