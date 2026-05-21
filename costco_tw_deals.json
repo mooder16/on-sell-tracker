@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-21 15:26:19",
+  "scraped_at": "2026-05-21 18:00:38",
   "total": 56,
   "products": [
     {
@@ -119,7 +119,7 @@
       "分類": "食品",
       "商品名稱": "北海 鱈魚香絲 青花椒辣味 600公克",
       "現價": "294",
-      "原價": "349",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h6a/h3e/382254248099870.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/North-Sea-Fish-Snack-Sichuan-Green-Peppercorn-Spicy-Flavor-600-g/p/336249"
     },
@@ -149,7 +149,7 @@
       "分類": "食品",
       "商品名稱": "西雅圖 榛果風味濃淬咖啡球 16毫升 X 40入",
       "現價": "299",
-      "原價": "379",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h62/h56/368770704965662.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Barista-Hazelnut-Flavor-Espresso-Shot-16-ml-X-40-Count/p/234436"
     },
