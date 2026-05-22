@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-22 07:45:42",
+  "scraped_at": "2026-05-22 10:52:45",
   "total": 56,
   "products": [
     {
@@ -266,16 +266,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Levi's 男內褲四入組",
-      "現價": "369",
-      "原價": "469",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9d/h87/437686995386398.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Levis-Mens-Active-Boxer-4-Pack-Set/p/156158"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "健康保健",
       "商品名稱": "益昌 生椰拿鐵 16公克 X 50入",
       "現價": "329",
@@ -286,22 +276,22 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "Oreo X Milka 巧克力風味豆 綜合夾餡餅乾分享組 832克",
-      "現價": "349",
-      "原價": "429",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h48/he9/346620767895582.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Oreo-X-Milka-Sensations-Cookies-Share-Pack-832-g/p/149563"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "居家",
       "商品名稱": "LEGO 多功能收納袋三入組",
       "現價": "349",
       "原價": "449",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he0/hba/433626081853470.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Totes-Backpacks/LEGO-Packing-Cubes-3-Piece-Set/p/157245"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "Oreo X Milka 巧克力風味豆 綜合夾餡餅乾分享組 832克",
+      "現價": "349",
+      "原價": "429",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h48/he9/346620767895582.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Oreo-X-Milka-Sensations-Cookies-Share-Pack-832-g/p/149563"
     },
     {
       "品牌": "Costco 台灣",
@@ -357,6 +347,16 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "服飾",
+      "商品名稱": "Levi's 男內褲四入組",
+      "現價": "369",
+      "原價": "469",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9d/h87/437686995386398.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Levis-Mens-Active-Boxer-4-Pack-Set/p/156158"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
       "商品名稱": "Skechers 女涼感短袖上衣",
       "現價": "359",
       "原價": "449",
@@ -386,22 +386,22 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "La Belle 素色涼感被 150公分 X 200公分 水藍",
-      "現價": "999",
-      "原價": "1259",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h29/h68/433626147586078.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/La-Belle-ICE-Cool-Quilt-150-cm-X-200-cm-Blue/p/258611"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "服飾",
       "商品名稱": "Nautica 男短袖上衣",
       "現價": "429",
       "原價": "539",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3c/h73/420739440607262.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Nautica-Mens-Short-Sleeve-Tee/p/137213"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "La Belle 素色涼感被 150公分 X 200公分 水藍",
+      "現價": "999",
+      "原價": "1259",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h29/h68/433626147586078.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/La-Belle-ICE-Cool-Quilt-150-cm-X-200-cm-Blue/p/258611"
     },
     {
       "品牌": "Costco 台灣",
@@ -476,12 +476,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Adidas 男拖鞋",
-      "現價": "539",
-      "原價": "679",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd0/h5c/436453316657182.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Adidas-Mens-Lightshift-Slide/p/154457"
+      "分類": "其他",
+      "商品名稱": "Crest 3D美白牙貼 溫和型 14次 X 2入",
+      "現價": "1079",
+      "原價": "1355",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3c/hd8/116285357195294.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Oral-Care/Crest-3D-Whitestrips-Dental-Whitening-Kit-Gentle-Routine-14-Piece-X-2-Pack/p/118490"
     },
     {
       "品牌": "Costco 台灣",
