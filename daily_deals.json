@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-05-22 17:50:37",
-  "total": 183,
+  "scraped_at": "2026-05-22 21:09:01",
+  "total": 181,
   "products": [
     {
       "分類": "上衣",
@@ -1068,14 +1068,6 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052955"
     },
     {
-      "分類": "褲子",
-      "商品名稱": "彈性長褲",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052743/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052743"
-    },
-    {
       "分類": "洋裝",
       "商品名稱": "特級彈性V領洋裝(無袖)",
       "現價": "590",
@@ -1378,14 +1370,6 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053622/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053622"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "麂皮拼接休閒鞋",
-      "現價": "490",
-      "原價": "1490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050714/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050714"
     },
     {
       "分類": "其他",
