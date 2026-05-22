@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-05-22 14:38:28",
+  "scraped_at": "2026-05-22 17:51:41",
   "total": 71,
   "products": [
     {
@@ -52,16 +52,6 @@
       "截止日期": "5/28まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484050/item/jpgoods_37_484050_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484050-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "ソフトニットフリースクルーネックT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "5/28まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/470143/item/jpgoods_11_470143_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E470143-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
@@ -712,6 +702,16 @@
       "截止日期": "5/28まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488928/item/goods_39_488928_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E488928-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "POP MART UT/オーバーサイズフィット",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "5/28まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484484/item/jpgoods_01_484484_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484484-000/00"
     }
   ]
 }
