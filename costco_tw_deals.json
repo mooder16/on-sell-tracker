@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-23 13:25:51",
+  "scraped_at": "2026-05-23 17:01:11",
   "total": 56,
   "products": [
     {
@@ -148,8 +148,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "MJB 冷泡咖啡濾泡包 18公克 X 40入",
-      "現價": "355",
-      "原價": "439",
+      "現價": "439",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcb/hc2/61939550191646.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/MJB-Cold-Brew-Coffee-18-g-X-40-Count/p/126788"
     },
@@ -272,16 +272,6 @@
       "原價": "429",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd4/h20/281048026120222.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/SIP-Perfect-Coconut-Latte-16-g-X-50-Pack/p/149178"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "LEGO 多功能收納袋三入組",
-      "現價": "349",
-      "原價": "449",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he0/hba/433626081853470.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Totes-Backpacks/LEGO-Packing-Cubes-3-Piece-Set/p/157245"
     },
     {
       "品牌": "Costco 台灣",
@@ -482,6 +472,16 @@
       "原價": "1065",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha4/h4c/403085408993310.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/Pantene-Pro-V-Intensive-Shot-Nourishing-Mask-12-ml-X-42-Count/p/1150756"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "美妝保養",
+      "商品名稱": "桂格 5X參蔘濃縮精華飲 15毫升 X 34入",
+      "現價": "1399",
+      "原價": "1749",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf9/h2c/242857587146782.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Quaker-5X-Ginseng-Essence-15-ml-X-34-Count/p/128443"
     },
     {
       "品牌": "Costco 台灣",
