@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-05-22 21:09:01",
-  "total": 181,
+  "scraped_at": "2026-05-23 02:52:54",
+  "total": 177,
   "products": [
     {
       "分類": "上衣",
@@ -693,14 +693,6 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "亞麻混紡條紋外套",
-      "現價": "590",
-      "原價": "1490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053446/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053446"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "Peanuts 教練外套",
       "現價": "790",
       "原價": "1690",
@@ -818,14 +810,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053716/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053716"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "防潑水多口袋機能短褲 478227",
-      "現價": "590",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050883/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050883"
     },
     {
       "分類": "褲子",
@@ -1034,14 +1018,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054087/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054087"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "直筒牛仔寬褲 480742",
-      "現價": "390",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050276/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050276"
     },
     {
       "分類": "褲子",
@@ -1370,14 +1346,6 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053622/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053622"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "HEATTECH羅紋毛帽",
-      "現價": "149",
-      "原價": "390",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052314/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052314"
     },
     {
       "分類": "上衣",
