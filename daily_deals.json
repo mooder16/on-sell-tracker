@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-05-23 16:58:35",
-  "total": 176,
+  "scraped_at": "2026-05-23 20:51:20",
+  "total": 173,
   "products": [
     {
       "分類": "上衣",
@@ -685,14 +685,6 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "風衣外套",
-      "現價": "1690",
-      "原價": "3490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052770/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052770"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "Peanuts 教練外套",
       "現價": "790",
       "原價": "1690",
@@ -1021,14 +1013,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "燈芯絨工裝長褲",
-      "現價": "490",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052321/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052321"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "孕婦包腹特級彈性牛仔緊身褲 473651 / 472124",
       "現價": "390",
       "原價": "1290",
@@ -1322,14 +1306,6 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053623/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053623"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "帆布托特包",
-      "現價": "790",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053617/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053617"
     },
     {
       "分類": "其他",
