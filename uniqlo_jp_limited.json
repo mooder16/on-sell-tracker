@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-05-23 09:53:18",
+  "scraped_at": "2026-05-23 13:24:16",
   "total": 71,
   "products": [
     {
@@ -555,16 +555,6 @@
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "內搭",
-      "商品名稱": "ザ・ブランズ UT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "5/28まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485042/item/jpgoods_00_485042_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485042-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
       "分類": "其他",
       "商品名稱": "エリオット・アーウィット UT",
       "現價": "1290",
@@ -712,6 +702,16 @@
       "截止日期": "5/28まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484483/item/jpgoods_03_484483_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484483-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "POP MART UT/オーバーサイズフィット",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "5/28まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484485/item/jpgoods_00_484485_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484485-000/00"
     }
   ]
 }
