@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-24 13:24:59",
+  "scraped_at": "2026-05-24 17:00:58",
   "total": 74,
   "products": [
     {
@@ -640,7 +640,7 @@
       "現價": "1990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482454/item/jpgoods_61_482454_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482454/item/jpgoods_70_482454_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482454-000/00"
     },
     {
@@ -682,16 +682,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487393/item/jpgoods_31_487393_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487393-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "褲子",
-      "商品名稱": "ローライズワイドジーンズ",
-      "現價": "3990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483764/item/jpgoods_65_483764_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483764-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -742,6 +732,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484037/item/jpgoods_30_484037_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484037-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "褲子",
+      "商品名稱": "スラウチジーンズ",
+      "現價": "6990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/467670/item/goods_68_467670_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E467670-000/00"
     }
   ]
 }

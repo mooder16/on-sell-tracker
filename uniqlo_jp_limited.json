@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-05-24 13:25:30",
+  "scraped_at": "2026-05-24 17:01:29",
   "total": 71,
   "products": [
     {
@@ -202,16 +202,6 @@
       "截止日期": "5/28まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487559/item/jpgoods_09_487559_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487559-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "長場雄 UT/リラックスフィット",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "5/28まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/485038/item/goods_03_485038_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485038-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
@@ -712,6 +702,16 @@
       "截止日期": "5/28まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484485/item/jpgoods_00_484485_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484485-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "POP MART UT/オーバーサイズフィット",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "5/28まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483259/item/jpgoods_08_483259_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483259-000/00"
     }
   ]
 }
