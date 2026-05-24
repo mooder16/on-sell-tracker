@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-05-24 09:54:23",
+  "scraped_at": "2026-05-24 13:25:30",
   "total": 71,
   "products": [
     {
@@ -160,7 +160,7 @@
       "現價": "1290",
       "原價": "",
       "截止日期": "5/28まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486103/item/jpgoods_00_486103_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486103/item/jpgoods_09_486103_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E486103-000/00"
     },
     {
@@ -516,16 +516,6 @@
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "其他",
-      "商品名稱": "長場雄 UT/リラックスフィット",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "5/28まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484909/item/jpgoods_69_484909_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484909-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
       "商品名稱": "マンガUT 集英社創業100周年 /【推しの子】",
       "現價": "1290",
       "原價": "",
@@ -646,16 +636,6 @@
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "其他",
-      "商品名稱": "ズートピア UT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "5/28まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484358/item/jpgoods_00_484358_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484358-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
       "商品名稱": "浮世絵 ダークファンタジー UT",
       "現價": "1290",
       "原價": "",
@@ -712,6 +692,26 @@
       "截止日期": "5/28まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484484/item/jpgoods_01_484484_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484484-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "POP MART UT/オーバーサイズフィット",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "5/28まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484483/item/jpgoods_03_484483_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484483-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "POP MART UT/オーバーサイズフィット",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "5/28まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484485/item/jpgoods_00_484485_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484485-000/00"
     }
   ]
 }
