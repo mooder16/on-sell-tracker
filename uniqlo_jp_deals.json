@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-25 03:43:17",
+  "scraped_at": "2026-05-25 08:21:00",
   "total": 74,
   "products": [
     {
@@ -245,6 +245,16 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "エアリズムブラTシャツ半袖",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477001/item/goods_00_477001_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E477001-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
       "分類": "內搭",
       "商品名稱": "レーサーバックブラトップ",
       "現價": "2490",
@@ -282,16 +292,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479089/item/goods_00_479089_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E479089-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "スウェットワイドパンツ",
-      "現價": "2990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/471809/item/jpgoods_31_471809_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E471809-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -586,6 +586,16 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
+      "商品名稱": "コットンオーバーサイズシャツ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483880/item/jpgoods_00_483880_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483880-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
       "商品名稱": "オープンカラーオックスフォードシャツワンピース",
       "現價": "1990",
       "原價": "",
@@ -706,6 +716,16 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "褲子",
+      "商品名稱": "ローライズワイドジーンズ",
+      "現價": "3990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483764/item/jpgoods_65_483764_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483764-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "褲子",
       "商品名稱": "ブラッシュドジャージーワイドパンツ/丈長め",
       "現價": "2990",
       "原價": "",
@@ -722,26 +742,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/479284/item/jpgoods_08_479284_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E479284-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "褲子",
-      "商品名稱": "ハイライズストレートパンツ",
-      "現價": "3990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484033/item/jpgoods_56_484033_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484033-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "褲子",
-      "商品名稱": "カーゴパンツ",
-      "現價": "2990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483511/item/jpgoods_01_483511_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483511-000/00"
     }
   ]
 }
