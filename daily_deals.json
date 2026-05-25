@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-05-25 14:52:12",
-  "total": 171,
+  "scraped_at": "2026-05-25 17:42:58",
+  "total": 172,
   "products": [
     {
       "分類": "上衣",
@@ -157,19 +157,19 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "雙色T恤(短袖)",
-      "現價": "490",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053767/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053767"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "SUPIMA COTTON 圓領T恤(短袖)",
       "現價": "290",
       "原價": "390",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053873/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053873"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "雙色T恤(短袖)",
+      "現價": "490",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053767/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053767"
     },
     {
       "分類": "上衣",
@@ -197,19 +197,19 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "V領T恤(短袖)",
-      "現價": "290",
-      "原價": "390",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053835/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053835"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "DRY華夫格圓領T恤(短袖)",
       "現價": "390",
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053434/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053434"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "V領T恤(短袖)",
+      "現價": "290",
+      "原價": "390",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053835/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053835"
     },
     {
       "分類": "上衣",
@@ -254,7 +254,7 @@
     {
       "分類": "上衣",
       "商品名稱": "DRY-EX T恤(短袖)",
-      "現價": "490",
+      "現價": "390",
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050866/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050866"
@@ -362,6 +362,14 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054211/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054211"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "透膚T恤(長袖)",
+      "現價": "190",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053733/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053733"
     },
     {
       "分類": "上衣",
@@ -517,19 +525,19 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "防風立領布勞森外套",
-      "現價": "1490",
-      "原價": "1690",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053001/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053001"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "AIRism防曬抗UV網眼連帽外套(長袖) 465748",
       "現價": "790",
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050783/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050783"
+    },
+    {
+      "分類": "外套",
+      "商品名稱": "防風立領布勞森外套",
+      "現價": "1490",
+      "原價": "1690",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053001/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053001"
     },
     {
       "分類": "外套",
@@ -581,6 +589,14 @@
     },
     {
       "分類": "外套",
+      "商品名稱": "AIRism防曬網眼印花連帽外套(長袖)",
+      "現價": "790",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051257/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051257"
+    },
+    {
+      "分類": "外套",
       "商品名稱": "工裝短版牛仔外套",
       "現價": "1290",
       "原價": "1990",
@@ -589,11 +605,11 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "AIRism防曬網眼印花連帽外套(長袖)",
-      "現價": "790",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051257/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051257"
+      "商品名稱": "亞麻混紡外套",
+      "現價": "590",
+      "原價": "1490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053466/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053466"
     },
     {
       "分類": "外套",
@@ -842,14 +858,6 @@
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051242/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051242"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "繭型九分褲",
-      "現價": "790",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053645/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053645"
     },
     {
       "分類": "褲子",
@@ -1204,20 +1212,20 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053891"
     },
     {
-      "分類": "褲子",
-      "商品名稱": "AIRism襯褲",
-      "現價": "290",
-      "原價": "390",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053237/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053237"
-    },
-    {
       "分類": "其他",
       "商品名稱": "長襪(休閒)",
       "現價": "99",
       "原價": "120",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053758/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053758"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "AIRism襯褲",
+      "現價": "290",
+      "原價": "390",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053237/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053237"
     },
     {
       "分類": "其他",
