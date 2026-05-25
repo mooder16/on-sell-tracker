@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-05-25 08:21:31",
+  "scraped_at": "2026-05-25 14:53:17",
   "total": 71,
   "products": [
     {
@@ -292,16 +292,6 @@
       "截止日期": "5/28まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488256/item/jpgoods_09_488256_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E488256-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ジャン＝ミシェル・バスキア UT/リラックスフィット",
-      "現價": "790",
-      "原價": "",
-      "截止日期": "5/28まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485071/item/jpgoods_57_485071_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485071-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
@@ -712,6 +702,16 @@
       "截止日期": "5/28まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484475/item/jpgoods_01_484475_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484475-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "ピーナッツ UT",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "5/28まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484473/item/jpgoods_01_484473_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484473-000/00"
     }
   ]
 }

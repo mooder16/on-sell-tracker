@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-25 08:23:06",
+  "scraped_at": "2026-05-25 14:54:52",
   "total": 56,
   "products": [
     {
@@ -131,7 +131,7 @@
       "現價": "259",
       "原價": "329",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h13/h85/379898443202590.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/463941"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/MY-MOTTO-Strawberries-Cream-Flavor-Wafer-30-g-X-20-Pack/p/463941"
     },
     {
       "品牌": "Costco 台灣",
@@ -232,6 +232,16 @@
       "原價": "1399",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb9/hd0/467794279071774.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/Pampers-Night-Pants-Size-XL-102-Piece/p/159716"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "Hario 日本製冷萃茶壺 1.2公升",
+      "現價": "529",
+      "原價": "669",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h6a/h4c/433626099417118.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Hario-Tritan-Cold-Brew-Tea-Pitcher-12-L/p/158984"
     },
     {
       "品牌": "Costco 台灣",
@@ -472,16 +482,6 @@
       "原價": "465",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h43/h87/381454913044510.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Sports-Performance/Morinaga-IN-Jelly-Vegetable-150-g-X-12-Pack/p/154796"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "興麥烘焙王國 牛奶醬菠蘿泡芙 576公克",
-      "現價": "299",
-      "原價": "369",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdb/h68/402145146437662.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Ximai-Milk-Crumble-Skin-Puff-576-g/p/149528"
     },
     {
       "品牌": "Costco 台灣",
