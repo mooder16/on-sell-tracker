@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-05-26 03:28:11",
-  "total": 174,
+  "scraped_at": "2026-05-26 07:43:19",
+  "total": 176,
   "products": [
     {
       "分類": "上衣",
@@ -389,6 +389,14 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "棉麻襯衫(短袖)",
+      "現價": "390",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050699/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050699"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "透膚T恤(長袖)",
       "現價": "190",
       "原價": "590",
@@ -773,14 +781,6 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "輕型棉質抓皺上衣",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053454/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053454"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "府綢寬版襯衫(長袖)",
       "現價": "490",
       "原價": "1290",
@@ -874,6 +874,14 @@
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051242/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051242"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "繭型九分褲",
+      "現價": "790",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053645/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053645"
     },
     {
       "分類": "褲子",
@@ -1141,6 +1149,14 @@
     },
     {
       "分類": "裙子",
+      "商品名稱": "魚尾長裙(印花)",
+      "現價": "290",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053096/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053096"
+    },
+    {
+      "分類": "裙子",
       "商品名稱": "魚尾長裙",
       "現價": "290",
       "原價": "990",
@@ -1317,19 +1333,19 @@
     },
     {
       "分類": "其他",
+      "商品名稱": "太陽眼鏡",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053628/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053628"
+    },
+    {
+      "分類": "其他",
       "商品名稱": "繩編涼鞋",
       "現價": "790",
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053622/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053622"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "太陽眼鏡",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053629/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053629"
     },
     {
       "分類": "上衣",
