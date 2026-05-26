@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-26 15:27:18",
+  "scraped_at": "2026-05-26 18:27:48",
   "total": 56,
   "products": [
     {
@@ -78,8 +78,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "Kid-O 奶油三明治家庭號 1530公克",
-      "現價": "279",
-      "原價": "349",
+      "現價": "289",
+      "原價": "359",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h6d/h26/311830168076318.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Kid-O-Butter-Cracker-Sandwich-1530-g/p/156970"
     },
@@ -197,31 +197,11 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
-      "商品名稱": "Ocean Spray 蔓越莓乾減少砂糖配方 1221公克",
-      "現價": "339",
-      "原價": "419",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h89/hd8/48950162718750.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Ocean-Spray-Craisins-Dried-Cranberries-Reduced-Sugar-1221-g/p/111533"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
       "商品名稱": "Hario 日本製冷萃茶壺 1.2公升",
       "現價": "529",
       "原價": "669",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h6a/h4c/433626099417118.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Hario-Tritan-Cold-Brew-Tea-Pitcher-12-L/p/158984"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "FRUIT & SEED 果乾葵花籽綜合點心 737公克",
-      "現價": "379",
-      "原價": "469",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he7/had/417162019733534.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/FRUIT-SEED-Dried-Fruit-and-Sunflower-Seed-Mix-Snack-737-g/p/1944580"
     },
     {
       "品牌": "Costco 台灣",
@@ -482,6 +462,26 @@
       "原價": "369",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdb/h68/402145146437662.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Ximai-Milk-Crumble-Skin-Puff-576-g/p/149528"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "清潔",
+      "商品名稱": "Clorox 高樂氏 漂白清潔劑 噴槍瓶 946毫升 + 補充瓶 5.32公升",
+      "現價": "479",
+      "原價": "599",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h42/hca/86343580811294.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Cleaning-Supplies/Clorox-Clean-Up-Cleaner-with-Bleach-946-ml-Refill-532-L/p/913437"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "森永in果凍 (蔬果能量) 150公克 X 12入",
+      "現價": "369",
+      "原價": "465",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h43/h87/381454913044510.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Sports-Performance/Morinaga-IN-Jelly-Vegetable-150-g-X-12-Pack/p/154796"
     },
     {
       "品牌": "Costco 台灣",
