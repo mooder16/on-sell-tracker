@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-05-27 03:41:50",
-  "total": 178,
+  "scraped_at": "2026-05-27 08:03:20",
+  "total": 183,
   "products": [
     {
       "分類": "上衣",
@@ -397,6 +397,22 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "透膚T恤(長袖)",
+      "現價": "190",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053733/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053733"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "水洗棉質圓領T恤(長袖)",
+      "現價": "290",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053907/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053907"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "華夫格圓領T恤(長袖)",
       "現價": "190",
       "原價": "590",
@@ -540,6 +556,14 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053044"
     },
     {
+      "分類": "上衣",
+      "商品名稱": "可機洗羅紋POLO針織衫(長袖)",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053352/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053352"
+    },
+    {
       "分類": "外套",
       "商品名稱": "特級亞麻外套",
       "現價": "1990",
@@ -674,6 +698,14 @@
       "原價": "2490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053615/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053615"
+    },
+    {
+      "分類": "外套",
+      "商品名稱": "短版布勞森外套",
+      "現價": "1290",
+      "原價": "1990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053871/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053871"
     },
     {
       "分類": "外套",
@@ -1402,6 +1434,14 @@
       "原價": "490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051812/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051812"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "Sanrio characters UT印花T恤(短袖)",
+      "現價": "290",
+      "原價": "490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052735/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052735"
     },
     {
       "分類": "上衣",
