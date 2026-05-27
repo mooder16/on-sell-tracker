@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-05-27 18:27:24",
+  "scraped_at": "2026-05-27 21:55:11",
   "total": 71,
   "products": [
     {
@@ -332,16 +332,6 @@
       "截止日期": "5/28まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485054/item/jpgoods_66_485054_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485054-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /SAKAMOTO DAYS",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "5/28まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488255/item/jpgoods_45_488255_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488255-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
@@ -712,6 +702,16 @@
       "截止日期": "5/28まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484478/item/jpgoods_17_484478_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484478-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "ピーナッツ UT",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "5/28まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484477/item/jpgoods_00_484477_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484477-000/00"
     }
   ]
 }
