@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-27 08:05:56",
+  "scraped_at": "2026-05-27 15:41:44",
   "total": 56,
   "products": [
     {
@@ -192,6 +192,16 @@
       "原價": "419",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h74/hf6/420197073977374.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Jules-Destrooper-Butter-Crisp-Selection-620-g/p/152801"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "美妝保養",
+      "商品名稱": "桂格 5X參蔘濃縮精華飲 15毫升 X 34入",
+      "現價": "1399",
+      "原價": "1749",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf9/h2c/242857587146782.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Quaker-5X-Ginseng-Essence-15-ml-X-34-Count/p/128443"
     },
     {
       "品牌": "Costco 台灣",
@@ -417,16 +427,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
-      "商品名稱": "Mon Chateau 高回彈防水抗汙地墊 50公分 X 106公分",
-      "現價": "529",
-      "原價": "669",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb9/h29/413801453387806.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Mon-Chateau-Gel-Mat-50-cm-X-106-cm/p/1736976"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
       "商品名稱": "桂格 冰沖堅果脆麥片 奇亞籽酥片 & 堅果顆粒 31公克 X 50包",
       "現價": "379",
       "原價": "469",
@@ -487,16 +487,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 降價商品",
       "分類": "食品",
-      "商品名稱": "科克蘭 鹽烤杏仁 1.13公斤",
-      "現價": "469",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h73/hb7/102357830074398.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Dry-Roasted-Almonds-113-kg/p/1516851"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 降價商品",
-      "分類": "食品",
       "商品名稱": "科克蘭 杏仁 1.36公斤",
       "現價": "519",
       "原價": "",
@@ -542,6 +532,16 @@
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h20/h39/157819005534238.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-Rack-5-Tier-Industrial-Rack/p/1600209"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 降價商品",
+      "分類": "食品",
+      "商品名稱": "科克蘭 鹽烤杏仁 1.13公斤",
+      "現價": "469",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h73/hb7/102357830074398.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Dry-Roasted-Almonds-113-kg/p/1516851"
     },
     {
       "品牌": "Costco 台灣",
