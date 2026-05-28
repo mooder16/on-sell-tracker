@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-05-28 07:57:52",
+  "scraped_at": "2026-05-28 11:41:21",
   "total": 71,
   "products": [
     {
@@ -12,16 +12,6 @@
       "截止日期": "5/28まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484231/item/jpgoods_10_484231_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484231-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "シアーメッシュクルーネックT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "5/28まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484795/item/jpgoods_09_484795_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484795-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
@@ -555,16 +545,6 @@
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "內搭",
-      "商品名稱": "ザ・ブランズ UT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "5/28まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483745/item/jpgoods_00_483745_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483745-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
       "分類": "其他",
       "商品名稱": "浮世絵ブルー UT",
       "現價": "1290",
@@ -712,6 +692,26 @@
       "截止日期": "5/28まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484478/item/jpgoods_17_484478_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484478-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "ピーナッツ UT",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "5/28まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484477/item/jpgoods_00_484477_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484477-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "ピーナッツ UT",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "5/28まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483258/item/jpgoods_00_483258_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483258-000/00"
     }
   ]
 }
