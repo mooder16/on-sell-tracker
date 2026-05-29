@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-29 15:27:53",
+  "scraped_at": "2026-05-29 18:32:27",
   "total": 78,
   "products": [
     {
@@ -332,6 +332,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482301/item/jpgoods_18_482301_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482301-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "スウェットシャツ",
+      "現價": "2990",
+      "原價": "2990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475377/item/jpgoods_31_475377_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475377-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -772,16 +782,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483960/item/jpgoods_66_483960_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483960-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ウォッシャブルミラノリブクルーネックセーター",
-      "現價": "3990",
-      "原價": "3990",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/453754/item/jpgoods_31_453754_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E453754-000/00"
     }
   ]
 }
