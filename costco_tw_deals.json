@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-30 13:30:08",
+  "scraped_at": "2026-05-30 17:05:44",
   "total": 56,
   "products": [
     {
@@ -396,16 +396,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "美妝保養",
-      "商品名稱": "桂格 5X參蔘濃縮精華飲 15毫升 X 34入",
-      "現價": "1399",
-      "原價": "1749",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf9/h2c/242857587146782.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Quaker-5X-Ginseng-Essence-15-ml-X-34-Count/p/128443"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "Skittles 彩虹糖綜合歡樂箱 38公克 X 20包",
       "現價": "349",
@@ -482,6 +472,16 @@
       "原價": "969",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hea/h29/420197447729182.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Makeup-Beauty-Accessories/Ted-Baker-Skinwear-Original-200-ml-X-2-Pack/p/591975"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Advent 女短袖睡衣套組",
+      "現價": "559",
+      "原價": "699",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h54/h03/437687004626974.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Pajamas/Advent-Ladies-Short-Sleeve-Pajama-Set/p/156611"
     },
     {
       "品牌": "Costco 台灣",
