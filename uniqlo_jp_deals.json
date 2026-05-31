@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-31 03:43:59",
+  "scraped_at": "2026-05-31 07:46:04",
   "total": 78,
   "products": [
     {
@@ -130,7 +130,7 @@
       "現價": "990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484047/item/jpgoods_01_484047_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484047/item/jpgoods_71_484047_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484047-000/00"
     },
     {
@@ -172,6 +172,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485300/item/jpgoods_41_485300_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485300-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ミニT",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484001/item/jpgoods_69_484001_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484001-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -487,16 +497,6 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "ディズニー UT/オーバーサイズフィット",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484459/item/jpgoods_40_484459_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484459-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ディズニー UT/オーバーサイズフィット",
       "現價": "1290",
       "原價": "",
       "截止日期": "",
@@ -512,6 +512,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484460/item/jpgoods_02_484460_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484460-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ディズニー UT/オーバーサイズフィット",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484463/item/jpgoods_61_484463_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484463-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -772,16 +782,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484852/item/jpgoods_69_484852_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484852-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "メリノVネックカーディガン",
-      "現價": "2990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450540/item/goods_69_450540_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E450540-000/00"
     }
   ]
 }
