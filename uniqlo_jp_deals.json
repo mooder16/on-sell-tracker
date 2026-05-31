@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-05-31 10:16:01",
+  "scraped_at": "2026-05-31 13:43:47",
   "total": 78,
   "products": [
     {
@@ -180,16 +180,6 @@
       "現價": "1290",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484001/item/jpgoods_69_484001_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484001-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ミニT",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484266/item/jpgoods_31_484266_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484266-000/00"
     },
@@ -220,7 +210,7 @@
       "現價": "1990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/484193/item/goods_19_484193_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/484193/item/goods_01_484193_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484193-000/00"
     },
     {
@@ -526,16 +516,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "たまごっち UT/オーバーサイズフィット",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484467/item/jpgoods_71_484467_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484467-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "矢沢あいコレクション UT",
       "現價": "500",
       "原價": "",
@@ -782,6 +762,26 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484852/item/jpgoods_69_484852_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484852-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "メリノVネックカーディガン",
+      "現價": "2990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450540/item/goods_69_450540_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E450540-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "外套",
+      "商品名稱": "ウォッシャブル3Dニットプルパーカ",
+      "現價": "3990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483960/item/jpgoods_66_483960_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483960-000/00"
     }
   ]
 }

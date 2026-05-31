@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-05-31 10:18:05",
+  "scraped_at": "2026-05-31 13:45:37",
   "total": 56,
   "products": [
     {
@@ -426,16 +426,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "ITO 浴巾柔巾旅行套裝組 (浴巾 X 1入 + 毛巾 X 2入) X 8包",
-      "現價": "409",
-      "原價": "519",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf6/h05/402145531330590.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/ITO-Travel-Towel-Set-Bath-towel-X-1-Piece-Towels-X-2-Piece-X-8-Pack/p/8524511"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "清潔",
       "商品名稱": "Clorox 高樂氏 漂白清潔劑 噴槍瓶 946毫升 + 補充瓶 5.32公升",
       "現價": "479",
@@ -456,16 +446,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "美妝保養",
-      "商品名稱": "Ted Baker 經典款香水 200毫升 X 2入",
-      "現價": "769",
-      "原價": "969",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hea/h29/420197447729182.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Makeup-Beauty-Accessories/Ted-Baker-Skinwear-Original-200-ml-X-2-Pack/p/591975"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "服飾",
       "商品名稱": "Advent 女短袖睡衣套組",
       "現價": "559",
@@ -482,6 +462,26 @@
       "原價": "999",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd6/h06/223676583444510.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Reverie-Hydrophilic-Foam-Pillow-62-cm-X-40-cm-X-12-cm/p/143754"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "得意的一天 滴雞精干貝粥 300公克 X 9包",
+      "現價": "829",
+      "原價": "1029",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf5/h19/362186481631262.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Great-Day-Scallop-Congee-with-Chicken-Essence-300-g-X-9-Pack/p/152153"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "三上食楽 燃太郎 辣湯拉麵 187公克 X 6袋",
+      "現價": "339",
+      "原價": "419",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h89/h68/415897492684830.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Mikami-Shokuraku-Spicy-Soup-Ramen-187-g-X-6-Pack/p/339638"
     },
     {
       "品牌": "Costco 台灣",
