@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-06-01 17:37:35",
-  "total": 149,
+  "scraped_at": "2026-06-01 22:32:58",
+  "total": 147,
   "products": [
     {
       "分類": "上衣",
@@ -645,14 +645,6 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "立領襯衫(長袖)",
-      "現價": "390",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053893/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053893"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "特級亞麻襯衫(長袖)",
       "現價": "990",
       "原價": "1290",
@@ -850,14 +842,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053104/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053104"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "DRY彈性休閒長褲",
-      "現價": "590",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053923/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053923"
     },
     {
       "分類": "褲子",
