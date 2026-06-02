@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-06-02 16:23:30",
-  "total": 79,
+  "scraped_at": "2026-06-02 22:23:11",
+  "total": 80,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -792,6 +792,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484192/item/jpgoods_16_484192_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484192-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ポロセーター/ウォッシャブル",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484000/item/jpgoods_41_484000_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484000-000/00"
     }
   ]
 }
