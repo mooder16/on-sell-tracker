@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-06-03 04:02:48",
+  "scraped_at": "2026-06-03 09:04:06",
   "total": 56,
   "products": [
     {
@@ -311,7 +311,7 @@
       "現價": "339",
       "原價": "419",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h24/h58/368528963076126.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Meiji-Kinoko-Chocolate-Biscuits-66-g-X-8-Pack/p/203565"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/203565"
     },
     {
       "品牌": "Costco 台灣",
@@ -381,7 +381,7 @@
       "現價": "629",
       "原價": "749",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h88/hd8/368495669248030.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/Japan-Sakurajima-Sweet-Potato-2-kg/p/692356"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/p/692356"
     },
     {
       "品牌": "Costco 台灣",
@@ -391,7 +391,7 @@
       "現價": "20799",
       "原價": "25999",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h10/hdc/438875651571742.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/Skyworth-75-Inch-4K-QLED-HSR120-AI-Karaoke-Smart-Monitor-75Q750GK/p/153992"
+      "商品連結": "https://www.costco.com.tw/Televisions-TV-Accessories/p/153992"
     },
     {
       "品牌": "Costco 台灣",
@@ -466,22 +466,22 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Camper 女休閒運動鞋",
+      "現價": "2799",
+      "原價": "3499",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h19/h98/434451584581662.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Camper-Ladies-Sneaker/p/1846375"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "Nautica 女休閒服兩件組",
       "現價": "679",
       "原價": "849",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/heb/h7b/437687804952606.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Pajamas/Nautica-Ladies-Short-Sleeve-Lounge-Set/p/8518084"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Gertmenian 土耳其進口舒適地毯 160公分 X 213公分",
-      "現價": "2025",
-      "原價": "2535",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hfe/he0/413801460531230.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Gertmenian-Turkey-Hampton-Area-Rug-160-cm-X-213-cm/p/1903565"
     },
     {
       "品牌": "Costco 台灣",
@@ -521,7 +521,7 @@
       "現價": "6999",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h20/h39/157819005534238.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-Rack-5-Tier-Industrial-Rack/p/1600209"
+      "商品連結": "https://www.costco.com.tw/p/1600209"
     },
     {
       "品牌": "Costco 台灣",
@@ -541,7 +541,7 @@
       "現價": "36699",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcd/hd1/157818636828702.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-Rack-5-Tier-Industrial-Rack-6-Pack/p/139736"
+      "商品連結": "https://www.costco.com.tw/p/139736"
     },
     {
       "品牌": "Costco 台灣",
@@ -551,7 +551,7 @@
       "現價": "469",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h73/hb7/102357830074398.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Dry-Roasted-Almonds-113-kg/p/1516851"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/1516851"
     },
     {
       "品牌": "Costco 台灣",
