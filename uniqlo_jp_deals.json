@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-06-03 09:02:00",
+  "scraped_at": "2026-06-03 16:47:51",
   "total": 80,
   "products": [
     {
@@ -210,7 +210,7 @@
       "現價": "990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483576/item/jpgoods_69_483576_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483576/item/jpgoods_03_483576_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483576-000/00"
     },
     {
@@ -755,16 +755,6 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
-      "分類": "外套",
-      "商品名稱": "ドライストレッチスウェットジャケット",
-      "現價": "2990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484398/item/jpgoods_09_484398_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484398-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "スカラップクルーネックカーディガン/ウォッシャブル",
       "現價": "1290",
@@ -786,22 +776,32 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
-      "商品名稱": "ウォッシャブルミラノリブセーター/半袖",
-      "現價": "1290",
-      "原價": "",
+      "商品名稱": "ポロセーター/ウォッシャブル",
+      "現價": "2990",
+      "原價": "2990",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/478327/item/goods_66_478327_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E478327-000/00"
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484607/item/jpgoods_42_484607_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484607-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
-      "分類": "外套",
-      "商品名稱": "ウォッシャブルボタンダウンニットベスト",
+      "分類": "上衣",
+      "商品名稱": "コットンポインテールポロセーター/ウォッシャブル",
       "現價": "1990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484073/item/jpgoods_68_484073_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484073-000/00"
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484192/item/jpgoods_16_484192_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484192-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ポロセーター/ウォッシャブル",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484000/item/jpgoods_41_484000_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484000-000/00"
     }
   ]
 }
