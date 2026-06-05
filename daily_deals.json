@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-06-05 03:39:46",
-  "total": 145,
+  "scraped_at": "2026-06-05 08:05:52",
+  "total": 144,
   "products": [
     {
       "分類": "上衣",
@@ -365,14 +365,6 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "水洗棉質圓領T恤(長袖)",
-      "現價": "290",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053907/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053907"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "休閒上衣(長袖) 479797 / 475377",
       "現價": "390",
       "原價": "990",
@@ -402,6 +394,14 @@
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052411/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052411"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "柔滑棉圓領針織衫(長袖)",
+      "現價": "390",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053849/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053849"
     },
     {
       "分類": "上衣",
@@ -1066,14 +1066,6 @@
       "原價": "490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053848/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053848"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "可收納肩背包",
-      "現價": "490",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053900/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053900"
     },
     {
       "分類": "其他",
