@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-06-07 10:28:41",
-  "total": 152,
+  "scraped_at": "2026-06-07 13:50:37",
+  "total": 151,
   "products": [
     {
       "分類": "上衣",
@@ -485,14 +485,6 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "特級亞麻外套",
-      "現價": "1990",
-      "原價": "2990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053589/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053589"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "防曬透膚長版連帽外套",
       "現價": "790",
       "原價": "1990",
@@ -661,14 +653,6 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "輕型牛仔寬版襯衫(長袖)",
-      "現價": "490",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053770/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053770"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "立領襯衫(長袖)",
       "現價": "390",
       "原價": "990",
@@ -677,11 +661,11 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "特級亞麻條紋襯衫(長袖)",
-      "現價": "990",
+      "商品名稱": "府綢寬版襯衫(長袖)",
+      "現價": "490",
       "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050642/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050642"
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051656/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051656"
     },
     {
       "分類": "上衣",
@@ -924,14 +908,6 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052955"
     },
     {
-      "分類": "褲子",
-      "商品名稱": "彈性長褲",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052743/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052743"
-    },
-    {
       "分類": "洋裝",
       "商品名稱": "特級彈性V領洋裝(無袖)",
       "現價": "590",
@@ -1052,6 +1028,14 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053621"
     },
     {
+      "分類": "裙子",
+      "商品名稱": "緞面長裙",
+      "現價": "790",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053612/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053612"
+    },
+    {
       "分類": "其他",
       "商品名稱": "無鋼圈美型胸罩(彈性包覆)",
       "現價": "590",
@@ -1130,6 +1114,14 @@
       "原價": "490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000020076/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000020076"
+    },
+    {
+      "分類": "其他",
+      "商品名稱": "可收納肩背包",
+      "現價": "490",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053900/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053900"
     },
     {
       "分類": "其他",
