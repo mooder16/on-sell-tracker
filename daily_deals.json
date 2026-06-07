@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-06-06 21:03:41",
-  "total": 145,
+  "scraped_at": "2026-06-07 03:50:32",
+  "total": 144,
   "products": [
     {
       "分類": "上衣",
@@ -778,14 +778,6 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052762/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052762"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "休閒寬褲(褲腳抽繩)",
-      "現價": "390",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054044/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054044"
     },
     {
       "分類": "褲子",
