@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-06-07 03:51:06",
+  "scraped_at": "2026-06-07 07:54:53",
   "total": 79,
   "products": [
     {
@@ -136,6 +136,16 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
+      "商品名稱": "エアリズムコットンT",
+      "現價": "1500",
+      "原價": "1500",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465755/item/jpgoods_10_465755_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465755-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
       "商品名稱": "ポインテールラウンドネックミニT",
       "現價": "990",
       "原價": "",
@@ -170,7 +180,7 @@
       "現價": "990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483576/item/jpgoods_03_483576_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483576/item/jpgoods_10_483576_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483576-000/00"
     },
     {
@@ -366,22 +376,22 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
+      "商品名稱": "ジャン＝ミシェル・バスキア UT/リラックスフィット",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485071/item/jpgoods_57_485071_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485071-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
       "商品名稱": "マンガUT 集英社創業100周年 /ゴールデンカムイ",
       "現價": "1290",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487565/item/jpgoods_55_487565_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487565-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ドライEXクルーネックTシャツ",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465191/item/goods_08_465191_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465191-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -412,16 +422,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482301/item/jpgoods_18_482301_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482301-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "クルーネックTシャツ",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/422992/item/jpgoods_16_422992_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E422992-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -725,6 +725,16 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "スウェットストレートパンツ",
+      "現價": "3990",
+      "原價": "3990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483285/item/jpgoods_30_483285_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483285-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "スカラップクルーネックカーディガン/ウォッシャブル",
       "現價": "1290",
@@ -782,16 +792,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484023/item/jpgoods_69_484023_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484023-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "スムースコットンクルーネックセーター",
-      "現價": "3990",
-      "原價": "3990",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475053/item/jpgoods_14_475053_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475053-000/00"
     }
   ]
 }
