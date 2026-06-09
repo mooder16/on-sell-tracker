@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-06-09 14:49:31",
+  "scraped_at": "2026-06-09 18:04:52",
   "total": 77,
   "products": [
     {
@@ -395,16 +395,6 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "マンガキュレーション UT/ベルセルク/リラックス",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/483933/item/goods_09_483933_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483933-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "VネックTシャツ",
       "現價": "990",
@@ -772,6 +762,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484023/item/jpgoods_69_484023_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484023-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "コットンクロシェセーターノースリーブ",
+      "現價": "4990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484629/item/jpgoods_36_484629_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484629-000/00"
     }
   ]
 }
