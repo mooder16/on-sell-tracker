@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-06-09 18:07:01",
+  "scraped_at": "2026-06-09 21:49:17",
   "total": 56,
   "products": [
     {
@@ -52,16 +52,6 @@
       "原價": "1159",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf5/h5e/228120348950558.jpg",
       "商品連結": "https://www.costco.com.tw/c/Kirkland-Signature-3-Ply-Interfold-Bath-Tissue-120-Sheet-X-72-Count/p/189999"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "科克蘭 藍莓乾 567公克",
-      "現價": "334",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h76/h93/50940707504158.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Dried-Blueberries-567-g/p/968318"
     },
     {
       "品牌": "Costco 台灣",
@@ -482,6 +472,16 @@
       "原價": "489",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb6/he6/414650589544478.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Nescafe-Sicily-Coffee-15-g-X-40-Pack/p/150636"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "TEAZEN 康普茶 檸檬口味 5公克 X 40包",
+      "現價": "335",
+      "原價": "415",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8a/hff/239741599973406.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Tea/TEAZEN-Kombucha-Lemon-Flavor-5-g-X-40-Pack/p/141460"
     },
     {
       "品牌": "Costco 台灣",
