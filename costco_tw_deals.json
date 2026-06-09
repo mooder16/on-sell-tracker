@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-06-09 07:49:17",
+  "scraped_at": "2026-06-09 11:16:55",
   "total": 56,
   "products": [
     {
@@ -102,16 +102,6 @@
       "原價": "1035",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4e/h53/210494080909342.jpg",
       "商品連結": "https://www.costco.com.tw/c/Starbucks-Veranda-Blend-Whole-Bean-Coffee-113-kg/p/648080"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "New Choice 摩卡咖啡脆捲 1公斤",
-      "現價": "235",
-      "原價": "289",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hab/h03/79975394115614.webp",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/New-Choice-Crispiroll-Mocha-Flavor-1-kg/p/67643"
     },
     {
       "品牌": "Costco 台灣",
@@ -482,6 +472,16 @@
       "原價": "229",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h54/h4b/432046413774878.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Koikeya-Salt-Seaweed-Potato-Chips-550-g/p/125733"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "雀巢 西西里風檸檬咖啡 15公克 X 40入",
+      "現價": "394",
+      "原價": "489",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb6/he6/414650589544478.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Nescafe-Sicily-Coffee-15-g-X-40-Pack/p/150636"
     },
     {
       "品牌": "Costco 台灣",
