@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-06-11 03:56:55",
+  "scraped_at": "2026-06-11 08:49:14",
   "total": 56,
   "products": [
     {
@@ -227,6 +227,16 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
+      "商品名稱": "湖池屋 和風海苔鹽厚切洋芋片 550公克",
+      "現價": "189",
+      "原價": "229",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h54/h4b/432046413774878.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Koikeya-Salt-Seaweed-Potato-Chips-550-g/p/125733"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
       "商品名稱": "威滅滅蟑隊-s",
       "現價": "239",
       "原價": "299",
@@ -272,6 +282,16 @@
       "原價": "319",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h24/h5b/172356639883294.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Vitali-Vitamin-Soda-330-ml-X-24-Count/p/141523"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "KOPIKO 咖啡糖分享組 150公克 X 10包",
+      "現價": "244",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h98/hb2/308063195594782.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/KOPIKO-Coffee-Candy-Sharebox-150-g-X-10-Pack/p/555551"
     },
     {
       "品牌": "Costco 台灣",
@@ -462,26 +482,6 @@
       "原價": "1029",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha3/h5a/260837918539806.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Youtheory-Collagen-Biotin-390-Tablet/p/554059"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Advent 女寬直筒褲",
-      "現價": "429",
-      "原價": "539",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/had/haf/422090897227806.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Advent-Ladies-Advent-Draped-Pleated-Wide-Pant/p/156457"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Lacoste 男休閒鞋",
-      "現價": "1399",
-      "原價": "1759",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h50/hcb/438875884486686.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Lacoste-Mens-Shoe/p/154492"
     },
     {
       "品牌": "Costco 台灣",
