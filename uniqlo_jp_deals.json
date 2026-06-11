@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-06-11 15:59:21",
+  "scraped_at": "2026-06-11 18:52:03",
   "total": 77,
   "products": [
     {
@@ -127,8 +127,8 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "クルーネックT",
-      "現價": "990",
-      "原價": "",
+      "現價": "1500",
+      "原價": "1500",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/424873/item/jpgoods_10_424873_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E424873-000/00"
@@ -150,7 +150,7 @@
       "現價": "2990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477883/item/goods_61_477883_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477883/item/goods_68_477883_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E477883-000/00"
     },
     {
@@ -667,8 +667,8 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "內搭",
       "商品名稱": "レーサーバックブラトップ",
-      "現價": "1990",
-      "原價": "",
+      "現價": "2490",
+      "原價": "2490",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484830/item/jpgoods_00_484830_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484830-000/00"
@@ -677,8 +677,8 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "內搭",
       "商品名稱": "リブブラトップ/アメリカンスリーブ",
-      "現價": "1990",
-      "原價": "",
+      "現價": "2490",
+      "原價": "2490",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482198/item/jpgoods_03_482198_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482198-000/00"
@@ -717,8 +717,8 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "ポロセーター/ウォッシャブル",
-      "現價": "2990",
-      "原價": "2990",
+      "現價": "1990",
+      "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484607/item/jpgoods_42_484607_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484607-000/00"
