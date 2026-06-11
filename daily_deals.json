@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-06-10 22:01:39",
-  "total": 168,
+  "scraped_at": "2026-06-11 03:53:54",
+  "total": 166,
   "products": [
     {
       "分類": "上衣",
@@ -1005,14 +1005,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "SMART 寬褲(條紋)",
-      "現價": "590",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053052/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053052"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "特級彈性Active緊身褲",
       "現價": "590",
       "原價": "790",
@@ -1162,14 +1154,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054011/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054011"
-    },
-    {
-      "分類": "裙子",
-      "商品名稱": "魚尾長裙",
-      "現價": "290",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053099/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053099"
     },
     {
       "分類": "其他",
