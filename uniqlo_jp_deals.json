@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-06-13 03:37:58",
+  "scraped_at": "2026-06-13 07:46:36",
   "total": 76,
   "products": [
     {
@@ -132,16 +132,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/424873/item/jpgoods_10_424873_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E424873-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "リブクルーネックT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484838/item/jpgoods_09_484838_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484838-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -762,6 +752,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465734/item/jpgoods_31_465734_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E465734-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "スフレヤーンクルーネックセーター",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/479157/item/jpgoods_68_479157_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479157-000/00"
     }
   ]
 }
