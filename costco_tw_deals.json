@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-06-14 08:22:13",
+  "scraped_at": "2026-06-14 14:03:30",
   "total": 55,
   "products": [
     {
@@ -21,7 +21,7 @@
       "現價": "269",
       "原價": "319",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h16/hfc/381454987755550.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/78623"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/North-Sea-Fish-Snacks-600-g/p/78623"
     },
     {
       "品牌": "Costco 台灣",
@@ -91,7 +91,7 @@
       "現價": "575",
       "原價": "715",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hef/h60/450045554950174.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/p/230352"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/KLIM-New-Zealand-Full-Cream-Milk-Powder-25-kg/p/230352"
     },
     {
       "品牌": "Costco 台灣",
@@ -157,16 +157,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "好奇 超厚倍柔嬰兒濕巾 純淨無香 72抽 X 16包",
-      "現價": "669",
-      "原價": "839",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hda/h2b/209599682314270.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/Huggies-Baby-Coform-Wet-Wipes-Unscented-72-Sheet-X-16-Pack/p/139234"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
       "商品名稱": "ARM & HAMMER 多功能小蘇打粉 6.12公斤",
       "現價": "305",
       "原價": "369",
@@ -211,7 +201,7 @@
       "現價": "239",
       "原價": "299",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdb/h5a/223927011901470.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/p/73655"
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Pest-Control-Air-Care/-s/p/73655"
     },
     {
       "品牌": "Costco 台灣",
@@ -252,16 +242,6 @@
       "原價": "365",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h6a/h9b/451299540762654.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Want-Want-Assorted-Rice-Crackers-827-g/p/120108"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "IRIS OHYAMA 富士山檸檬風味強氣泡水 環保無標籤款 500毫升 X 24瓶",
-      "現價": "359",
-      "原價": "459",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h52/h58/350052579541022.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Water-Sparkling-Water/IRIS-OHYAMA-MtFuji-Lemon-Flavor-Strong-Sparkling-Water-ECO-Friendly-No-Label-500-ml-X-24-Count/p/150350"
     },
     {
       "品牌": "Costco 台灣",
@@ -482,6 +462,26 @@
       "原價": "1259",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9d/h41/436453311873054.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Adidas-Mens-Runvista-Shoe/p/154456"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "金頂 四號電池 40入",
+      "現價": "375",
+      "原價": "475",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha8/had/175686347849758.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Duracell-Long-Lasting-AAA-Battery-40-Pack/p/1012885"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "嘉實多 極致5W-30 全合成機油 946毫升 X 6入",
+      "現價": "1099",
+      "原價": "1399",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h18/hd0/434798425997342.jpg",
+      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Car-Oils-Fluids/Castrol-EDGE-5W-30-Advanced-Full-Synthetic-Motor-Oil-946-ml-X-6-Pack/p/125482"
     },
     {
       "品牌": "Costco 台灣",
