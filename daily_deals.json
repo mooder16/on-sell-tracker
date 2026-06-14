@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-06-13 21:15:27",
-  "total": 159,
+  "scraped_at": "2026-06-14 03:58:47",
+  "total": 156,
   "products": [
     {
       "分類": "上衣",
@@ -453,14 +453,6 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "木代爾棉質開領襯衫(短袖) 464938",
-      "現價": "390",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050533/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050533"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "府綢寬版襯衫(短袖)",
       "現價": "390",
       "原價": "990",
@@ -506,14 +498,6 @@
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052991/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052991"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "休閒連帽上衣(長袖)",
-      "現價": "390",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050306/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050306"
     },
     {
       "分類": "外套",
@@ -594,14 +578,6 @@
       "原價": "1990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053892/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053892"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "特級亞麻外套",
-      "現價": "1990",
-      "原價": "2990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053589/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053589"
     },
     {
       "分類": "外套",
