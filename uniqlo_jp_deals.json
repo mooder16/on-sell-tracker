@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-06-15 04:12:16",
-  "total": 77,
+  "scraped_at": "2026-06-15 13:55:22",
+  "total": 76,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -136,6 +136,16 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
+      "商品名稱": "キャップスリーブT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484047/item/jpgoods_01_484047_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484047-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
       "商品名稱": "リネンクルーネックT",
       "現價": "2990",
       "原價": "",
@@ -246,12 +256,12 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "シアーT",
-      "現價": "1990",
-      "原價": "1990",
+      "商品名稱": "スーピマコットンT/長袖",
+      "現價": "990",
+      "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484231/item/jpgoods_10_484231_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484231-000/00"
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484050/item/jpgoods_09_484050_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484050-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -626,16 +636,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "矢沢あいコレクション UT",
-      "現價": "390",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480167/item/goods_00_480167_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E480167-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "和柄 (アニマルズ) UT/ショート丈",
       "現價": "990",
       "原價": "",
@@ -662,16 +662,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482198/item/jpgoods_03_482198_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482198-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ホルターネックブラタンクトップ",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/473990/item/goods_09_473990_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E473990-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
