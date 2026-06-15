@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-06-14 21:11:43",
-  "total": 157,
+  "scraped_at": "2026-06-15 04:11:43",
+  "total": 154,
   "products": [
     {
       "分類": "上衣",
@@ -492,14 +492,6 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053920"
     },
     {
-      "分類": "上衣",
-      "商品名稱": "華夫格圓領T恤(長袖)",
-      "現價": "190",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052991/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052991"
-    },
-    {
       "分類": "外套",
       "商品名稱": "防曬條紋圓領開襟外套(長袖)",
       "現價": "590",
@@ -789,14 +781,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "特級彈性Active單車短褲",
-      "現價": "490",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053348/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053348"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "防潑水多口袋機能短褲 482937",
       "現價": "590",
       "原價": "790",
@@ -1082,14 +1066,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054011/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054011"
-    },
-    {
-      "分類": "裙子",
-      "商品名稱": "魚尾長裙",
-      "現價": "290",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053099/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053099"
     },
     {
       "分類": "裙子",
