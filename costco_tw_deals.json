@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-06-16 12:55:14",
+  "scraped_at": "2026-06-16 19:37:54",
   "total": 55,
   "products": [
     {
@@ -136,6 +136,26 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "北海 鱈魚香絲 600公克",
+      "現價": "269",
+      "原價": "319",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h16/hfc/381454987755550.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/North-Sea-Fish-Snacks-600-g/p/78623"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "星巴克 黃金烘焙綜合咖啡豆 1.13公斤",
+      "現價": "835",
+      "原價": "1035",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4e/h53/210494080909342.jpg",
+      "商品連結": "https://www.costco.com.tw/c/Starbucks-Veranda-Blend-Whole-Bean-Coffee-113-kg/p/648080"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "寵物",
       "商品名稱": "Scoop Away 超凝結貓砂 4.76公斤 X 4入",
       "現價": "569",
@@ -162,6 +182,16 @@
       "原價": "529",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h82/h57/120613024890910.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kleenex-Viva-3-ply-Kitchen-Towel-60-Sheet-X-16-Roll/p/127295"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "手信坊 含餡蛋捲禮盒 480公克",
+      "現價": "289",
+      "原價": "359",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h65/ha3/238305963311134.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Shu-Shin-Bou-Stuffed-Egg-Roll-480-g/p/144711"
     },
     {
       "品牌": "Costco 台灣",
@@ -227,21 +257,21 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "IRIS OHYAMA 富士山檸檬風味強氣泡水 環保無標籤款 500毫升 X 24瓶",
-      "現價": "359",
-      "原價": "459",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h52/h58/350052579541022.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Water-Sparkling-Water/IRIS-OHYAMA-MtFuji-Lemon-Flavor-Strong-Sparkling-Water-ECO-Friendly-No-Label-500-ml-X-24-Count/p/150350"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
       "商品名稱": "Hoody's 精緻果乾混綜合果仁 907公克",
       "現價": "439",
       "原價": "539",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf1/hd2/65765251252254.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Hoodys-Harvest-Grove-Trail-Mix-907-g/p/1056107"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "維大力 汽水 330毫升 X 24入",
+      "現價": "269",
+      "原價": "319",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h24/h5b/172356639883294.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Vitali-Vitamin-Soda-330-ml-X-24-Count/p/141523"
     },
     {
       "品牌": "Costco 台灣",
@@ -452,36 +482,6 @@
       "原價": "379",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h62/h56/368770704965662.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Barista-Hazelnut-Flavor-Espresso-Shot-16-ml-X-40-Count/p/234436"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Adidas 女運動休閒鞋",
-      "現價": "999",
-      "原價": "1259",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdc/h1b/453636507631646.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Adidas-Runvista-Womens-Shoe/p/154454"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "清潔",
-      "商品名稱": "艾瑪絲 烏木沁涼強健豐盈洗髮精 1000毫升",
-      "現價": "525",
-      "原價": "665",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc2/h15/400800484294686.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/AROMASE-Hair-Thickening-Woodsy-Scented-Essential-Shampoo-1000-ml/p/156489"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "格力高 杏仁果飲 無糖 196毫升 X 24入",
-      "現價": "679",
-      "原價": "849",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h56/h24/115203661070366.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Glico-Almond-Beverage-No-Sugar-196-ml-X-24-Pack/p/137161"
     },
     {
       "品牌": "Costco 台灣",

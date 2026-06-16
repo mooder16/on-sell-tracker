@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-06-16 12:53:06",
+  "scraped_at": "2026-06-16 19:35:44",
   "total": 74,
   "products": [
     {
@@ -700,16 +700,6 @@
       "現價": "990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484459/item/jpgoods_40_484459_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484459-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ディズニー UT/オーバーサイズフィット",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484460/item/jpgoods_02_484460_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484460-000/00"
     },
@@ -742,6 +732,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482198/item/jpgoods_03_482198_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482198-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "內搭",
+      "商品名稱": "リブブラトップ/アメリカンスリーブ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/473986/item/goods_00_473986_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E473986-000/00"
     }
   ]
 }
