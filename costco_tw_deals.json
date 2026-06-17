@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-06-17 04:04:48",
+  "scraped_at": "2026-06-17 12:18:17",
   "total": 55,
   "products": [
     {
@@ -166,16 +166,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "愛之味 純濃燕麥 340毫升 X 12入",
-      "現價": "229",
-      "原價": "289",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9f/hc7/223676730114078.jpg",
-      "商品連結": "https://www.costco.com.tw/c/AGV-100-Oatmeal-Drink-340-ml-X-12-Count/p/97313"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "清潔",
       "商品名稱": "舒潔 Viva 三層廚房紙巾 60張 X 16卷",
       "現價": "423",
@@ -321,7 +311,7 @@
       "現價": "439",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h73/h61/368495304835102.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/153647"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Dachan-Frozen-Original-Fried-Chicken-Breast-Strips-17-kg/p/153647"
     },
     {
       "品牌": "Costco 台灣",
@@ -367,6 +357,16 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
+      "商品名稱": "IRIS OHYAMA 富士山檸檬風味強氣泡水 環保無標籤款 500毫升 X 24瓶",
+      "現價": "359",
+      "原價": "459",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h52/h58/350052579541022.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Water-Sparkling-Water/IRIS-OHYAMA-MtFuji-Lemon-Flavor-Strong-Sparkling-Water-ECO-Friendly-No-Label-500-ml-X-24-Count/p/150350"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
       "商品名稱": "維大力 汽水 330毫升 X 24入",
       "現價": "269",
       "原價": "319",
@@ -381,7 +381,7 @@
       "現價": "355",
       "原價": "429",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9e/haa/403520303595550.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/p/157762"
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Pest-Control-Air-Care/Farcent-Hanging-Dehumidifier-Bag-385-ml-X-15-Count/p/157762"
     },
     {
       "品牌": "Costco 台灣",
@@ -426,6 +426,26 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "寵物",
+      "商品名稱": "Cat Chow 貓乾糧完整均衡配方 6.8公斤",
+      "現價": "619",
+      "原價": "779",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he8/h75/419358172807198.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Pet-Supplies/Pet-Dry-Wet-Food/Cat-Chow-Cat-Food-68-kg/p/126098"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "大成 冷凍蜜汁去骨清雞腿與十三香清雞胸 5公斤",
+      "現價": "1301",
+      "原價": "1469",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc8/h28/402145329676318.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Dachan-Frozen-Sweet-Sauce-Boneless-Thigh-Thirteen-Spices-Breast-5-kg/p/157706"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "服飾",
       "商品名稱": "蘇菲 超熟睡安心褲 XL尺寸 24片",
       "現價": "435",
@@ -462,26 +482,6 @@
       "原價": "439",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha0/hd0/294120769749022.jpg",
       "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/GRAB-A-RAG-Microfiber-Towels-80-Piece-Box/p/148155"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "久世福 長崎蛋糕原味 314公克",
-      "現價": "250",
-      "原價": "315",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0a/h12/346355632242718.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Snack-Cakes/Kuze-Fuku-Nagasaki-Castella-Cake-314-g/p/138425"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "蘇菲 超熟睡安心褲 L尺寸 24片",
-      "現價": "435",
-      "原價": "545",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h73/h71/350548248363038.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Feminine-Care/Sofy-Deep-Sleep-Night-Shorts-Shaped-Pad-Size-L-24-Piece/p/134644"
     },
     {
       "品牌": "Costco 台灣",

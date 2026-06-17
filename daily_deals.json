@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-06-17 04:02:10",
-  "total": 169,
+  "scraped_at": "2026-06-17 12:15:39",
+  "total": 178,
   "products": [
     {
       "分類": "上衣",
@@ -389,6 +389,14 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "3D織法羅紋方領針織衫(無袖)",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053572/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053572"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "特級亞麻開領襯衫(七分袖)",
       "現價": "990",
       "原價": "1290",
@@ -549,6 +557,22 @@
     },
     {
       "分類": "外套",
+      "商品名稱": "柔滑棉V領短版開襟外套(長袖)",
+      "現價": "390",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052747/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052747"
+    },
+    {
+      "分類": "外套",
+      "商品名稱": "柔軟舒膚針織短版開襟外套(長袖)",
+      "現價": "390",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052335/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052335"
+    },
+    {
+      "分類": "外套",
       "商品名稱": "米蘭羅紋拉鍊開襟外套(長袖)",
       "現價": "1290",
       "原價": "1490",
@@ -586,6 +610,14 @@
       "原價": "1990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053892/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053892"
+    },
+    {
+      "分類": "外套",
+      "商品名稱": "特級亞麻外套",
+      "現價": "1990",
+      "原價": "2990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053589/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053589"
     },
     {
       "分類": "外套",
@@ -645,6 +677,14 @@
     },
     {
       "分類": "外套",
+      "商品名稱": "工裝短版牛仔外套",
+      "現價": "990",
+      "原價": "1990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053017/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053017"
+    },
+    {
+      "分類": "外套",
       "商品名稱": "工裝短大衣",
       "現價": "1290",
       "原價": "2990",
@@ -682,6 +722,14 @@
       "原價": "1690",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053666/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053666"
+    },
+    {
+      "分類": "外套",
+      "商品名稱": "雙排釦西裝外套",
+      "現價": "990",
+      "原價": "1990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053489/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053489"
     },
     {
       "分類": "外套",
@@ -829,6 +877,14 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "特級彈性Active單車短褲",
+      "現價": "490",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053348/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053348"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "寬版Jorts牛仔短褲",
       "現價": "590",
       "原價": "790",
@@ -954,6 +1010,14 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053327/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053327"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "休閒寬褲(褲腳抽繩)",
+      "現價": "390",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054044/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054044"
     },
     {
       "分類": "褲子",
@@ -1130,6 +1194,14 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054011/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054011"
+    },
+    {
+      "分類": "裙子",
+      "商品名稱": "魚尾長裙",
+      "現價": "290",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053099/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053099"
     },
     {
       "分類": "裙子",
