@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-06-17 12:18:17",
+  "scraped_at": "2026-06-17 18:17:37",
   "total": 55,
   "products": [
     {
@@ -151,7 +151,7 @@
       "現價": "835",
       "原價": "1035",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4e/h53/210494080909342.jpg",
-      "商品連結": "https://www.costco.com.tw/c/Starbucks-Veranda-Blend-Whole-Bean-Coffee-113-kg/p/648080"
+      "商品連結": "https://www.costco.com.tw/c/p/648080"
     },
     {
       "品牌": "Costco 台灣",
@@ -357,16 +357,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "IRIS OHYAMA 富士山檸檬風味強氣泡水 環保無標籤款 500毫升 X 24瓶",
-      "現價": "359",
-      "原價": "459",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h52/h58/350052579541022.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Water-Sparkling-Water/IRIS-OHYAMA-MtFuji-Lemon-Flavor-Strong-Sparkling-Water-ECO-Friendly-No-Label-500-ml-X-24-Count/p/150350"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
       "商品名稱": "維大力 汽水 330毫升 X 24入",
       "現價": "269",
       "原價": "319",
@@ -482,6 +472,16 @@
       "原價": "439",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha0/hd0/294120769749022.jpg",
       "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/GRAB-A-RAG-Microfiber-Towels-80-Piece-Box/p/148155"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "久世福 長崎蛋糕原味 314公克",
+      "現價": "250",
+      "原價": "315",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0a/h12/346355632242718.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Snack-Cakes/Kuze-Fuku-Nagasaki-Castella-Cake-314-g/p/138425"
     },
     {
       "品牌": "Costco 台灣",
