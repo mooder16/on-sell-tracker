@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-06-18 08:46:51",
-  "total": 76,
+  "scraped_at": "2026-06-18 15:23:02",
+  "total": 74,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -272,16 +272,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/484193/item/goods_19_484193_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484193-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "3Dリブスクエアネックセーターノースリーブ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484721/item/jpgoods_59_484721_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484721-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -586,16 +576,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "チアフルキャラクターズ/パワパフ ガールズ/ミニ",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484492/item/jpgoods_60_484492_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484492-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "チアフルキャラクターズ/ケアベア/ミニ",
       "現價": "990",
       "原價": "",
@@ -720,28 +700,8 @@
       "現價": "990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483252/item/jpgoods_00_483252_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483252-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ディズニー UT/オーバーサイズフィット",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484460/item/jpgoods_02_484460_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484460-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "たまごっち UT/オーバーサイズフィット",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484467/item/jpgoods_71_484467_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484467-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -762,6 +722,26 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484830/item/jpgoods_00_484830_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484830-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "內搭",
+      "商品名稱": "リブブラトップ/アメリカンスリーブ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482198/item/jpgoods_03_482198_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482198-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "內搭",
+      "商品名稱": "リブブラトップ/アメリカンスリーブ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/473986/item/goods_00_473986_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E473986-000/00"
     }
   ]
 }
