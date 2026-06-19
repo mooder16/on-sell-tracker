@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-06-19 12:08:03",
+  "scraped_at": "2026-06-19 17:59:24",
   "total": 55,
   "products": [
     {
@@ -286,16 +286,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "威滅滅蟑隊-s",
-      "現價": "239",
-      "原價": "299",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdb/h5a/223927011901470.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Pest-Control-Air-Care/-s/p/73655"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "My Motto 威化餅 雙重巧克力風味 30公克 X 20包",
       "現價": "259",
@@ -482,6 +472,16 @@
       "原價": "629",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf9/h97/12090613825566.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/Maro-3D-Volume-Up-Shampoo-460-ml-X-2-Pack/p/122398"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "KOPIKO 咖啡糖分享組 150公克 X 10包",
+      "現價": "244",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h98/hb2/308063195594782.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/KOPIKO-Coffee-Candy-Sharebox-150-g-X-10-Pack/p/555551"
     },
     {
       "品牌": "Costco 台灣",
