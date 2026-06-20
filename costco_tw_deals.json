@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-06-20 10:34:12",
+  "scraped_at": "2026-06-20 14:04:05",
   "total": 55,
   "products": [
     {
@@ -152,16 +152,6 @@
       "原價": "799",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h28/h0b/379898465910814.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Coats-Jackets/Kirkland-Signature-Ladies-Hoodie-Jacket/p/7771776"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "愛之味 純濃燕麥 340毫升 X 12入",
-      "現價": "229",
-      "原價": "289",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9f/hc7/223676730114078.jpg",
-      "商品連結": "https://www.costco.com.tw/c/AGV-100-Oatmeal-Drink-340-ml-X-12-Count/p/97313"
     },
     {
       "品牌": "Costco 台灣",
@@ -366,16 +356,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "ARM & HAMMER 多功能小蘇打粉 6.12公斤",
-      "現價": "305",
-      "原價": "369",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3b/ha1/188147730710558.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/ARM-HAMMER-Pure-Baking-Soda-612-kg/p/488431"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "大成 冷凍香酥原味炸雞柳 1.7公斤",
       "現價": "439",
@@ -482,6 +462,26 @@
       "原價": "819",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h7e/hbf/292858610614302.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Fruits-Vegetables/Asia-Frozen-Shelled-Edamame-1-kg-X-5-Pack/p/863731"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "家電",
+      "商品名稱": "CyberPower 防突波 8 插座 2 USB 充電延長線",
+      "現價": "479",
+      "原價": "599",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc5/h64/431395279863838.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/CyberPower-Surge-Protector-with-8-Outlet-and-2-USB-Charging-Ports/p/157739"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "美妝保養",
+      "商品名稱": "艾瑪絲 草本強健養髮精華液 (橙皮苷強韌版) 115毫升 2入組",
+      "現價": "875",
+      "原價": "1099",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he7/h8d/400800624115742.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/AROMASE-Herbal-Cooling-Scalp-Care-Spray-Strengthening-115-ml-X-2-Pack/p/157054"
     },
     {
       "品牌": "Costco 台灣",
