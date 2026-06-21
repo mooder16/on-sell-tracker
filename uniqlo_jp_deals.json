@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-06-21 11:15:47",
+  "scraped_at": "2026-06-21 14:09:33",
   "total": 74,
   "products": [
     {
@@ -136,16 +136,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "リブクルーネックT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484838/item/jpgoods_09_484838_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484838-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "エアリズムコットンT",
       "現價": "1500",
       "原價": "1500",
@@ -196,6 +186,16 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
+      "商品名稱": "ミニT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484001/item/jpgoods_69_484001_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484001-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
       "商品名稱": "スーピマコットンT",
       "現價": "990",
       "原價": "",
@@ -242,16 +242,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484228/item/jpgoods_69_484228_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484228-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "コットンクルーネックセーター/ウォッシャブル",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/484193/item/goods_19_484193_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484193-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -566,6 +556,16 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
+      "商品名稱": "チアフルキャラクターズ/パワパフ ガールズ/ミニ",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484494/item/jpgoods_36_484494_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484494-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
       "商品名稱": "K-POPグループ BABYMONSTER UT/ボクシー/シアー",
       "現價": "990",
       "原價": "",
@@ -676,16 +676,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "マジック フォー オール タイムレス UT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484771/item/jpgoods_60_484771_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484771-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "ディズニー UT/オーバーサイズフィット",
       "現價": "990",
       "原價": "",
@@ -742,6 +732,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/473986/item/goods_00_473986_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E473986-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "內搭",
+      "商品名稱": "エアリズムコットンブラチューブトップ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479089/item/goods_09_479089_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479089-000/00"
     }
   ]
 }
