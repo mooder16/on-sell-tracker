@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-06-21 21:13:17",
+  "scraped_at": "2026-06-22 04:08:18",
   "total": 74,
   "products": [
     {
@@ -162,6 +162,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477883/item/goods_68_477883_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E477883-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "スラブジャージーVネックT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483576/item/jpgoods_03_483576_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483576-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -416,6 +426,36 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
+      "商品名稱": "ピーナッツ UT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484477/item/jpgoods_00_484477_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484477-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ミッフィー イン ブルーム UT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484121/item/jpgoods_00_484121_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484121-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ミッフィー イン ブルーム UT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484502/item/jpgoods_10_484502_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484502-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
       "商品名稱": "モンチッチ UT/リラックスフィット",
       "現價": "1290",
       "原價": "",
@@ -452,36 +492,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488928/item/goods_39_488928_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E488928-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ピーナッツ UT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484477/item/jpgoods_00_484477_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484477-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ミッフィー イン ブルーム UT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484121/item/jpgoods_00_484121_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484121-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ミッフィー イン ブルーム UT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484502/item/jpgoods_10_484502_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484502-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -732,16 +742,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484192/item/jpgoods_16_484192_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484192-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ポロセーター/ウォッシャブル",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484000/item/jpgoods_41_484000_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484000-000/00"
     }
   ]
 }
