@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-06-24 03:31:18",
+  "scraped_at": "2026-06-24 07:40:14",
   "total": 74,
   "products": [
     {
@@ -272,6 +272,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/470143/item/jpgoods_11_470143_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E470143-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "內搭",
+      "商品名稱": "ヒートテックフリースタートルネックT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/442063/item/goods_60_442063_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E442063-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -646,6 +656,26 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
+      "商品名稱": "ディズニー UT/オーバーサイズフィット",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483252/item/jpgoods_00_483252_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483252-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ディズニー UT/オーバーサイズフィット",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484460/item/jpgoods_02_484460_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484460-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
       "商品名稱": "和柄 (アニマルズ) UT/ショート丈",
       "現價": "990",
       "原價": "",
@@ -712,36 +742,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482978/item/jpgoods_38_482978_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482978-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "シアーレースクルーネックカーディガン",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487719/item/jpgoods_37_487719_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487719-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "コットンポインテールポロセーター/ウォッシャブル",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484192/item/jpgoods_16_484192_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484192-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ポロセーター/ウォッシャブル",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484000/item/jpgoods_41_484000_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484000-000/00"
     }
   ]
 }
