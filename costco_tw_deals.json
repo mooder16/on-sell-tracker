@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-06-24 10:53:18",
+  "scraped_at": "2026-06-24 14:30:10",
   "total": 55,
   "products": [
     {
@@ -46,16 +46,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "科克蘭 藍莓乾 567公克",
-      "現價": "334",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h76/h93/50940707504158.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Dried-Blueberries-567-g/p/968318"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "清潔",
       "商品名稱": "科克蘭 捲筒衛生紙 425張 X 30捲",
       "現價": "459",
@@ -92,16 +82,6 @@
       "原價": "449",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf1/h10/226673733468190.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Kirkland-Signature-Fabric-Softener-Sheets-250-Sheet-X-2-Count/p/1739180"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "戶外運動",
-      "商品名稱": "科克蘭 高爾夫三層球 3入 X 8盒",
-      "現價": "839",
-      "原價": "1049",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha7/h59/157819020804126.jpg",
-      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Team-Sports/Kirkland-Signature-3-Piece-Urethane-Cover-Golf-Ball-3-Count-X-8-Pack/p/1654518"
     },
     {
       "品牌": "Costco 台灣",
@@ -171,7 +151,7 @@
       "現價": "355",
       "原價": "455",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4d/ha2/103644530737182.jpg",
-      "商品連結": "https://www.costco.com.tw/p/133093"
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Bath-Body/Cow-Brand-Aloe-Body-Soap-1200-ml/p/133093"
     },
     {
       "品牌": "Costco 台灣",
@@ -211,7 +191,7 @@
       "現價": "255",
       "原價": "319",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb2/h0a/312933354536990.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/1116888"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Trygoodz-Rice-Crackers-with-Almond-Gift-Pack-14-g-X-20-Pack-X-2-Box/p/1116888"
     },
     {
       "品牌": "Costco 台灣",
@@ -221,7 +201,7 @@
       "現價": "135",
       "原價": "215",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h2a/h93/345530296991774.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/p/152666"
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Pest-Control-Air-Care/p/152666"
     },
     {
       "品牌": "Costco 台灣",
@@ -241,7 +221,7 @@
       "現價": "399",
       "原價": "719",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3e/h0d/151586323071006.jpg",
-      "商品連結": "https://www.costco.com.tw/p/139220"
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Skin-Care/Hada-Labo-Kiwamizu-Hatomugi-Gel-100-g-x-2-Pack/p/139220"
     },
     {
       "品牌": "Costco 台灣",
@@ -381,7 +361,7 @@
       "現價": "305",
       "原價": "369",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3b/ha1/188147730710558.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/p/488431"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/ARM-HAMMER-Pure-Baking-Soda-612-kg/p/488431"
     },
     {
       "品牌": "Costco 台灣",
@@ -482,6 +462,26 @@
       "原價": "999",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h7b/ha3/366249565749278.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Scented-Candles-Diffusers/COCODOR-Premium-Diffuser-Collection-500-ml-X-5-Piece-Set/p/154537"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "HOUSUXI 舒希 兒童開學餐具 4件組",
+      "現價": "589",
+      "原價": "739",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h76/hb1/449275405238302.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cooking-Accessories/HOUSUXI-Kids-Back-To-School-Utensil-4-Piece-Set/p/160481"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "老協珍 冷凍熬雞精 68毫升 X 50入",
+      "現價": "5279",
+      "原價": "6599",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h21/hc3/400747761336350.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Lao-Xie-Zhen-Frozen-Chicken-Essence-68-ml-X-50-Pack/p/218552"
     },
     {
       "品牌": "Costco 台灣",
