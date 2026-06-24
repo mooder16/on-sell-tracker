@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-06-24 14:28:01",
-  "total": 74,
+  "scraped_at": "2026-06-24 17:54:08",
+  "total": 61,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -450,16 +450,6 @@
       "現價": "1290",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488572/item/goods_01_488572_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488572-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "モンチッチ UT/リラックスフィット",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488926/item/goods_71_488926_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E488926-000/00"
     },
@@ -536,66 +526,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "K-POPグループ BABYMONSTER UT/ボクシー/シアー",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486830/item/jpgoods_09_486830_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E486830-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "K-POPグループ BABYMONSTER UT/ボクシー",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486828/item/jpgoods_69_486828_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E486828-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "K-POPグループ BABYMONSTER UT/ボクシー",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483262/item/jpgoods_00_483262_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483262-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "K-POPグループ BABYMONSTER UT/ボクシー/シアー",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486829/item/jpgoods_00_486829_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E486829-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "K-POPグループ BABYMONSTER UT/ボクシー",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486827/item/jpgoods_02_486827_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E486827-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "K-POPグループ BABYMONSTER UT/ボクシー",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486826/item/jpgoods_12_486826_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E486826-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "マジック フォー オール タイムレス UT",
       "現價": "1290",
       "原價": "",
@@ -656,16 +586,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "內搭",
-      "商品名稱": "リブブラトップ/アメリカンスリーブ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482198/item/jpgoods_03_482198_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482198-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "內搭",
       "商品名稱": "レーサーバックブラトップ",
       "現價": "1990",
       "原價": "",
@@ -676,72 +596,22 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "內搭",
+      "商品名稱": "リブブラトップ/アメリカンスリーブ",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482198/item/jpgoods_58_482198_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482198-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "內搭",
       "商品名稱": "クレープジャージーボートネックブラトップ",
       "現價": "1990",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487490/item/jpgoods_37_487490_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487490-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "內搭",
-      "商品名稱": "リブブラトップ/アメリカンスリーブ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/473986/item/goods_00_473986_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E473986-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "內搭",
-      "商品名稱": "エアリズムコットンブラチューブトップ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479089/item/goods_09_479089_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479089-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "スカラップクルーネックカーディガン/ウォッシャブル",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482978/item/jpgoods_38_482978_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482978-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "シアーレースクルーネックカーディガン",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487719/item/jpgoods_37_487719_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487719-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "コットンポインテールポロセーター/ウォッシャブル",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484192/item/jpgoods_16_484192_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484192-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ポロセーター/ウォッシャブル",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484000/item/jpgoods_41_484000_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484000-000/00"
     }
   ]
 }
