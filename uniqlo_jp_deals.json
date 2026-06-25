@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-06-25 07:41:48",
+  "scraped_at": "2026-06-25 10:41:44",
   "total": 62,
   "products": [
     {
@@ -152,6 +152,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477883/item/goods_68_477883_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E477883-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "スラブジャージーVネックT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483576/item/jpgoods_00_483576_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483576-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -522,16 +532,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483259/item/jpgoods_08_483259_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483259-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "チアフルキャラクターズ/パワパフ ガールズ/ミニ",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484492/item/jpgoods_60_484492_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484492-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
