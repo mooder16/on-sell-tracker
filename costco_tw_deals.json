@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-06-26 10:53:08",
+  "scraped_at": "2026-06-26 14:25:19",
   "total": 55,
   "products": [
     {
@@ -61,7 +61,7 @@
       "現價": "789",
       "原價": "879",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf8/h7f/472591303573534.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Extra-Virgin-Olive-Oil-2-L/p/1058619"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/1058619"
     },
     {
       "品牌": "Costco 台灣",
@@ -251,7 +251,7 @@
       "現價": "635",
       "原價": "789",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h24/hb9/15916554420254.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Fernleaf-New-Zealand-Full-Cream-Milk-Powder-26-kg/p/79922"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/p/79922"
     },
     {
       "品牌": "Costco 台灣",
@@ -387,16 +387,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "Fenger 可微波304不鏽鋼分隔保鮮盒 含蓋4件組 三隔1300毫升",
-      "現價": "479",
-      "原價": "599",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h13/h0c/415044018077726.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Food-Storage-Containers/Fenger-Microwavable-304-Stainless-Steel-Compartment-Storage-with-Lid-4-Piece-Set-1300-ml/p/158744"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
       "商品名稱": "ARM & HAMMER 多功能小蘇打粉 6.12公斤",
       "現價": "305",
       "原價": "369",
@@ -482,6 +472,16 @@
       "原價": "739",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h76/hb1/449275405238302.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cooking-Accessories/HOUSUXI-Kids-Back-To-School-Utensil-4-Piece-Set/p/160481"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "貓倍麗 香烤鮭魚佐鮮蝦主食罐 85公克 X 24入",
+      "現價": "459",
+      "原價": "579",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf7/h75/11133447077918.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Pet-Supplies/Pet-Dry-Wet-Food/Mon-Petit-Salmon-Shrimp-Canned-Cat-Food-85-g-X-24-Count/p/120408"
     },
     {
       "品牌": "Costco 台灣",
