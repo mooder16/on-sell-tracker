@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-06-26 17:46:55",
-  "total": 184,
+  "scraped_at": "2026-06-26 21:18:07",
+  "total": 183,
   "products": [
     {
       "分類": "上衣",
@@ -538,14 +538,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054541/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054541"
-    },
-    {
-      "分類": "裙子",
-      "商品名稱": "魚尾長裙(印花)",
-      "現價": "290",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053096/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053096"
     },
     {
       "分類": "褲子",
