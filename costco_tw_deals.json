@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-06-27 17:11:49",
+  "scraped_at": "2026-06-27 21:05:02",
   "total": 55,
   "products": [
     {
@@ -316,16 +316,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "亞細亞田園 冷凍生毛豆仁 1公斤 X 5入",
-      "現價": "655",
-      "原價": "819",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h7e/hbf/292858610614302.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Fruits-Vegetables/Asia-Frozen-Shelled-Edamame-1-kg-X-5-Pack/p/863731"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "寵物",
       "商品名稱": "Cat Chow 貓乾糧完整均衡配方 6.8公斤",
       "現價": "619",
@@ -482,6 +472,16 @@
       "原價": "835",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5f/hce/332150510256158.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Accessories/F-SEASONS-Cooling-Auto-Umbrella-2-Pack-43-inch-46-inch/p/155776-B"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "家電",
+      "商品名稱": "勳風 充電式二合一捕蚊燈拍 DHF-T7092",
+      "現價": "575",
+      "原價": "719",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h7d/h16/329850513555486.jpg",
+      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Pest-Control/SUPA-FINE-2-in-1-Rechargeable-Electric-Mosquito-Swatter-with-Lamp-2-Pack-DHF-T7092/p/151121"
     },
     {
       "品牌": "Costco 台灣",
