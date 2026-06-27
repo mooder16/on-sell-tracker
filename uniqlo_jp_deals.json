@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-06-27 02:58:52",
+  "scraped_at": "2026-06-27 06:52:07",
   "total": 60,
   "products": [
     {
@@ -545,6 +545,16 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "たまごっち UT/オーバーサイズフィット",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484466/item/jpgoods_02_484466_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484466-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
       "分類": "內搭",
       "商品名稱": "リブブラトップ/アメリカンスリーブ",
       "現價": "1290",
@@ -592,16 +602,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479089/item/goods_09_479089_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E479089-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "スカラップクルーネックカーディガン/ウォッシャブル",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482978/item/jpgoods_38_482978_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482978-000/00"
     }
   ]
 }

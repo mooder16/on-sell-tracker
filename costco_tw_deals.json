@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-06-27 03:00:59",
+  "scraped_at": "2026-06-27 06:54:19",
   "total": 55,
   "products": [
     {
@@ -67,16 +67,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
-      "商品名稱": "科克蘭 冷萃特級初榨橄欖油 2公升",
-      "現價": "789",
-      "原價": "879",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf8/h7f/472591303573534.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Extra-Virgin-Olive-Oil-2-L/p/1058619"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
       "商品名稱": "科克蘭 雙層夾鏈冷凍保鮮袋 (中) 44入 X 6盒",
       "現價": "405",
       "原價": "469",
@@ -132,6 +122,16 @@
       "原價": "509",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h38/hcb/343414015131678.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Food-Preservation/Kirkland-Signature-Freezer-Bag-Large-32-Bag-X-6-Count/p/1881606"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "科克蘭 男女同款圓領短袖T恤",
+      "現價": "279",
+      "原價": "349",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h68/heb/451293860986910.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Kirkland-Signature-Logo-Unisex-Crew-Neck-Short-Sleeve-Tee/p/7771755"
     },
     {
       "品牌": "Costco 台灣",
