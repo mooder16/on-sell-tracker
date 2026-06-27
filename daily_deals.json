@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-06-27 10:07:30",
+  "scraped_at": "2026-06-27 13:40:29",
   "total": 187,
   "products": [
     {
@@ -245,14 +245,6 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "棉質T恤(無袖)",
-      "現價": "190",
-      "原價": "290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051637/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051637"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "V領BRATOP背心",
       "現價": "490",
       "原價": "790",
@@ -418,6 +410,14 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053817/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053817"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "3D織法羅紋方領針織衫(無袖)",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053572/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053572"
     },
     {
       "分類": "洋裝",
@@ -1044,14 +1044,6 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052022"
     },
     {
-      "分類": "上衣",
-      "商品名稱": "府綢寬版襯衫(長袖)(條紋)",
-      "現價": "390",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053520/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053520"
-    },
-    {
       "分類": "外套",
       "商品名稱": "棉麻襯衫式外套(長袖)",
       "現價": "1290",
@@ -1100,6 +1092,14 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114"
     },
     {
+      "分類": "上衣",
+      "商品名稱": "柔滑棉圓領針織衫(長袖)",
+      "現價": "390",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053849/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053849"
+    },
+    {
       "分類": "外套",
       "商品名稱": "米蘭羅紋拉鍊開襟外套(長袖)",
       "現價": "1290",
@@ -1130,14 +1130,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050783/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050783"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "防曬透膚長版連帽外套",
-      "現價": "590",
-      "原價": "1990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053892/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053892"
     },
     {
       "分類": "外套",
@@ -1354,6 +1346,14 @@
       "原價": "290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054595/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054595"
+    },
+    {
+      "分類": "其他",
+      "商品名稱": "可收納肩背包",
+      "現價": "490",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053900/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053900"
     },
     {
       "分類": "其他",
