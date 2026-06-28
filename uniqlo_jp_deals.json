@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-06-28 10:27:34",
+  "scraped_at": "2026-06-28 13:44:50",
   "total": 60,
   "products": [
     {
@@ -90,7 +90,7 @@
       "現價": "1990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488448/item/jpgoods_31_488448_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488448/item/jpgoods_39_488448_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E488448-000/00"
     },
     {
@@ -172,16 +172,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484228/item/jpgoods_69_484228_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484228-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ミニT",
-      "現價": "790",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487839/item/jpgoods_68_487839_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487839-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -466,26 +456,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "K-POPグループ BABYMONSTER UT/ボクシー",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486828/item/jpgoods_69_486828_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E486828-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "K-POPグループ BABYMONSTER UT/ボクシー",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486827/item/jpgoods_02_486827_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E486827-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "マジック フォー オール タイムレス UT",
       "現價": "1290",
       "原價": "",
@@ -602,6 +572,36 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487719/item/jpgoods_37_487719_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487719-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "コットンポインテールポロセーター/ウォッシャブル",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484192/item/jpgoods_16_484192_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484192-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ポロセーター/ウォッシャブル",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484000/item/jpgoods_41_484000_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484000-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "リネンクルーネックセーター",
+      "現價": "5990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484633/item/jpgoods_38_484633_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484633-000/00"
     }
   ]
 }
