@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-06-29 15:46:53",
+  "scraped_at": "2026-06-29 18:14:43",
   "total": 55,
   "products": [
     {
@@ -306,16 +306,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "家電",
-      "商品名稱": "飛利浦 Sonicare 充電式智能電動護齦牙刷 單握柄+2刷頭 HX3792",
-      "現價": "3369",
-      "原價": "4369",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdc/h90/468568630689822.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Electric-Toothbrushes-Water-Flossers/Philips-Sonicare-Rechargeable-Toothbrush-1-Handle-2-Brush-Heads-HX3792/p/160016"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "威德 輕暢酵素飲纖暢配方 30毫升 X 30入",
       "現價": "829",
@@ -482,6 +472,16 @@
       "原價": "11999",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc5/h03/470130559221790.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gilman-Creek-Leather-Power-Glider-Recliner-with-Power-Headrest/p/1987641"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "泰安 台灣冷凍豬絞肉 2.4公斤 X 5入",
+      "現價": "2499",
+      "原價": "2799",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h01/h46/173384819376158.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Taian-Taiwan-Frozen-Ground-Pork-24-kg-X-5-Count/p/141841"
     },
     {
       "品牌": "Costco 台灣",
