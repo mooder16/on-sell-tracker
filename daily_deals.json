@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-06-29 08:58:01",
+  "scraped_at": "2026-06-29 15:44:11",
   "total": 178,
   "products": [
     {
@@ -1125,6 +1125,14 @@
     },
     {
       "分類": "外套",
+      "商品名稱": "防風連帽外套",
+      "現價": "590",
+      "原價": "1690",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053535/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053535"
+    },
+    {
+      "分類": "外套",
       "商品名稱": "西裝外套",
       "現價": "990",
       "原價": "2990",
@@ -1266,14 +1274,6 @@
       "原價": "490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000020076/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000020076"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "船型襪3雙(運動) 480710",
-      "現價": "249",
-      "原價": "290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054593/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054593"
     },
     {
       "分類": "其他",
