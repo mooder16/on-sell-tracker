@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-06-29 03:49:06",
+  "scraped_at": "2026-06-29 08:58:33",
   "total": 60,
   "products": [
     {
@@ -102,16 +102,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/424873/item/jpgoods_10_424873_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E424873-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "リブクルーネックT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484838/item/jpgoods_09_484838_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484838-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -342,16 +332,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487557/item/jpgoods_00_487557_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487557-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "內搭",
-      "商品名稱": "ザ・ブランズ UT",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485042/item/jpgoods_00_485042_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485042-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -602,6 +582,26 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487719/item/jpgoods_37_487719_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487719-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "コットンポインテールポロセーター/ウォッシャブル",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484192/item/jpgoods_16_484192_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484192-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ポロセーター/ウォッシャブル",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484000/item/jpgoods_41_484000_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484000-000/00"
     }
   ]
 }
