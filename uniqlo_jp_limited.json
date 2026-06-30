@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-06-30 14:17:39",
+  "scraped_at": "2026-06-30 17:53:42",
   "total": 72,
   "products": [
     {
@@ -566,16 +566,6 @@
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "褲子",
-      "商品名稱": "リネンブレンドイージーパンツ/丈長め",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483905/item/jpgoods_69_483905_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483905-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "褲子",
       "商品名稱": "リネンブレンドイージーパンツ丈長め",
       "現價": "1990",
       "原價": "",
@@ -722,6 +712,16 @@
       "截止日期": "7/2まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485261/item/jpgoods_11_485261_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485261-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "エアリズムUネックT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "7/2まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/457913/item/jpgoods_11_457913_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E457913-000/00"
     }
   ]
 }
