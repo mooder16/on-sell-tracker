@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-07-01 14:34:02",
+  "scraped_at": "2026-07-01 17:55:19",
   "total": 72,
   "products": [
     {
@@ -222,16 +222,6 @@
       "截止日期": "7/2まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483970/item/jpgoods_68_483970_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483970-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "VネックTシャツ",
-      "現價": "590",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482301/item/jpgoods_18_482301_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482301-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
@@ -722,6 +712,16 @@
       "截止日期": "7/2まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/457913/item/jpgoods_11_457913_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E457913-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "內搭",
+      "商品名稱": "ワイヤレスブラ/3Dホールド",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "7/2まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482659/item/jpgoods_11_482659_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482659-000/00"
     }
   ]
 }
