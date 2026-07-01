@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-07-01 08:12:18",
-  "total": 207,
+  "scraped_at": "2026-07-01 14:32:57",
+  "total": 211,
   "products": [
     {
       "分類": "上衣",
@@ -645,6 +645,14 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "百褶褲裙",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054097/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054097"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "棉麻短褲",
       "現價": "590",
       "原價": "790",
@@ -904,8 +912,16 @@
       "商品名稱": "SMART 寬褲",
       "現價": "590",
       "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053104/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053104"
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051954/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051954"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "長褲",
+      "現價": "590",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053753/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053753"
     },
     {
       "分類": "褲子",
@@ -914,14 +930,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000050100/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000050100"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "特級彈性Skinny Fit多色牛仔褲",
-      "現價": "390",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000018046/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000018046"
     },
     {
       "分類": "褲子",
@@ -1074,6 +1082,22 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053926/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053926"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "羅紋中高領條紋T恤(長袖)",
+      "現價": "290",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052411/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052411"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "華夫格圓領T恤(長袖)",
+      "現價": "190",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052991/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052991"
     },
     {
       "分類": "上衣",
@@ -1346,6 +1370,14 @@
       "原價": "3490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052104/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052104"
+    },
+    {
+      "分類": "外套",
+      "商品名稱": "Peanuts 教練外套",
+      "現價": "590",
+      "原價": "1690",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053666/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053666"
     },
     {
       "分類": "外套",
