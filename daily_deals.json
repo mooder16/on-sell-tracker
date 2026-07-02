@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-07-02 07:31:00",
-  "total": 209,
+  "scraped_at": "2026-07-02 10:38:18",
+  "total": 212,
   "products": [
     {
       "分類": "上衣",
@@ -492,6 +492,14 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053817"
     },
     {
+      "分類": "上衣",
+      "商品名稱": "3D織法羅紋方領針織衫(無袖)",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053572/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053572"
+    },
+    {
       "分類": "洋裝",
       "商品名稱": "寬版雙色洋裝(短袖)",
       "現價": "590",
@@ -853,6 +861,14 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "休閒寬褲(褲腳抽繩)",
+      "現價": "390",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054044/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054044"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "休閒直筒長褲",
       "現價": "390",
       "原價": "990",
@@ -1154,6 +1170,14 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053060/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053060"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "府綢寬版襯衫(長袖)(條紋)",
+      "現價": "390",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051955/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051955"
     },
     {
       "分類": "上衣",
