@@ -1,727 +1,357 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-07-02 13:59:16",
-  "total": 72,
+  "scraped_at": "2026-07-02 17:47:16",
+  "total": 35,
   "products": [
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "其他",
-      "商品名稱": "リブミニT",
+      "商品名稱": "クルーネックT",
       "現價": "990",
       "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484457/item/jpgoods_38_484457_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484457-000/00"
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/424873/item/jpgoods_10_424873_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E424873-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "其他",
-      "商品名稱": "ミニT",
+      "商品名稱": "シアーT",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484231/item/jpgoods_10_484231_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484231-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "上衣",
+      "商品名稱": "エアリズムコットンクルーネックTシャツ",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465193/item/goods_16_465193_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465193-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "上衣",
+      "商品名稱": "エアリズムコットンボーダーTシャツ",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/486103/item/goods_76_486103_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E486103-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "上衣",
+      "商品名稱": "クルーネックTシャツ",
       "現價": "990",
       "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465760/item/jpgoods_14_465760_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465760-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ミニT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483535/item/jpgoods_17_483535_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483535-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ミニT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487277/item/jpgoods_14_487277_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487277-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ワッフルフルオープンミニT",
-      "現價": "590",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483521/item/jpgoods_63_483521_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483521-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ポインテールラウンドネックミニT",
-      "現價": "590",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485025/item/jpgoods_18_485025_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485025-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "シャーリングボリュームスリーブT",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484418/item/jpgoods_00_484418_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484418-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "シャーリングボリュームスリーブT",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484418001/item/jpgoods_01_484418001_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484418-001/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "グラフィックT",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484421/item/jpgoods_10_484421_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484421-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "グラフィックT",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483268/item/jpgoods_00_483268_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483268-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "フリルT",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488087/item/jpgoods_00_488087_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488087-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "エアリズムリラックスVネックT/2way",
-      "現價": "590",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485300/item/jpgoods_00_485300_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485300-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "UVカットクルーネックセーター/ウォッシャブル",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/474983/item/jpgoods_10_474983_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E474983-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "UVカットクルーネックセーター/ウォッシャブル",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485223/item/jpgoods_69_485223_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485223-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "シャーリングTノースリーブ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488088/item/jpgoods_15_488088_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488088-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "シャーリングTノースリーブ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488088001/item/jpgoods_01_488088001_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488088-001/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "ボクシークロップドTシャツ",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487962/item/jpgoods_11_487962_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487962-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "外套",
-      "商品名稱": "ドライEXUVカットフルジップパーカ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465203/item/jpgoods_57_465203_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465203-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "ドライEXクルーネックTシャツ",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/467145/item/jpgoods_52_467145_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E467145-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "ドライEXTシャツ",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482299/item/jpgoods_14_482299_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482299-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "ドライEXTシャツ/カラーブロック",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/489013/item/jpgoods_67_489013_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E489013-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "ドライEXTシャツ/アブストラクト",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483970/item/jpgoods_68_483970_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483970-000/00"
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/422992/item/jpgoods_16_422992_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E422992-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "內搭",
-      "商品名稱": "リブブラトップ/アメリカンスリーブ",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482194/item/jpgoods_18_482194_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482194-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "內搭",
-      "商品名稱": "リブブラトップ/アメリカンスリーブ",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/473982/item/goods_09_473982_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E473982-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "內搭",
-      "商品名稱": "リブブラトップ/アメリカンスリーブ",
-      "現價": "1490",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464425/item/goods_00_464425_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E464425-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "外套",
-      "商品名稱": "ウルトラストレッチエアリズムUVカットフルジップパーカ",
+      "商品名稱": "エアリズムブラキャミソール",
       "現價": "1990",
       "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483281/item/jpgoods_12_483281_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483281-000/00"
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465707/item/jpgoods_12_465707_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465707-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "上衣",
-      "商品名稱": "スウェットストレートパンツ",
-      "現價": "2990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483285/item/jpgoods_30_483285_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483285-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "スウェットストレートパンツ/丈短め",
-      "現價": "2990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/484855/item/goods_30_484855_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484855-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "スウェットストレートパンツ/丈長め",
-      "現價": "2990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484854/item/jpgoods_30_484854_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484854-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "スウェットワイドパンツ",
-      "現價": "2990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/471809/item/jpgoods_31_471809_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E471809-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "スウェットワイドパンツ/丈長め",
-      "現價": "2990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/473715/item/jpgoods_31_473715_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E473715-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "ポロセーター/ウォッシャブル",
+      "商品名稱": "エアリズムブラタンクトップ",
       "現價": "1990",
       "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484607/item/jpgoods_42_484607_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484607-000/00"
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485345/item/jpgoods_39_485345_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485345-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "上衣",
-      "商品名稱": "ポロセーター/ウォッシャブル",
+      "商品名稱": "スウェットワイドショーツ",
       "現價": "1990",
       "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485224/item/jpgoods_69_485224_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485224-000/00"
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482758/item/jpgoods_17_482758_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482758-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "其他",
-      "商品名稱": "UVカットクルーネックカーディガン/ウォッシャブル",
+      "商品名稱": "シアークルーショートカーディガン/ウォッシャブル",
       "現價": "1990",
       "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465484/item/jpgoods_38_465484_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465484-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "UVカットクルーネックカーディガン/ウォッシャブル",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484505/item/jpgoods_69_484505_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484505-000/00"
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487508/item/jpgoods_41_487508_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487508-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "上衣",
-      "商品名稱": "リネンブレンドブラウス/ノースリーブ",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483890/item/jpgoods_15_483890_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483890-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "デニムボクシーシャツ/5分袖",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483877/item/jpgoods_30_483877_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483877-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "エンブロイダリーブラウス/ノースリーブ",
+      "商品名稱": "ウォッシャブルミラノリブニットTシャツ",
       "現價": "1990",
       "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487986/item/jpgoods_41_487986_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487986-000/00"
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481004/item/jpgoods_31_481004_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481004-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "上衣",
       "商品名稱": "レーヨンブラウス",
-      "現價": "2990",
+      "現價": "1990",
       "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/489227/item/jpgoods_19_489227_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E489227-000/00"
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/489229/item/jpgoods_18_489229_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E489229-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "上衣",
-      "商品名稱": "レーヨンブラウス/ストライプ",
-      "現價": "2990",
+      "商品名稱": "レーヨンブラウス/プリント",
+      "現價": "1990",
       "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/489228/item/jpgoods_61_489228_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E489228-000/00"
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/489230/item/jpgoods_01_489230_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E489230-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "上衣",
       "商品名稱": "レーヨンブラウス",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483875/item/jpgoods_18_483875_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483875-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "上衣",
+      "商品名稱": "レーヨンブラウス/プリント",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484240/item/jpgoods_01_484240_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484240-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "上衣",
+      "商品名稱": "オックスフォードシャツ",
       "現價": "2990",
       "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487526/item/jpgoods_62_487526_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487526-000/00"
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484928/item/jpgoods_50_484928_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484928-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "上衣",
-      "商品名稱": "オープンカラーシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487791/item/jpgoods_31_487791_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487791-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "オープンカラーシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482480/item/jpgoods_69_482480_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482480-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "オープンカラーシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482483/item/jpgoods_57_482483_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482483-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "オープンカラーシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482481/item/jpgoods_06_482481_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482481-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "ドライカノコポロシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482304/item/jpgoods_25_482304_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482304-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "ドライカノコポロシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485564/item/jpgoods_69_485564_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485564-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "ドライカノコボーダーポロシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485565/item/jpgoods_55_485565_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485565-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "ドライカノコボーダーポロシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485566/item/jpgoods_12_485566_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485566-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "ドライカノコボーダーポロシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485568/item/jpgoods_56_485568_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485568-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "ドライEXポロシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485782/item/jpgoods_64_485782_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485782-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "ドライEXハーフジップポロシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482306/item/jpgoods_55_482306_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482306-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "ドライカノコボーダーポロシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485567/item/jpgoods_26_485567_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485567-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "褲子",
-      "商品名稱": "リネンブレンドイージーパンツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/473791/item/jpgoods_30_473791_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E473791-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "褲子",
-      "商品名稱": "リネンブレンドイージーパンツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483903/item/jpgoods_69_483903_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483903-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "褲子",
-      "商品名稱": "リネンブレンドイージーパンツ / 丈長め",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/473792/item/jpgoods_11_473792_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E473792-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "褲子",
-      "商品名稱": "感動スリムパンツ",
+      "商品名稱": "オックスフォードシャツ/ストライプ",
       "現價": "2990",
       "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482177/item/jpgoods_69_482177_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482177-000/00"
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485265/item/jpgoods_10_485265_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485265-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "褲子",
-      "商品名稱": "感動スリムパンツ丈長め",
+      "分類": "上衣",
+      "商品名稱": "オックスフォードシャツ",
       "現價": "2990",
       "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482178/item/jpgoods_69_482178_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482178-000/00"
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475718/item/goods_00_475718_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475718-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "褲子",
-      "商品名稱": "タックワイドショーツ",
-      "現價": "1990",
+      "分類": "上衣",
+      "商品名稱": "オックスフォードシャツ",
+      "現價": "2990",
       "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482965/item/jpgoods_35_482965_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482965-000/00"
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/450259/item/jpgoods_64_450259_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E450259-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "裙子",
-      "商品名稱": "シャーリングスカート",
-      "現價": "3990",
+      "分類": "上衣",
+      "商品名稱": "オックスフォードオーバーサイズシャツ",
+      "現價": "2990",
       "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488089/item/jpgoods_15_488089_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488089-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "裙子",
-      "商品名稱": "シャーリングスカート",
-      "現價": "3990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488089001/item/jpgoods_01_488089001_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488089-001/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "洋裝",
-      "商品名稱": "ウルトラストレッチエアリズムワンピース/ノースリーブ/丈長め",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485456/item/jpgoods_38_485456_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485456-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "洋裝",
-      "商品名稱": "ウルトラストレッチエアリズムワンピース/ノースリーブ/丈短め",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484883/item/jpgoods_38_484883_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484883-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "洋裝",
-      "商品名稱": "ウルトラストレッチエアリズムワンピース/ノースリーブ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482982/item/jpgoods_38_482982_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482982-000/00"
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484244/item/jpgoods_00_484244_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484244-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "外套",
-      "商品名稱": "感動ジャケット",
-      "現價": "5990",
+      "商品名稱": "エアリズムカノコポロシャツ/ボタンダウン",
+      "現價": "1990",
       "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484101/item/jpgoods_69_484101_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484101-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "感動ブレザー",
-      "現價": "5990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/477704/item/jpgoods_69_477704_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E477704-000/00"
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/466828/item/goods_60_466828_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E466828-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "上衣",
-      "商品名稱": "エアリズムタンクトップ",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/457912/item/jpgoods_31_457912_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E457912-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "エアリズムキャミソール",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482148/item/jpgoods_11_482148_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482148-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "エアリズムキャミソール",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457911/item/goods_11_457911_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E457911-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "エアリズムアセトリキャミソール",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485261/item/jpgoods_11_485261_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485261-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "エアリズムUネックT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/457913/item/jpgoods_11_457913_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E457913-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "內搭",
-      "商品名稱": "ワイヤレスブラ/3Dホールド",
+      "商品名稱": "エアリズムコットンカノコポロシャツ",
       "現價": "1990",
       "原價": "",
-      "截止日期": "7/2まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482659/item/jpgoods_11_482659_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482659-000/00"
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475367/item/jpgoods_14_475367_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475367-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "褲子",
+      "商品名稱": "EZYワイドストレートジーンズ/丈長め",
+      "現價": "3990",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484813/item/jpgoods_66_484813_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484813-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "褲子",
+      "商品名稱": "EZYワイドストレートジーンズ",
+      "現價": "3990",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482281/item/jpgoods_66_482281_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482281-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "褲子",
+      "商品名稱": "デニムキュロット",
+      "現價": "2990",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488694/item/jpgoods_65_488694_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488694-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "褲子",
+      "商品名稱": "EZYバレルジーンズ",
+      "現價": "3990",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488630/item/jpgoods_63_488630_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488630-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "褲子",
+      "商品名稱": "ウルトラストレッチアクティブジョガーパンツ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/455942/item/jpgoods_30_455942_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E455942-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "褲子",
+      "商品名稱": "ウルトラストレッチアクティブジョガーパンツ/丈長め",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/458462/item/jpgoods_30_458462_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E458462-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "褲子",
+      "商品名稱": "ウルトラストレッチアクティブジョガーパンツ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485744/item/jpgoods_31_485744_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485744-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "褲子",
+      "商品名稱": "ウルトラストレッチアクティブジョガーパンツ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465206/item/jpgoods_68_465206_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465206-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "褲子",
+      "商品名稱": "ウルトラストレッチアクティブジョガーパンツ/丈長め",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485745/item/jpgoods_31_485745_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485745-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "褲子",
+      "商品名稱": "ウルトラストレッチアクティブジョガーパンツ/丈長め",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/467767/item/goods_31_467767_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E467767-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "ジョーツ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484209/item/jpgoods_63_484209_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484209-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "褲子",
+      "商品名稱": "エアリズムシェイパーショーツ/サポートタイプ",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/481036/item/goods_32_481036_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481036-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "褲子",
+      "商品名稱": "エアリズムシェイパーショーツ/スムースタイプ",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480785/item/goods_32_480785_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E480785-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "其他",
+      "商品名稱": "UVカットコンパクトアンブレラ/遮熱",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/482268/item/goods_10_482268_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482268-000/00"
     }
   ]
 }

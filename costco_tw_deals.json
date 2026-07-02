@@ -1,7 +1,7 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-07-02 14:00:51",
-  "total": 55,
+  "scraped_at": "2026-07-02 17:48:52",
+  "total": 54,
   "products": [
     {
       "品牌": "Costco 台灣",
@@ -48,8 +48,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "豐力富 紐西蘭頂級純濃奶粉 2.6公斤",
-      "現價": "635",
-      "原價": "789",
+      "現價": "789",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h24/hb9/15916554420254.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Fernleaf-New-Zealand-Full-Cream-Milk-Powder-26-kg/p/79922"
     },
@@ -248,8 +248,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "清潔",
       "商品名稱": "Bounty 兩層隨意撕特級廚房紙巾 103張 X 12卷",
-      "現價": "799",
-      "原價": "999",
+      "現價": "999",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hee/ha9/364687149269022.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Bounty-Advanced-2-Ply-White-Paper-Towel-103-Sheet-X-12-Roll/p/1919326"
     },
@@ -492,16 +492,6 @@
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8c/ha5/118320266608670.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Whole-Almonds-136-kg/p/1516849"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 降價商品",
-      "分類": "其他",
-      "商品名稱": "舒特膚長效潤膚霜 550公克",
-      "現價": "499",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h15/h51/171156051525662.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Cetaphil-Moisturising-Cream-550-g/p/137177"
     },
     {
       "品牌": "Costco 台灣",
