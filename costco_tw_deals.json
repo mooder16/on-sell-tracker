@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-07-03 17:27:19",
+  "scraped_at": "2026-07-03 21:07:43",
   "total": 54,
   "products": [
     {
@@ -52,6 +52,16 @@
       "原價": "879",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf8/h7f/472591303573534.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Extra-Virgin-Olive-Oil-2-L/p/1058619"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "興麥 肉鬆蛋捲 20公克 X 24入",
+      "現價": "315",
+      "原價": "389",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h52/h35/434798758068254.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Ximai-Pork-Floss-Egg-Roll-20-g-X-24-Pack/p/153962"
     },
     {
       "品牌": "Costco 台灣",
@@ -131,7 +141,7 @@
       "現價": "949",
       "原價": "1189",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf8/h6b/295029024981022.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Hong-Yu-Frozen-Seafood-Shrimp-Pancake-2-kg/p/247284"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/247284"
     },
     {
       "品牌": "Costco 台灣",
@@ -472,16 +482,6 @@
       "原價": "33999",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha2/hab/438072172806174.jpg",
       "商品連結": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/Samsung-75-inch-4K-Smart-Monitor-UA75U8500FXXZW/p/153527"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "CASA 萊賽爾長抱枕 45公分 X 120公分 好眠兔",
-      "現價": "379",
-      "原價": "479",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h20/h88/471660448514078.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/CASA-Tencel-Body-Pillow-45-cm-X-120-cm-Sleepy-Bunny/p/326817"
     },
     {
       "品牌": "Costco 台灣",
