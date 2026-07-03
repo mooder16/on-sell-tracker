@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-07-03 14:04:00",
+  "scraped_at": "2026-07-03 17:27:19",
   "total": 54,
   "products": [
     {
@@ -62,16 +62,6 @@
       "原價": "319",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h42/h31/437686584082462.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Kenji-Multi-Variety-Sweet-Potato-Chips-Mix-400-g/p/123862"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "格力高 杏仁果飲 無糖 196毫升 X 24入",
-      "現價": "679",
-      "原價": "849",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h56/h24/115203661070366.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Glico-Almond-Beverage-No-Sugar-196-ml-X-24-Pack/p/137161"
     },
     {
       "品牌": "Costco 台灣",
@@ -141,7 +131,7 @@
       "現價": "949",
       "原價": "1189",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf8/h6b/295029024981022.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/247284"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Hong-Yu-Frozen-Seafood-Shrimp-Pancake-2-kg/p/247284"
     },
     {
       "品牌": "Costco 台灣",
@@ -196,32 +186,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "汽車",
-      "商品名稱": "CleverMade 摺疊購物車",
-      "現價": "975",
-      "原價": "1225",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he7/h5b/416282498170910.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Storage-Containers-Hooks/CleverMade-Foldable-Shopping-Cart/p/2796150"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "樂腹 白藜麥 2公斤",
-      "現價": "364",
-      "原價": "459",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h59/hbe/414650693877790.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Le-Food-White-Quinoa-2-kg/p/158290"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "原萃 白毫烏龍茶 580毫升 X 24入",
       "現價": "409",
       "原價": "499",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h40/h24/223927011311646.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Tea/Real-Leaf-White-Tipped-Oolong-Tea-580-ml-X-24-Count/p/200892"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Tea/p/200892"
     },
     {
       "品牌": "Costco 台灣",
@@ -357,16 +327,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "IRIS OHYAMA 稻荷豆皮麻糬",
-      "現價": "679",
-      "原價": "859",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h97/hca/242857643114526.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/IRIS-OHYAMA-Inari-Mochi/p/146551"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
       "商品名稱": "PrepWorks 多功能矽膠蓋 10件組",
       "現價": "439",
       "原價": "559",
@@ -482,6 +442,46 @@
       "原價": "1239",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he9/hcb/333377464565790.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Skin-Care/AHC-Safe-On-Mild-Sun-Cushion-Set-Set-SPF50-PA/p/144055"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "清潔",
+      "商品名稱": "Samsung 20公斤 直立式變頻洗衣機 WA20A8377GW/TW",
+      "現價": "18959",
+      "原價": "23699",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h85/h86/259146767859742.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Washers-Dryers/Samsung-20-kg-Top-Load-Washer-WA20A8377GWTW/p/146557"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "大成 冷凍土雞里肌肉 4.8公斤",
+      "現價": "1079",
+      "原價": "1229",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hae/h64/403085691715614.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Dachan-Frozen-Native-Chicken-Tenderloin-48-kg/p/157713"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "家電",
+      "商品名稱": "Samsung 75吋 4K 晶彩智慧顯示器 UA75U8500FXXZW",
+      "現價": "26999",
+      "原價": "33999",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha2/hab/438072172806174.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/Samsung-75-inch-4K-Smart-Monitor-UA75U8500FXXZW/p/153527"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "CASA 萊賽爾長抱枕 45公分 X 120公分 好眠兔",
+      "現價": "379",
+      "原價": "479",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h20/h88/471660448514078.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/CASA-Tencel-Body-Pillow-45-cm-X-120-cm-Sleepy-Bunny/p/326817"
     },
     {
       "品牌": "Costco 台灣",
