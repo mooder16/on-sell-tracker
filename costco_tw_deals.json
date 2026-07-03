@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-07-03 10:37:09",
+  "scraped_at": "2026-07-03 14:04:00",
   "total": 54,
   "products": [
     {
@@ -52,16 +52,6 @@
       "原價": "879",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf8/h7f/472591303573534.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Extra-Virgin-Olive-Oil-2-L/p/1058619"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "興麥 肉鬆蛋捲 20公克 X 24入",
-      "現價": "315",
-      "原價": "389",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h52/h35/434798758068254.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Ximai-Pork-Floss-Egg-Roll-20-g-X-24-Pack/p/153962"
     },
     {
       "品牌": "Costco 台灣",
@@ -151,7 +141,7 @@
       "現價": "949",
       "原價": "1189",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf8/h6b/295029024981022.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Hong-Yu-Frozen-Seafood-Shrimp-Pancake-2-kg/p/247284"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/247284"
     },
     {
       "品牌": "Costco 台灣",
@@ -432,6 +422,16 @@
       "原價": "479",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h65/h1b/471216296951838.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/CASA-Tencel-Body-Pillow-45-cm-X-120-cm-Dreamy-Forest/p/126817"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "家電",
+      "商品名稱": "Samsung 55吋 Neo QLED AI 智慧顯示器 QA55QN87DAXXZW",
+      "現價": "23999",
+      "原價": "29999",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h03/h28/438072160256030.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Samsung-55-inch-Neo-QLED-AI-Smart-Monitor-QA55QN87DAXXZW/p/152564"
     },
     {
       "品牌": "Costco 台灣",
