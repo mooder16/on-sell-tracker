@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-07-02 21:05:19",
-  "total": 209,
+  "scraped_at": "2026-07-03 02:51:50",
+  "total": 204,
   "products": [
     {
       "分類": "上衣",
@@ -26,14 +26,6 @@
       "原價": "390",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053248/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053248"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "特級彈性Active T恤(短袖)",
-      "現價": "390",
-      "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053340/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053340"
     },
     {
       "分類": "上衣",
@@ -981,27 +973,11 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "寬版襯衫(短袖)",
-      "現價": "790",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053906/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053906"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "開領襯衫(短袖)",
       "現價": "790",
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053514/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053514"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "寬版格紋襯衫(短袖)",
-      "現價": "790",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053890/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053890"
     },
     {
       "分類": "上衣",
@@ -1074,22 +1050,6 @@
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053733/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053733"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "羅紋中高領條紋T恤(長袖)",
-      "現價": "290",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052411/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052411"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "華夫格圓領T恤(長袖)",
-      "現價": "190",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052991/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052991"
     },
     {
       "分類": "上衣",
