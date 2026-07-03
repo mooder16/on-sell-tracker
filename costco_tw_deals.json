@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-07-03 02:54:39",
+  "scraped_at": "2026-07-03 07:22:00",
   "total": 54,
   "products": [
     {
@@ -32,6 +32,16 @@
       "原價": "999",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h2f/h5c/470130482610206.jpg",
       "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Cascade-Mountain-Tech-Water-Sports-Plank/p/1740616"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "科克蘭 藍莓乾 567公克",
+      "現價": "334",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h76/h93/50940707504158.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Dried-Blueberries-567-g/p/968318"
     },
     {
       "品牌": "Costco 台灣",
@@ -191,7 +201,7 @@
       "現價": "525",
       "原價": "659",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf8/hbd/398742007644190.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Oral-Care/Sensodyne-Pronamel-Multi-Action-Toothpaste-130-g-X-6-Pack/p/240952"
+      "商品連結": "https://www.costco.com.tw/p/240952"
     },
     {
       "品牌": "Costco 台灣",
@@ -472,16 +482,6 @@
       "原價": "1239",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he9/hcb/333377464565790.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Skin-Care/AHC-Safe-On-Mild-Sun-Cushion-Set-Set-SPF50-PA/p/144055"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "清潔",
-      "商品名稱": "Samsung 20公斤 直立式變頻洗衣機 WA20A8377GW/TW",
-      "現價": "18959",
-      "原價": "23699",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h85/h86/259146767859742.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Washers-Dryers/Samsung-20-kg-Top-Load-Washer-WA20A8377GWTW/p/146557"
     },
     {
       "品牌": "Costco 台灣",
