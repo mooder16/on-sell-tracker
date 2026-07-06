@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-07-06 03:28:03",
+  "scraped_at": "2026-07-06 08:21:53",
   "total": 54,
   "products": [
     {
@@ -51,7 +51,7 @@
       "現價": "259",
       "原價": "319",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hec/h35/191494211633182.jpg",
-      "商品連結": "https://www.costco.com.tw/c/Calbee-Fruit-Granola-1-kg/p/216971"
+      "商品連結": "https://www.costco.com.tw/c/p/216971"
     },
     {
       "品牌": "Costco 台灣",
@@ -91,7 +91,7 @@
       "現價": "949",
       "原價": "1189",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf8/h6b/295029024981022.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Hong-Yu-Frozen-Seafood-Shrimp-Pancake-2-kg/p/247284"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/247284"
     },
     {
       "品牌": "Costco 台灣",
@@ -132,16 +132,6 @@
       "原價": "709",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h27/h61/86343576682526.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Cleaning-Tools/Clorox-Disinfecting-Wipes-85-Sheet-X-5-Count/p/2189436"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "清潔",
-      "商品名稱": "ARM & HAMMER 強效濃縮洗衣精添加小蘇打粉 5.91公升 / 200蓋次",
-      "現價": "499",
-      "原價": "629",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h37/h7b/239549993320478.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/ARM-HAMMER-Plus-OxiClean-Max-Liquid-Laundry-Detergent-591-L-200-Load/p/139856"
     },
     {
       "品牌": "Costco 台灣",
@@ -291,7 +281,7 @@
       "現價": "1670",
       "原價": "2085",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc4/h2f/346620904931358.jpg",
-      "商品連結": "https://www.costco.com.tw/c/Quaker-Enhanced-Diabetic-250-ml-X-28-Cans-360-g-X-1-Bottle/p/873345"
+      "商品連結": "https://www.costco.com.tw/c/p/873345"
     },
     {
       "品牌": "Costco 台灣",
@@ -381,7 +371,7 @@
       "現價": "269",
       "原價": "329",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb1/h8b/206257392779294.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Granola-House-Oat-Biscuit-Berry-Berry-660-g/p/143283"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/143283"
     },
     {
       "品牌": "Costco 台灣",
@@ -485,6 +475,16 @@
     },
     {
       "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "居家",
+      "商品名稱": "Seville Classics 雙層木製抽屜式置物籃架",
+      "現價": "719",
+      "原價": "899",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h1f/ha4/436453813747742.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Storage-Containers-Hooks/Seville-Classics-Acacia-2-Tier-Sliding-Drawer-Organizer/p/2029373"
+    },
+    {
+      "品牌": "Costco 台灣",
       "來源": "Costco 降價商品",
       "分類": "食品",
       "商品名稱": "科克蘭 杏仁 1.36公斤",
@@ -501,7 +501,7 @@
       "現價": "685",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he4/h04/419358168481822.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Downy-Ultra-Concentrated-HE-Fabric-Softener-503-L/p/138992"
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/p/138992"
     },
     {
       "品牌": "Costco 台灣",
@@ -521,7 +521,7 @@
       "現價": "689",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd3/h92/292858412302366.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/12-ft-X-16-ft-Reversible-Tarps-2-Pack/p/1600091"
+      "商品連結": "https://www.costco.com.tw/p/1600091"
     },
     {
       "品牌": "Costco 台灣",
