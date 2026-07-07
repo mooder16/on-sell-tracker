@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-07-07 02:58:47",
-  "total": 219,
+  "scraped_at": "2026-07-07 07:36:17",
+  "total": 217,
   "products": [
     {
       "分類": "上衣",
@@ -717,14 +717,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "打褶五分褲",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053530/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053530"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "牛仔五分褲",
       "現價": "390",
       "原價": "990",
@@ -1346,14 +1338,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054684/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054684"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "防風連帽外套",
-      "現價": "590",
-      "原價": "1690",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053535/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053535"
     },
     {
       "分類": "外套",
