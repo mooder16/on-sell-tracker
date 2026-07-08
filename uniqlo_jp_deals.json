@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-07-07 21:23:45",
+  "scraped_at": "2026-07-08 02:35:04",
   "total": 67,
   "products": [
     {
@@ -426,22 +426,22 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488258/item/jpgoods_10_488258_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488258-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "ピーナッツ UT/リラックスフィット",
       "現價": "1290",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485054/item/jpgoods_66_485054_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485054-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "マンガUT 集英社創業100周年 /かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488258/item/jpgoods_10_488258_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488258-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -472,16 +472,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487557/item/jpgoods_00_487557_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487557-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "VネックTシャツ",
-      "現價": "790",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482301/item/jpgoods_34_482301_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482301-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -672,6 +662,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485558/item/jpgoods_14_485558_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485558-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "內搭",
+      "商品名稱": "リブブラトップ/アメリカンスリーブ",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482198/item/jpgoods_58_482198_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482198-000/00"
     }
   ]
 }
