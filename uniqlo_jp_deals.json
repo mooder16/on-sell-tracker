@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-07-08 06:27:49",
-  "total": 68,
+  "scraped_at": "2026-07-08 10:16:49",
+  "total": 69,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -220,7 +220,7 @@
       "現價": "790",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485300/item/jpgoods_00_485300_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485300/item/jpgoods_41_485300_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485300-000/00"
     },
     {
@@ -232,6 +232,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484266/item/jpgoods_31_484266_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484266-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ミニT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484001/item/jpgoods_69_484001_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484001-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -476,6 +486,26 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
+      "商品名稱": "ドライカラークルーネックTシャツ",
+      "現價": "590",
+      "原價": "590",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465187/item/jpgoods_14_465187_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465187-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "VネックTシャツ",
+      "現價": "790",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482301/item/jpgoods_34_482301_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482301-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
       "商品名稱": "バイカラーTシャツ",
       "現價": "1290",
       "原價": "",
@@ -532,6 +562,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488926/item/goods_71_488926_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E488926-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "モンチッチ UT/リラックスフィット",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488927/item/goods_30_488927_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488927-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -652,36 +692,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484767/item/jpgoods_51_484767_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484767-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "內搭",
-      "商品名稱": "スクエアネックブラキャミソール",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485558/item/jpgoods_14_485558_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485558-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "內搭",
-      "商品名稱": "リブブラトップ/アメリカンスリーブ",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482198/item/jpgoods_58_482198_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482198-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "內搭",
-      "商品名稱": "レーサーバックブラトップ",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484830/item/jpgoods_36_484830_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484830-000/00"
     }
   ]
 }
