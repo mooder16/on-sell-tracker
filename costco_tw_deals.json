@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-07-09 02:55:33",
+  "scraped_at": "2026-07-09 07:38:31",
   "total": 55,
   "products": [
     {
@@ -47,16 +47,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "KOH COCONUT 純椰子汁 1公升 X 6入",
-      "現價": "379",
-      "原價": "459",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h28/hd0/102276188930078.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/KOH-COCONUT-100-Pure-Coconut-Water-1-L-X-6-Count/p/75130"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
       "商品名稱": "卡樂比 富果樂水果早餐麥片 1 公斤",
       "現價": "259",
       "原價": "319",
@@ -91,7 +81,7 @@
       "現價": "559",
       "原價": "699",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h78/h19/386020562567198.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/298723"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Binggrae-Melon-Flavored-Milk-200-ml-X-24-Count/p/298723"
     },
     {
       "品牌": "Costco 台灣",
@@ -112,6 +102,16 @@
       "原價": "815",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h53/hb4/27171449405470.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Water-Sparkling-Water/Perrier-Sparkling-Water-500-ml-X-24-Count/p/34405"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "清潔",
+      "商品名稱": "ARM & HAMMER 強效濃縮洗衣精添加小蘇打粉 5.91公升 / 200蓋次",
+      "現價": "629",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h37/h7b/239549993320478.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/ARM-HAMMER-Plus-OxiClean-Max-Liquid-Laundry-Detergent-591-L-200-Load/p/139856"
     },
     {
       "品牌": "Costco 台灣",
@@ -161,7 +161,7 @@
       "現價": "1143",
       "原價": "1429",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h62/h92/312615946485790.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/p/123333"
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kleenex-Flushable-Wipes-46-Sheet-X-32-Count/p/123333"
     },
     {
       "品牌": "Costco 台灣",
@@ -252,16 +252,6 @@
       "原價": "1399",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hce/h26/173234188484638.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Charming-Food-Taiwan-Frozen-Air-Chilled-Sliced-Chicken-Breast-400g-X-12-Count/p/141708"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "戶外運動",
-      "商品名稱": "Mac Sports 全地形折疊拖車 附煞車輪",
-      "現價": "1835",
-      "原價": "2295",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdd/hbd/439234209284126.jpg",
-      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/Mac-Sports-Folding-Wagon-with-Brakes/p/1872234"
     },
     {
       "品牌": "Costco 台灣",
@@ -367,6 +357,16 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "家電",
+      "商品名稱": "TCL 85吋 4K Mini LED Google TV 量子智能液晶顯示器 不含視訊盒 85C6K",
+      "現價": "39999",
+      "原價": "49999",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3c/ha7/438072177229854.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/80-Above-TVs/TCL-85-inch-4K-Mini-LED-Google-TV-Smart-Monitor-without-Set-Top-Box-85C6K/p/153535"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "家電",
       "商品名稱": "飛利浦 55吋 4K QLED Google TV 顯示器 55PQT8530/96",
       "現價": "12599",
       "原價": "15799",
@@ -461,7 +461,7 @@
       "現價": "519",
       "原價": "649",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h96/h37/243378195202078.jpg",
-      "商品連結": "https://www.costco.com.tw/p/144451"
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Facial-Cleansers-Hand-Washes/KAO-Bubble-Carbonated-Bath-Bomb-40-g-X-20-Pack-X-4-Box/p/144451"
     },
     {
       "品牌": "Costco 台灣",
@@ -527,21 +527,21 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 降價商品",
       "分類": "居家",
-      "商品名稱": "Gorilla Rack 五層強化倉儲架",
-      "現價": "7399",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h20/h39/157819005534238.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-Rack-5-Tier-Industrial-Rack/p/1600209"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 降價商品",
-      "分類": "居家",
       "商品名稱": "Gorilla Rack 五層強化倉儲架 6入",
       "現價": "38999",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcd/hd1/157818636828702.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-Rack-5-Tier-Industrial-Rack-6-Pack/p/139736"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 降價商品",
+      "分類": "居家",
+      "商品名稱": "Gorilla Rack 五層強化倉儲架",
+      "現價": "7399",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h20/h39/157819005534238.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-Rack-5-Tier-Industrial-Rack/p/1600209"
     },
     {
       "品牌": "Costco 台灣",
