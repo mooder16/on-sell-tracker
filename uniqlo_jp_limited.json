@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-07-09 07:37:11",
-  "total": 35,
+  "scraped_at": "2026-07-09 10:54:21",
+  "total": 38,
   "products": [
     {
       "品牌": "UNIQLO 日本期間限定特價",
@@ -352,6 +352,36 @@
       "截止日期": "7/9まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/482268/item/goods_10_482268_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482268-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "上衣",
+      "商品名稱": "オックスフォードオーバーサイズシャツ/ストライプ",
+      "現價": "2990",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488797/item/jpgoods_54_488797_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488797-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "上衣",
+      "商品名稱": "オックスフォードオーバーサイズシャツ/ストライプ",
+      "現價": "2990",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488798/item/jpgoods_32_488798_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488798-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "上衣",
+      "商品名稱": "オックスフォードオーバーサイズシャツ",
+      "現價": "2990",
+      "原價": "",
+      "截止日期": "7/9まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488796/item/jpgoods_69_488796_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488796-000/00"
     }
   ]
 }
