@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-07-09 21:22:01",
-  "total": 220,
+  "scraped_at": "2026-07-10 02:55:37",
+  "total": 221,
   "products": [
     {
       "分類": "上衣",
@@ -10,6 +10,14 @@
       "原價": "390",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053248/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053248"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "特級彈性Active T恤(短袖)",
+      "現價": "390",
+      "原價": "390",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053340/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053340"
     },
     {
       "分類": "上衣",
@@ -917,14 +925,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "特級亞麻長褲",
-      "現價": "1490",
-      "原價": "1990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053579/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053579"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "高腰直筒長褲",
       "現價": "590",
       "原價": "1490",
@@ -1021,6 +1021,14 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "寬版襯衫(短袖)",
+      "現價": "790",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053906/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053906"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "嫘縈上衣(短袖)",
       "現價": "590",
       "原價": "790",
@@ -1042,6 +1050,14 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053514/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053514"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "寬版格紋襯衫(短袖)",
+      "現價": "790",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053890/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053890"
     },
     {
       "分類": "上衣",
@@ -1450,14 +1466,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053206/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053206"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "無鋼圈美型胸罩(平口)",
-      "現價": "490",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052797/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052797"
     },
     {
       "分類": "褲子",
