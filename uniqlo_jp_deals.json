@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-07-11 13:16:49",
+  "scraped_at": "2026-07-11 16:57:40",
   "total": 69,
   "products": [
     {
@@ -152,16 +152,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483535/item/jpgoods_01_483535_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483535-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "エアリズムコットンT",
-      "現價": "1500",
-      "原價": "1500",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465755/item/jpgoods_10_465755_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465755-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -470,7 +460,7 @@
       "現價": "1290",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484203/item/jpgoods_67_484203_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484203/item/jpgoods_03_484203_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484203-000/00"
     },
     {
@@ -680,7 +670,7 @@
       "現價": "1990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487490/item/jpgoods_37_487490_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487490/item/jpgoods_69_487490_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487490-000/00"
     },
     {
@@ -692,6 +682,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479089/item/goods_09_479089_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E479089-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "クロシェVネックカーディガン",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485724/item/jpgoods_38_485724_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485724-000/00"
     }
   ]
 }
