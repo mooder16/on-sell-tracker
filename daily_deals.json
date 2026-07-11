@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-07-11 09:28:12",
-  "total": 217,
+  "scraped_at": "2026-07-11 13:16:16",
+  "total": 216,
   "products": [
     {
       "分類": "上衣",
@@ -314,14 +314,6 @@
       "原價": "390",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053786/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053786"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "無袖T恤",
-      "現價": "290",
-      "原價": "390",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053910/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053910"
     },
     {
       "分類": "上衣",
