@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-07-12 16:57:59",
+  "scraped_at": "2026-07-12 20:45:18",
   "total": 70,
   "products": [
     {
@@ -386,6 +386,16 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
+      "商品名稱": "マンガUT 集英社創業100周年 /ちびまる子ちゃん",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488260/item/jpgoods_00_488260_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488260-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
       "商品名稱": "マンガUT 集英社創業100周年 /【推しの子】",
       "現價": "1290",
       "原價": "",
@@ -396,12 +406,12 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "エリオット・アーウィット UT",
+      "商品名稱": "マンガUT 集英社創業100周年 /SAKAMOTO DAYS",
       "現價": "1290",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482805/item/jpgoods_00_482805_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482805-000/00"
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488256/item/jpgoods_09_488256_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488256-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -422,6 +432,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488258/item/jpgoods_10_488258_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E488258-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "マンガUT 集英社創業100周年 /幽★遊★白書",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487558/item/jpgoods_09_487558_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487558-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -682,26 +702,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485724/item/jpgoods_38_485724_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485724-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "スカラップクルーネックカーディガン/ウォッシャブル",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482978/item/jpgoods_38_482978_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482978-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "シアーレースクルーネックカーディガン",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487719/item/jpgoods_37_487719_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487719-000/00"
     }
   ]
 }
