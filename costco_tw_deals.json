@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-07-12 02:41:26",
+  "scraped_at": "2026-07-12 06:34:25",
   "total": 55,
   "products": [
     {
@@ -426,16 +426,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "美妝保養",
-      "商品名稱": "露得清 柔軟潔面巾組 卸妝棉 25張 X 4入 & 玻尿酸保濕棉 25張 X 1入",
-      "現價": "613",
-      "原價": "769",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hbd/h40/382511728623646.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Skin-Care/Neutrogena-Ultra-Soft-Cleansing-Towelettes-Set-Makeup-Remover-25-Count-X-4-Pack-Hydro-Boost-with-Hyaluronic-Acid-Towelettes-25-Count-X-1-Pack/p/1806649"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "Body Blue 女細肩帶背心2入組",
       "現價": "719",
@@ -482,6 +472,16 @@
       "原價": "589",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h99/h83/190409088565278.jpg",
       "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/Sinja-Earth-Air-Conditioner-Cleaning-Spray-Herbal-Green-420-ml-X-4-Pack/p/126024"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "居家",
+      "商品名稱": "聲寶 吸入式 UV 捕蚊燈 2入組",
+      "現價": "1415",
+      "原價": "1775",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h05/h7e/472591998353438.jpg",
+      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Pest-Control/SAMPO-UV-Mosquito-Trap-2-Pack-Set/p/239152"
     },
     {
       "品牌": "Costco 台灣",
