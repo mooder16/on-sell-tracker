@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-07-13 02:43:23",
+  "scraped_at": "2026-07-13 06:54:36",
   "total": 55,
   "products": [
     {
@@ -42,6 +42,16 @@
       "原價": "859",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb2/he2/262500518232094.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Water-Sparkling-Water/FIJI-Natural-Artesian-Water-500-ml-X-24-Count/p/89839"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "汽車",
+      "商品名稱": "馬牌輪胎 / 限時優惠折扣中",
+      "現價": "",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h39/h8e/152786835570718.jpg",
+      "商品連結": "https://www.costco.com.tw/Continental/Continental-Tire-Exclusive-Limited-Time-Offer/p/111844"
     },
     {
       "品牌": "Costco 台灣",
@@ -472,16 +482,6 @@
       "原價": "3779",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h14/hbd/332150606233630.jpg",
       "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Hair-Skin-Care-Tools/Braun-Series-5-Electric-Shaver-5010S/p/151116"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "trunature 瑪卡750毫克膠囊 180粒",
-      "現價": "589",
-      "原價": "729",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcf/h3d/185159079952414.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/trunature-Maca-750mg-Capsule-180-Capsule/p/225605"
     },
     {
       "品牌": "Costco 台灣",
