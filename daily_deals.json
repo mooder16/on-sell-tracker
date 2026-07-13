@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-07-13 11:10:03",
-  "total": 220,
+  "scraped_at": "2026-07-13 14:31:35",
+  "total": 219,
   "products": [
     {
       "分類": "上衣",
@@ -733,14 +733,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "打褶五分褲",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053530/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053530"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "寬版Jorts牛仔短褲",
       "現價": "390",
       "原價": "790",
@@ -909,14 +901,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "休閒直筒長褲",
-      "現價": "390",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054088/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054088"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "特級彈性緊身牛仔褲",
       "現價": "590",
       "原價": "1290",
@@ -930,6 +914,14 @@
       "原價": "1490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053896/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053896"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "繭型褲(稍長)",
+      "現價": "990",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054830/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054830"
     },
     {
       "分類": "褲子",
