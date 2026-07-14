@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-07-14 09:57:45",
+  "scraped_at": "2026-07-14 13:41:09",
   "total": 69,
   "products": [
     {
@@ -455,16 +455,6 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "バイカラーTシャツ",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485454/item/jpgoods_69_485454_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485454-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "mofusand UT/ショート",
       "現價": "1290",
@@ -692,6 +682,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484830/item/jpgoods_36_484830_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484830-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "內搭",
+      "商品名稱": "クレープジャージーボートネックブラトップ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487490/item/jpgoods_69_487490_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487490-000/00"
     }
   ]
 }
