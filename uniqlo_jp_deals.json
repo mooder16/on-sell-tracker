@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-07-15 06:13:17",
-  "total": 70,
+  "scraped_at": "2026-07-15 10:01:46",
+  "total": 69,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -416,16 +416,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /SAKAMOTO DAYS",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488256/item/jpgoods_09_488256_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488256-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "マンガUT 集英社創業100周年 /かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
       "現價": "1290",
       "原價": "",
@@ -567,6 +557,16 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "モンチッチ UT/リラックスフィット",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488572/item/goods_01_488572_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488572-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "モンチッチ UT/リラックスフィット",
       "現價": "990",
       "原價": "",
       "截止日期": "",
@@ -692,16 +692,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482198/item/jpgoods_58_482198_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482198-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "內搭",
-      "商品名稱": "レーサーバックブラトップ",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484830/item/jpgoods_36_484830_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484830-000/00"
     }
   ]
 }
