@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-07-16 13:50:04",
+  "scraped_at": "2026-07-16 17:17:04",
   "total": 55,
   "products": [
     {
@@ -62,16 +62,6 @@
       "原價": "389",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h7b/h8c/223144089124894.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Cleaning-Tools/Scotch-Brite-Disposable-Toilet-Scrubber-Refill-Set-30-Count/p/1132115"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "健康保健",
-      "商品名稱": "西雅圖 雙焙濃拿鐵二合一 21公克 X 80入",
-      "現價": "485",
-      "原價": "615",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcd/hbb/258345337225246.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Barista-Premium-Double-Rich-Latte-2-in-1-21-g-X-80-Pack/p/146965"
     },
     {
       "品牌": "Costco 台灣",
@@ -191,7 +181,7 @@
       "現價": "559",
       "原價": "699",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h78/h19/386020562567198.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Binggrae-Melon-Flavored-Milk-200-ml-X-24-Count/p/298723"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/298723"
     },
     {
       "品牌": "Costco 台灣",
@@ -376,16 +366,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "汽車",
-      "商品名稱": "飛利浦 Sonicare X型水流電動沖牙機 1入 HX3826",
-      "現價": "2689",
-      "原價": "3369",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0d/hf9/468568720146462.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Electric-Toothbrushes-Water-Flossers/Philips-Sonicare-Cordless-Power-Flosser-3000-Series-1-Pack-HX3826/p/161124"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "格力高 POPCAN 造型棒棒糖 9公克 X 30支",
       "現價": "359",
@@ -482,6 +462,26 @@
       "原價": "3779",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h14/hbd/332150606233630.jpg",
       "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Hair-Skin-Care-Tools/Braun-Series-5-Electric-Shaver-5010S/p/151116"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "居家",
+      "商品名稱": "Seville Classics 雙層木製抽屜式置物籃架",
+      "現價": "719",
+      "原價": "899",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h1f/ha4/436453813747742.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Storage-Containers-Hooks/Seville-Classics-Acacia-2-Tier-Sliding-Drawer-Organizer/p/2029373"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "清潔",
+      "商品名稱": "日本獅王 NONIO終結口氣舌苔清潔棒組 8入",
+      "現價": "399",
+      "原價": "499",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h77/h92/343413746630686.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Oral-Care/LION-NONIO-Tongue-Cleaner-Set-8-Pack/p/151424"
     },
     {
       "品牌": "Costco 台灣",

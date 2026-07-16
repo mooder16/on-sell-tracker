@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-07-16 13:47:57",
+  "scraped_at": "2026-07-16 17:15:00",
   "total": 68,
   "products": [
     {
@@ -137,7 +137,7 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "ミニT",
-      "現價": "990",
+      "現價": "1500",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465760/item/jpgoods_18_465760_3x4.jpg",
@@ -147,7 +147,7 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "ミニT",
-      "現價": "990",
+      "現價": "1500",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483535/item/jpgoods_01_483535_3x4.jpg",
@@ -357,8 +357,8 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "外套",
       "商品名稱": "ドライEXUVカットフルジップパーカ",
-      "現價": "2990",
-      "原價": "2990",
+      "現價": "1990",
+      "原價": "1990",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465203/item/jpgoods_57_465203_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E465203-000/00"
@@ -442,16 +442,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487557/item/jpgoods_00_487557_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487557-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "VネックTシャツ",
-      "現價": "790",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482301/item/jpgoods_34_482301_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482301-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -682,6 +672,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484830/item/jpgoods_36_484830_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484830-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "內搭",
+      "商品名稱": "クレープジャージーボートネックブラトップ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487490/item/jpgoods_69_487490_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487490-000/00"
     }
   ]
 }
