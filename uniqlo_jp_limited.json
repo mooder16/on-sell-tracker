@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-07-17 09:57:08",
-  "total": 60,
+  "scraped_at": "2026-07-17 13:26:16",
+  "total": 56,
   "products": [
     {
       "品牌": "UNIQLO 日本期間限定特價",
@@ -75,36 +75,6 @@
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "ドライEXクルーネックTシャツ",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "7/23まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465191/item/goods_00_465191_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465191-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "バイカラーTシャツ",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "7/23まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485454/item/jpgoods_69_485454_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485454-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "其他",
-      "商品名稱": "ヘンリーネックT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "7/23まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485455/item/jpgoods_69_485455_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485455-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
       "分類": "內搭",
       "商品名稱": "エアリズムブラキャミソール",
       "現價": "1990",
@@ -175,16 +145,6 @@
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "外套",
-      "商品名稱": "ブロードシャツ/ストライプ/ボタンダウン",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "7/23まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453144/item/goods_66_453144_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E453144-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
       "分類": "上衣",
       "商品名稱": "ウォッシャブルニットポロセーター",
       "現價": "2990",
@@ -230,7 +190,7 @@
       "現價": "1990",
       "原價": "",
       "截止日期": "7/23まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/473791/item/jpgoods_11_473791_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/473791/item/jpgoods_30_473791_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E473791-000/00"
     },
     {
