@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-07-17 13:27:52",
+  "scraped_at": "2026-07-17 17:13:09",
   "total": 55,
   "products": [
     {
@@ -257,16 +257,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
-      "商品名稱": "Caffitaly 100顆咖啡膠囊組 內含5種風味 適用 Nespresso 咖啡機",
-      "現價": "929",
-      "原價": "1169",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h76/h38/152907731894302.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Caffitaly-100-Count-Coffee-Capsules-Variety-Pack-5-Flavors-Nespresso-Compatible/p/139643"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
       "商品名稱": "亨氏 法式龍蝦濃湯 1公升 X 2入",
       "現價": "239",
       "原價": "399",
@@ -381,7 +371,7 @@
       "現價": "29999",
       "原價": "38999",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcd/h9b/438072176967710.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-TV-Accessories/p/153534"
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/Samsung-75-inch-QLED-4K-AI-Smart-Monitor-QA75QEF1AXXZW/p/153534"
     },
     {
       "品牌": "Costco 台灣",
@@ -482,6 +472,16 @@
       "原價": "5399",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h7f/h79/436453387108382.jpg",
       "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/SHARP-34-L-Microwave-R-TT34SS-S/p/157736"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "Ninja BLAST 無線調理機 BC100TWWH + BC100TWBK",
+      "現價": "2919",
+      "原價": "3659",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h07/ha1/401755891171358.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/Ninja-Portable-Blender-BC100TWWH-BC100TWBK/p/156893"
     },
     {
       "品牌": "Costco 台灣",
