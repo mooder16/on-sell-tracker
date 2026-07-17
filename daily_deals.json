@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-07-17 06:14:27",
-  "total": 248,
+  "scraped_at": "2026-07-17 09:56:05",
+  "total": 251,
   "products": [
     {
       "分類": "上衣",
@@ -829,6 +829,14 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "打褶五分褲",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053530/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053530"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "工裝短褲",
       "現價": "390",
       "原價": "790",
@@ -1154,6 +1162,14 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054316/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054316"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "印花領結上衣(無袖)",
+      "現價": "590",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054310/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054310"
     },
     {
       "分類": "上衣",
@@ -1674,6 +1690,14 @@
       "原價": "190",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054811/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054811"
+    },
+    {
+      "分類": "其他",
+      "商品名稱": "無鋼圈美型胸罩(運動)(條紋)",
+      "現價": "490",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053338/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053338"
     },
     {
       "分類": "其他",
