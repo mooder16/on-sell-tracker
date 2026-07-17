@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-07-16 20:56:22",
-  "total": 68,
+  "scraped_at": "2026-07-17 02:32:59",
+  "total": 67,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -166,6 +166,16 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
+      "商品名稱": "ポインテールラウンドネックミニT",
+      "現價": "500",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485025/item/jpgoods_18_485025_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485025-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
       "商品名稱": "シャーリングボリュームスリーブT",
       "現價": "1290",
       "原價": "",
@@ -192,16 +202,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483268/item/jpgoods_00_483268_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483268-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "リネンクルーネックT",
-      "現價": "2990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465761/item/jpgoods_19_465761_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465761-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -295,6 +295,16 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ギャザーキャミソール",
+      "現價": "500",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485209/item/jpgoods_38_485209_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485209-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "ポインテールタンクトップ",
       "現價": "500",
@@ -316,16 +326,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "ポインテールカーディガン",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484939/item/jpgoods_17_484939_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484939-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "リブハイネックT",
       "現價": "790",
       "原價": "",
@@ -342,6 +342,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/457517/item/jpgoods_38_457517_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E457517-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "エアリズムコットンオーバーサイズボーダーTシャツ",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484508/item/jpgoods_00_484508_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484508-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -507,16 +517,6 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "モンチッチ UT/リラックスフィット",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488927/item/goods_30_488927_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488927-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "モンチッチ UT/リラックスフィット",
       "現價": "990",
       "原價": "",
       "截止日期": "",
@@ -672,16 +672,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485724/item/jpgoods_38_485724_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485724-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "スカラップクルーネックカーディガン/ウォッシャブル",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482978/item/jpgoods_38_482978_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482978-000/00"
     }
   ]
 }
