@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-07-17 17:10:26",
-  "total": 247,
+  "scraped_at": "2026-07-17 20:53:13",
+  "total": 245,
   "products": [
     {
       "分類": "上衣",
@@ -805,14 +805,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "牛仔五分褲",
-      "現價": "390",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053500/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053500"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "寬版Jorts牛仔短褲",
       "現價": "390",
       "原價": "790",
@@ -1034,14 +1026,6 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053895/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053895"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "休閒直筒長褲",
-      "現價": "390",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054088/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054088"
     },
     {
       "分類": "褲子",
