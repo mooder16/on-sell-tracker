@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-07-18 06:04:11",
-  "total": 245,
+  "scraped_at": "2026-07-18 09:24:08",
+  "total": 246,
   "products": [
     {
       "分類": "上衣",
@@ -533,6 +533,14 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "針織細肩帶背心",
+      "現價": "390",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054009/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054009"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "棉質圓領針織衫(無袖)",
       "現價": "390",
       "原價": "790",
@@ -714,6 +722,14 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053345/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053345"
+    },
+    {
+      "分類": "裙子",
+      "商品名稱": "亞麻混紡寬襬裙",
+      "現價": "490",
+      "原價": "1490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053818/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053818"
     },
     {
       "分類": "裙子",
@@ -1586,14 +1602,6 @@
       "原價": "4990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052312/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052312"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "工裝短大衣",
-      "現價": "990",
-      "原價": "2990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053576/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053576"
     },
     {
       "分類": "外套",
