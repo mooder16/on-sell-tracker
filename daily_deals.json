@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-07-18 09:24:08",
-  "total": 246,
+  "scraped_at": "2026-07-18 13:12:14",
+  "total": 245,
   "products": [
     {
       "分類": "上衣",
@@ -533,14 +533,6 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "針織細肩帶背心",
-      "現價": "390",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054009/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054009"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "棉質圓領針織衫(無袖)",
       "現價": "390",
       "原價": "790",
@@ -586,6 +578,14 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053779/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053779"
+    },
+    {
+      "分類": "洋裝",
+      "商品名稱": "亞麻混紡V領洋裝(短袖)",
+      "現價": "790",
+      "原價": "1490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053810/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053810"
     },
     {
       "分類": "洋裝",
@@ -725,14 +725,6 @@
     },
     {
       "分類": "裙子",
-      "商品名稱": "亞麻混紡寬襬裙",
-      "現價": "490",
-      "原價": "1490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053818/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053818"
-    },
-    {
-      "分類": "裙子",
       "商品名稱": "寬襬長裙(印花)",
       "現價": "790",
       "原價": "990",
@@ -818,6 +810,14 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053513/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053513"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "牛仔五分褲",
+      "現價": "390",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053500/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053500"
     },
     {
       "分類": "褲子",
@@ -1373,19 +1373,19 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "府綢襯衫(長袖)(標準領/格紋)",
+      "現價": "590",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053060/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053060"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "府綢襯衫(長袖)(鈕釦領/格紋)",
       "現價": "590",
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053472/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053472"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "府綢襯衫(長袖)(標準領/格紋)",
-      "現價": "590",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053473/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053473"
     },
     {
       "分類": "上衣",
@@ -1442,14 +1442,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054451/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054451"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "KAWS WINTER 喀什米爾圓領毛衣(長袖)",
-      "現價": "1990",
-      "原價": "3490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052811/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052811"
     },
     {
       "分類": "上衣",
