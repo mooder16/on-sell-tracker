@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-07-18 20:45:26",
+  "scraped_at": "2026-07-19 02:35:59",
   "total": 68,
   "products": [
     {
@@ -290,7 +290,7 @@
       "現價": "500",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485209/item/jpgoods_63_485209_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485209/item/jpgoods_38_485209_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485209-000/00"
     },
     {
@@ -312,6 +312,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485717/item/jpgoods_01_485717_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485717-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ポインテールカーディガン",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484939/item/jpgoods_17_484939_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484939-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -672,16 +682,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487719/item/jpgoods_37_487719_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487719-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ポロセーター/ウォッシャブル",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484607/item/jpgoods_42_484607_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484607-000/00"
     }
   ]
 }
