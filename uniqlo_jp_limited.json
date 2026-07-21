@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-07-21 06:28:19",
-  "total": 56,
+  "scraped_at": "2026-07-21 10:25:37",
+  "total": 57,
   "products": [
     {
       "品牌": "UNIQLO 日本期間限定特價",
@@ -136,6 +136,16 @@
     {
       "品牌": "UNIQLO 日本期間限定特價",
       "分類": "上衣",
+      "商品名稱": "カウズ ウィンター ラムクルーネックセーター",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "7/23まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485271/item/jpgoods_44_485271_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485271-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "上衣",
       "商品名稱": "コットンリネンシャツ",
       "現價": "1990",
       "原價": "",
@@ -190,7 +200,7 @@
       "現價": "1990",
       "原價": "",
       "截止日期": "7/23まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/473791/item/jpgoods_11_473791_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/473791/item/jpgoods_30_473791_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E473791-000/00"
     },
     {
