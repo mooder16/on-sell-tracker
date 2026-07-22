@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-07-22 10:23:53",
-  "total": 260,
+  "scraped_at": "2026-07-22 13:49:46",
+  "total": 259,
   "products": [
     {
       "分類": "上衣",
@@ -1717,14 +1717,6 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "工裝外套(牛仔)",
-      "現價": "590",
-      "原價": "1690",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053694/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053694"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "長刷毛外套(長袖)",
       "現價": "390",
       "原價": "890",
@@ -1820,14 +1812,6 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054807"
     },
     {
-      "分類": "配件",
-      "商品名稱": "襪子3雙",
-      "現價": "190",
-      "原價": "290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054821/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054821"
-    },
-    {
       "分類": "上衣",
       "商品名稱": "HEATTECH U領T恤(8分袖) 478934",
       "現價": "390",
@@ -1866,6 +1850,14 @@
       "原價": "390",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054954/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054954"
+    },
+    {
+      "分類": "配件",
+      "商品名稱": "襪子3雙",
+      "現價": "190",
+      "原價": "290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054800/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054800"
     },
     {
       "分類": "其他",
