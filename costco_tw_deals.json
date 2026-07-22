@@ -1,7 +1,7 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-07-22 13:52:25",
-  "total": 55,
+  "scraped_at": "2026-07-22 17:20:21",
+  "total": 54,
   "products": [
     {
       "品牌": "Costco 台灣",
@@ -236,16 +236,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "科克蘭 保鮮膜 30.48公分 X 914.4公尺",
-      "現價": "599",
-      "原價": "659",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h2b/h00/69511253196830.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Food-Preservation/Kirkland-Signature-Stretch-Tite-Plastic-Food-Wrap-3048-cm-X-9144-m/p/177300"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "Binggrae 草莓牛奶 保久調味乳 200毫升 X 24入",
       "現價": "539",
@@ -287,16 +277,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
-      "商品名稱": "美威 冷凍鮭魚干貝海鮮丸 1050公克 X 2入",
-      "現價": "799",
-      "原價": "999",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3b/h54/366001886101534.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Supreme-Salmon-Frozen-Salmon-And-Scallop-Balls-1050-g-X-2-Count/p/153874"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
       "商品名稱": "樂天 千層派濃厚巧克力風味 120.4公克 X 4入",
       "現價": "259",
       "原價": "319",
@@ -332,16 +312,6 @@
       "原價": "2949",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha8/hb6/29705176186910.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Elderly-Care/Supplements/Dachan-Frozen-Pure-Chicken-Essence-100-ml-X-30-Count/p/127511"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "清潔",
-      "商品名稱": "興家安速 冷氣清潔劑 澄澈綠香 420毫升 X 4入",
-      "現價": "469",
-      "原價": "589",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h99/h83/190409088565278.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/Sinja-Earth-Air-Conditioner-Cleaning-Spray-Herbal-Green-420-ml-X-4-Pack/p/126024"
     },
     {
       "品牌": "Costco 台灣",
@@ -482,6 +452,26 @@
       "原價": "289",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcb/h9c/361110010527774.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/KING-PHO-Instant-Pho-Cup-Type-Share-Group-61-g-X-12-Cup/p/152041"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "味滋康 果香柚子醋醬汁 1公升",
+      "現價": "289",
+      "原價": "359",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8e/h16/132368160358430.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Mizkan-Yuzu-Ponzu-Citrus-Seasoned-Soy-Sauce-1-L/p/132570"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "南僑 冷凍刀削麵 200公克 X 10入",
+      "現價": "255",
+      "原價": "309",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h87/hcf/437687014522910.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Namchow-Frozen-Toshomen-Noodle-200-g-X-10-Pack/p/157737"
     },
     {
       "品牌": "Costco 台灣",
