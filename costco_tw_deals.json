@@ -1,7 +1,7 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-07-22 02:35:17",
-  "total": 54,
+  "scraped_at": "2026-07-22 06:29:31",
+  "total": 55,
   "products": [
     {
       "品牌": "Costco 台灣",
@@ -147,6 +147,16 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
+      "商品名稱": "La Tourangelle Walnut Oil 核桃油750毫升",
+      "現價": "189",
+      "原價": "235",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8f/h70/396189658185758.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/La-Tourangelle-Walnut-Oil-750ML/p/151691"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
       "商品名稱": "樂事 FIFA 世足聯名歡聚箱 70公克 X 9包 (阿根廷青醬牛排 X 3 + 法式蒜香奶油 X 3 + 英式炸魚薯條 X 3)",
       "現價": "289",
       "原價": "349",
@@ -186,6 +196,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "清潔",
+      "商品名稱": "Bounty 兩層隨意撕特級廚房紙巾 103張 X 12卷",
+      "現價": "899",
+      "原價": "999",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hee/ha9/364687149269022.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Bounty-Advanced-2-Ply-White-Paper-Towel-103-Sheet-X-12-Roll/p/1919326"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "亨氏 法式龍蝦濃湯 1公升 X 2入",
       "現價": "239",
@@ -212,6 +232,16 @@
       "原價": "999",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc7/h92/420739725426718.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Charmin-Ultra-Soft-Bath-Tissue-213-Sheet-X-30-Roll/p/2773119"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "科克蘭 保鮮膜 30.48公分 X 914.4公尺",
+      "現價": "599",
+      "原價": "659",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h2b/h00/69511253196830.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Food-Preservation/Kirkland-Signature-Stretch-Tite-Plastic-Food-Wrap-3048-cm-X-9144-m/p/177300"
     },
     {
       "品牌": "Costco 台灣",
@@ -452,26 +482,6 @@
       "原價": "289",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcb/h9c/361110010527774.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/KING-PHO-Instant-Pho-Cup-Type-Share-Group-61-g-X-12-Cup/p/152041"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "味滋康 果香柚子醋醬汁 1公升",
-      "現價": "289",
-      "原價": "359",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8e/h16/132368160358430.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Mizkan-Yuzu-Ponzu-Citrus-Seasoned-Soy-Sauce-1-L/p/132570"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "南僑 冷凍刀削麵 200公克 X 10入",
-      "現價": "255",
-      "原價": "309",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h87/hcf/437687014522910.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Namchow-Frozen-Toshomen-Noodle-200-g-X-10-Pack/p/157737"
     },
     {
       "品牌": "Costco 台灣",
