@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-07-23 02:37:21",
-  "total": 253,
+  "scraped_at": "2026-07-23 06:29:17",
+  "total": 251,
   "products": [
     {
       "分類": "上衣",
@@ -317,14 +317,6 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "AIRism棉質寬版圓領T恤(五分袖) 484363",
-      "現價": "190",
-      "原價": "390",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054951/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054951"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "DRY-EX T恤(短袖)(印花)",
       "現價": "290",
       "原價": "590",
@@ -522,14 +514,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053812/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053812"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "棉質開領POLO針織衫(短袖)",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053609/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053609"
     },
     {
       "分類": "上衣",
