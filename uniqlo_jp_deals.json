@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-07-23 17:22:29",
+  "scraped_at": "2026-07-23 21:03:27",
   "total": 71,
   "products": [
     {
@@ -128,7 +128,7 @@
       "分類": "其他",
       "商品名稱": "クルーネックT",
       "現價": "990",
-      "原價": "990",
+      "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/424873/item/jpgoods_10_424873_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E424873-000/00"
@@ -295,16 +295,6 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ギャザーキャミソール",
-      "現價": "500",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485209/item/jpgoods_00_485209_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485209-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "ポインテールタンクトップ",
       "現價": "500",
@@ -352,6 +342,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479588/item/goods_17_479588_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E479588-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "エアリズムコットンクルーネックTシャツ",
+      "現價": "1990",
+      "原價": "1990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465193/item/goods_16_465193_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465193-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -685,6 +685,16 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "UVカットクルーネックカーディガン/ウォッシャブル",
+      "現價": "2990",
+      "原價": "2990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465484/item/jpgoods_38_465484_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465484-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "スムースコットンクルーネックセーター",
       "現價": "3990",
@@ -702,16 +712,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/479157/item/jpgoods_68_479157_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E479157-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "リネンクルーネックセーター",
-      "現價": "3990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484627/item/jpgoods_15_484627_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484627-000/00"
     }
   ]
 }
