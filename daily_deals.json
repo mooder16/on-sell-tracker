@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-07-23 10:21:35",
-  "total": 262,
+  "scraped_at": "2026-07-23 13:54:25",
+  "total": 263,
   "products": [
     {
       "分類": "上衣",
@@ -549,6 +549,14 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "針織細肩帶背心",
+      "現價": "390",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054009/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054009"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "棉質圓領針織衫(無袖)",
       "現價": "390",
       "原價": "790",
@@ -1037,6 +1045,14 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "寬版牛仔褲",
+      "現價": "590",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053495/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053495"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "經典卡其褲",
       "現價": "790",
       "原價": "1290",
@@ -1106,14 +1122,6 @@
       "原價": "1490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053896/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053896"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "SMART 寬褲",
-      "現價": "590",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053104/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053104"
     },
     {
       "分類": "褲子",
@@ -1677,14 +1685,6 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "防風連帽外套",
-      "現價": "590",
-      "原價": "1690",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053535/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053535"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "哈靈頓外套",
       "現價": "1690",
       "原價": "1990",
@@ -1794,6 +1794,14 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052797/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052797"
+    },
+    {
+      "分類": "其他",
+      "商品名稱": "AIRism前開式胸罩 479195",
+      "現價": "490",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052994/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052994"
     },
     {
       "分類": "其他",
