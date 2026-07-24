@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-07-23 21:02:54",
-  "total": 258,
+  "scraped_at": "2026-07-24 02:33:49",
+  "total": 257,
   "products": [
     {
       "分類": "上衣",
@@ -365,6 +365,14 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "特級亞麻背心",
+      "現價": "990",
+      "原價": "1490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053584/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053584"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "無袖T恤",
       "現價": "290",
       "原價": "390",
@@ -682,14 +690,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053902/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053902"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "針織短洋裝",
-      "現價": "790",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052197/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052197"
     },
     {
       "分類": "裙子",
@@ -1754,14 +1754,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052797/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052797"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "AIRism前開式胸罩 479195",
-      "現價": "490",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052994/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052994"
     },
     {
       "分類": "其他",
