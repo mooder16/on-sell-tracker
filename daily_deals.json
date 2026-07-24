@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-07-24 10:23:36",
-  "total": 260,
+  "scraped_at": "2026-07-24 13:42:07",
+  "total": 261,
   "products": [
     {
       "分類": "上衣",
@@ -1077,6 +1077,14 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "休閒直筒長褲",
+      "現價": "390",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054088/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054088"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "特級彈性牛仔緊身褲",
       "現價": "590",
       "原價": "790",
@@ -1773,6 +1781,14 @@
     },
     {
       "分類": "其他",
+      "商品名稱": "AIRism前開式胸罩 479195",
+      "現價": "490",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052994/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052994"
+    },
+    {
+      "分類": "其他",
       "商品名稱": "無鋼圈美型胸罩(裸感舒適) 478982",
       "現價": "490",
       "原價": "790",
@@ -1826,14 +1842,6 @@
       "原價": "490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000020076/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000020076"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "AIRism細肩帶背心",
-      "現價": "290",
-      "原價": "390",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054954/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054954"
     },
     {
       "分類": "配件",
