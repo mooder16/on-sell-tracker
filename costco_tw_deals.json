@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-07-25 02:34:51",
+  "scraped_at": "2026-07-25 06:19:56",
   "total": 55,
   "products": [
     {
@@ -166,6 +166,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "Crown 多穀牛奶夾心餅乾 24公克 X 32入",
+      "現價": "269",
+      "原價": "329",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he4/hfe/433249359822878.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Crown-Multigrain-Milk-Sandwich-Crackers-24-g-X-32-Pack/p/126883"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "桂格 北海道風味特濃燕麥 42公克 X 48包",
       "現價": "419",
@@ -177,11 +187,11 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
-      "商品名稱": "Crown 多穀牛奶夾心餅乾 24公克 X 32入",
-      "現價": "269",
-      "原價": "329",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he4/hfe/433249359822878.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Crown-Multigrain-Milk-Sandwich-Crackers-24-g-X-32-Pack/p/126883"
+      "商品名稱": "翠果子 杏仁海苔天婦羅點心包 500公克",
+      "現價": "299",
+      "原價": "369",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h96/hda/202360357978142.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/TRYGOODZ-ALMOND-SEAWEED-CRACKER-MIX-500G/p/888688"
     },
     {
       "品牌": "Costco 台灣",
@@ -192,16 +202,6 @@
       "原價": "389",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf0/h93/380783489974302.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Gao-Duan-Quinoa-Soda-Cracker-80-g-X-10-Pack/p/108586"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "翠果子 杏仁海苔天婦羅點心包 500公克",
-      "現價": "299",
-      "原價": "369",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h96/hda/202360357978142.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/TRYGOODZ-ALMOND-SEAWEED-CRACKER-MIX-500G/p/888688"
     },
     {
       "品牌": "Costco 台灣",
@@ -236,22 +236,22 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Sea Breeze 雙人涼感墊 152公分 X 195公分",
-      "現價": "739",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h52/h68/450045165928478.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sea-Breeze-Cool-Quilt-Pad-152-cm-X-195-cm/p/143514"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "美妝保養",
       "商品名稱": "Webber Naturals 葡萄籽精華膠囊 180顆",
       "現價": "379",
       "原價": "479",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h13/h11/168871490584606.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Webber-Naturals-Grape-Seed-Extract-Capsule-180-Capsule/p/877125"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "Sea Breeze 雙人涼感墊 152公分 X 195公分",
+      "現價": "739",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h52/h68/450045165928478.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sea-Breeze-Cool-Quilt-Pad-152-cm-X-195-cm/p/143514"
     },
     {
       "品牌": "Costco 台灣",
@@ -267,6 +267,16 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
+      "商品名稱": "黑橋牌 黑胡椒豬肉條 450公克",
+      "現價": "339",
+      "原價": "419",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h32/hb3/400499444875294.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Black-Bridge-Thick-Pork-Jerky-Black-Pepper-450-g/p/156857"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
       "商品名稱": "王麵河粉 杯裝河粉 分享組 61公克 X 12入",
       "現價": "235",
       "原價": "289",
@@ -276,12 +286,32 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "居家",
+      "商品名稱": "Don Home 涼感素色雙人加大床包枕套 3件組 182公分 X 190公分 錫黃",
+      "現價": "869",
+      "原價": "1099",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hba/hdc/450418261950494.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-Cooling-Touch-Sheet-3-Piece-Set-King-Size-182-cm-X-190-cm-Khaki/p/258966"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Lacoste 男純棉圓領短袖上衣",
+      "現價": "",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h82/hd7/486580544569374.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "食品",
-      "商品名稱": "黑橋牌 黑胡椒豬肉條 450公克",
-      "現價": "339",
-      "原價": "419",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h32/hb3/400499444875294.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Black-Bridge-Thick-Pork-Jerky-Black-Pepper-450-g/p/156857"
+      "商品名稱": "味滋康 果香柚子醋醬汁 1公升",
+      "現價": "289",
+      "原價": "359",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8e/h16/132368160358430.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Mizkan-Yuzu-Ponzu-Citrus-Seasoned-Soy-Sauce-1-L/p/132570"
     },
     {
       "品牌": "Costco 台灣",
@@ -302,16 +332,6 @@
       "原價": "459",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8b/h8c/14720807370782.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Eclipse-Peppermint-33-g-X-8-Count/p/95816"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Lacoste 男純棉圓領短袖上衣",
-      "現價": "",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h82/hd7/486580544569374.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325"
     },
     {
       "品牌": "Costco 台灣",
@@ -346,42 +366,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "味滋康 果香柚子醋醬汁 1公升",
-      "現價": "289",
-      "原價": "359",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8e/h16/132368160358430.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Mizkan-Yuzu-Ponzu-Citrus-Seasoned-Soy-Sauce-1-L/p/132570"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "樂天 千層派濃厚巧克力風味 120.4公克 X 4入",
-      "現價": "259",
-      "原價": "319",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdf/hae/223926900686878.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Lotte-Pie-No-Mi-Puff-Pastry-Rich-Chocolate-Flavor-1204-g-X-4-Pack/p/144897"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "Don Home 涼感素色雙人加大床包枕套 3件組 182公分 X 190公分 錫黃",
-      "現價": "869",
-      "原價": "1099",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hba/hdc/450418261950494.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-Cooling-Touch-Sheet-3-Piece-Set-King-Size-182-cm-X-190-cm-Khaki/p/258966"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "SODE 成人泳鏡 3入組",
-      "現價": "359",
-      "原價": "459",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he2/h81/455116980191262.jpg",
-      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/SODE-Adult-Goggles-3-Pack-Set/p/8524759"
+      "分類": "其他",
+      "商品名稱": "Skechers 蜂巢涼感坐墊二入組",
+      "現價": "629",
+      "原價": "759",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h32/h11/468935615086622.jpg",
+      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/Skechers-Hex-Gel-Seat-Cushion-2-Pack-Set/p/159910"
     },
     {
       "品牌": "Costco 台灣",
@@ -396,6 +386,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "居家",
+      "商品名稱": "SODE 成人泳鏡 3入組",
+      "現價": "359",
+      "原價": "459",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he2/h81/455116980191262.jpg",
+      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/SODE-Adult-Goggles-3-Pack-Set/p/8524759"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "桂格 主廚燕麥片 金黃玉米濃湯風味 47公克 X 30包",
       "現價": "399",
@@ -406,42 +406,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Skechers 蜂巢涼感坐墊二入組",
-      "現價": "629",
-      "原價": "759",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h32/h11/468935615086622.jpg",
-      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/Skechers-Hex-Gel-Seat-Cushion-2-Pack-Set/p/159910"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Samsonite Colten 多功能後背包",
-      "現價": "1649",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h59/h7a/466558421762078.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Totes-Backpacks/Samsonite-Colten-Backpack/p/154883"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "瑞斌8H長效防蚊液 120毫升 X 2入+ 瑞斌12H長效防蚊乳霜30毫升 X 1入",
-      "現價": "1119",
-      "原價": "1399",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9d/h25/206032620322846.jpg",
-      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Pest-Control/Skin-Technology-20-Picaridin-Spray-120-ml-X-2-Pack-Skin-Technology-25-Picaridin-Cream-30-ml-X-1-Pack/p/143552"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "食品",
-      "商品名稱": "洽富 台灣冷凍氣冷雞雞絞肉 600公克 X 8入",
-      "現價": "1189",
-      "原價": "1389",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd5/h24/173234196348958.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Charming-Food-Taiwan-Frozen-Air-Chilled-Ground-Chicken-600g-X-8-Count/p/141712"
+      "商品名稱": "樂天 千層派濃厚巧克力風味 120.4公克 X 4入",
+      "現價": "259",
+      "原價": "319",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdf/hae/223926900686878.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Lotte-Pie-No-Mi-Puff-Pastry-Rich-Chocolate-Flavor-1204-g-X-4-Pack/p/144897"
     },
     {
       "品牌": "Costco 台灣",
@@ -452,6 +422,16 @@
       "原價": "309",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h87/hcf/437687014522910.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Namchow-Frozen-Toshomen-Noodle-200-g-X-10-Pack/p/157737"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "Samsonite Colten 多功能後背包",
+      "現價": "1649",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h59/h7a/466558421762078.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Totes-Backpacks/Samsonite-Colten-Backpack/p/154883"
     },
     {
       "品牌": "Costco 台灣",
@@ -477,11 +457,31 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
+      "商品名稱": "瑞斌8H長效防蚊液 120毫升 X 2入+ 瑞斌12H長效防蚊乳霜30毫升 X 1入",
+      "現價": "1119",
+      "原價": "1399",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9d/h25/206032620322846.jpg",
+      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Pest-Control/Skin-Technology-20-Picaridin-Spray-120-ml-X-2-Pack-Skin-Technology-25-Picaridin-Cream-30-ml-X-1-Pack/p/143552"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
       "商品名稱": "Don Home 萊賽爾素色雙人涼被 180公分 X 210公分",
       "現價": "1169",
-      "原價": "1469",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8f/h44/226673473552414.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Don-Home-300-Thread-Count-Lyocell-Quilt-180-cm-X-210-cm/p/136138"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "洽富 台灣冷凍氣冷雞雞絞肉 600公克 X 8入",
+      "現價": "1189",
+      "原價": "1389",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd5/h24/173234196348958.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Charming-Food-Taiwan-Frozen-Air-Chilled-Ground-Chicken-600g-X-8-Count/p/141712"
     },
     {
       "品牌": "Costco 台灣",
