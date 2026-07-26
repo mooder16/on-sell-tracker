@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-07-25 20:52:12",
+  "scraped_at": "2026-07-26 02:40:18",
   "total": 69,
   "products": [
     {
@@ -212,6 +212,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477883/item/goods_01_477883_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E477883-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "エアリズムリラックスVネックT/2way",
+      "現價": "790",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485300/item/jpgoods_03_485300_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485300-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -682,16 +692,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483008/item/jpgoods_14_483008_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483008-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "カシミヤVネックセーター",
-      "現價": "7990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465736/item/jpgoods_11_465736_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465736-000/00"
     }
   ]
 }
