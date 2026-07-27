@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-07-27 02:48:19",
-  "total": 241,
+  "scraped_at": "2026-07-27 07:29:12",
+  "total": 239,
   "products": [
     {
       "分類": "上衣",
@@ -474,14 +474,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054448/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054448"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "圓領針織衫(短袖)",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053653/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053653"
     },
     {
       "分類": "上衣",
@@ -1626,14 +1618,6 @@
       "原價": "190",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054809/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054809"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "無鋼圈美型胸罩(運動)",
-      "現價": "490",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053343/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053343"
     },
     {
       "分類": "其他",
