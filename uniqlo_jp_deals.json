@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-07-27 11:19:46",
-  "total": 70,
+  "scraped_at": "2026-07-27 14:31:00",
+  "total": 69,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -226,16 +226,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "エアリズムリラックスVネックT/2way",
-      "現價": "790",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485300/item/jpgoods_09_485300_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485300-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "ミニT",
       "現價": "990",
       "原價": "",
@@ -302,16 +292,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488088001/item/jpgoods_01_488088001_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E488088-001/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ギャザーキャミソール",
-      "現價": "500",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485209/item/jpgoods_09_485209_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485209-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -702,6 +682,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483008/item/jpgoods_14_483008_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483008-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "カシミヤVネックセーター",
+      "現價": "7990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465736/item/jpgoods_11_465736_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465736-000/00"
     }
   ]
 }
