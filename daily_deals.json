@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-07-29 06:29:25",
-  "total": 257,
+  "scraped_at": "2026-07-29 10:37:32",
+  "total": 262,
   "products": [
     {
       "分類": "上衣",
@@ -509,6 +509,14 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "棉質開領POLO針織衫(短袖)",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053609/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053609"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "可機洗針織條紋POLO衫(短袖)",
       "現價": "590",
       "原價": "790",
@@ -749,6 +757,14 @@
     },
     {
       "分類": "裙子",
+      "商品名稱": "亞麻混紡寬襬裙",
+      "現價": "490",
+      "原價": "1490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053818/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053818"
+    },
+    {
+      "分類": "裙子",
       "商品名稱": "寬襬長裙(印花)",
       "現價": "590",
       "原價": "990",
@@ -853,6 +869,14 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "牛仔五分褲",
+      "現價": "390",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053500/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053500"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "寬版短褲",
       "現價": "590",
       "原價": "990",
@@ -938,6 +962,14 @@
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054534/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054534"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "棉質短褲(格紋)",
+      "現價": "290",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054536/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054536"
     },
     {
       "分類": "褲子",
@@ -1701,6 +1733,14 @@
     },
     {
       "分類": "其他",
+      "商品名稱": "無鋼圈美型胸罩(裸感舒適) 478982",
+      "現價": "490",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051574/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051574"
+    },
+    {
+      "分類": "其他",
       "商品名稱": "長襪(休閒)",
       "現價": "99",
       "原價": "120",
@@ -1720,8 +1760,8 @@
       "商品名稱": "中筒襪(休閒)",
       "現價": "99",
       "原價": "120",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053522/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053522"
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053755/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053755"
     },
     {
       "分類": "配件",
@@ -1741,6 +1781,14 @@
     },
     {
       "分類": "配件",
+      "商品名稱": "襪子3雙",
+      "現價": "190",
+      "原價": "290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054800/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054800"
+    },
+    {
+      "分類": "配件",
       "商品名稱": "襪子3雙 480701",
       "現價": "190",
       "原價": "290",
@@ -1754,14 +1802,6 @@
       "原價": "490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000020076/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000020076"
-    },
-    {
-      "分類": "配件",
-      "商品名稱": "襪子3雙",
-      "現價": "190",
-      "原價": "290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054819/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054819"
     },
     {
       "分類": "其他",
