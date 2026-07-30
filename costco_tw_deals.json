@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-07-30 02:15:41",
+  "scraped_at": "2026-07-30 06:29:15",
   "total": 55,
   "products": [
     {
@@ -181,7 +181,7 @@
       "現價": "759",
       "原價": "939",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdb/h5b/379074521858078.jpg",
-      "商品連結": "https://www.costco.com.tw/c/Seeds-Chicken-Jerky-Dog-Treats-1-kg/p/60574"
+      "商品連結": "https://www.costco.com.tw/c/p/60574"
     },
     {
       "品牌": "Costco 台灣",
@@ -276,26 +276,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Lacoste 男純棉圓領短袖上衣",
-      "現價": "",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h82/hd7/486580544569374.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "Don Home 涼感素色雙人加大床包枕套 3件組 182公分 X 190公分 錫黃",
-      "現價": "869",
-      "原價": "1099",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hba/hdc/450418261950494.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-Cooling-Touch-Sheet-3-Piece-Set-King-Size-182-cm-X-190-cm-Khaki/p/258966"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "雀巢 可可早餐脆片 500公克 X 2入",
       "現價": "269",
@@ -306,12 +286,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Happy Village 綜合果乾 567 公克",
-      "現價": "339",
-      "原價": "419",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h94/hf7/415044041310238.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Food-Dining/Snacks/Nuts-Jerky/Happy-Village-Fruit-Medley-567-g/p/2773524"
+      "分類": "服飾",
+      "商品名稱": "Lacoste 男純棉圓領短袖上衣",
+      "現價": "",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h82/hd7/486580544569374.jpg",
+      "商品連結": "https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325"
     },
     {
       "品牌": "Costco 台灣",
@@ -332,16 +312,6 @@
       "原價": "799",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h33/ha2/434798808203294.jpg",
       "商品連結": "https://www.costco.com.tw/Costco/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Delicious-Idea-Frozen-Stewed-Sheep-Pot-12-kg-X-2-Pack/p/161487"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Nautica 男寬肩背心三入組",
-      "現價": "739",
-      "原價": "929",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5c/h80/470130576162846.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/Nautica-Mens-Tank-Top-3-Pack-Set/p/8526955"
     },
     {
       "品牌": "Costco 台灣",
@@ -367,11 +337,41 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
+      "商品名稱": "Nautica 男寬肩背心三入組",
+      "現價": "739",
+      "原價": "929",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5c/h80/470130576162846.jpg",
+      "商品連結": "https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/Nautica-Mens-Tank-Top-3-Pack-Set/p/8526955"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
       "商品名稱": "威德 白藜蘆醇 青春膠囊 90粒",
       "現價": "804",
       "原價": "999",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h1c/hef/330166912090142.jpg",
       "商品連結": "https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Bone-Joint-Support/Weider-Resveratrol-90-Capsules/p/305931"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "Happy Village 綜合果乾 567 公克",
+      "現價": "339",
+      "原價": "419",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h94/hf7/415044041310238.jpg",
+      "商品連結": "https://www.costco.com.tw/Costco/Food-Dining/Snacks/Nuts-Jerky/Happy-Village-Fruit-Medley-567-g/p/2773524"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "家電",
+      "商品名稱": "INFINITY X1 2000流明 充電式工作燈 3入組",
+      "現價": "599",
+      "原價": "789",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5f/h1c/454001864507422.jpg",
+      "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/INFINITY-X1-2000-Lumens-Rechargeable-Work-Light-3-Pack/p/1806323"
     },
     {
       "品牌": "Costco 台灣",
@@ -402,26 +402,6 @@
       "原價": "669",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h6b/he5/450418277122078.jpg",
       "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Downlite-Ultimate-Freeze-Sleep-Pillow-2-Pack-51-cm-X-71-cm/p/688672"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Samsonite Colten 多功能後背包",
-      "現價": "1649",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h59/h7a/466558421762078.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Clothing-Accessories/Luggage-Backpacks/Totes-Backpacks/Samsonite-Colten-Backpack/p/154883"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "家電",
-      "商品名稱": "INFINITY X1 2000流明 充電式工作燈 3入組",
-      "現價": "599",
-      "原價": "789",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5f/h1c/454001864507422.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/INFINITY-X1-2000-Lumens-Rechargeable-Work-Light-3-Pack/p/1806323"
     },
     {
       "品牌": "Costco 台灣",
@@ -482,6 +462,26 @@
       "原價": "429",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0b/h94/397423321284638.jpg",
       "商品連結": "https://www.costco.com.tw/Costco/Food-Dining/Snacks/Candies-Chocolates/Skittles-Mixed-Party-Box-38-g-X-20-Pack/p/915777"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Mack Weldon 男短袖Polo衫",
+      "現價": "439",
+      "原價": "549",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h34/hdf/470130504171550.jpg",
+      "商品連結": "https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/Mack-Weldon-Mens-Short-Sleeve-Polo-Shirt/p/1956429"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "Circulon A1 極致抗刮不沾單柄深煎鍋 含玻璃上蓋 26公分",
+      "現價": "2159",
+      "原價": "2699",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf5/hba/325943411343390.jpg",
+      "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/Circulon-A1-Non-Stick-Saute-Pan-With-Glass-Lid-26-cm/p/151585"
     },
     {
       "品牌": "Costco 台灣",
