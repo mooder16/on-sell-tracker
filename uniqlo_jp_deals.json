@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-07-31 10:38:08",
-  "total": 67,
+  "scraped_at": "2026-07-31 14:03:46",
+  "total": 66,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -216,16 +216,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "リネンクルーネックT",
-      "現價": "2990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465761/item/jpgoods_01_465761_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465761-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "ミニT",
       "現價": "990",
       "原價": "",
@@ -242,16 +232,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488280/item/jpgoods_11_488280_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E488280-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "スーピマコットンT",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483461/item/jpgoods_04_483461_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483461-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -496,16 +476,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "POP MART UT/オーバーサイズフィット",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484483/item/jpgoods_03_484483_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484483-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "K-POPグループ BABYMONSTER UT/ボクシー/シアー",
       "現價": "790",
       "原價": "",
@@ -595,26 +565,6 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
-      "分類": "內搭",
-      "商品名稱": "クレープジャージーボートネックブラトップ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487490/item/jpgoods_37_487490_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487490-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "內搭",
-      "商品名稱": "エアリズムコットンブラチューブトップ",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479089/item/goods_09_479089_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479089-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
       "分類": "外套",
       "商品名稱": "ウルトラストレッチエアリズムUVカットフルジップパーカ",
       "現價": "2990",
@@ -672,6 +622,46 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484635/item/jpgoods_43_484635_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484635-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "コットンクロシェセーターノースリーブ",
+      "現價": "3990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484629/item/jpgoods_36_484629_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484629-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "リネンクルーネックセーター",
+      "現價": "4990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484633/item/jpgoods_38_484633_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484633-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "スムースコットンクルーネックセーター",
+      "現價": "3990",
+      "原價": "3990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475053/item/jpgoods_14_475053_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475053-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "カシミヤクルーネックセーター",
+      "現價": "5990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465734001/item/jpgoods_53_465734001_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465734-001/00"
     }
   ]
 }
