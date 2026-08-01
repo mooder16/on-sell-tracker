@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-08-01 13:18:06",
-  "total": 68,
+  "scraped_at": "2026-08-01 16:58:28",
+  "total": 67,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -216,16 +216,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "リネンクルーネックT",
-      "現價": "2990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477883/item/goods_01_477883_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E477883-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "ミニT",
       "現價": "990",
       "原價": "",
@@ -240,7 +230,7 @@
       "現價": "990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488280/item/jpgoods_34_488280_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488280/item/jpgoods_65_488280_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E488280-000/00"
     },
     {
@@ -300,7 +290,7 @@
       "現價": "500",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484227/item/jpgoods_61_484227_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484227/item/jpgoods_00_484227_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484227-000/00"
     },
     {
@@ -312,16 +302,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484228/item/jpgoods_69_484228_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484228-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ポインテールカーディガン",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484939/item/jpgoods_17_484939_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484939-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -606,16 +586,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "スカラップクルーネックカーディガン/ウォッシャブル",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482978/item/jpgoods_38_482978_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482978-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "シアーレースクルーネックカーディガン",
       "現價": "1290",
       "原價": "",
@@ -682,6 +652,26 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475053/item/jpgoods_14_475053_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E475053-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "カシミヤクルーネックセーター",
+      "現價": "5990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465734001/item/jpgoods_53_465734001_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465734-001/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "リネンクルーネックセーター",
+      "現價": "3990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484627/item/jpgoods_15_484627_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484627-000/00"
     }
   ]
 }
