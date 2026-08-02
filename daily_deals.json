@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-08-02 16:56:38",
-  "total": 244,
+  "scraped_at": "2026-08-02 20:54:09",
+  "total": 242,
   "products": [
     {
       "分類": "上衣",
@@ -1565,14 +1565,6 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "翻領短版外套",
-      "現價": "590",
-      "原價": "1490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053459/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053459"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "AIRism防曬網眼印花連帽外套(長袖)",
       "現價": "590",
       "原價": "990",
@@ -1762,14 +1754,6 @@
       "原價": "1490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054093/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054093"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "絲質方巾(花朵)",
-      "現價": "590",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054280/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054280"
     },
     {
       "分類": "其他",

@@ -1,8 +1,28 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-08-02 16:59:14",
+  "scraped_at": "2026-08-02 20:56:50",
   "total": 54,
   "products": [
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "戶外運動",
+      "商品名稱": "莫凡彼 單球冰淇淋或飲品兌換券 X 12張",
+      "現價": "999",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h32/had/418236478717982.jpg",
+      "商品連結": "https://www.costco.com.tw/Costco/Sports-Lifestyle/Garden-Lifestyle/Tickets-Voucher/Movenpick-Voucher-Ice-Cream-Or-Cafe-X-12-Ticket/p/158343"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "ATLeisure 10 呎戶外方形遮陽傘 附傘座 藍色",
+      "現價": "22999",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4f/h00/436453653643294.jpg",
+      "商品連結": "https://www.costco.com.tw/Costco/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/ATLeisure-10-ft-Square-Umbrella-with-Roller-Base-Indigo/p/1807248"
+    },
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
@@ -26,16 +46,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "科克蘭 男皮瑪棉短袖Polo衫",
-      "現價": "499",
-      "原價": "629",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h46/h70/471216564142110.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/Kirkland-Signature-Mens-Pima-Cotton-Short-Sleeve-Polo-Shirt/p/7771540"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "寵物",
       "商品名稱": "ARM & HAMMER 加強除臭貓砂 18.14公斤",
       "現價": "459",
@@ -52,16 +62,6 @@
       "原價": "379",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h80/h24/346620755312670.jpg",
       "商品連結": "https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Kokiri-Seaweed-Snack-Original-Flavor-5-g-X-22-Pack/p/1212069"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "翠果子 杏仁海苔天婦羅點心包 500公克",
-      "現價": "369",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h96/hda/202360357978142.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/TRYGOODZ-ALMOND-SEAWEED-CRACKER-MIX-500G/p/888688"
     },
     {
       "品牌": "Costco 台灣",
@@ -149,7 +149,7 @@
       "分類": "其他",
       "商品名稱": "Downlite 涼感舒眠枕 2入 51公分 X 71公分",
       "現價": "529",
-      "原價": "",
+      "原價": "669",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h6b/he5/450418277122078.jpg",
       "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Downlite-Ultimate-Freeze-Sleep-Pillow-2-Pack-51-cm-X-71-cm/p/688672"
     },
@@ -192,6 +192,16 @@
       "原價": "1099",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb4/h59/438876268855326.jpg",
       "商品連結": "https://www.costco.com.tw/Costco/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/INFINITY-X1-2000-Lumen-Camp-Light/p/1872247"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "寵物",
+      "商品名稱": "Brita X 三麗鷗 大耳狗喜拿 Style 純淨濾水壺 3.6公升 附3入 Maxtra Pro 濾芯",
+      "現價": "1859",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h91/h5f/438875973419038.jpg",
+      "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-X-SANRIO-Cinnamoroll-Style-Water-Filter-Jug-36-L-with-Maxtra-Pro-Filters-X-3-Count/p/158746"
     },
     {
       "品牌": "Costco 台灣",
@@ -326,6 +336,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "Cat Chow 貓乾糧燒烤嫩雞海陸拼盤 6.8公斤",
+      "現價": "614",
+      "原價": "769",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha2/ha6/349175388012574.jpg",
+      "商品連結": "https://www.costco.com.tw/Costco/Household-Baby-Toys/Pet-Supplies/Pet-Dry-Wet-Food/Cat-Chow-Dry-Cat-Food-Chicken-and-Tuna-Flavour-68-kg/p/340354"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "Igloo 58公升 滾輪冰桶",
       "現價": "1689",
@@ -396,6 +416,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Neatfreak 雙層鞋架長凳",
+      "現價": "1179",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3e/h6a/466199172808734.jpg",
+      "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Storage-Organization/Shelving/Neatfreak-Wood-Shoe-Storage-Bench/p/1937900"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "美妝保養",
       "商品名稱": "Ted Baker 經典款女用香水 200毫升 X 2入",
       "現價": "969",
@@ -442,36 +472,6 @@
       "原價": "879",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3a/h4b/451293610180638.jpg",
       "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/Gorilla-Mounting-Tape-Heavy-Duty-4-Count/p/160585"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Tommy Hilfiger 女踝襪 5入組",
-      "現價": "469",
-      "原價": "589",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h24/h90/454769474109470.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Tommy-Hilfiger-Ladies-Low-Cut-Socks-5-Pack/p/157487"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "健康保健",
-      "商品名稱": "Jamieson 複合益生菌 120粒",
-      "現價": "1259",
-      "原價": "1579",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h2a/he2/240433624743966.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Supplements-Digestive-Support/Jamieson-Probiotic-30B-120-Capsule/p/123200"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "家電",
-      "商品名稱": "DUROFIX 4V 鋰電池充電式起子機",
-      "現價": "669",
-      "原價": "839",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h28/h4e/414650598424606.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/DUROFIX-4V-Rechargeable-Screwdriver/p/155234"
     },
     {
       "品牌": "Costco 台灣",
