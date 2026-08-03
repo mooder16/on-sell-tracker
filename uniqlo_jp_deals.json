@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-08-03 06:59:17",
+  "scraped_at": "2026-08-03 11:21:41",
   "total": 68,
   "products": [
     {
@@ -206,16 +206,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "リネンクルーネックT",
-      "現價": "2990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465761/item/jpgoods_01_465761_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465761-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "ミニT",
       "現價": "990",
       "原價": "",
@@ -416,6 +406,16 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
+      "商品名稱": "ピーナッツ UT",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484477/item/jpgoods_00_484477_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484477-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
       "商品名稱": "ミッフィー イン ブルーム UT",
       "現價": "990",
       "原價": "",
@@ -576,6 +576,16 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
+      "商品名稱": "スカラップクルーネックカーディガン/ウォッシャブル",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482978/item/jpgoods_38_482978_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482978-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
       "商品名稱": "シアーレースクルーネックカーディガン",
       "現價": "1290",
       "原價": "",
@@ -672,16 +682,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484627/item/jpgoods_15_484627_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484627-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "3Dメッシュクルーネックセーター",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483008/item/jpgoods_14_483008_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483008-000/00"
     }
   ]
 }
