@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-08-04 14:10:31",
+  "scraped_at": "2026-08-04 17:50:12",
   "total": 54,
   "products": [
     {
@@ -46,6 +46,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "汽車",
+      "商品名稱": "Titan 保冰袋摺疊推車",
+      "現價": "1239",
+      "原價": "1549",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h13/h9b/487711264243742.jpg",
+      "商品連結": "https://www.costco.com.tw/Costco/Sports-Lifestyle/Camping-Outdoors/Coolers/Titan-60-Can-Rolling-Cooler/p/2622035"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "清潔",
       "商品名稱": "科克蘭 晶亮洗碗精 2.66公升",
       "現價": "305",
@@ -62,6 +72,16 @@
       "原價": "869",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdc/hc3/202360347623454.jpg",
       "商品連結": "https://www.costco.com.tw/Costco/Household-Baby-Toys/Pet-Supplies/Pet-Dry-Wet-Food/Kirkland-Signature-Natures-Domain-Salmon-and-Sweet-Potato-Dry-Cat-Food-816-kg/p/570940"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "科克蘭 日本綠茶包 1.5公克 X 100入",
+      "現價": "329",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf7/h72/31569513447454.jpg",
+      "商品連結": "https://www.costco.com.tw/Costco/Food-Dining/Drinks/Tea/Kirkland-Signature-Japanese-Green-Tea-15-g-X-100-Bag/p/1169345"
     },
     {
       "品牌": "Costco 台灣",
@@ -126,6 +146,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "奧利奧 香草口味夾心餅乾 105公克 X 21入",
+      "現價": "439",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/haf/h3a/467458984050718.jpg",
+      "商品連結": "https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/OREO-Vanilla-Flavor-Sandwich-Cookies-105-g-X-21-Pack/p/526453"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "威滅滅蟑隊-s",
       "現價": "239",
@@ -167,16 +197,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "品客洋芋片 MINIS 洋蔥奶焗口味 19公克 X 30入",
-      "現價": "315",
-      "原價": "379",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha8/h61/487710620352542.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Pringles-Minis-Potato-Crisps-Chips-Sour-Cream-Onion-Flavor-19-g-X-30-Pack/p/135727"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
       "商品名稱": "Downlite 涼感舒眠枕 2入 51公分 X 71公分",
       "現價": "529",
       "原價": "669",
@@ -202,6 +222,16 @@
       "原價": "1649",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h37/h22/70175621840926.jpg",
       "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Home-Safety/Panasonic-Smoke-Alarm-X-2-Pack/p/132217"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "豐力富 紐西蘭頂級純濃奶粉 2.6公斤",
+      "現價": "631",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h24/hb9/15916554420254.jpg",
+      "商品連結": "https://www.costco.com.tw/Costco/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Fernleaf-New-Zealand-Full-Cream-Milk-Powder-26-kg/p/79922"
     },
     {
       "品牌": "Costco 台灣",
@@ -347,16 +377,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "得意的一天 芋頭燕麥椰奶露 750公克 X 3包",
-      "現價": "319",
-      "原價": "399",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha0/h5b/293903504801822.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Food-Dining/Drinks/Beverages-Juice/Great-Day-Taro-Coconut-Soup-with-Oats-750-g-X-3-Pack/p/149344"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
       "商品名稱": "幻知曲 舒柔曲線乳膠枕 58公分 X 38公分 X 10公分",
       "現價": "719",
       "原價": "899",
@@ -452,26 +472,6 @@
       "原價": "1299",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hbd/h20/47771977678878.jpg",
       "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Mattress-Toppers/Reverie-Modal-Mattress-Protector-3-Piece-Set-183-cm-X-212-cm-X-38-cm/p/114501"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "大猩猩透明膠 1.75盎司 X 3入",
-      "現價": "549",
-      "原價": "689",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hbc/h8f/451293603954718.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/Gorilla-Glue-Clear-175-oz-X-3-Count/p/160583"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "Backbone Nook desk 兒童成長調節桌 奶油色",
-      "現價": "1899",
-      "原價": "2399",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h32/h68/364686848196638.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Backbone-Nook-desk-Kids-Adjustable-Desk-Cream/p/152653"
     },
     {
       "品牌": "Costco 台灣",
