@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-08-04 17:48:07",
+  "scraped_at": "2026-08-04 21:13:42",
   "total": 68,
   "products": [
     {
@@ -150,7 +150,7 @@
       "現價": "500",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485025/item/jpgoods_40_485025_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485025/item/jpgoods_00_485025_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485025-000/00"
     },
     {
@@ -292,16 +292,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484228/item/jpgoods_69_484228_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484228-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ソフトリブクルーネックT",
-      "現價": "1990",
-      "原價": "1990",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465751/item/jpgoods_27_465751_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465751-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -682,6 +672,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485724/item/jpgoods_38_485724_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485724-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "シアーレースクルーネックカーディガン",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487719/item/jpgoods_55_487719_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487719-000/00"
     }
   ]
 }
