@@ -1,7 +1,7 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-08-04 10:40:08",
-  "total": 55,
+  "scraped_at": "2026-08-04 14:10:31",
+  "total": 54,
   "products": [
     {
       "品牌": "Costco 台灣",
@@ -151,7 +151,7 @@
       "現價": "235",
       "原價": "289",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h23/h4c/175063271374878.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/100543"
+      "商品連結": "https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Serena-Vegetable-Cracker-20-g-X-52-Pack/p/100543"
     },
     {
       "品牌": "Costco 台灣",
@@ -206,12 +206,52 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "CASA 經典優質三角靠墊 60公分 X 50公分 X 30公分 米",
+      "現價": "499",
+      "原價": "639",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h80/h5c/419358257872926.jpg",
+      "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/CASA-Wedge-Cushion-60-cm-X-50-cm-X-30-cm-Beige/p/156362"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "家電",
       "商品名稱": "Tescom 大風量負離子吹風機 TD570TW",
       "現價": "1189",
       "原價": "1519",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3b/hfd/368770433908766.jpg",
       "商品連結": "https://www.costco.com.tw/Costco/Televisions-Appliances/Small-Appliances/Hair-Skin-Care-Tools/Tescom-Negative-ion-Hair-Dryer-TD570TW/p/152520"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "幻知曲 單人天然舒柔防水保潔墊 2件組 107公分 X 190公分 X 38公分",
+      "現價": "615",
+      "原價": "769",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hab/h0d/47771977646110.jpg",
+      "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Mattress-Toppers/Reverie-Modal-Mattress-Protector-2-Piece-Set-107-cm-X-190-cm-X-38-cm/p/114499"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "太星電工 25W PD+QC 2開2插壁插轉接器 兩入組",
+      "現價": "639",
+      "原價": "799",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5a/h72/243378169348126.jpg",
+      "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/MAX-STAR-25W-PDQC-2-Switch-2-Outlet-Wall-Mount-Plug-2-Pack/p/143941"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "居家",
+      "商品名稱": "INFINITY X1 2000 流明露營燈",
+      "現價": "849",
+      "原價": "1099",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb4/h59/438876268855326.jpg",
+      "商品連結": "https://www.costco.com.tw/Costco/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/INFINITY-X1-2000-Lumen-Camp-Light/p/1872247"
     },
     {
       "品牌": "Costco 台灣",
@@ -251,7 +291,7 @@
       "現價": "339",
       "原價": "429",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0b/h94/397423321284638.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/915777"
+      "商品連結": "https://www.costco.com.tw/Costco/Food-Dining/Snacks/Candies-Chocolates/Skittles-Mixed-Party-Box-38-g-X-20-Pack/p/915777"
     },
     {
       "品牌": "Costco 台灣",
@@ -282,16 +322,6 @@
       "原價": "839",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h28/h4e/414650598424606.jpg",
       "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/DUROFIX-4V-Rechargeable-Screwdriver/p/155234"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "CASA 經典優質三角靠墊 60公分 X 50公分 X 30公分 青",
-      "現價": "499",
-      "原價": "639",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h91/hdf/419358258724894.jpg",
-      "商品連結": "https://www.costco.com.tw/Bedding/p/156363"
     },
     {
       "品牌": "Costco 台灣",
@@ -362,16 +392,6 @@
       "原價": "879",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3a/h4b/451293610180638.jpg",
       "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/Gorilla-Mounting-Tape-Heavy-Duty-4-Count/p/160585"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "哈根達斯 抹茶巧酥迷你杯 77公克 X 24入",
-      "現價": "1343",
-      "原價": "1679",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hfc/h24/439234176647198.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Food-Dining/Frozen-Fresh-Food/Frozen-Desserts-Ice-Cream/Haagen-Dazs-Cookies-Matcha-Green-Tea-Ice-Cream-77-g-X-24-Count/p/160017"
     },
     {
       "品牌": "Costco 台灣",
@@ -452,36 +472,6 @@
       "原價": "2399",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h32/h68/364686848196638.jpg",
       "商品連結": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Backbone-Nook-desk-Kids-Adjustable-Desk-Cream/p/152653"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "威德 蔓越莓錠 250錠",
-      "現價": "449",
-      "原價": "559",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h12/h72/381684957184030.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Supplements-Digestive-Support/Weider-Cranberry-Extract-With-Vitamin-C-250-Tablet/p/401408"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "哈根達斯 淇淋巧酥雪糕 80毫升 X 24枝",
-      "現價": "1399",
-      "原價": "1689",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h72/h53/329177064112158.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/Haagen-Dazs-Ice-Bar-Cookies-80-ml-X-24-Count/p/133624"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "味好美 大蒜香草調味料 520公克",
-      "現價": "319",
-      "原價": "439",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he3/h4e/332442428997662.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Food-Dining/Groceries/Cooking-Oil-Sauces/McCormick-Garlic-Herb-Seasoning-520-g/p/150604"
     },
     {
       "品牌": "Costco 台灣",
