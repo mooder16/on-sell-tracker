@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-08-05 21:08:35",
+  "scraped_at": "2026-08-06 02:29:52",
   "total": 54,
   "products": [
     {
@@ -11,7 +11,7 @@
       "現價": "16699",
       "原價": "20899",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8e/h30/438072169103390.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-TV-Accessories/p/153517"
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/Philips-65-inch-4K-Google-TV-Monitor-with-Soundbar-Set-65PUH789096/p/153517"
     },
     {
       "品牌": "Costco 台灣",
@@ -51,7 +51,7 @@
       "現價": "305",
       "原價": "375",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha0/h0e/136366539472926.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Household-Baby-Toys/Household-Essentials/Dish-Detergents/Kirkland-Signature-Ultra-Shine-Liquid-Dish-Soap-266-L/p/1677453"
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Dish-Detergents/Kirkland-Signature-Ultra-Shine-Liquid-Dish-Soap-266-L/p/1677453"
     },
     {
       "品牌": "Costco 台灣",
@@ -71,7 +71,7 @@
       "現價": "709",
       "原價": "869",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdc/hc3/202360347623454.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/p/570940"
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Pet-Supplies/Pet-Dry-Wet-Food/Kirkland-Signature-Natures-Domain-Salmon-and-Sweet-Potato-Dry-Cat-Food-816-kg/p/570940"
     },
     {
       "品牌": "Costco 台灣",
@@ -111,7 +111,7 @@
       "現價": "309",
       "原價": "379",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h80/h24/346620755312670.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/1212069"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Kokiri-Seaweed-Snack-Original-Flavor-5-g-X-22-Pack/p/1212069"
     },
     {
       "品牌": "Costco 台灣",
@@ -137,21 +137,31 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "豐力富 紐西蘭頂級純濃奶粉 2.6公斤",
-      "現價": "631",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h24/hb9/15916554420254.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Fernleaf-New-Zealand-Full-Cream-Milk-Powder-26-kg/p/79922"
+      "商品名稱": "威滅滅蟑隊-s",
+      "現價": "239",
+      "原價": "299",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdb/h5a/223927011901470.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Pest-Control-Air-Care/-s/p/73655"
     },
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "威滅滅蟑隊-s",
-      "現價": "239",
-      "原價": "299",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdb/h5a/223927011901470.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/p/73655"
+      "商品名稱": "豐力富 紐西蘭頂級純濃奶粉 2.6公斤",
+      "現價": "631",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h24/hb9/15916554420254.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/p/79922"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "品客洋芋片 MINIS 洋蔥奶焗口味 19公克 X 30入",
+      "現價": "315",
+      "原價": "379",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha8/h61/487710620352542.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Pringles-Minis-Potato-Crisps-Chips-Sour-Cream-Onion-Flavor-19-g-X-30-Pack/p/135727"
     },
     {
       "品牌": "Costco 台灣",
@@ -176,22 +186,32 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "品客洋芋片 MINIS 洋蔥奶焗口味 19公克 X 30入",
-      "現價": "315",
-      "原價": "379",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha8/h61/487710620352542.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Pringles-Minis-Potato-Crisps-Chips-Sour-Cream-Onion-Flavor-19-g-X-30-Pack/p/135727"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "親愛的糙米白咖啡 30公克 X 80入",
       "現價": "485",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hfb/hd9/325606390956062.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Darling-Brown-Rice-White-Coffee-30-g-X-80-Count/p/374199"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "健康保健",
+      "商品名稱": "Jamieson 複合益生菌 120粒",
+      "現價": "1259",
+      "原價": "1579",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h2a/he2/240433624743966.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Jamieson-Probiotic-30B-120-Capsule/p/123200"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "唐舖子 原味芝麻薄餅 360公克 X 2袋",
+      "現價": "285",
+      "原價": "359",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h70/h03/366001878433822.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Tang-Shop-Original-Sesame-Pancake-360-g-X-2-Pack/p/153412"
     },
     {
       "品牌": "Costco 台灣",
@@ -206,12 +226,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "健康保健",
-      "商品名稱": "Jamieson 複合益生菌 120粒",
-      "現價": "1259",
-      "原價": "1579",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h2a/he2/240433624743966.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Jamieson-Probiotic-30B-120-Capsule/p/123200"
+      "分類": "居家",
+      "商品名稱": "INFINITY X1 2000 流明露營燈",
+      "現價": "849",
+      "原價": "1099",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb4/h59/438876268855326.jpg",
+      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/INFINITY-X1-2000-Lumen-Camp-Light/p/1872247"
     },
     {
       "品牌": "Costco 台灣",
@@ -241,17 +261,7 @@
       "現價": "499",
       "原價": "639",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h80/h5c/419358257872926.jpg",
-      "商品連結": "https://www.costco.com.tw/Bedding/p/156362"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "唐舖子 原味芝麻薄餅 360公克 X 2袋",
-      "現價": "285",
-      "原價": "359",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h70/h03/366001878433822.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Tang-Shop-Original-Sesame-Pancake-360-g-X-2-Pack/p/153412"
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/CASA-Wedge-Cushion-60-cm-X-50-cm-X-30-cm-Beige/p/156362"
     },
     {
       "品牌": "Costco 台灣",
@@ -266,16 +276,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "True Innovations 全網布辦公椅",
-      "現價": "2699",
-      "原價": "3399",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4f/hd0/399197023043614.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/True-Innovations-Task-Mesh-Chair/p/1812395"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "寵物",
       "商品名稱": "金博家 貓山王海鹽榴槤冰淇淋 473毫升 X 2入",
       "現價": "589",
@@ -286,12 +286,42 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "居家",
+      "商品名稱": "True Innovations 全網布辦公椅",
+      "現價": "2699",
+      "原價": "3399",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4f/hd0/399197023043614.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/True-Innovations-Task-Mesh-Chair/p/1812395"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "妮維雅 極效嫩白水感身體乳 550毫升 X 2入",
+      "現價": "559",
+      "原價": "699",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h2b/h32/228120371920926.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Nivea-Extra-Bright-Radiant-Smooth-Body-Lotion-550-ml-X-2-Pack/p/291447"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "Skittles 彩虹糖綜合歡樂箱 38公克 X 20包",
       "現價": "339",
       "原價": "429",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0b/h94/397423321284638.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Skittles-Mixed-Party-Box-38-g-X-20-Pack/p/915777"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "味好美 大蒜香草調味料 520公克",
+      "現價": "319",
+      "原價": "439",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he3/h4e/332442428997662.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/McCormick-Garlic-Herb-Seasoning-520-g/p/150604"
     },
     {
       "品牌": "Costco 台灣",
@@ -326,12 +356,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "INFINITY X1 2000 流明露營燈",
-      "現價": "849",
-      "原價": "1099",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb4/h59/438876268855326.jpg",
-      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/INFINITY-X1-2000-Lumen-Camp-Light/p/1872247"
+      "分類": "食品",
+      "商品名稱": "Schiff MegaRed 濃縮純淨藻油 Omega-3 軟膠囊(食品) 50顆",
+      "現價": "1059",
+      "原價": "1319",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hab/h03/384242530680862.jpg",
+      "商品連結": "https://www.costco.com.tw/c/Schiff-MegaRed-Omega-3-Algae-Oil-50-Softgels/p/142926"
     },
     {
       "品牌": "Costco 台灣",
@@ -342,6 +372,16 @@
       "原價": "1049",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha2/h0f/326879453315102.jpg",
       "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Pest-Control/SABA-20W-Electric-Shock-Mosquito-Zapper-SA-HG07/p/151284"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "哈根達斯 淇淋巧酥雪糕 80毫升 X 24枝",
+      "現價": "1399",
+      "原價": "1689",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h72/h53/329177064112158.jpg",
+      "商品連結": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/Haagen-Dazs-Ice-Bar-Cookies-80-ml-X-24-Count/p/133624"
     },
     {
       "品牌": "Costco 台灣",
@@ -371,7 +411,7 @@
       "現價": "449",
       "原價": "559",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h12/h72/381684957184030.jpg",
-      "商品連結": "https://www.costco.com.tw/p/401408"
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Weider-Cranberry-Extract-With-Vitamin-C-250-Tablet/p/401408"
     },
     {
       "品牌": "Costco 台灣",
@@ -382,56 +422,6 @@
       "原價": "189",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h05/h45/11953612193822.jpg",
       "商品連結": "https://www.costco.com.tw/Office-School/Office-Stationary/Tapes-Scissors/3M-Office-Tape-16-Row-18-cm-X-40-m/p/64500"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "哈根達斯 草莓雪糕 80毫升 X 24枝",
-      "現價": "1399",
-      "原價": "1689",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3d/hbd/168536104108062.jpg",
-      "商品連結": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/Haagen-Dazs-Ice-Bar-Strawberries-80-ml-X-24-Count/p/133625"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "Caliphil 單人素色床包 3件組 105公分 X 186公分 X 25公分",
-      "現價": "799",
-      "原價": "999",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/products/hd4/hc1/8824222416926.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Sheet-Set-3-Piece-105-cm-X-186-cm-X-25-cm/p/108446-B"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "森永in果凍 (蔬果能量) 150公克 X 12入",
-      "現價": "369",
-      "原價": "465",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h43/h87/381454913044510.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Sports-Performance/Morinaga-IN-Jelly-Vegetable-150-g-X-12-Pack/p/154796"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "歐司朗 20W LED 燈泡 8入",
-      "現價": "1279",
-      "原價": "1599",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h40/hb6/275511554703390.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/OSRAM-20W-LED-Bulb-8-Pack/p/147362-B"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "家電",
-      "商品名稱": "DUROFIX 4V 鋰電池充電式起子機",
-      "現價": "669",
-      "原價": "839",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h28/h4e/414650598424606.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/DUROFIX-4V-Rechargeable-Screwdriver/p/155234"
     },
     {
       "品牌": "Costco 台灣",
@@ -447,31 +437,41 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "幻知曲 舒柔曲線乳膠枕 58公分 X 38公分 X 10公分",
-      "現價": "719",
-      "原價": "899",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5b/h1a/12090608451614.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Reverie-Comfort-Latex-Pillow-58-cm-X-38-cm-X-10-cm/p/121631"
+      "商品名稱": "哈根達斯 草莓雪糕 80毫升 X 24枝",
+      "現價": "1399",
+      "原價": "1689",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3d/hbd/168536104108062.jpg",
+      "商品連結": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/Haagen-Dazs-Ice-Bar-Strawberries-80-ml-X-24-Count/p/133625"
     },
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "味好美 大蒜香草調味料 520公克",
-      "現價": "319",
-      "原價": "439",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he3/h4e/332442428997662.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/McCormick-Garlic-Herb-Seasoning-520-g/p/150604"
+      "分類": "戶外運動",
+      "商品名稱": "Mac Sports 全地形折疊拖車 附煞車輪",
+      "現價": "1939",
+      "原價": "2399",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdd/hbd/439234209284126.jpg",
+      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/Mac-Sports-Folding-Wagon-with-Brakes/p/1872234"
     },
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "妮維雅 極效嫩白水感身體乳 550毫升 X 2入",
-      "現價": "559",
-      "原價": "699",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h2b/h32/228120371920926.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Nivea-Extra-Bright-Radiant-Smooth-Body-Lotion-550-ml-X-2-Pack/p/291447"
+      "商品名稱": "C-WEED SNACK 海苔脆片 150 公克",
+      "現價": "209",
+      "原價": "259",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h25/h8b/309507661692958.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/C-WEED-SNACK-Bite-Size-Dashima-Bugak-Chips-150-g/p/1798778"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "居家",
+      "商品名稱": "Caliphil 單人素色床包 3件組 105公分 X 186公分 X 25公分",
+      "現價": "799",
+      "原價": "999",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/products/hd4/hc1/8824222416926.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Sheet-Set-3-Piece-105-cm-X-186-cm-X-25-cm/p/108446-B"
     },
     {
       "品牌": "Costco 台灣",
@@ -481,7 +481,7 @@
       "現價": "519",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8c/ha5/118320266608670.jpg",
-      "商品連結": "https://www.costco.com.tw/Costco/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Whole-Almonds-136-kg/p/1516849"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Whole-Almonds-136-kg/p/1516849"
     },
     {
       "品牌": "Costco 台灣",
@@ -496,22 +496,22 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 降價商品",
-      "分類": "其他",
-      "商品名稱": "12呎 X 16呎 多功能雙色帆布兩入",
-      "現價": "689",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd3/h92/292858412302366.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/12-ft-X-16-ft-Reversible-Tarps-2-Pack/p/1600091"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 降價商品",
       "分類": "服飾",
       "商品名稱": "Downy 超濃縮衣物柔軟精 5.03公升",
       "現價": "685",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he4/h04/419358168481822.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Downy-Ultra-Concentrated-HE-Fabric-Softener-503-L/p/138992"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 降價商品",
+      "分類": "其他",
+      "商品名稱": "12呎 X 16呎 多功能雙色帆布兩入",
+      "現價": "689",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd3/h92/292858412302366.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/12-ft-X-16-ft-Reversible-Tarps-2-Pack/p/1600091"
     },
     {
       "品牌": "Costco 台灣",
