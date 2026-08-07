@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-08-06 14:06:01",
-  "total": 247,
+  "scraped_at": "2026-08-07 00:52:18",
+  "total": 240,
   "products": [
     {
       "分類": "上衣",
@@ -61,14 +61,6 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "AIRism棉質寬版條紋圓領T恤(五分袖)",
-      "現價": "290",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053418/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053418"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "DRY華夫格圓領T恤(短袖)",
       "現價": "390",
       "原價": "590",
@@ -125,19 +117,19 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "AIRism棉質網眼襯衫式POLO衫(短袖)",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053281/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053281"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "短版T恤(短袖)",
       "現價": "290",
       "原價": "390",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054690/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054690"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "AIRism棉質網眼襯衫式POLO衫(短袖)",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053281/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053281"
     },
     {
       "分類": "上衣",
@@ -149,11 +141,11 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "拼色T恤(短袖)",
+      "商品名稱": "圓領T恤(短袖)",
       "現價": "290",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053773/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053773"
+      "原價": "390",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054692/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054692"
     },
     {
       "分類": "上衣",
@@ -165,19 +157,11 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "V領T恤(短袖)",
-      "現價": "190",
-      "原價": "390",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053835/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053835"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "圓領T恤(短袖)",
+      "商品名稱": "拼色T恤(短袖)",
       "現價": "290",
-      "原價": "390",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054692/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054692"
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053773/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053773"
     },
     {
       "分類": "其他",
@@ -189,19 +173,19 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "V領T恤(短袖)",
+      "現價": "190",
+      "原價": "390",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053835/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053835"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "羅紋短版T恤(短袖)",
       "現價": "290",
       "原價": "390",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054686/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054686"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "船型領T恤(短袖)",
-      "現價": "490",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054274/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054274"
     },
     {
       "分類": "其他",
@@ -213,11 +197,11 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "亨利領T恤(短袖)",
-      "現價": "290",
+      "商品名稱": "船型領T恤(短袖)",
+      "現價": "490",
       "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053760/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053760"
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054274/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054274"
     },
     {
       "分類": "其他",
@@ -229,11 +213,11 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "紋理短版上衣(短袖)",
+      "商品名稱": "亨利領T恤(短袖)",
       "現價": "290",
-      "原價": "390",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053813/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053813"
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053760/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053760"
     },
     {
       "分類": "上衣",
@@ -242,6 +226,14 @@
       "原價": "190",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054950/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054950"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "紋理短版上衣(短袖)",
+      "現價": "290",
+      "原價": "390",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053813/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053813"
     },
     {
       "分類": "上衣",
@@ -302,10 +294,10 @@
     {
       "分類": "上衣",
       "商品名稱": "SUPIMA COTTON T恤(短袖)",
-      "現價": "290",
+      "現價": "490",
       "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054588/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054588"
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055072/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055072"
     },
     {
       "分類": "其他",
@@ -365,14 +357,6 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "特級亞麻背心",
-      "現價": "990",
-      "原價": "1490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053584/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053584"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "無縫短版BRATOP背心",
       "現價": "390",
       "原價": "490",
@@ -389,19 +373,19 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "V領BRATOP背心",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053963/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053963"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "BRATOP削肩短版背心(滾邊)",
       "現價": "390",
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053632/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053632"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "V領BRATOP背心",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053963/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053963"
     },
     {
       "分類": "上衣",
@@ -613,14 +597,6 @@
     },
     {
       "分類": "洋裝",
-      "商品名稱": "棉質緹花短洋裝(短袖)",
-      "現價": "590",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054058/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054058"
-    },
-    {
-      "分類": "洋裝",
       "商品名稱": "AIRism棉質BRATOP細肩帶洋裝(條紋)",
       "現價": "590",
       "原價": "990",
@@ -674,14 +650,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053902/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053902"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "3D織法棉質針織洋裝(無袖)",
-      "現價": "490",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053918/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053918"
     },
     {
       "分類": "裙子",
@@ -773,19 +741,19 @@
     },
     {
       "分類": "裙子",
-      "商品名稱": "亞麻混紡寬襬裙",
-      "現價": "490",
-      "原價": "1490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053818/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053818"
-    },
-    {
-      "分類": "裙子",
       "商品名稱": "蛋糕裙(印花)",
       "現價": "790",
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053642/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053642"
+    },
+    {
+      "分類": "裙子",
+      "商品名稱": "亞麻混紡寬襬裙",
+      "現價": "490",
+      "原價": "1490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053818/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053818"
     },
     {
       "分類": "褲子",
@@ -877,19 +845,19 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "牛仔五分褲",
-      "現價": "390",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053500/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053500"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "打褶短褲",
       "現價": "790",
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054297/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054297"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "牛仔五分褲",
+      "現價": "390",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053500/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053500"
     },
     {
       "分類": "褲子",
@@ -997,19 +965,19 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "繭型工裝褲",
-      "現價": "590",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053482/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053482"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "繭型牛仔褲 479000",
       "現價": "790",
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054602/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054602"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "繭型工裝褲",
+      "現價": "590",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053482/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053482"
     },
     {
       "分類": "褲子",
@@ -1050,14 +1018,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053344/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053344"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "寬版牛仔褲",
-      "現價": "590",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053495/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053495"
     },
     {
       "分類": "褲子",
@@ -1245,19 +1205,19 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "開領襯衫(短袖)",
-      "現價": "590",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053514/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053514"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "棉麻襯衫(短袖)",
       "現價": "490",
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054460/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054460"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "開領襯衫(短袖)",
+      "現價": "590",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053514/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053514"
     },
     {
       "分類": "上衣",
@@ -1301,19 +1261,19 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "印花襯衫(短袖)",
-      "現價": "590",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054301/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054301"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "牛津寬版襯衫(短袖)(印花)",
       "現價": "590",
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054295/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054295"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "印花襯衫(短袖)",
+      "現價": "590",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054301/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054301"
     },
     {
       "分類": "上衣",
@@ -1461,14 +1421,6 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "防曬條紋圓領開襟外套(長袖)",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053676/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053676"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "針織V領開襟外套(長袖)",
       "現價": "590",
       "原價": "790",
@@ -1533,14 +1485,6 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "防風立領布勞森外套",
-      "現價": "990",
-      "原價": "1690",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053001/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053001"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "棉質混紡短版布勞森外套",
       "現價": "590",
       "原價": "1490",
@@ -1565,19 +1509,19 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "無縫羽絨連帽外套(NANODESIGN)",
-      "現價": "2990",
-      "原價": "3490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052104/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052104"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "哈靈頓外套",
       "現價": "1490",
       "原價": "1990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054697/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054697"
+    },
+    {
+      "分類": "外套",
+      "商品名稱": "無縫羽絨連帽外套(NANODESIGN)",
+      "現價": "2990",
+      "原價": "3490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052104/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052104"
     },
     {
       "分類": "外套",
@@ -1797,19 +1741,19 @@
     },
     {
       "分類": "其他",
-      "商品名稱": "波士頓太陽眼鏡",
-      "現價": "290",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053253/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053253"
-    },
-    {
-      "分類": "其他",
       "商品名稱": "編織水桶包",
       "現價": "590",
       "原價": "1490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054093/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054093"
+    },
+    {
+      "分類": "其他",
+      "商品名稱": "波士頓太陽眼鏡",
+      "現價": "290",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053253/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053253"
     },
     {
       "分類": "其他",
@@ -1893,19 +1837,19 @@
     },
     {
       "分類": "其他",
-      "商品名稱": "防曬雙面漁夫帽",
-      "現價": "490",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053078/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053078"
-    },
-    {
-      "分類": "其他",
       "商品名稱": "防曬斜紋帽",
       "現價": "490",
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053026/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053026"
+    },
+    {
+      "分類": "其他",
+      "商品名稱": "防曬雙面漁夫帽",
+      "現價": "490",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053078/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053078"
     },
     {
       "分類": "其他",
