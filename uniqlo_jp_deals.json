@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-08-07 05:39:48",
+  "scraped_at": "2026-08-07 08:58:06",
   "total": 68,
   "products": [
     {
@@ -517,16 +517,6 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "マジック フォー オール タイムレス UT",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484768/item/jpgoods_09_484768_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484768-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "マジック フォー オール タイムレス UT",
       "現價": "990",
       "原價": "",
       "截止日期": "",
@@ -682,6 +672,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465734/item/jpgoods_10_465734_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E465734-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "カシミヤクルーネックセーター",
+      "現價": "5990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465734001/item/jpgoods_53_465734001_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465734-001/00"
     }
   ]
 }
