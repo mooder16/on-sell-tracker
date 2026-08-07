@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-08-07 13:02:23",
+  "scraped_at": "2026-08-07 16:55:29",
   "total": 54,
   "products": [
     {
@@ -11,7 +11,7 @@
       "現價": "16699",
       "原價": "20899",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8e/h30/438072169103390.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-TV-Accessories/p/153517"
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/Philips-65-inch-4K-Google-TV-Monitor-with-Soundbar-Set-65PUH789096/p/153517"
     },
     {
       "品牌": "Costco 台灣",
@@ -92,6 +92,16 @@
       "原價": "869",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdc/hc3/202360347623454.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Pet-Supplies/Pet-Dry-Wet-Food/Kirkland-Signature-Natures-Domain-Salmon-and-Sweet-Potato-Dry-Cat-Food-816-kg/p/570940"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "科克蘭 無調味烘烤開心果 1.36公斤",
+      "現價": "659",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hea/h86/422091033903134.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Unsalted-In-Shell-Pistachios-136-kg/p/1792518"
     },
     {
       "品牌": "Costco 台灣",
@@ -462,16 +472,6 @@
       "原價": "1599",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h40/hb6/275511554703390.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/OSRAM-20W-LED-Bulb-8-Pack/p/147362-B"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "家電",
-      "商品名稱": "DUROFIX 4V 鋰電池充電式起子機",
-      "現價": "669",
-      "原價": "839",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h28/h4e/414650598424606.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/DUROFIX-4V-Rechargeable-Screwdriver/p/155234"
     },
     {
       "品牌": "Costco 台灣",
