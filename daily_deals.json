@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-08-08 08:38:39",
-  "total": 237,
+  "scraped_at": "2026-08-08 12:43:59",
+  "total": 242,
   "products": [
     {
       "分類": "上衣",
@@ -349,6 +349,14 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "特級亞麻背心",
+      "現價": "990",
+      "原價": "1490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053584/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053584"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "無縫短版BRATOP背心",
       "現價": "390",
       "原價": "490",
@@ -597,6 +605,14 @@
     },
     {
       "分類": "洋裝",
+      "商品名稱": "棉質緹花短洋裝(短袖)",
+      "現價": "590",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054058/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054058"
+    },
+    {
+      "分類": "洋裝",
       "商品名稱": "AIRism棉質BRATOP細肩帶洋裝(條紋)",
       "現價": "590",
       "原價": "990",
@@ -698,6 +714,14 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054105/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054105"
+    },
+    {
+      "分類": "裙子",
+      "商品名稱": "亞麻混紡打褶長裙",
+      "現價": "490",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053711/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053711"
     },
     {
       "分類": "裙子",
@@ -885,6 +909,14 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "棉質短褲(格紋)",
+      "現價": "290",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054536/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054536"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "棉質彈性短褲",
       "現價": "390",
       "原價": "590",
@@ -1050,6 +1082,14 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054086/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054086"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "可機洗針織羅紋長褲 478847 / 473802",
+      "現價": "290",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052955/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052955"
     },
     {
       "分類": "褲子",
