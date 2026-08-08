@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-08-08 04:57:10",
+  "scraped_at": "2026-08-08 08:41:15",
   "total": 54,
   "products": [
     {
@@ -291,7 +291,7 @@
       "現價": "849",
       "原價": "1099",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb4/h59/438876268855326.jpg",
-      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/INFINITY-X1-2000-Lumen-Camp-Light/p/1872247"
+      "商品連結": "https://www.costco.com.tw/p/1872247"
     },
     {
       "品牌": "Costco 台灣",
@@ -446,6 +446,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "翠果子 綜合米果 20公克 X 30包 X 4盒",
+      "現價": "949",
+      "原價": "1189",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h28/h8e/168536159420446.jpg",
+      "商品連結": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Grains-Nuts-Snacks/Trygoodz-Rice-Crackers-with-Almonds-20-g-X-30-Bag-X-4-Case/p/211681"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "家電",
       "商品名稱": "Tescom 大風量負離子吹風機 TD570TW",
       "現價": "1189",
@@ -462,16 +472,6 @@
       "原價": "1119",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h51/h33/255087838822430.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LEDVANCE-13W-6-inch-LED-Value-Slim-Downlight-6-Pack/p/146545-B"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "寵物",
-      "商品名稱": "金博家 貓山王海鹽榴槤冰淇淋 473毫升 X 2入",
-      "現價": "589",
-      "原價": "729",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hbb/h03/221227230199838.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Desserts-Ice-Cream/Jinbo-Musang-King-Sea-Salt-Durian-Ice-Cream-473-ml-X-2-Count/p/144661"
     },
     {
       "品牌": "Costco 台灣",
