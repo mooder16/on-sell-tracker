@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-08-09 16:33:24",
-  "total": 240,
+  "scraped_at": "2026-08-09 20:30:25",
+  "total": 237,
   "products": [
     {
       "分類": "上衣",
@@ -490,14 +490,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053899/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053899"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "棉質開領POLO針織衫(短袖)",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053609/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053609"
     },
     {
       "分類": "上衣",
@@ -1562,22 +1554,6 @@
       "原價": "890",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052319/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052319"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "特級彈性Active外套",
-      "現價": "590",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052596/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052596"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "PUFFTECH 輕暖科技無領外套",
-      "現價": "590",
-      "原價": "1990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052682/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052682"
     },
     {
       "分類": "上衣",

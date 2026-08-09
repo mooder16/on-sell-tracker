@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-08-09 16:36:04",
+  "scraped_at": "2026-08-09 20:33:04",
   "total": 55,
   "products": [
     {
@@ -287,6 +287,16 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
+      "商品名稱": "翠果子 綜合米果 20公克 X 30包 X 4盒",
+      "現價": "949",
+      "原價": "1189",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h28/h8e/168536159420446.jpg",
+      "商品連結": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Grains-Nuts-Snacks/Trygoodz-Rice-Crackers-with-Almonds-20-g-X-30-Bag-X-4-Case/p/211681"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
       "商品名稱": "格力高 杏仁果飲 原味 196毫升 X 12瓶",
       "現價": "349",
       "原價": "429",
@@ -472,16 +482,6 @@
       "原價": "399",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h72/h52/298052155146270.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Feit-75W-LED-Light-Bulb-5-Count/p/142186"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "艾美特 DC 遙控大廈扇 FT89R",
-      "現價": "2389",
-      "原價": "2999",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h07/hdc/361109992177694.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-DC-Remote-Control-Tower-Fan-FT89R/p/150625"
     },
     {
       "品牌": "Costco 台灣",
