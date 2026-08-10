@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-08-10 16:53:23",
-  "total": 68,
+  "scraped_at": "2026-08-10 20:41:16",
+  "total": 70,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -37,7 +37,7 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "グラフィックT",
-      "現價": "1290",
+      "現價": "990",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484421/item/jpgoods_00_484421_3x4.jpg",
@@ -97,8 +97,8 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "UVカットリブアームカバー",
-      "現價": "990",
-      "原價": "990",
+      "現價": "790",
+      "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/482086/item/goods_00_482086_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482086-000/00"
@@ -107,11 +107,21 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "サングラス/ビッグスクエア",
-      "現價": "1290",
+      "現價": "990",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/481646/item/goods_80_481646_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E481646-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "リブミニT",
+      "現價": "1500",
+      "原價": "1500",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484457/item/jpgoods_10_484457_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484457-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -157,7 +167,7 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "グラフィックT",
-      "現價": "1290",
+      "現價": "990",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483268/item/jpgoods_00_483268_3x4.jpg",
@@ -197,7 +207,7 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "ボートネックT",
-      "現價": "1290",
+      "現價": "990",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487819/item/jpgoods_41_487819_3x4.jpg",
@@ -217,17 +227,27 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "UVカットクルーネックセーター/ウォッシャブル",
-      "現價": "1990",
-      "原價": "1990",
+      "現價": "1290",
+      "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/474983/item/jpgoods_38_474983_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/474983/item/jpgoods_10_474983_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E474983-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
+      "商品名稱": "UVカットクルーネックセーター/ウォッシャブル",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485223/item/jpgoods_69_485223_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485223-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
       "商品名稱": "ボクシーニットT/ウォッシャブル",
-      "現價": "1990",
+      "現價": "1290",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482979/item/jpgoods_15_482979_3x4.jpg",
@@ -325,6 +345,26 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ミュージカルアイコンズ UT",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488735/item/jpgoods_09_488735_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488735-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "YOASOBI UT/リラックスフィット",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/489916/item/jpgoods_00_489916_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E489916-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "ドライEXTシャツ",
       "現價": "1990",
@@ -338,6 +378,56 @@
       "分類": "其他",
       "商品名稱": "ミュージカルアイコンズ UT",
       "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488734/item/jpgoods_00_488734_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488734-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "YOASOBI UT/リラックスフィット",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485312/item/jpgoods_09_485312_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485312-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "YOASOBI UT/リラックスフィット",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/489914/item/jpgoods_00_489914_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E489914-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ミュージカルアイコンズ UT",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482773/item/jpgoods_69_482773_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482773-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "YOASOBI UT/リラックスフィット",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/489915/item/jpgoods_08_489915_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E489915-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ミュージカルアイコンズ UT",
+      "現價": "990",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488733/item/jpgoods_58_488733_3x4.jpg",
@@ -362,6 +452,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488258/item/jpgoods_10_488258_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E488258-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "クルーネックTシャツ",
+      "現價": "1500",
+      "原價": "1500",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/422992/item/jpgoods_11_422992_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E422992-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -407,11 +507,21 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "mofusand UT/ショート",
-      "現價": "990",
+      "現價": "790",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488305/item/jpgoods_44_488305_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E488305-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ピーナッツ UT",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483258/item/jpgoods_00_483258_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483258-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -467,7 +577,7 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "POP MART UT/オーバーサイズフィット",
-      "現價": "790",
+      "現價": "500",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483259/item/jpgoods_08_483259_3x4.jpg",
@@ -477,7 +587,7 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "K-POPグループ BABYMONSTER UT/ボクシー/シアー",
-      "現價": "790",
+      "現價": "500",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486829/item/jpgoods_00_486829_3x4.jpg",
@@ -502,6 +612,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484767/item/jpgoods_51_484767_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484767-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "エアリズムブラタンクトップ",
+      "現價": "2490",
+      "原價": "2490",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485345/item/jpgoods_30_485345_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485345-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -582,106 +702,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484607/item/jpgoods_42_484607_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484607-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ポロセーター/ウォッシャブル",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485224/item/jpgoods_69_485224_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485224-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "プリーツニットポロセーター",
-      "現價": "5990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484635/item/jpgoods_43_484635_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484635-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "コットンクロシェセーターノースリーブ",
-      "現價": "3990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484629/item/jpgoods_36_484629_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484629-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "スムースコットンクルーネックセーター",
-      "現價": "3990",
-      "原價": "3990",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475053/item/jpgoods_14_475053_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475053-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "カシミヤクルーネックセーター",
-      "現價": "10900",
-      "原價": "10900",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465734/item/jpgoods_10_465734_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465734-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "カシミヤクルーネックセーター",
-      "現價": "5990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465734001/item/jpgoods_53_465734001_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465734-001/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "リネンクルーネックセーター",
-      "現價": "3990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484627/item/jpgoods_15_484627_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484627-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "3Dメッシュクルーネックセーター",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483008/item/jpgoods_14_483008_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483008-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "カシミヤVネックセーター",
-      "現價": "7990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465736/item/jpgoods_11_465736_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465736-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "リネンVネックセーター",
-      "現價": "3990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484628/item/jpgoods_15_484628_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484628-000/00"
     }
   ]
 }
