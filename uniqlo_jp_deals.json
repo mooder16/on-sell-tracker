@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-08-09 20:30:58",
+  "scraped_at": "2026-08-10 01:41:56",
   "total": 68,
   "products": [
     {
@@ -126,16 +126,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "ボートネックT",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487819/item/jpgoods_41_487819_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487819-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "ポインテールラウンドネックミニT",
       "現價": "500",
       "原價": "",
@@ -202,6 +192,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484266/item/jpgoods_31_484266_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484266-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ボートネックT",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487819/item/jpgoods_41_487819_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487819-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
