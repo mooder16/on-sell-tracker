@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-08-12 09:10:14",
-  "total": 229,
+  "scraped_at": "2026-08-12 13:05:31",
+  "total": 231,
   "products": [
     {
       "分類": "上衣",
@@ -597,6 +597,14 @@
     },
     {
       "分類": "洋裝",
+      "商品名稱": "印花寬版洋裝(短袖)",
+      "現價": "590",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054307/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054307"
+    },
+    {
+      "分類": "洋裝",
       "商品名稱": "印花領結洋裝(短袖)",
       "現價": "590",
       "原價": "1290",
@@ -794,6 +802,14 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055013/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055013"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "防潑水多口袋機能短褲 482937",
+      "現價": "290",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054466/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054466"
     },
     {
       "分類": "褲子",
