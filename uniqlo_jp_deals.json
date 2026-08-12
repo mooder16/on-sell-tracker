@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-08-11 20:41:32",
+  "scraped_at": "2026-08-12 01:49:53",
   "total": 69,
   "products": [
     {
@@ -675,23 +675,23 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ピーナッツ スウェットシャツ",
+      "分類": "其他",
+      "商品名稱": "シアーレースクルーネックカーディガン",
       "現價": "1290",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482743/item/jpgoods_01_482743_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482743-000/00"
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487719/item/jpgoods_55_487719_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487719-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
-      "商品名稱": "ピーナッツ スウェットシャツ",
-      "現價": "1290",
+      "商品名稱": "ポロセーター/ウォッシャブル",
+      "現價": "1990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485028/item/jpgoods_69_485028_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485028-000/00"
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484607/item/jpgoods_42_484607_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484607-000/00"
     }
   ]
 }
