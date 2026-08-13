@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-08-13 13:07:07",
+  "scraped_at": "2026-08-13 16:55:31",
   "total": 70,
   "products": [
     {
@@ -126,21 +126,11 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "ポインテールラウンドネックミニT",
-      "現價": "500",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485025/item/jpgoods_00_485025_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485025-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "シャーリングボリュームスリーブT",
       "現價": "1290",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484418/item/jpgoods_00_484418_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484418/item/jpgoods_09_484418_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484418-000/00"
     },
     {
@@ -282,16 +272,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484228/item/jpgoods_69_484228_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484228-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "リブハイネックT",
-      "現價": "790",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479588/item/goods_32_479588_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479588-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -702,6 +682,26 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484629/item/jpgoods_36_484629_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484629-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "リネンクルーネックセーター",
+      "現價": "3990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484633/item/jpgoods_38_484633_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484633-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "UVカットクルーネックカーディガン/ウォッシャブル",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484505/item/jpgoods_69_484505_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484505-000/00"
     }
   ]
 }
