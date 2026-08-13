@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-08-13 01:51:36",
-  "total": 225,
+  "scraped_at": "2026-08-13 05:38:46",
+  "total": 221,
   "products": [
     {
       "分類": "上衣",
@@ -597,14 +597,6 @@
     },
     {
       "分類": "洋裝",
-      "商品名稱": "印花寬版洋裝(短袖)",
-      "現價": "590",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054307/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054307"
-    },
-    {
-      "分類": "洋裝",
       "商品名稱": "印花領結洋裝(短袖)",
       "現價": "590",
       "原價": "1290",
@@ -698,14 +690,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054321/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054321"
-    },
-    {
-      "分類": "裙子",
-      "商品名稱": "蛋糕裙(條紋)",
-      "現價": "590",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054059/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054059"
     },
     {
       "分類": "裙子",
@@ -1181,14 +1165,6 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "牛仔寬版襯衫(五分袖)",
-      "現價": "490",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053245/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053245"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "開領襯衫(短袖)(印花)",
       "現價": "490",
       "原價": "990",
@@ -1530,14 +1506,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053206/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053206"
-    },
-    {
-      "分類": "配件",
-      "商品名稱": "襪子3雙 480277",
-      "現價": "149",
-      "原價": "290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054804/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054804"
     },
     {
       "分類": "配件",
