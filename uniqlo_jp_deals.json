@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-08-13 05:39:19",
+  "scraped_at": "2026-08-13 09:10:50",
   "total": 70,
   "products": [
     {
@@ -130,7 +130,7 @@
       "現價": "500",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485025/item/jpgoods_09_485025_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485025/item/jpgoods_40_485025_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485025-000/00"
     },
     {
@@ -425,16 +425,6 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "スーピマコットンオーバーサイズTシャツ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487898/item/jpgoods_09_487898_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487898-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "ジョアンフレンズ UT/オーバーサイズフィット",
       "現價": "1290",
@@ -702,6 +692,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484633/item/jpgoods_38_484633_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484633-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "UVカットクルーネックカーディガン/ウォッシャブル",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484505/item/jpgoods_69_484505_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484505-000/00"
     }
   ]
 }
