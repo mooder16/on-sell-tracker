@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-08-14 01:49:43",
-  "total": 70,
+  "scraped_at": "2026-08-14 05:37:16",
+  "total": 69,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -210,7 +210,7 @@
       "現價": "990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487819/item/jpgoods_41_487819_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487819/item/jpgoods_66_487819_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487819-000/00"
     },
     {
@@ -692,16 +692,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484633/item/jpgoods_38_484633_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484633-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "UVカットクルーネックカーディガン/ウォッシャブル",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484505/item/jpgoods_69_484505_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484505-000/00"
     }
   ]
 }
