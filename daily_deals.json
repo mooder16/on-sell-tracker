@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-08-16 04:34:07",
-  "total": 214,
+  "scraped_at": "2026-08-16 08:27:00",
+  "total": 213,
   "products": [
     {
       "分類": "上衣",
@@ -274,14 +274,6 @@
       "原價": "390",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053835/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053835"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "UTme! 寶可夢特別慶典UT印花T恤",
-      "現價": "190",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052527/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052527"
     },
     {
       "分類": "上衣",
