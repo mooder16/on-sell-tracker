@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-08-18 04:33:24",
-  "total": 212,
+  "scraped_at": "2026-08-18 08:34:40",
+  "total": 214,
   "products": [
     {
       "分類": "上衣",
@@ -573,6 +573,14 @@
     },
     {
       "分類": "洋裝",
+      "商品名稱": "特級彈性V領洋裝(無袖)",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053779/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053779"
+    },
+    {
+      "分類": "洋裝",
       "商品名稱": "AIRism棉質BRATOP細肩帶洋裝(條紋)",
       "現價": "590",
       "原價": "990",
@@ -738,6 +746,14 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055013/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055013"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "寬版Jorts牛仔短褲",
+      "現價": "290",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054468/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054468"
     },
     {
       "分類": "褲子",
@@ -1316,6 +1332,14 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055073"
     },
     {
+      "分類": "外套",
+      "商品名稱": "針織V領開襟外套(長袖)",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054005/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054005"
+    },
+    {
       "分類": "上衣",
       "商品名稱": "喀什米爾圓領毛衣(長袖)",
       "現價": "1990",
@@ -1562,14 +1586,6 @@
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053261/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053261"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "運動款半框太陽眼鏡",
-      "現價": "190",
-      "原價": "390",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055020/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055020"
     },
     {
       "分類": "其他",
