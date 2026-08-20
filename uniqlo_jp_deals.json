@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-08-20 16:34:08",
+  "scraped_at": "2026-08-20 20:26:46",
   "total": 70,
   "products": [
     {
@@ -77,8 +77,8 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "リブミニT",
-      "現價": "1500",
-      "原價": "1500",
+      "現價": "990",
+      "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484457/item/jpgoods_10_484457_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484457-000/00"
@@ -87,8 +87,8 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "ミニT",
-      "現價": "1500",
-      "原價": "1500",
+      "現價": "990",
+      "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465760/item/jpgoods_18_465760_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E465760-000/00"
@@ -255,26 +255,6 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ギャザーキャミソール",
-      "現價": "500",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485209/item/jpgoods_00_485209_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485209-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "ポインテールタンクトップ",
-      "現價": "500",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484228/item/jpgoods_01_484228_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484228-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "ソフトニットフリースクルーネックT",
       "現價": "1990",
@@ -337,8 +317,8 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "ドライEXTシャツ/カラーブロック",
-      "現價": "1990",
-      "原價": "1990",
+      "現價": "1290",
+      "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/489013/item/jpgoods_67_489013_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E489013-000/00"
@@ -357,8 +337,8 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "ドライEXTシャツ",
-      "現價": "1990",
-      "原價": "1990",
+      "現價": "1290",
+      "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482299/item/jpgoods_24_482299_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482299-000/00"
@@ -467,8 +447,8 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "クルーネックTシャツ",
-      "現價": "990",
-      "原價": "",
+      "現價": "1500",
+      "原價": "1500",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/422992/item/jpgoods_11_422992_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E422992-000/00"
@@ -617,8 +597,8 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "エアリズムブラタンクトップ",
-      "現價": "1990",
-      "原價": "",
+      "現價": "2490",
+      "原價": "2490",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485345/item/jpgoods_30_485345_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485345-000/00"
@@ -667,8 +647,8 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "エアリズムコットンブラタンクトップ",
-      "現價": "2490",
-      "原價": "2490",
+      "現價": "1990",
+      "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482189/item/jpgoods_69_482189_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482189-000/00"
@@ -702,6 +682,26 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487719/item/jpgoods_55_487719_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487719-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ポロセーター/ウォッシャブル",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484607/item/jpgoods_42_484607_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484607-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ポロセーター/ウォッシャブル",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485224/item/jpgoods_69_485224_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485224-000/00"
     }
   ]
 }

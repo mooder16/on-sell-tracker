@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-08-20 16:33:35",
-  "total": 207,
+  "scraped_at": "2026-08-20 20:26:13",
+  "total": 206,
   "products": [
     {
       "分類": "上衣",
@@ -794,14 +794,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054293/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054293"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "打褶短褲(印花)",
-      "現價": "590",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054282/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054282"
     },
     {
       "分類": "褲子",
