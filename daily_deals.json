@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-08-20 04:35:21",
-  "total": 205,
+  "scraped_at": "2026-08-20 08:36:16",
+  "total": 206,
   "products": [
     {
       "分類": "上衣",
@@ -578,6 +578,14 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054052/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054052"
+    },
+    {
+      "分類": "洋裝",
+      "商品名稱": "印花寬版洋裝(短袖)",
+      "現價": "590",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054307/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054307"
     },
     {
       "分類": "洋裝",
@@ -1300,6 +1308,14 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055073"
     },
     {
+      "分類": "外套",
+      "商品名稱": "針織V領開襟外套(長袖)",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054005/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054005"
+    },
+    {
       "分類": "上衣",
       "商品名稱": "喀什米爾圓領毛衣(長袖)",
       "現價": "1990",
@@ -1381,14 +1397,6 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "可攜式防曬連帽外套 474175",
-      "現價": "790",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051630/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051630"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "工裝外套",
       "現價": "590",
       "原價": "1690",
@@ -1410,14 +1418,6 @@
       "原價": "4990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052312/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052312"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "翻領短版外套",
-      "現價": "590",
-      "原價": "1490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053459/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053459"
     },
     {
       "分類": "外套",
@@ -1458,6 +1458,14 @@
       "原價": "190",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054809/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054809"
+    },
+    {
+      "分類": "配件",
+      "商品名稱": "襪子3雙 480277",
+      "現價": "149",
+      "原價": "290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054804/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054804"
     },
     {
       "分類": "配件",
