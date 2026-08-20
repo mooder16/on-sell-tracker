@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-08-20 12:45:40",
-  "total": 68,
+  "scraped_at": "2026-08-20 16:34:08",
+  "total": 70,
   "products": [
     {
       "品牌": "UNIQLO 日本特賣",
@@ -270,7 +270,7 @@
       "現價": "500",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484228/item/jpgoods_69_484228_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484228/item/jpgoods_01_484228_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E484228-000/00"
     },
     {
@@ -500,16 +500,6 @@
       "現價": "990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/490278/item/jpgoods_64_490278_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E490278-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ジョアンフレンズ UT/オーバーサイズフィット",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483265/item/jpgoods_00_483265_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483265-000/00"
     },
@@ -682,6 +672,36 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482189/item/jpgoods_69_482189_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482189-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "外套",
+      "商品名稱": "ウルトラストレッチエアリズムUVカットフルジップパーカ",
+      "現價": "2990",
+      "原價": "2990",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483281/item/jpgoods_12_483281_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483281-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ボアフリースリラックスカーディガン",
+      "現價": "2990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479616/item/goods_01_479616_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479616-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "シアーレースクルーネックカーディガン",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487719/item/jpgoods_55_487719_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487719-000/00"
     }
   ]
 }

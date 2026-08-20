@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-08-20 12:47:43",
+  "scraped_at": "2026-08-20 16:36:14",
   "total": 53,
   "products": [
     {
@@ -69,7 +69,7 @@
       "分類": "食品",
       "商品名稱": "科克蘭 全合成機油 0W-20 946毫升 X 6入",
       "現價": "679",
-      "原價": "859",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h95/hf0/61634482208798.jpg",
       "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Car-Oils-Fluids/Kirkland-Signature-Sp-Saefull-Synth-Motor-Oil-0W-20-946-ml-X-6-Pack/p/1448207"
     },
@@ -139,7 +139,7 @@
       "分類": "其他",
       "商品名稱": "樂天 卡士達派 27公克 X 36入",
       "現價": "389",
-      "原價": "489",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h2a/h84/190634467098654.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Lotte-Custard-Cake-27-g-X-36-Pack/p/227320"
     },
@@ -319,7 +319,7 @@
       "分類": "家電",
       "商品名稱": "Purely Indulgent 印度純棉浴巾 76公分 X 147公分 卡其色",
       "現價": "199",
-      "原價": "259",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc5/hfa/351316164214814.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Towels/Purely-Indulgent-100-Hygro-Cotton-Bath-Towel-76-cm-X-147-cm-Tan/p/1851162"
     },
@@ -372,16 +372,6 @@
       "原價": "419",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h05/hfb/172356531683358.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Cleaning-Tools/Farcent-Wet-Cleaning-Cloth-18-Sheet-X-8-Count/p/132541"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "3C",
-      "商品名稱": "Razestore 360度旋轉手機平板支架組",
-      "現價": "449",
-      "原價": "549",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9f/hae/192681033990174.jpg",
-      "商品連結": "https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/Mobile-Tablets-Accessories/Razestore-360-Degree-Rotation-Phone-Pad-Stand-Combo/p/8516799"
     },
     {
       "品牌": "Costco 台灣",
@@ -462,6 +452,16 @@
       "原價": "789",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc7/h72/451293261430814.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Puma-Ladies-Comfort-Hipster-5-Pack-Set/p/156903"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Freeworld 男人字夾腳拖鞋",
+      "現價": "549",
+      "原價": "689",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hfd/h42/438876238774302.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Freeworld-Mens-Flip-Flops/p/1660944"
     },
     {
       "品牌": "Costco 台灣",
