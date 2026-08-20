@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-08-20 01:08:33",
+  "scraped_at": "2026-08-20 04:35:53",
   "total": 70,
   "products": [
     {
@@ -605,6 +605,16 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ボアフリースリラックスカーディガン",
+      "現價": "2990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479616/item/goods_01_479616_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479616-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
       "商品名稱": "ポロセーター/ウォッシャブル",
       "現價": "1290",
@@ -692,16 +702,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465734001/item/jpgoods_53_465734001_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E465734-001/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "リネンクルーネックセーター",
-      "現價": "2990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484627/item/jpgoods_15_484627_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484627-000/00"
     }
   ]
 }
