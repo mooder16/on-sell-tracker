@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-08-22 08:27:27",
-  "total": 199,
+  "scraped_at": "2026-08-22 12:35:27",
+  "total": 202,
   "products": [
     {
       "分類": "上衣",
@@ -573,6 +573,14 @@
     },
     {
       "分類": "洋裝",
+      "商品名稱": "特級彈性V領洋裝(無袖)",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053779/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053779"
+    },
+    {
+      "分類": "洋裝",
       "商品名稱": "AIRism棉質BRATOP細肩帶洋裝(條紋)",
       "現價": "590",
       "原價": "990",
@@ -602,14 +610,6 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054312/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054312"
-    },
-    {
-      "分類": "洋裝",
-      "商品名稱": "AIRism棉質寬版洋裝(短袖)",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053902/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053902"
     },
     {
       "分類": "洋裝",
@@ -829,6 +829,14 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "棉質短褲",
+      "現價": "290",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054537/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054537"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "棉質寬褲",
       "現價": "590",
       "原價": "990",
@@ -946,6 +954,14 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054958/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054958"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "休閒寬褲(褲腳抽繩)",
+      "現價": "390",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054044/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054044"
     },
     {
       "分類": "褲子",
@@ -1341,6 +1357,14 @@
     },
     {
       "分類": "外套",
+      "商品名稱": "棉質混紡短版布勞森外套",
+      "現價": "590",
+      "原價": "1490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053452/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053452"
+    },
+    {
+      "分類": "外套",
       "商品名稱": "可攜式防曬連帽外套",
       "現價": "790",
       "原價": "1290",
@@ -1493,11 +1517,11 @@
     },
     {
       "分類": "其他",
-      "商品名稱": "防曬棉麻寬沿帽",
+      "商品名稱": "防曬編織帽(可調整)",
       "現價": "390",
       "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053306/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053306"
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053319/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053319"
     },
     {
       "分類": "其他",
