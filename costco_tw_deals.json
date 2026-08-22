@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-08-22 04:33:14",
+  "scraped_at": "2026-08-22 08:30:09",
   "total": 55,
   "products": [
     {
@@ -446,16 +446,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "CASA 單人3.5呎天然乳膠Q彈床墊 107公分 X 190公分 X 7.5公分",
-      "現價": "4159",
-      "原價": "5199",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hfe/h8a/30628868522014.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/CASA-Natural-Latex-Mattress-Topper-35-inch-107-cm-X-190-cm-X-75-cm/p/127338"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "汽車",
       "商品名稱": "飛利浦 Sonicare G3 智能護齦刷頭 6入 HX9053",
       "現價": "1239",
@@ -482,6 +472,16 @@
       "原價": "559",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h75/h5b/168536181178398.jpg",
       "商品連結": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Chilled-Food/Import-Onion-10-kg/p/85744"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Lacoste 男純棉圓領短袖上衣",
+      "現價": "",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h82/hd7/486580544569374.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325"
     },
     {
       "品牌": "Costco 台灣",
