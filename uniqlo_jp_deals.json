@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-08-23 12:37:05",
+  "scraped_at": "2026-08-23 16:23:19",
   "total": 70,
   "products": [
     {
@@ -70,7 +70,7 @@
       "現價": "1290",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485251/item/jpgoods_30_485251_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485251/item/jpgoods_37_485251_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485251-000/00"
     },
     {
@@ -406,16 +406,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "マンガUT 集英社創業100周年 /NARUTO―ナルト―",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488254/item/jpgoods_00_488254_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488254-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "マンガUT 集英社創業100周年 /かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
       "現價": "1290",
       "原價": "",
@@ -442,16 +432,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/490277/item/jpgoods_02_490277_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E490277-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ジョアンフレンズ UT/オーバーサイズフィット",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/490279/item/jpgoods_08_490279_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E490279-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -702,6 +682,26 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485145/item/jpgoods_41_485145_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485145-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "コットンブレンドリラックスVネックカーディガン",
+      "現價": "3990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484620/item/jpgoods_69_484620_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484620-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "リネンクルーネックカーディガン/5分袖",
+      "現價": "3990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487355/item/jpgoods_51_487355_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487355-000/00"
     }
   ]
 }
