@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-08-24 08:45:20",
-  "total": 193,
+  "scraped_at": "2026-08-24 12:46:09",
+  "total": 202,
   "products": [
     {
       "分類": "上衣",
@@ -42,6 +42,14 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054450/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054450"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "AIRism棉質寬版圓領T恤(五分袖)",
+      "現價": "190",
+      "原價": "390",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054456/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054456"
     },
     {
       "分類": "上衣",
@@ -557,6 +565,14 @@
     },
     {
       "分類": "洋裝",
+      "商品名稱": "棉質緹花短洋裝(短袖)",
+      "現價": "590",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054058/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054058"
+    },
+    {
+      "分類": "洋裝",
       "商品名稱": "AIRism棉質BRATOP細肩帶洋裝(條紋)",
       "現價": "590",
       "原價": "990",
@@ -653,6 +669,14 @@
     },
     {
       "分類": "裙子",
+      "商品名稱": "蛋糕裙(條紋)",
+      "現價": "590",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054059/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054059"
+    },
+    {
+      "分類": "裙子",
       "商品名稱": "寬襬長裙",
       "現價": "490",
       "原價": "990",
@@ -685,6 +709,14 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "Active寬襬褲裙",
+      "現價": "490",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053814/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053814"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "休閒短褲",
       "現價": "490",
       "原價": "590",
@@ -714,6 +746,14 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053528/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053528"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "寬版Jorts牛仔短褲",
+      "現價": "290",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054468/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054468"
     },
     {
       "分類": "褲子",
@@ -1453,6 +1493,30 @@
     },
     {
       "分類": "其他",
+      "商品名稱": "編織托特包",
+      "現價": "390",
+      "原價": "1490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054094/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054094"
+    },
+    {
+      "分類": "其他",
+      "商品名稱": "編織水桶包",
+      "現價": "390",
+      "原價": "1490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054093/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054093"
+    },
+    {
+      "分類": "其他",
+      "商品名稱": "防曬棉麻寬沿帽",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053306/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053306"
+    },
+    {
+      "分類": "其他",
       "商品名稱": "波士頓太陽眼鏡",
       "現價": "190",
       "原價": "590",
@@ -1530,6 +1594,14 @@
       "原價": "490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053885/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053885"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "泡泡瑪特 UT印花T恤(短袖)",
+      "現價": "290",
+      "原價": "490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053714/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053714"
     },
     {
       "分類": "上衣",
