@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-08-24 01:11:54",
+  "scraped_at": "2026-08-24 04:42:44",
   "total": 70,
   "products": [
     {
@@ -166,6 +166,16 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
+      "商品名稱": "エアリズムリラックスVネックT/2way",
+      "現價": "500",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485300/item/jpgoods_03_485300_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485300-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
       "商品名稱": "ミニT",
       "現價": "500",
       "原價": "",
@@ -180,7 +190,7 @@
       "現價": "790",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488280/item/jpgoods_65_488280_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488280/item/jpgoods_11_488280_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E488280-000/00"
     },
     {
@@ -425,6 +435,16 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "スーピマコットンオーバーサイズTシャツ",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487898/item/jpgoods_30_487898_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487898-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "ジョアンフレンズ UT/オーバーサイズフィット",
       "現價": "990",
@@ -532,6 +552,26 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483259/item/jpgoods_08_483259_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483259-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "POP MART UT/オーバーサイズフィット",
+      "現價": "790",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484484/item/jpgoods_01_484484_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484484-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "マジック フォー オール タイムレス UT",
+      "現價": "790",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484770/item/jpgoods_70_484770_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484770-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -662,46 +702,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487719/item/jpgoods_55_487719_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487719-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "コットンクロシェカーディガン",
-      "現價": "5990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484631/item/jpgoods_36_484631_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484631-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
-      "商品名稱": "リブポロカーディガン",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485145/item/jpgoods_41_485145_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485145-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "コットンブレンドリラックスVネックカーディガン",
-      "現價": "3990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484620/item/jpgoods_69_484620_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484620-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "リネンクルーネックカーディガン/5分袖",
-      "現價": "3990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487355/item/jpgoods_51_487355_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487355-000/00"
     }
   ]
 }
