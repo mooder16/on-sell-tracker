@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-08-24 12:48:15",
+  "scraped_at": "2026-08-24 16:38:05",
   "total": 55,
   "products": [
     {
@@ -82,16 +82,6 @@
       "原價": "1149",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd7/h90/432345221234718.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/MayFlower-Interfold-Tissue-100-Sheet-X-60-Count/p/154795"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "蘭諾 衣物抗黃抗菌芳香豆 柑橘香 1900毫升",
-      "現價": "495",
-      "原價": "615",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hbb/hed/344500437811230.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Lenor-Yellow-Blocking-Scent-Booster-1900-ml/p/150978"
     },
     {
       "品牌": "Costco 台灣",
@@ -481,7 +471,17 @@
       "現價": "789",
       "原價": "999",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd7/h25/50622255726622.jpg",
-      "商品連結": "https://www.costco.com.tw/Bedding/p/129701"
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Reverie-Standard-Latex-Pillow-60-cm-X-40-cm-X-13-cm/p/129701"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "Ziploc 雙層夾鏈冷凍保鮮袋 大 152入",
+      "現價": "523",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h35/hc2/28172851511326.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Food-Preservation/Ziploc-Gallon-Freezer-Bag-152-Count/p/921279"
     },
     {
       "品牌": "Costco 台灣",
