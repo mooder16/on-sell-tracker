@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-08-25 20:29:16",
+  "scraped_at": "2026-08-26 01:15:17",
   "total": 55,
   "products": [
     {
@@ -76,22 +76,22 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "義美 雙果仁煎餅花生 + 杏仁口味 16公克 X 60入",
-      "現價": "230",
-      "原價": "285",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hec/he2/31388044296222.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/I-Mei-Peanut-Almond-Cookies-16-g-X-60-Pack/p/127235"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "豐力富 紐西蘭頂級純濃奶粉 2.6公斤",
       "現價": "631",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h24/hb9/15916554420254.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Fernleaf-New-Zealand-Full-Cream-Milk-Powder-26-kg/p/79922"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "義美 雙果仁煎餅花生 + 杏仁口味 16公克 X 60入",
+      "現價": "230",
+      "原價": "285",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hec/he2/31388044296222.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/I-Mei-Peanut-Almond-Cookies-16-g-X-60-Pack/p/127235"
     },
     {
       "品牌": "Costco 台灣",
@@ -126,16 +126,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "丹尼船長 X 蜜蜂工坊聯名 米米花 嚴選龍眼蜂蜜味 60公克 X 10包",
-      "現價": "259",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0d/h5d/292506411434014.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Captain-Danny-Rice-Popcorn-Honey-Flavor-60-g-X-10-Pack/p/146249"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "健康保健",
       "商品名稱": "西雅圖 雙焙濃拿鐵三合一 21公克 X 80入",
       "現價": "485",
@@ -147,11 +137,11 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
-      "商品名稱": "米森 好菌搖搖有機兒茶素綠茶 2公克 X 30包入",
-      "現價": "379",
-      "原價": "479",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h13/h69/167692339707934.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Vilson-Organic-Probiotics-Catechin-Green-Tea-2-g-X-30-Pack/p/140811"
+      "商品名稱": "丹尼船長 X 蜜蜂工坊聯名 米米花 嚴選龍眼蜂蜜味 60公克 X 10包",
+      "現價": "259",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0d/h5d/292506411434014.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Captain-Danny-Rice-Popcorn-Honey-Flavor-60-g-X-10-Pack/p/146249"
     },
     {
       "品牌": "Costco 台灣",
@@ -162,6 +152,16 @@
       "原價": "329",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8b/h9d/255946125344798.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Dah-Tien-Crispy-Fish-Snack-with-Almond-120-g-X-4-Pack/p/128533"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "米森 好菌搖搖有機兒茶素綠茶 2公克 X 30包入",
+      "現價": "379",
+      "原價": "479",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h13/h69/167692339707934.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Vilson-Organic-Probiotics-Catechin-Green-Tea-2-g-X-30-Pack/p/140811"
     },
     {
       "品牌": "Costco 台灣",
@@ -216,6 +216,36 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "Brita Maxtra Pro 濾水壺專用濾芯純淨全效型 8入組",
+      "現價": "1319",
+      "原價": "1659",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h30/hee/256217672712222.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-Maxtra-Pro-Pure-Performance-Filter-8-Piece-Set/p/144345"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "好麗友 預感香烤洋芋片 洋蔥口味 64公克 X 12盒",
+      "現價": "399",
+      "原價": "489",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha1/hd5/365715016974366.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Orion-Baked-Potato-Chips-Onion-Flavor-64-g-X-12-Pack/p/333285"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "可爾必思水語 330毫升 X 24入",
+      "現價": "305",
+      "原價": "369",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h30/he1/418530812231710.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Calpis-Yogurt-Drink-330-ml-X-24-Count/p/376899"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "興麥烘焙王國 牛奶醬菠蘿泡芙 576公克",
       "現價": "299",
@@ -232,26 +262,6 @@
       "原價": "419",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he7/h02/29596038725662.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/KF-Goods-Organic-Sesame-Cluster-25-g-X-20-Pack/p/116754"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "好麗友 預感香烤洋芋片 洋蔥口味 64公克 X 12盒",
-      "現價": "399",
-      "原價": "489",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha1/hd5/365715016974366.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Orion-Baked-Potato-Chips-Onion-Flavor-64-g-X-12-Pack/p/333285"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Brita Maxtra Pro 濾水壺專用濾芯純淨全效型 8入組",
-      "現價": "1319",
-      "原價": "1659",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h30/hee/256217672712222.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-Maxtra-Pro-Pure-Performance-Filter-8-Piece-Set/p/144345"
     },
     {
       "品牌": "Costco 台灣",
@@ -276,16 +286,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "可爾必思水語 330毫升 X 24入",
-      "現價": "305",
-      "原價": "369",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h30/he1/418530812231710.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Calpis-Yogurt-Drink-330-ml-X-24-Count/p/376899"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "親愛的糙米白咖啡 30公克 X 80入",
       "現價": "485",
@@ -297,11 +297,11 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
-      "商品名稱": "翠果子 綜合米果 20公克 X 30包 X 4盒",
-      "現價": "949",
-      "原價": "1189",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h28/h8e/168536159420446.jpg",
-      "商品連結": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Grains-Nuts-Snacks/Trygoodz-Rice-Crackers-with-Almonds-20-g-X-30-Bag-X-4-Case/p/211681"
+      "商品名稱": "米森 醇黑可可一口酥 20公克 X 21包 X 2盒",
+      "現價": "679",
+      "原價": "849",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd8/hf8/399197074554910.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Vilson-Dark-Chocolate-Mini-Crackers-20-g-X-21-Pack-X-2-Case/p/960667"
     },
     {
       "品牌": "Costco 台灣",
@@ -312,16 +312,6 @@
       "原價": "429",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5e/h4e/16578656305182.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Garofalo-Spaghetti-500-g-X-8-Pack/p/880456"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "米森 醇黑可可一口酥 20公克 X 21包 X 2盒",
-      "現價": "679",
-      "原價": "849",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd8/hf8/399197074554910.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Vilson-Dark-Chocolate-Mini-Crackers-20-g-X-21-Pack-X-2-Case/p/960667"
     },
     {
       "品牌": "Costco 台灣",
@@ -352,6 +342,16 @@
       "原價": "1269",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/haa/h2d/433626072481822.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Totes-Backpacks/LEGO-Brick-Backpack/p/157243"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "千成堂 咖哩脆皮腰果 208公克",
+      "現價": "235",
+      "原價": "289",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5c/h66/396189709303838.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Sennarido-Curry-Cashew-208-g/p/154990"
     },
     {
       "品牌": "Costco 台灣",
@@ -397,21 +397,21 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "義美 生機水果穀物圈 莓果派對 240公克",
-      "現價": "259",
-      "原價": "319",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hbb/ha2/472591331950622.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/I-Mei-Cereal-Rings-with-Fruits-Mixed-Berries-240-g/p/151455"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
       "商品名稱": "A&W 沙士汽水 325毫升 X 24入",
       "現價": "519",
       "原價": "629",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h94/h25/380918094430238.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/AW-Root-Beer-325-ml-X-24-Count/p/316384"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "義美 生機水果穀物圈 莓果派對 240公克",
+      "現價": "259",
+      "原價": "319",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hbb/ha2/472591331950622.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/I-Mei-Cereal-Rings-with-Fruits-Mixed-Berries-240-g/p/151455"
     },
     {
       "品牌": "Costco 台灣",
@@ -437,11 +437,31 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
+      "商品名稱": "雀巢 西西里風檸檬咖啡 15公克 X 40入",
+      "現價": "369",
+      "原價": "469",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb6/he6/414650589544478.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Nescafe-Sicily-Coffee-15-g-X-40-Pack/p/150636"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
       "商品名稱": "La Belle 素色涼感被 150公分 X 200公分 抹茶",
       "現價": "999",
       "原價": "1259",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h61/had/433626148208670.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/La-Belle-ICE-Cool-Quilt-150-cm-X-200-cm-Green/p/358611"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "西雅圖 冰拿鐵 濃焦糖風味 30公克 X 40入",
+      "現價": "379",
+      "原價": "469",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9d/ha0/258345332637726.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Barista-Iced-Latte-Caramel-Flavor-30-g-X-40-Pack/p/146963"
     },
     {
       "品牌": "Costco 台灣",
@@ -456,32 +476,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "雀巢 西西里風檸檬咖啡 15公克 X 40入",
-      "現價": "369",
-      "原價": "469",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb6/he6/414650589544478.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Nescafe-Sicily-Coffee-15-g-X-40-Pack/p/150636"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "幻知曲 標準型優眠天然乳膠枕 60公分 X 40公分 X 13公分",
       "現價": "789",
       "原價": "999",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd7/h25/50622255726622.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Reverie-Standard-Latex-Pillow-60-cm-X-40-cm-X-13-cm/p/129701"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "千成堂 咖哩脆皮腰果 208公克",
-      "現價": "235",
-      "原價": "289",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5c/h66/396189709303838.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Sennarido-Curry-Cashew-208-g/p/154990"
     },
     {
       "品牌": "Costco 台灣",
