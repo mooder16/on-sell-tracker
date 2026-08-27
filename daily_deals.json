@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-08-26 22:43:56",
-  "total": 222,
+  "scraped_at": "2026-08-27 07:24:58",
+  "total": 220,
   "products": [
     {
       "分類": "上衣",
@@ -605,14 +605,6 @@
     },
     {
       "分類": "洋裝",
-      "商品名稱": "印花寬版洋裝(短袖)",
-      "現價": "590",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054307/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054307"
-    },
-    {
-      "分類": "洋裝",
       "商品名稱": "印花領結洋裝(短袖)",
       "現價": "590",
       "原價": "1290",
@@ -941,6 +933,14 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "繭型工裝褲",
+      "現價": "590",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053482/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053482"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "特級彈性Active窄管長褲",
       "現價": "790",
       "原價": "990",
@@ -1194,14 +1194,6 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054318/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054318"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "牛仔寬版襯衫(五分袖)",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053245/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053245"
     },
     {
       "分類": "上衣",
@@ -1714,14 +1706,6 @@
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053261/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053261"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "金屬雙鏡橋太陽眼鏡",
-      "現價": "190",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053241/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053241"
     },
     {
       "分類": "其他",
