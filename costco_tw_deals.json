@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-08-28 04:05:21",
+  "scraped_at": "2026-08-28 19:56:53",
   "total": 55,
   "products": [
     {
@@ -76,6 +76,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "豐力富 紐西蘭頂級純濃奶粉 2.6公斤",
+      "現價": "631",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h24/hb9/15916554420254.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Fernleaf-New-Zealand-Full-Cream-Milk-Powder-26-kg/p/79922"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "義美 雙果仁煎餅花生 + 杏仁口味 16公克 X 60入",
       "現價": "230",
@@ -142,16 +152,6 @@
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0d/h5d/292506411434014.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Captain-Danny-Rice-Popcorn-Honey-Flavor-60-g-X-10-Pack/p/146249"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "米森 好菌搖搖有機兒茶素綠茶 2公克 X 30包入",
-      "現價": "379",
-      "原價": "479",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h13/h69/167692339707934.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Vilson-Organic-Probiotics-Catechin-Green-Tea-2-g-X-30-Pack/p/140811"
     },
     {
       "品牌": "Costco 台灣",
@@ -326,16 +326,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "Garofalo 義大利麵 500公克 X 8入",
-      "現價": "349",
-      "原價": "429",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5e/h4e/16578656305182.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Garofalo-Spaghetti-500-g-X-8-Pack/p/880456"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "汽車",
       "商品名稱": "Prestone 強效亮澤雨刷精 3.78公升 X 2入",
       "現價": "329",
@@ -392,16 +382,6 @@
       "原價": "319",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hbb/ha2/472591331950622.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/I-Mei-Cereal-Rings-with-Fruits-Mixed-Berries-240-g/p/151455"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "味好美 大蒜黑胡椒調味料 620公克",
-      "現價": "289",
-      "原價": "399",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h2d/h75/332442430832670.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/McCormick-Garlic-Pepper-Seasoning-620-g/p/150605"
     },
     {
       "品牌": "Costco 台灣",
@@ -482,6 +462,26 @@
       "原價": "799",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h81/h98/261774610071582.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Hanwha-Ginseng-Chicken-Soup-3-Pack/p/59203"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "舒特膚 嫩亮角質潔膚凝膠 178毫升 X 2入",
+      "現價": "525",
+      "原價": "659",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdb/hb5/418236334145566.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Facial-Cleansers-Hand-Washes/Cetaphil-Gentle-Scrub-Gel-178-ml-X-2-Pack/p/146935"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "幻知曲 標準型優眠天然乳膠枕 60公分 X 40公分 X 13公分",
+      "現價": "789",
+      "原價": "999",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd7/h25/50622255726622.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Reverie-Standard-Latex-Pillow-60-cm-X-40-cm-X-13-cm/p/129701"
     },
     {
       "品牌": "Costco 台灣",
