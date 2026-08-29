@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-08-28 19:54:48",
+  "scraped_at": "2026-08-29 02:43:22",
   "total": 72,
   "products": [
     {
@@ -212,16 +212,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488280/item/jpgoods_65_488280_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E488280-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "ボートネックT",
-      "現價": "790",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487819/item/jpgoods_66_487819_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487819-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -722,6 +712,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487355/item/jpgoods_51_487355_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487355-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ポロセーター/ウォッシャブル",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484607/item/jpgoods_42_484607_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484607-000/00"
     }
   ]
 }
