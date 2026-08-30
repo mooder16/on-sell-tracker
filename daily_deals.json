@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-08-29 22:22:13",
-  "total": 211,
+  "scraped_at": "2026-08-30 03:45:56",
+  "total": 210,
   "products": [
     {
       "分類": "上衣",
@@ -349,6 +349,14 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "特級亞麻背心",
+      "現價": "990",
+      "原價": "1490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053584/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053584"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "BRATOP挖背背心",
       "現價": "490",
       "原價": "790",
@@ -530,14 +538,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052962/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052962"
-    },
-    {
-      "分類": "洋裝",
-      "商品名稱": "寬版雙色洋裝(短袖)",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053772/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053772"
     },
     {
       "分類": "洋裝",
@@ -922,14 +922,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055167/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055167"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "繭型工裝褲",
-      "現價": "590",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053482/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053482"
     },
     {
       "分類": "褲子",
