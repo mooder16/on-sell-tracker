@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-08-30 03:48:32",
+  "scraped_at": "2026-08-30 09:47:52",
   "total": 55,
   "products": [
     {
@@ -136,16 +136,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "丹尼船長 X 蜜蜂工坊聯名 米米花 嚴選龍眼蜂蜜味 60公克 X 10包",
-      "現價": "259",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0d/h5d/292506411434014.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Captain-Danny-Rice-Popcorn-Honey-Flavor-60-g-X-10-Pack/p/146249"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "健康保健",
       "商品名稱": "西雅圖 雙焙濃拿鐵三合一 21公克 X 80入",
       "現價": "485",
@@ -252,16 +242,6 @@
       "原價": "419",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h05/hfb/172356531683358.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Cleaning-Tools/Farcent-Wet-Cleaning-Cloth-18-Sheet-X-8-Count/p/132541"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "健康保健",
-      "商品名稱": "桂格 3重優蛋白高鈣奶粉 1400公克",
-      "現價": "495",
-      "原價": "615",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hef/hf9/364420200235038.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Triple-Protein-High-Calcium-Milk-Powder-1400-g/p/151615"
     },
     {
       "品牌": "Costco 台灣",
@@ -485,6 +465,26 @@
     },
     {
       "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "Webber Naturals 蛋殼膜膠囊 100粒",
+      "現價": "989",
+      "原價": "1229",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hee/h47/432046418821150.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Bone-Joint-Support/Webber-Naturals-NEM-Eggshell-Membrane-500-mg-100-Capsule/p/152575"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "清潔",
+      "商品名稱": "夏普 12 公升 自動除菌離子空氣清淨除濕機 DW-CA12FT-S",
+      "現價": "11599",
+      "原價": "14499",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h95/h03/431395289202718.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Dehumidifiers-Dry-Cabinets/SHARP-12-L-Dehumidifier-DW-CA12FT-S/p/158448"
+    },
+    {
+      "品牌": "Costco 台灣",
       "來源": "Costco 降價商品",
       "分類": "食品",
       "商品名稱": "科克蘭 杏仁 1.36公斤",
@@ -541,7 +541,7 @@
       "現價": "38999",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcd/hd1/157818636828702.jpg",
-      "商品連結": "https://www.costco.com.tw/p/139736"
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-Rack-5-Tier-Industrial-Rack-6-Pack/p/139736"
     },
     {
       "品牌": "Costco 台灣",
@@ -551,7 +551,7 @@
       "現價": "865",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha6/h12/16243883835422.jpg",
-      "商品連結": "https://www.costco.com.tw/Patio-Furniture/p/1048251"
+      "商品連結": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Lifetime-6-ft-Fold-in-Half-Bench/p/1048251"
     }
   ]
 }
