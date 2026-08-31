@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-08-31 10:36:13",
+  "scraped_at": "2026-08-31 18:50:19",
   "total": 55,
   "products": [
     {
@@ -31,7 +31,7 @@
       "現價": "2049",
       "原價": "2569",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha4/h78/329850355318814.jpg",
-      "商品連結": "https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/Soundcore-Liberty-4-True-Wireless-Earbuds/p/146926"
+      "商品連結": "https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/p/146926"
     },
     {
       "品牌": "Costco 台灣",
@@ -41,7 +41,7 @@
       "現價": "1039",
       "原價": "1299",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hfc/hd7/437687662149662.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Skin-Care/Torriden-DIVE-IN-Soothing-Cream-Set/p/1966407"
+      "商品連結": "https://www.costco.com.tw/p/1966407"
     },
     {
       "品牌": "Costco 台灣",
@@ -52,16 +52,6 @@
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc2/h94/167692471894046.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Sunsweet-Dried-Plums-158-kg/p/583577"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "科克蘭 超細纖維擦拭布藍色 36入",
-      "現價": "389",
-      "原價": "489",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5a/h46/84259972939806.jpg",
-      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Exterior-Car-Care/Kirkland-Signature-Microfiber-Towels-Blue-36-Count/p/133839"
     },
     {
       "品牌": "Costco 台灣",
@@ -208,7 +198,7 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "奧利奧 迷你奧利奧巧克力夾心餅乾香草口味 20.4公克 X 60入",
-      "現價": "419",
+      "現價": "394",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h81/h17/351316711931934.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/OREO-Mini-Chocolate-Sandwich-Cookies-with-Vanilla-flavored-Cream-204-g-X-60-Count/p/426451"
@@ -221,7 +211,7 @@
       "現價": "399",
       "原價": "499",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h48/h38/328848002154526.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Glacier-Mens-Woven-Active-Shorts/p/146216"
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/146216"
     },
     {
       "品牌": "Costco 台灣",
@@ -261,7 +251,7 @@
       "現價": "1155",
       "原價": "1455",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha3/h63/489268224884766.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Native-Wanderfoam-Mens-Casual-Shoe/p/160518"
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/160518"
     },
     {
       "品牌": "Costco 台灣",
@@ -301,7 +291,7 @@
       "現價": "1399",
       "原價": "1769",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd9/h89/489268202471454.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/New-Balance-327-Ladies-Retro-Running-Shoe/p/156467"
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/156467"
     },
     {
       "品牌": "Costco 台灣",
@@ -321,7 +311,7 @@
       "現價": "2199",
       "原價": "2769",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcb/h73/466198953852958.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Vornado-Compact-Tower-Fan-STRATA-8-OMNI-TW/p/157119"
+      "商品連結": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/157119"
     },
     {
       "品牌": "Costco 台灣",
@@ -348,10 +338,10 @@
       "來源": "Costco 每日精選優惠",
       "分類": "服飾",
       "商品名稱": "Nike 女圓領短袖上衣",
-      "現價": "679",
-      "原價": "849",
+      "現價": "",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd7/h5f/484307072942110.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Nike-Ladies-Crew-Neck-Short-Sleeve-Tee/p/1846414"
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/1846414"
     },
     {
       "品牌": "Costco 台灣",
@@ -391,7 +381,7 @@
       "現價": "749",
       "原價": "949",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hba/h4f/488918680109086.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Totes-Backpacks/Roots-Backpack/p/160670"
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/160670"
     },
     {
       "品牌": "Costco 台灣",
@@ -401,7 +391,7 @@
       "現價": "269",
       "原價": "339",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he8/hde/467458997616670.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/Easy-to-Carry-Memory-Foam-Neck-Pillow-24-cm-X-23-cm-X-12-cm/p/665028"
+      "商品連結": "https://www.costco.com.tw/Bedding/p/665028"
     },
     {
       "品牌": "Costco 台灣",
@@ -421,7 +411,7 @@
       "現價": "1899",
       "原價": "2399",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h32/h68/364686848196638.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Backbone-Nook-desk-Kids-Adjustable-Desk-Cream/p/152653"
+      "商品連結": "https://www.costco.com.tw/p/152653"
     },
     {
       "品牌": "Costco 台灣",
@@ -441,7 +431,7 @@
       "現價": "1149",
       "原價": "1449",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he2/h24/485340754739230.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Teva-Mens-Outdoor-Sandal/p/157325"
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/157325"
     },
     {
       "品牌": "Costco 台灣",
@@ -451,7 +441,7 @@
       "現價": "5199",
       "原價": "6599",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h32/hd5/344500466122782.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Anda-Seat-Leather-Gaming-Chair-Black/p/151431"
+      "商品連結": "https://www.costco.com.tw/p/151431"
     },
     {
       "品牌": "Costco 台灣",
@@ -471,17 +461,27 @@
       "現價": "749",
       "原價": "945",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h1c/h92/467794274123806.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Thermatec-Cooling-Comforter-180-cm-X-210-cm/p/159001"
+      "商品連結": "https://www.costco.com.tw/Bedding/p/159001"
     },
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "Backbone Hippo 兒童成長椅",
-      "現價": "2699",
-      "原價": "3399",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0f/h32/363835041710110.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Backbone-Hippo-Kids-Chair/p/152649"
+      "分類": "服飾",
+      "商品名稱": "Berkemann Allexis 女休閒運動鞋",
+      "現價": "3759",
+      "原價": "5059",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0a/h48/468935674658846.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/1846415"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "超人力霸王 兒童短袖上衣",
+      "現價": "279",
+      "原價": "349",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h34/h05/484306922569758.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/160703"
     },
     {
       "品牌": "Costco 台灣",
@@ -511,7 +511,7 @@
       "現價": "685",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he4/h04/419358168481822.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Downy-Ultra-Concentrated-HE-Fabric-Softener-503-L/p/138992"
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/p/138992"
     },
     {
       "品牌": "Costco 台灣",
@@ -521,7 +521,7 @@
       "現價": "689",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd3/h92/292858412302366.jpg",
-      "商品連結": "https://www.costco.com.tw/p/1600091"
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/12-ft-X-16-ft-Reversible-Tarps-2-Pack/p/1600091"
     },
     {
       "品牌": "Costco 台灣",
@@ -531,7 +531,7 @@
       "現價": "7399",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h20/h39/157819005534238.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-Rack-5-Tier-Industrial-Rack/p/1600209"
+      "商品連結": "https://www.costco.com.tw/p/1600209"
     },
     {
       "品牌": "Costco 台灣",
@@ -541,7 +541,7 @@
       "現價": "38999",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcd/hd1/157818636828702.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-Rack-5-Tier-Industrial-Rack-6-Pack/p/139736"
+      "商品連結": "https://www.costco.com.tw/p/139736"
     },
     {
       "品牌": "Costco 台灣",
@@ -551,7 +551,7 @@
       "現價": "865",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha6/h12/16243883835422.jpg",
-      "商品連結": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Lifetime-6-ft-Fold-in-Half-Bench/p/1048251"
+      "商品連結": "https://www.costco.com.tw/Patio-Furniture/p/1048251"
     }
   ]
 }
