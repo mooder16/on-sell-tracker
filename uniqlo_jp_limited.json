@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-09-01 09:12:06",
+  "scraped_at": "2026-09-01 16:06:39",
   "total": 28,
   "products": [
     {
@@ -45,6 +45,16 @@
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "外套",
+      "商品名稱": "エアリズムUVカットメッシュフルジップパーカ",
+      "現價": "1990",
+      "原價": "",
+      "截止日期": "9/3まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485327/item/jpgoods_51_485327_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485327-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
       "分類": "內搭",
       "商品名稱": "エアリズムブラキャミソール",
       "現價": "1990",
@@ -62,16 +72,6 @@
       "截止日期": "9/3まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485345/item/jpgoods_30_485345_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E485345-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "外套",
-      "商品名稱": "エアリズムUVカットメッシュフルジップパーカ",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "9/3まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485327/item/jpgoods_51_485327_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485327-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
