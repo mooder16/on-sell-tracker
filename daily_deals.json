@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-09-01 16:05:36",
-  "total": 219,
+  "scraped_at": "2026-09-01 22:23:40",
+  "total": 217,
   "products": [
     {
       "分類": "上衣",
@@ -1690,22 +1690,6 @@
       "原價": "390",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054682/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054682"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "威靈頓太陽眼鏡",
-      "現價": "190",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053261/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053261"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "絲質方巾(格紋)",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054286/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054286"
     },
     {
       "分類": "其他",
