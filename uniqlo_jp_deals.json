@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-09-01 22:24:16",
+  "scraped_at": "2026-09-02 03:00:05",
   "total": 73,
   "products": [
     {
@@ -426,22 +426,22 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "YOASOBI UT/リラックスフィット",
-      "現價": "990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485312/item/jpgoods_09_485312_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485312-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "ミュージカルアイコンズ UT",
       "現價": "990",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482773/item/jpgoods_69_482773_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482773-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "YOASOBI UT/リラックスフィット",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485312/item/jpgoods_09_485312_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485312-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -567,21 +567,21 @@
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "mofusand UT/ショート",
-      "現價": "790",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488305/item/jpgoods_44_488305_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488305-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "mofusand UT/ショート",
       "現價": "1290",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488306/item/jpgoods_55_488306_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E488306-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "mofusand UT/ショート",
+      "現價": "790",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488305/item/jpgoods_44_488305_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E488305-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -676,16 +676,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "上衣",
-      "商品名稱": "スウェットクロップドシャツ",
-      "現價": "790",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479602/item/goods_39_479602_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E479602-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "上衣",
       "商品名稱": "スウェットワイドショーツ",
       "現價": "2990",
       "原價": "2990",
@@ -732,6 +722,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482329/item/jpgoods_57_482329_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482329-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "內搭",
+      "商品名稱": "レーサーバックブラトップ",
+      "現價": "990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484830/item/jpgoods_00_484830_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484830-000/00"
     }
   ]
 }
