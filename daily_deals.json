@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-09-03 08:33:33",
-  "total": 215,
+  "scraped_at": "2026-09-03 15:49:28",
+  "total": 213,
   "products": [
     {
       "分類": "上衣",
@@ -141,14 +141,6 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "壓褶澎袖T恤(短袖)",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054098/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054098"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "DRY多色圓領T恤(短袖)",
       "現價": "149",
       "原價": "190",
@@ -234,14 +226,6 @@
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055072/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055072"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "AIRism棉質寬版條紋圓領T恤(五分袖)",
-      "現價": "290",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053418/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053418"
     },
     {
       "分類": "上衣",
@@ -741,6 +725,14 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "寬版Jorts牛仔短褲",
+      "現價": "290",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054468/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054468"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "棉麻短褲",
       "現價": "290",
       "原價": "790",
@@ -933,14 +925,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "繭型工裝褲",
-      "現價": "590",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053482/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053482"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "特級彈性Active束口褲",
       "現價": "790",
       "原價": "990",
@@ -1002,14 +986,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053057/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053057"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "SMART 九分褲(條紋)(稍長)",
-      "現價": "590",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053484/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053484"
     },
     {
       "分類": "褲子",
@@ -1690,6 +1666,14 @@
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053026/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053026"
+    },
+    {
+      "分類": "其他",
+      "商品名稱": "編織帽(可調整)",
+      "現價": "390",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053821/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053821"
     },
     {
       "分類": "上衣",
