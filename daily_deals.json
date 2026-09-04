@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-09-03 22:18:00",
+  "scraped_at": "2026-09-04 03:00:59",
   "total": 211,
   "products": [
     {
@@ -626,14 +626,6 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054105/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054105"
-    },
-    {
-      "分類": "裙子",
-      "商品名稱": "棉質混紡圓裙",
-      "現價": "390",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054011/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054011"
     },
     {
       "分類": "裙子",
@@ -1530,6 +1522,14 @@
       "原價": "190",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054809/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054809"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "AIRism 超無痕內褲(低腰) 479198 / 473944",
+      "現價": "149",
+      "原價": "190",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054811/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054811"
     },
     {
       "分類": "褲子",
