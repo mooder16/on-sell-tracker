@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-09-07 08:59:02",
+  "scraped_at": "2026-09-07 17:19:54",
   "total": 52,
   "products": [
     {
@@ -298,8 +298,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "服飾",
       "商品名稱": "Camper 男皮革休閒鞋",
-      "現價": "",
-      "原價": "",
+      "現價": "2599",
+      "原價": "3259",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h64/h40/485751259430942.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Camper-Mens-Leather-Touring-Shoe/p/1846399"
     },
@@ -368,8 +368,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "服飾",
       "商品名稱": "Polo Ralph Lauren 男短袖Polo衫",
-      "現價": "",
-      "原價": "",
+      "現價": "2349",
+      "原價": "2949",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h27/ha7/484307084345374.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Polo-Ralph-Lauren-Short-Sleeve-Polo-Shirt/p/1846551"
     },
@@ -467,21 +467,21 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "服飾",
-      "商品名稱": "Teva 女戶外機能涼鞋",
-      "現價": "1149",
-      "原價": "1449",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h10/h25/485750833971230.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Teva-Ladies-Outdoor-Sandal/p/157326"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
       "商品名稱": "New Balance 327 女復古慢跑鞋",
       "現價": "1399",
       "原價": "1769",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd9/h89/489268202471454.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/New-Balance-327-Ladies-Retro-Running-Shoe/p/156467"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Glacier 男平織運動短褲",
+      "現價": "399",
+      "原價": "499",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h48/h38/328848002154526.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Glacier-Mens-Woven-Active-Shorts/p/146216"
     },
     {
       "品牌": "Costco 台灣",
