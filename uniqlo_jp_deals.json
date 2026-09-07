@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-09-06 21:58:24",
+  "scraped_at": "2026-09-07 03:00:56",
   "total": 75,
   "products": [
     {
@@ -152,6 +152,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465755/item/jpgoods_10_465755_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E465755-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ワッフルフルオープンミニT",
+      "現價": "500",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483521/item/jpgoods_63_483521_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483521-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -516,16 +526,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "ジョアンフレンズ UT/オーバーサイズフィット",
-      "現價": "790",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483265/item/jpgoods_00_483265_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483265-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "mofusand UT/ショート",
       "現價": "1290",
       "原價": "",
@@ -562,6 +562,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488305/item/jpgoods_44_488305_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E488305-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ジョアンフレンズ UT/オーバーサイズフィット",
+      "現價": "790",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483265/item/jpgoods_00_483265_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E483265-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -742,16 +752,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487508/item/jpgoods_58_487508_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E487508-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "UVカットクルーネックカーディガン/ウォッシャブル",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465484/item/jpgoods_38_465484_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465484-000/00"
     }
   ]
 }
