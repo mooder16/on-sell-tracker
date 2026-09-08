@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-09-08 03:10:08",
-  "total": 217,
+  "scraped_at": "2026-09-08 08:37:23",
+  "total": 215,
   "products": [
     {
       "分類": "上衣",
@@ -34,6 +34,14 @@
       "原價": "390",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053248/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053248"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "印花T恤(短袖)",
+      "現價": "290",
+      "原價": "490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054100/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054100"
     },
     {
       "分類": "上衣",
@@ -82,14 +90,6 @@
       "原價": "390",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055129/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055129"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "印花T恤(短袖)",
-      "現價": "290",
-      "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054112/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054112"
     },
     {
       "分類": "上衣",
@@ -602,22 +602,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054052/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054052"
-    },
-    {
-      "分類": "洋裝",
-      "商品名稱": "印花領結洋裝(短袖)",
-      "現價": "490",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054312/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054312"
-    },
-    {
-      "分類": "洋裝",
-      "商品名稱": "壓褶洋裝(無袖)",
-      "現價": "990",
-      "原價": "1490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054113/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054113"
     },
     {
       "分類": "裙子",

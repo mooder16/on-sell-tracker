@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-09-08 03:10:36",
+  "scraped_at": "2026-09-08 08:37:55",
   "total": 74,
   "products": [
     {
@@ -156,6 +156,16 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
+      "商品名稱": "ポインテールラウンドネックミニT",
+      "現價": "500",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485025/item/jpgoods_00_485025_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E485025-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
       "商品名稱": "シャーリングボリュームスリーブT",
       "現價": "1290",
       "原價": "",
@@ -202,16 +212,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488087/item/jpgoods_00_488087_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E488087-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "リネンクルーネックT",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477883/item/goods_09_477883_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E477883-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
