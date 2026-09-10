@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-09-10 15:54:42",
+  "scraped_at": "2026-09-10 19:00:18",
   "total": 54,
   "products": [
     {
@@ -156,16 +156,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "家電",
-      "商品名稱": "飛利浦 55吋 4K Google TV 顯示器 55PUH7630/96",
-      "現價": "10958",
-      "原價": "13699",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4a/ha3/438072169037854.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Philips-55-inch-4K-Google-TV-Monitor-55PUH763096/p/153519"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "產銷履歷文旦 6公斤 (10-12入)",
       "現價": "549",
@@ -208,8 +198,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "Richy 瑞奇 富裕蔬菜餅 960公克",
-      "現價": "269",
-      "原價": "329",
+      "現價": "329",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h28/h32/344500441415710.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Richy-Kenju-Vegetable-Thin-Cracker-960-g/p/151283"
     },
@@ -301,7 +291,7 @@
       "現價": "619",
       "原價": "779",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hbf/hfc/99943243055134.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/p/960217"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/YesHealth-iFarm-Mixed-Lettuce-Box-200-g-X-4-Count/p/960217"
     },
     {
       "品牌": "Costco 台灣",
@@ -416,16 +406,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Polo Ralph Lauren 男短袖Polo衫",
-      "現價": "",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h27/ha7/484307084345374.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Polo-Ralph-Lauren-Short-Sleeve-Polo-Shirt/p/1846551"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "雀巢 西西里風檸檬咖啡 15公克 X 40入",
       "現價": "369",
@@ -482,6 +462,26 @@
       "原價": "859",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9d/h66/472952384225310.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Childrens-Shoes/Champion-Girls-Athletic-Sneaker/p/156492"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Palladium 女橘標防水鯊齒鞋",
+      "現價": "2259",
+      "原價": "2859",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5b/h67/422090923868190.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Palladium-Ladies-Vibram-Traction-Lug-Shoe/p/156947"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "居家",
+      "商品名稱": "INFINITY X1 2000 流明露營燈",
+      "現價": "849",
+      "原價": "1099",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb4/h59/438876268855326.jpg",
+      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/INFINITY-X1-2000-Lumen-Camp-Light/p/1872247"
     },
     {
       "品牌": "Costco 台灣",
