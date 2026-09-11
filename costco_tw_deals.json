@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-09-11 08:37:01",
+  "scraped_at": "2026-09-11 15:56:53",
   "total": 54,
   "products": [
     {
@@ -86,6 +86,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "老協珍 頂級燉燕窩 60公克 X 8瓶",
+      "現價": "1249",
+      "原價": "1549",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb9/h10/398741721645086.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Elderly-Care/Supplements/Lao-Xie-Zhen-Premium-Cooked-Birds-Nest-60-g-X-8-Pack/p/157108"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "奧利奧 迷你奧利奧巧克力夾心餅乾香草口味 20.4公克 X 60入",
       "現價": "394",
@@ -132,6 +142,16 @@
       "原價": "2079",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h89/h1e/344500443578398.jpg",
       "商品連結": "https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Bluetooth-Speakers-Landline-Phones/JBL-Clip-5-Ultra-Portable-and-Waterproof-Speaker/p/151419"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "家電",
+      "商品名稱": "飛利浦 55吋 4K Google TV 顯示器 55PUH7630/96",
+      "現價": "10958",
+      "原價": "13699",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4a/ha3/438072169037854.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Philips-55-inch-4K-Google-TV-Monitor-55PUH763096/p/153519"
     },
     {
       "品牌": "Costco 台灣",
@@ -307,6 +327,16 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
+      "商品名稱": "安永 鱸魚精 (原味) 65毫升 X 30入",
+      "現價": "3189",
+      "原價": "3969",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h73/h52/413801348562974.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Anyoung-Sante-Premium-Perch-Essence-Original-65-ml-x-30-Pack/p/157118"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
       "商品名稱": "A5 日本冷凍和牛肩小排燒烤片 200 公克",
       "現價": "629",
       "原價": "719",
@@ -452,36 +482,6 @@
       "原價": "859",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha3/h0e/368495605022750.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Brands-Berry-Essence-with-Grape-Seed-Extract-50-ml-X-20-Bottle/p/34116"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Polo Ralph Lauren 男短袖Polo衫",
-      "現價": "",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h27/ha7/484307084345374.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Polo-Ralph-Lauren-Short-Sleeve-Polo-Shirt/p/1846551"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Jeep 男短袖Polo衫",
-      "現價": "519",
-      "原價": "649",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h30/hb8/366248877883422.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Jeep-Mens-Short-Sleeve-Polo-Shirt/p/147310"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Champion 女童運動鞋",
-      "現價": "689",
-      "原價": "859",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9d/h66/472952384225310.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Childrens-Shoes/Champion-Girls-Athletic-Sneaker/p/156492"
     },
     {
       "品牌": "Costco 台灣",

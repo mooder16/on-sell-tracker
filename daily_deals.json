@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-09-11 08:35:18",
-  "total": 207,
+  "scraped_at": "2026-09-11 15:54:14",
+  "total": 208,
   "products": [
     {
       "分類": "上衣",
@@ -34,6 +34,14 @@
       "原價": "390",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053248/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053248"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "印花T恤(短袖)",
+      "現價": "290",
+      "原價": "490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054100/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054100"
     },
     {
       "分類": "上衣",
@@ -82,14 +90,6 @@
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053434/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053434"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "印花T恤(短袖)",
-      "現價": "290",
-      "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054112/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054112"
     },
     {
       "分類": "上衣",
@@ -276,6 +276,14 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054274"
     },
     {
+      "分類": "上衣",
+      "商品名稱": "SUPIMA COTTON 寬版T恤(短袖)",
+      "現價": "190",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054279/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054279"
+    },
+    {
       "分類": "其他",
       "商品名稱": "網眼短版條紋POLO衫(短袖)",
       "現價": "190",
@@ -322,14 +330,6 @@
       "原價": "390",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053791/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053791"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "特級亞麻背心",
-      "現價": "790",
-      "原價": "1490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053584/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053584"
     },
     {
       "分類": "上衣",
@@ -1500,14 +1500,6 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054809"
     },
     {
-      "分類": "配件",
-      "商品名稱": "襪子3雙(條紋)",
-      "現價": "249",
-      "原價": "290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052937/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052937"
-    },
-    {
       "分類": "其他",
       "商品名稱": "腳踝襪3雙(運動)",
       "現價": "249",
@@ -1578,6 +1570,14 @@
       "原價": "390",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054682/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054682"
+    },
+    {
+      "分類": "其他",
+      "商品名稱": "威靈頓太陽眼鏡",
+      "現價": "190",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053261/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053261"
     },
     {
       "分類": "其他",
@@ -1658,6 +1658,14 @@
       "原價": "490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053650/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053650"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "MAGIC FOR ALL TIMELESS UT印花T恤(短袖)",
+      "現價": "290",
+      "原價": "490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053262/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053262"
     }
   ]
 }
