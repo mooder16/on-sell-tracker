@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-09-10 18:58:12",
+  "scraped_at": "2026-09-11 03:07:52",
   "total": 74,
   "products": [
     {
@@ -80,7 +80,7 @@
       "現價": "990",
       "原價": "",
       "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483458/item/jpgoods_12_483458_3x4.jpg",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/483458/item/goods_55_483458_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483458-000/00"
     },
     {
@@ -406,22 +406,22 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "マリオカートワールド UT",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/489912/item/jpgoods_00_489912_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E489912-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "マンガUT 集英社創業100周年 /コジコジ",
       "現價": "1290",
       "原價": "",
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488262/item/jpgoods_02_488262_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E488262-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "マリオカートワールド UT",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/489912/item/jpgoods_00_489912_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E489912-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
