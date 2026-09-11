@@ -1,28 +1,8 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-09-11 03:09:55",
+  "scraped_at": "2026-09-11 08:37:01",
   "total": 54,
   "products": [
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "安永 鱸魚精 (原味) 65毫升 X 30入",
-      "現價": "3189",
-      "原價": "3969",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h73/h52/413801348562974.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Anyoung-Sante-Premium-Perch-Essence-Original-65-ml-x-30-Pack/p/157118"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "KOVEA 三合一瓦斯爐 KGG-0904EMC",
-      "現價": "2999",
-      "原價": "4299",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h82/h8c/189642931470366.jpg",
-      "商品連結": "https://www.costco.com.tw/p/140825"
-    },
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
@@ -37,11 +17,11 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "老協珍 頂級燉燕窩 60公克 X 8瓶",
-      "現價": "1249",
-      "原價": "1549",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb9/h10/398741721645086.jpg",
-      "商品連結": "https://www.costco.com.tw/Elderly-Care/p/157108"
+      "商品名稱": "KOVEA 三合一瓦斯爐 KGG-0904EMC",
+      "現價": "2999",
+      "原價": "4299",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h82/h8c/189642931470366.jpg",
+      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Camp-Kitchen-Cooking-Gear/KOVEA-3-Way-All-In-One-Stove-KGG-0904EMC/p/140825"
     },
     {
       "品牌": "Costco 台灣",
@@ -57,21 +37,21 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "科克蘭 無籽加州李乾 1.58公斤",
-      "現價": "339",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc2/h94/167692471894046.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Sunsweet-Dried-Plums-158-kg/p/583577"
+      "商品名稱": "科克蘭 五層結構不鏽鋼鍋具套組 含蓋10件組",
+      "現價": "5799",
+      "原價": "7299",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h72/h99/15410200018974.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/Kirkland-Signature-5-ply-Clad-Stainless-Steel-Cookware-with-Lid-10-Piece-Set/p/1119338"
     },
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "科克蘭 五層結構不鏽鋼鍋具套組 含蓋10件組",
-      "現價": "5799",
-      "原價": "7299",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h72/h99/15410200018974.jpg",
-      "商品連結": "https://www.costco.com.tw/p/1119338"
+      "商品名稱": "科克蘭 無籽加州李乾 1.58公斤",
+      "現價": "339",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc2/h94/167692471894046.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Sunsweet-Dried-Plums-158-kg/p/583577"
     },
     {
       "品牌": "Costco 台灣",
@@ -102,6 +82,16 @@
       "原價": "2679",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hca/he5/168536086675486.jpg",
       "商品連結": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/Dachan-Taiwan-Frozen-Chicken-Breast-27-kg-X-5-Count/p/119169"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "奧利奧 迷你奧利奧巧克力夾心餅乾香草口味 20.4公克 X 60入",
+      "現價": "394",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h81/h17/351316711931934.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/OREO-Mini-Chocolate-Sandwich-Cookies-with-Vanilla-flavored-Cream-204-g-X-60-Count/p/426451"
     },
     {
       "品牌": "Costco 台灣",
@@ -151,7 +141,7 @@
       "現價": "269",
       "原價": "329",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcb/hda/400747769921566.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/353830"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Sanko-Rice-Cracker-Cheese-Almond-435-g-X-5-Pack/p/353830"
     },
     {
       "品牌": "Costco 台灣",
@@ -201,7 +191,7 @@
       "現價": "1799",
       "原價": "2249",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h04/h61/308411254145054.jpg",
-      "商品連結": "https://www.costco.com.tw/Patio-Furniture/p/1653371"
+      "商品連結": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Lifetime-4-Foot-Adjustable-Height-Nesting-Table-2-Pack/p/1653371"
     },
     {
       "品牌": "Costco 台灣",
@@ -211,7 +201,7 @@
       "現價": "769",
       "原價": "969",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h90/h83/156752514383902.jpg",
-      "商品連結": "https://www.costco.com.tw/p/86999"
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/CKJ-Korean-Ginseng-Essence-100-ml-X-20-Bottle/p/86999"
     },
     {
       "品牌": "Costco 台灣",
@@ -241,7 +231,7 @@
       "現價": "979",
       "原價": "1129",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha4/hcd/61645677527070.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/p/486793"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Frozen-Tiger-Grouper-Jaw-3Kg/p/486793"
     },
     {
       "品牌": "Costco 台灣",
@@ -261,7 +251,7 @@
       "現價": "439",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hef/hc4/402145281966110.jpg",
-      "商品連結": "https://www.costco.com.tw/p/157254"
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Oral-Care/Shallop-Pro-Care-Mouthwash-12-ml-X-90-Pack/p/157254"
     },
     {
       "品牌": "Costco 台灣",
@@ -271,7 +261,7 @@
       "現價": "299",
       "原價": "369",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdb/h68/402145146437662.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/149528"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Ximai-Milk-Crumble-Skin-Puff-576-g/p/149528"
     },
     {
       "品牌": "Costco 台灣",
@@ -291,7 +281,7 @@
       "現價": "679",
       "原價": "849",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd8/hf8/399197074554910.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/960667"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Vilson-Dark-Chocolate-Mini-Crackers-20-g-X-21-Pack-X-2-Case/p/960667"
     },
     {
       "品牌": "Costco 台灣",
@@ -311,7 +301,7 @@
       "現價": "549",
       "原價": "629",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/haa/h1d/418236569518110.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/p/158783"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/A5-Japan-Frozen-Wagyu-Chuck-Roll-Hot-Pot-200-g/p/158783"
     },
     {
       "品牌": "Costco 台灣",
@@ -321,7 +311,7 @@
       "現價": "629",
       "原價": "719",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcf/hb6/418236564930590.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/p/158727"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/A5-Japan-Frozen-Chuck-Rib-BBQ-Cut-Skinpack-200-g/p/158727"
     },
     {
       "品牌": "Costco 台灣",
@@ -351,7 +341,7 @@
       "現價": "399",
       "原價": "489",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h25/h97/438875972567070.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/158555"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/AQUAGEN-Deep-Ocean-Sparkling-Juice-330-ml-X-9-Count/p/158555"
     },
     {
       "品牌": "Costco 台灣",
@@ -361,7 +351,7 @@
       "現價": "439",
       "原價": "549",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h93/h57/451293675323422.jpg",
-      "商品連結": "https://www.costco.com.tw/Bedding/p/1909188"
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Riviera-Home-Microfiber-Bath-Mat-2-Piece-40-cm-X-60-cm/p/1909188"
     },
     {
       "品牌": "Costco 台灣",
@@ -381,7 +371,7 @@
       "現價": "399",
       "原價": "499",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h39/h48/263832345378846.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/137722"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/MALTESERS-Milk-Chocolate-Bag-528-g/p/137722"
     },
     {
       "品牌": "Costco 台灣",
@@ -401,7 +391,7 @@
       "現價": "769",
       "原價": "949",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h2d/hd7/273677801029662.jpg",
-      "商品連結": "https://www.costco.com.tw/p/103722"
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Brands-Clam-Essence-60-ml-X-20-Bottle/p/103722"
     },
     {
       "品牌": "Costco 台灣",
@@ -416,12 +406,22 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Camper 男皮革休閒鞋",
+      "現價": "",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h64/h40/485751259430942.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Camper-Mens-Leather-Touring-Shoe/p/1846399"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "居家",
       "商品名稱": "INFINITY X1 2000 流明露營燈",
       "現價": "849",
       "原價": "1099",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb4/h59/438876268855326.jpg",
-      "商品連結": "https://www.costco.com.tw/p/1872247"
+      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/INFINITY-X1-2000-Lumen-Camp-Light/p/1872247"
     },
     {
       "品牌": "Costco 台灣",
@@ -431,7 +431,7 @@
       "現價": "629",
       "原價": "789",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc7/h72/451293261430814.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/156903"
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Puma-Ladies-Comfort-Hipster-5-Pack-Set/p/156903"
     },
     {
       "品牌": "Costco 台灣",
@@ -451,7 +451,17 @@
       "現價": "689",
       "原價": "859",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha3/h0e/368495605022750.jpg",
-      "商品連結": "https://www.costco.com.tw/p/34116"
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Brands-Berry-Essence-with-Grape-Seed-Extract-50-ml-X-20-Bottle/p/34116"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Polo Ralph Lauren 男短袖Polo衫",
+      "現價": "",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h27/ha7/484307084345374.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Polo-Ralph-Lauren-Short-Sleeve-Polo-Shirt/p/1846551"
     },
     {
       "品牌": "Costco 台灣",
@@ -461,7 +471,7 @@
       "現價": "519",
       "原價": "649",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h30/hb8/366248877883422.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/147310"
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Jeep-Mens-Short-Sleeve-Polo-Shirt/p/147310"
     },
     {
       "品牌": "Costco 台灣",
@@ -471,17 +481,7 @@
       "現價": "689",
       "原價": "859",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9d/h66/472952384225310.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/156492"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Timberland 男工裝口袋長褲",
-      "現價": "989",
-      "原價": "1239",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hfe/hd9/471660175294494.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/117881"
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Childrens-Shoes/Champion-Girls-Athletic-Sneaker/p/156492"
     },
     {
       "品牌": "Costco 台灣",

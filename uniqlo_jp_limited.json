@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本期間限定特價",
-  "scraped_at": "2026-09-11 03:08:20",
+  "scraped_at": "2026-09-11 08:36:19",
   "total": 40,
   "products": [
     {
@@ -185,16 +185,6 @@
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
-      "分類": "上衣",
-      "商品名稱": "ブロードシャツ/ストライプ/レギュラーカラー",
-      "現價": "2990",
-      "原價": "",
-      "截止日期": "9/17まで",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486590/item/jpgoods_03_486590_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E486590-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本期間限定特價",
       "分類": "外套",
       "商品名稱": "ブロードシャツ/チェック/ボタンダウン",
       "現價": "2990",
@@ -202,6 +192,16 @@
       "截止日期": "9/17まで",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486587/item/jpgoods_55_486587_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E486587-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本期間限定特價",
+      "分類": "上衣",
+      "商品名稱": "ブロードシャツ/ストライプ/レギュラーカラー",
+      "現價": "2990",
+      "原價": "",
+      "截止日期": "9/17まで",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486590/item/jpgoods_03_486590_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E486590-000/00"
     },
     {
       "品牌": "UNIQLO 日本期間限定特價",
