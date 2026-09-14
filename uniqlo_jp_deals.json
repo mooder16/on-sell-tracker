@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 日本特賣",
-  "scraped_at": "2026-09-14 09:35:31",
+  "scraped_at": "2026-09-14 17:45:14",
   "total": 75,
   "products": [
     {
@@ -82,6 +82,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/483458/item/goods_55_483458_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483458-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "其他",
+      "商品名稱": "ソフトコットンラウンドヘムT",
+      "現價": "1290",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/481484/item/jpgoods_00_481484_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E481484-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -525,6 +535,16 @@
     },
     {
       "品牌": "UNIQLO 日本特賣",
+      "分類": "外套",
+      "商品名稱": "スウェットフルジップパーカ",
+      "現價": "2990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475380/item/jpgoods_31_475380_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E475380-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
       "商品名稱": "mofusand UT/ショート",
       "現價": "1290",
@@ -586,16 +606,6 @@
     {
       "品牌": "UNIQLO 日本特賣",
       "分類": "其他",
-      "商品名稱": "ミッフィー イン ブルーム UT",
-      "現價": "790",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484121/item/jpgoods_00_484121_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E484121-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
       "商品名稱": "サンリオキャラクターズ UT",
       "現價": "1290",
       "原價": "",
@@ -652,6 +662,16 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483259/item/jpgoods_08_483259_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E483259-000/00"
+    },
+    {
+      "品牌": "UNIQLO 日本特賣",
+      "分類": "上衣",
+      "商品名稱": "ハーフボタンスウェットプルオーバー",
+      "現價": "2990",
+      "原價": "",
+      "截止日期": "",
+      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487585/item/jpgoods_19_487585_3x4.jpg",
+      "商品連結": "https://www.uniqlo.com/jp/ja/products/E487585-000/00"
     },
     {
       "品牌": "UNIQLO 日本特賣",
@@ -732,26 +752,6 @@
       "截止日期": "",
       "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482194/item/jpgoods_31_482194_3x4.jpg",
       "商品連結": "https://www.uniqlo.com/jp/ja/products/E482194-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "內搭",
-      "商品名稱": "Vネックブラトップ",
-      "現價": "1290",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482330/item/jpgoods_62_482330_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E482330-000/00"
-    },
-    {
-      "品牌": "UNIQLO 日本特賣",
-      "分類": "其他",
-      "商品名稱": "UVカットクルーネックカーディガン/ウォッシャブル",
-      "現價": "1990",
-      "原價": "",
-      "截止日期": "",
-      "圖片網址": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465484/item/jpgoods_38_465484_3x4.jpg",
-      "商品連結": "https://www.uniqlo.com/jp/ja/products/E465484-000/00"
     }
   ]
 }
