@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-09-16 03:26:27",
-  "total": 198,
+  "scraped_at": "2026-09-16 09:04:54",
+  "total": 199,
   "products": [
     {
       "分類": "上衣",
@@ -77,7 +77,7 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "圓領T恤(短袖)",
+      "商品名稱": "圓領T恤(短袖) 474404",
       "現價": "190",
       "原價": "390",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054692/main/first/561/1.jpg",
@@ -269,6 +269,14 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "圓領T恤(短袖)",
+      "現價": "290",
+      "原價": "390",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052958/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052958"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "壓褶T恤(無袖)",
       "現價": "190",
       "原價": "790",
@@ -450,6 +458,14 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053602/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053602"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "棉質圓領針織衫(短袖)",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053812/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053812"
     },
     {
       "分類": "上衣",
@@ -1498,14 +1514,6 @@
       "原價": "490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053657/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053657"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "威靈頓太陽眼鏡",
-      "現價": "190",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053261/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053261"
     },
     {
       "分類": "其他",
