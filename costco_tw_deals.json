@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-09-18 03:20:30",
+  "scraped_at": "2026-09-18 08:48:40",
   "total": 54,
   "products": [
     {
@@ -52,6 +52,16 @@
       "原價": "2099",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h82/h5a/468568732925982.jpg",
       "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Iris-Woozoo-DC-Circulator-Fan-STF-360DC-N/p/1747373"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "科克蘭 無籽加州李乾 1.58公斤",
+      "現價": "339",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc2/h94/167692471894046.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Sunsweet-Dried-Plums-158-kg/p/583577"
     },
     {
       "品牌": "Costco 台灣",
@@ -221,7 +231,7 @@
       "現價": "389",
       "原價": "489",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hfa/h0e/118693302763550.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Airwaves-Super-Menthol-Eucalyptus-Flavor-Sugarfree-Chewing-Gum-462-g/p/195827"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/195827"
     },
     {
       "品牌": "Costco 台灣",
@@ -472,16 +482,6 @@
       "原價": "469",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb6/he6/414650589544478.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Nescafe-Sicily-Coffee-15-g-X-40-Pack/p/150636"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "西莎 鮮肉主食碗 雞肉及蔬菜 85公克 X 10入",
-      "現價": "449",
-      "原價": "559",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf7/hf4/295028597784606.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Pet-Supplies/Pet-Dry-Wet-Food/Cesar-Wholesome-Bowl-Dog-Wet-Food-Chicken-with-Vegetables-85-g-X-10-Pack/p/147503"
     },
     {
       "品牌": "Costco 台灣",
