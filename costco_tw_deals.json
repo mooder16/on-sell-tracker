@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-09-20 09:07:48",
+  "scraped_at": "2026-09-20 15:31:46",
   "total": 54,
   "products": [
     {
@@ -217,31 +217,11 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "產銷履歷文旦 6公斤 (10-12入)",
-      "現價": "549",
-      "原價": "699",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h41/hd1/79615101239326.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/Tap-Pomelo-6-kg-10-12-Count/p/184283"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
       "商品名稱": "雀巢 金牌冰萃濾袋雙口味組 10公克 X 40入",
       "現價": "319",
       "原價": "449",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5a/h30/438876389703710.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Nescafe-Gold-Cold-Brew-Mix-Pack-10-g-X-40-Pack/p/332545"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "Lifetime 四呎折疊桌 2入",
-      "現價": "1799",
-      "原價": "2249",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h04/h61/308411254145054.jpg",
-      "商品連結": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Lifetime-4-Foot-Adjustable-Height-Nesting-Table-2-Pack/p/1653371"
     },
     {
       "品牌": "Costco 台灣",
@@ -482,6 +462,26 @@
       "原價": "1059",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h28/h42/155423692881950.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Panasonic-Eneloop-AAA-Rechargeable-Batteries-10-Pack/p/137510"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "家電",
+      "商品名稱": "Samsung 65吋 Neo QLED 4K AI 量子智慧顯示器 QA65QN1EHAXXZW",
+      "現價": "25599",
+      "原價": "31999",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h41/ha8/505969061396510.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/Samsung-65-inch-Neo-QLED-4K-AI-Smart-Monitor-QA65QN1EHAXXZW/p/161509"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "居家",
+      "商品名稱": "Bayside Furnishings 可升降吧檯椅",
+      "現價": "2899",
+      "原價": "3699",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h09/h73/401756136734750.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Dining-Sets/Bayside-Furnishings-Gas-Lift-Barstool/p/1862009"
     },
     {
       "品牌": "Costco 台灣",
