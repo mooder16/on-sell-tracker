@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-09-21 03:28:55",
+  "scraped_at": "2026-09-21 09:39:22",
   "total": 54,
   "products": [
     {
@@ -21,7 +21,7 @@
       "現價": "339",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc2/h94/167692471894046.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Sunsweet-Dried-Plums-158-kg/p/583577"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/583577"
     },
     {
       "品牌": "Costco 台灣",
@@ -142,6 +142,16 @@
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h81/h17/351316711931934.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/OREO-Mini-Chocolate-Sandwich-Cookies-with-Vanilla-flavored-Cream-204-g-X-60-Count/p/426451"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "產銷履歷文旦 6公斤 (10-12入)",
+      "現價": "549",
+      "原價": "699",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h41/hd1/79615101239326.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/Tap-Pomelo-6-kg-10-12-Count/p/184283"
     },
     {
       "品牌": "Costco 台灣",
@@ -286,22 +296,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "北田 海鮮捲蒜香蝦口味 120公克 X 6包",
-      "現價": "289",
-      "原價": "349",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf5/haa/346356085948446.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Pei-Tien-Seafood-Roll-Garlic-Shrimp-Flavor-120-g-X-6-Pack/p/860659"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "刷樂 全效護理漱口水攜帶包 12毫升 X 90入",
       "現價": "439",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hef/hc4/402145281966110.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Oral-Care/Shallop-Pro-Care-Mouthwash-12-ml-X-90-Pack/p/157254"
+      "商品連結": "https://www.costco.com.tw/p/157254"
     },
     {
       "品牌": "Costco 台灣",
@@ -531,7 +531,7 @@
       "現價": "689",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd3/h92/292858412302366.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/12-ft-X-16-ft-Reversible-Tarps-2-Pack/p/1600091"
+      "商品連結": "https://www.costco.com.tw/p/1600091"
     },
     {
       "品牌": "Costco 台灣",
