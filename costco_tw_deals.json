@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-09-26 03:40:54",
+  "scraped_at": "2026-09-26 09:10:24",
   "total": 54,
   "products": [
     {
@@ -256,16 +256,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "美妝保養",
-      "商品名稱": "舒特膚 SPF50+ 高效防曬凝露 50毫升 X 2入",
-      "現價": "819",
-      "原價": "1029",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h15/h77/450045165994014.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Cetaphil-Sun-SPF50-Light-Gel-50-ml-X-2-Pack/p/142601"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "陳稼莊 果汁吸凍飲 百香果+芭樂 220公克 X 12入",
       "現價": "329",
@@ -482,6 +472,16 @@
       "原價": "879",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h57/hb3/455933306929182.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Taisugar-Essence-of-Clam-62-ml-X-20-Bottle/p/158332"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "北田 海鮮捲蒜香蝦口味 120公克 X 6包",
+      "現價": "289",
+      "原價": "349",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf5/haa/346356085948446.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Pei-Tien-Seafood-Roll-Garlic-Shrimp-Flavor-120-g-X-6-Pack/p/860659"
     },
     {
       "品牌": "Costco 台灣",
