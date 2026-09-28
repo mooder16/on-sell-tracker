@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-09-28 03:47:16",
-  "total": 178,
+  "scraped_at": "2026-09-28 10:35:46",
+  "total": 176,
   "products": [
     {
       "分類": "上衣",
@@ -242,14 +242,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054103/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054103"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "氣球抓皺細肩帶背心",
-      "現價": "190",
-      "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054006/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054006"
     },
     {
       "分類": "上衣",
@@ -1380,14 +1372,6 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053662"
     },
     {
-      "分類": "褲子",
-      "商品名稱": "嫘縈RELACO七分褲",
-      "現價": "290",
-      "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053657/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053657"
-    },
-    {
       "分類": "其他",
       "商品名稱": "矩形太陽眼鏡",
       "現價": "290",
@@ -1424,8 +1408,8 @@
       "商品名稱": "PEANUTS UT印花T恤(短袖)",
       "現價": "290",
       "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052698/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052698"
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053650/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053650"
     }
   ]
 }
