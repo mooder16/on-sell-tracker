@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-09-28 19:18:49",
+  "scraped_at": "2026-09-29 00:14:40",
   "total": 53,
   "products": [
     {
@@ -126,22 +126,22 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Columbia 男防風防潑水外套",
-      "現價": "1199",
-      "原價": "1499",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he4/h01/488918674931742.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/159781"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "清潔",
       "商品名稱": "舒潔 濕式衛生紙 46張 X 32入",
       "現價": "1143",
       "原價": "1429",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h62/h92/312615946485790.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kleenex-Flushable-Wipes-46-Sheet-X-32-Count/p/123333"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Columbia 男防風防潑水外套",
+      "現價": "1199",
+      "原價": "1499",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he4/h01/488918674931742.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/159781"
     },
     {
       "品牌": "Costco 台灣",
@@ -186,12 +186,32 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "舒特膚長效潤膚霜 550公克",
+      "現價": "404",
+      "原價": "499",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h15/h51/171156051525662.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Cetaphil-Moisturising-Cream-550-g/p/137177"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "服飾",
       "商品名稱": "郡是 日本製快適工房男抗菌防臭短袖上衣",
       "現價": "299",
       "原價": "379",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0d/hd5/69873207541790.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/133634"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "美威 冷凍精選鮭魚菲力-法式香蒜口味 6入組",
+      "現價": "1179",
+      "原價": "1479",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb5/hbd/272955082244126.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Supreme-Salmon-Frozen-Signature-Salmon-Fillet-French-Garlic-Butter-Flavor-6-Pack-Set/p/148196"
     },
     {
       "品牌": "Costco 台灣",
@@ -227,11 +247,31 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "服飾",
+      "商品名稱": "幫寶適 一級幫 散熱拉拉褲 XXL號 93片",
+      "現價": "1079",
+      "原價": "1349",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9e/h9b/466199228219422.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/Pampers-Ichiban-Pants-Size-XXL-93-Piece/p/246575"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
       "商品名稱": "幫寶適 一級幫 散熱拉拉褲 L號 144片",
       "現價": "1079",
       "原價": "1349",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h62/hd6/466199226613790.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/Pampers-Ichiban-Pants-Size-L-144-Piece/p/246573"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "幫寶適 一級幫 護臀紙尿褲(黏貼型) XL號 124片",
+      "現價": "1079",
+      "原價": "1349",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h07/h8a/466199226482718.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/Pampers-Ichiban-Tape-Size-XL-124-Piece/p/246572"
     },
     {
       "品牌": "Costco 台灣",
@@ -242,16 +282,6 @@
       "原價": "499",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd9/h28/365472246136862.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Tree-Top-Sparkling-Orange-320ml-X-24-Can/p/149152"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "舒特膚長效潤膚霜 550公克",
-      "現價": "404",
-      "原價": "499",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h15/h51/171156051525662.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Cetaphil-Moisturising-Cream-550-g/p/137177"
     },
     {
       "品牌": "Costco 台灣",
@@ -267,21 +297,11 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "服飾",
-      "商品名稱": "幫寶適 一級幫 散熱拉拉褲 XXL號 93片",
+      "商品名稱": "幫寶適 一級幫 散熱拉拉褲 XXXL號 93片",
       "現價": "1079",
       "原價": "1349",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9e/h9b/466199228219422.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/Pampers-Ichiban-Pants-Size-XXL-93-Piece/p/246575"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "幫寶適 一級幫 護臀紙尿褲(黏貼型) XL號 124片",
-      "現價": "1079",
-      "原價": "1349",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h07/h8a/466199226482718.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/Pampers-Ichiban-Tape-Size-XL-124-Piece/p/246572"
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h42/h2f/466199227793438.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/Pampers-Ichiban-Pants-Size-XXXL-93-Piece/p/246576"
     },
     {
       "品牌": "Costco 台灣",
@@ -292,16 +312,6 @@
       "原價": "1349",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hfe/h43/466199221927966.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/Pampers-Ichiban-Tape-Size-S-232-Piece/p/246569"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "幫寶適 一級幫 散熱拉拉褲 XXXL號 93片",
-      "現價": "1079",
-      "原價": "1349",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h42/h2f/466199227793438.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/Pampers-Ichiban-Pants-Size-XXXL-93-Piece/p/246576"
     },
     {
       "品牌": "Costco 台灣",
@@ -386,6 +396,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "Body Goals 全素多效豌豆蛋白飲 31公克 X 30入 杜拜巧克力",
+      "現價": "759",
+      "原價": "949",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h54/hde/505689332482078.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Sports-Performance/Whey-Protein-Powder/Body-Goals-Vegan-Multi-effect-Pea-Protein-Drinks-31-g-X-30-Pack-Dubai-Chocolate/p/161403"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "清潔",
       "商品名稱": "海倫仙度絲 經典清潔去屑洗髮乳 1000毫升",
       "現價": "279",
@@ -447,11 +467,11 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
-      "商品名稱": "美威 冷凍精選鮭魚菲力-法式香蒜口味 6入組",
-      "現價": "1179",
-      "原價": "1479",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb5/hbd/272955082244126.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Supreme-Salmon-Frozen-Signature-Salmon-Fillet-French-Garlic-Butter-Flavor-6-Pack-Set/p/148196"
+      "商品名稱": "紅龍 冷凍純牛肉漢堡片 2.7公斤",
+      "現價": "695",
+      "原價": "849",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he7/h6c/98334948950046.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Red-Dragon-Frozen-Beef-Patties-27-kg/p/48696"
     },
     {
       "品牌": "Costco 台灣",
@@ -462,26 +482,6 @@
       "原價": "429",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he2/h43/472592005759006.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Pocky-Seasonal-Limited-Edition-Matcha-Strawberry-6-Pack-Set/p/437561"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Tommy Hilfiger 女踝襪 5入組",
-      "現價": "469",
-      "原價": "589",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h24/h90/454769474109470.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/157487"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Nautica 女圓領短袖Logo上衣",
-      "現價": "449",
-      "原價": "579",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h80/hd3/485750824665118.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/155246"
     },
     {
       "品牌": "Costco 台灣",
