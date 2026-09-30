@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-09-29 23:27:10",
-  "total": 197,
+  "scraped_at": "2026-09-30 04:05:43",
+  "total": 196,
   "products": [
     {
       "分類": "上衣",
@@ -626,14 +626,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053722/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053722"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "寬版短褲",
-      "現價": "390",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054302/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054302"
     },
     {
       "分類": "褲子",
