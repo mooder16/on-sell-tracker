@@ -1,28 +1,8 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-10-06 01:10:02",
+  "scraped_at": "2026-10-06 11:04:03",
   "total": 54,
   "products": [
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "科克蘭 男短袖圓領上衣 6入 M",
-      "現價": "519",
-      "原價": "659",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h43/h2c/396189980229662.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Kirkland-Signature-Mens-Short-Sleeve-Crew-Neck-Tee-6-Pack-M/p/7771561"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "科克蘭 男防風軟殼外套",
-      "現價": "599",
-      "原價": "749",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he6/hbb/490098126159902.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Kirkland-Signature-Mens-Softshell-Jacket/p/7771781"
-    },
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
@@ -37,11 +17,11 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "服飾",
-      "商品名稱": "科克蘭 男短袖圓領上衣 6入 XL",
-      "現價": "519",
-      "原價": "659",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc8/h64/396189984227358.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Kirkland-Signature-Mens-Short-Sleeve-Crew-Neck-Tee-6-Pack-XL/p/7771563"
+      "商品名稱": "科克蘭 男防風軟殼外套",
+      "現價": "599",
+      "原價": "749",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he6/hbb/490098126159902.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Kirkland-Signature-Mens-Softshell-Jacket/p/7771781"
     },
     {
       "品牌": "Costco 台灣",
@@ -87,6 +67,16 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
+      "商品名稱": "北海 鱈魚香絲 600公克",
+      "現價": "269",
+      "原價": "319",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h16/hfc/381454987755550.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/North-Sea-Fish-Snacks-600-g/p/78623"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
       "商品名稱": "格力高 無糖杏仁果飲職人版 1000毫升 X 6入",
       "現價": "699",
       "原價": "859",
@@ -106,16 +96,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "三幸 雪宿米果 北海道濃厚牛奶卡士達風味 78公克 X 6包",
-      "現價": "229",
-      "原價": "329",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h57/hdd/454769551769630.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Sanko-Yuki-No-Yado-Rice-Cracker-Hokkaido-Milk-Custard-Flavored-78-g-X-6-Pack/p/453830"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "樂事 美國進口原味洋芋片 425.2公克",
       "現價": "163",
@@ -126,22 +106,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "清潔",
-      "商品名稱": "Pril 小蘇打洗碗精清新檸檬香 1.5公升 X 2入",
-      "現價": "234",
-      "原價": "289",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd5/h58/313983034228766.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Dish-Detergents/Pril-Baking-Soda-Dish-Washing-Liquid-Lemon-Flavor-15-L-X-2-Count/p/177837"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "農心 安城湯麵 125公克 X 12包入",
       "現價": "279",
       "原價": "349",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he3/hfa/115203688398878.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/p/144777"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/NONGSHIM-ANSUNG-NOODLE125X-12/p/144777"
     },
     {
       "品牌": "Costco 台灣",
@@ -296,6 +266,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Adidas 男內褲三入組",
+      "現價": "549",
+      "原價": "689",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf5/h14/452308882849822.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Adidas-Mens-Active-Boxer-3-Pack-Set/p/158877"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "太和殿 私房麻辣火鍋湯底 1200公克 X 2包",
       "現價": "269",
@@ -307,11 +287,11 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "服飾",
-      "商品名稱": "Adidas 男內褲三入組",
-      "現價": "549",
-      "原價": "689",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf5/h14/452308882849822.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Adidas-Mens-Active-Boxer-3-Pack-Set/p/158877"
+      "商品名稱": "Adidas Breaknet Sleek 女休閒鞋",
+      "現價": "999",
+      "原價": "1259",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h46/hbd/489268508131358.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Adidas-Breaknet-Sleek-Ladies-Casual-Shoe/p/1954886"
     },
     {
       "品牌": "Costco 台灣",
@@ -332,16 +312,6 @@
       "原價": "369",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h23/hd8/209600676069406.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Meiji-Apollo-Strawberry-Chocolate-21GX24PKS/p/241684"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Adidas Breaknet Sleek 女休閒鞋",
-      "現價": "999",
-      "原價": "1259",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h46/hbd/489268508131358.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Adidas-Breaknet-Sleek-Ladies-Casual-Shoe/p/1954886"
     },
     {
       "品牌": "Costco 台灣",
@@ -377,11 +347,31 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
+      "商品名稱": "SodaStream Terra 自動扣瓶氣泡水機",
+      "現價": "2799",
+      "原價": "3499",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4e/h0d/437687257825310.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Water-Dispensers-Water-Purification/SodaStream-Terra-Sparkling-Water-Maker/p/159693"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
       "商品名稱": "威滅滅蟑隊-s",
       "現價": "239",
       "原價": "299",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdb/h5a/223927011901470.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Pest-Control-Air-Care/-s/p/73655"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "New Balance 500 男復古慢跑鞋 藍",
+      "現價": "1259",
+      "原價": "1599",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h67/h19/472952397529118.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/New-Balance-500-Mens-Retro-Running-Shoe-Blue/p/160811"
     },
     {
       "品牌": "Costco 台灣",
@@ -396,12 +386,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "SodaStream Terra 自動扣瓶氣泡水機",
-      "現價": "2799",
-      "原價": "3499",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4e/h0d/437687257825310.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Water-Dispensers-Water-Purification/SodaStream-Terra-Sparkling-Water-Maker/p/159693"
+      "分類": "居家",
+      "商品名稱": "Riviera Home 純棉浴室地墊 2入組 40 X 60 公分",
+      "現價": "399",
+      "原價": "499",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8d/h83/488918911320094.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Riviera-Home-Bathmat-2-Piece-Set-40-cm-X-60-cm/p/1909228"
     },
     {
       "品牌": "Costco 台灣",
@@ -417,16 +407,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "Vornado 渦流空氣循環扇 STRATA 8 OMNI-TW",
-      "現價": "1969",
-      "原價": "2769",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcb/h73/466198953852958.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Vornado-Compact-Tower-Fan-STRATA-8-OMNI-TW/p/157119"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
       "商品名稱": "DeWALT 40公分 風扇",
       "現價": "2399",
       "原價": "2999",
@@ -437,11 +417,21 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "服飾",
-      "商品名稱": "New Balance 500 男復古慢跑鞋 藍",
-      "現價": "1259",
-      "原價": "1599",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h67/h19/472952397529118.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/New-Balance-500-Mens-Retro-Running-Shoe-Blue/p/160811"
+      "商品名稱": "POINTUCH 運動手套",
+      "現價": "299",
+      "原價": "389",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha6/h5b/448868585144350.jpg",
+      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Fitness-Equipment-Accessories/POINTUCH-Running-Gloves/p/8526787"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "Vornado 渦流空氣循環扇 STRATA 8 OMNI-TW",
+      "現價": "1969",
+      "原價": "2769",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcb/h73/466198953852958.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Vornado-Compact-Tower-Fan-STRATA-8-OMNI-TW/p/157119"
     },
     {
       "品牌": "Costco 台灣",
@@ -456,6 +446,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "New Balance DynaSoft Flash 男復古慢跑鞋",
+      "現價": "1299",
+      "原價": "1639",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h53/h1b/470130442305566.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/New-Balance-DynaSoft-Flash-Mens-Retro-Running-Shoe/p/160813"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "灣仔碼頭 冷凍鮮肉小籠湯包 2400公克",
       "現價": "878",
@@ -466,22 +466,22 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "New Balance DynaSoft Flash 女運動鞋",
+      "現價": "1279",
+      "原價": "1599",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h33/h1b/470130455019550.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/New-Balance-DynaSoft-Flash-Ladies-Running-Shoe/p/160817"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "靠得住 草本抑菌日用衛生棉 23公分 17片 X 12包",
       "現價": "519",
       "原價": "649",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h51/h00/295028714504222.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Feminine-Care/Kotex-Herbal-Regular-Day-Pad-23-cm-17-Piece-X-12-Pack/p/148193"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Calvin Klein 女運動內衣 2入組",
-      "現價": "679",
-      "原價": "849",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcd/h55/489268512391198.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Calvin-Klein-Ladies-Sports-Bra-2-Pack-Set/p/1969790"
     },
     {
       "品牌": "Costco 台灣",
