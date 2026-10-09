@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-10-09 04:43:14",
+  "scraped_at": "2026-10-09 15:01:29",
   "total": 54,
   "products": [
     {
@@ -142,16 +142,6 @@
       "原價": "429",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hfe/hec/433249592999966.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/Diane-Perfect-Beauty-Extra-Hair-Fall-Control-Shampoo-450-ml-X-2-Pack/p/159492"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "健康保健",
-      "商品名稱": "必安住白蟻蟑螂跳蚤藥",
-      "現價": "135",
-      "原價": "215",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h2a/h93/345530296991774.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Pest-Control-Air-Care/p/152666"
     },
     {
       "品牌": "Costco 台灣",
@@ -386,16 +376,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "PLUS 智慧滾輪修正帶 8入 + 替換帶 28入",
-      "現價": "535",
-      "原價": "669",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h87/h25/470130568003614.jpg",
-      "商品連結": "https://www.costco.com.tw/Office-School/Office-Stationary/Correction/PLUS-Correction-Tapes-8-Count-Refills-28-Count/p/226691"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "服飾",
       "商品名稱": "Adidas Breaknet Sleek 女休閒鞋",
       "現價": "999",
@@ -485,6 +465,26 @@
     },
     {
       "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Adidas 男內褲三入組",
+      "現價": "549",
+      "原價": "689",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf5/h14/452308882849822.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Adidas-Mens-Active-Boxer-3-Pack-Set/p/158877"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "CNP Laboratory 綠蜂膠奇蹟能量安瓶組 35毫升 X 2入 + 5毫升 X 3入",
+      "現價": "1105",
+      "原價": "1385",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf8/hb8/450418259984414.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Skin-Care/CNP-Laboratory-Green-Propolis-Advanced-Anti-Oxidant-Ampule-Set-35-ml-X-2-Pack-5-ml-X-3-Pack/p/219174"
+    },
+    {
+      "品牌": "Costco 台灣",
       "來源": "Costco 降價商品",
       "分類": "食品",
       "商品名稱": "科克蘭 杏仁 1.36公斤",
@@ -492,6 +492,16 @@
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8c/ha5/118320266608670.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Whole-Almonds-136-kg/p/1516849"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 降價商品",
+      "分類": "其他",
+      "商品名稱": "舒特膚長效潤膚霜 550公克",
+      "現價": "499",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h15/h51/171156051525662.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Cetaphil-Moisturising-Cream-550-g/p/137177"
     },
     {
       "品牌": "Costco 台灣",
@@ -512,16 +522,6 @@
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd3/h92/292858412302366.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/12-ft-X-16-ft-Reversible-Tarps-2-Pack/p/1600091"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 降價商品",
-      "分類": "其他",
-      "商品名稱": "舒特膚長效潤膚霜 550公克",
-      "現價": "499",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h15/h51/171156051525662.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Cetaphil-Moisturising-Cream-550-g/p/137177"
     },
     {
       "品牌": "Costco 台灣",
