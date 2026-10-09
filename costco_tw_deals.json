@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-10-09 15:01:29",
+  "scraped_at": "2026-10-09 20:35:57",
   "total": 54,
   "products": [
     {
@@ -97,16 +97,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
-      "商品名稱": "農心 安城湯麵 125公克 X 12包入",
-      "現價": "279",
-      "原價": "349",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he3/hfa/115203688398878.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Nongshim-Ansung-Noodle-125-g-X-12-Pack/p/144777"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
       "商品名稱": "格力高 無糖杏仁果飲職人版 1000毫升 X 6入",
       "現價": "699",
       "原價": "859",
@@ -132,16 +122,6 @@
       "原價": "299",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdb/h5a/223927011901470.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Pest-Control-Air-Care/-s/p/73655"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "清潔",
-      "商品名稱": "黛絲恩髮根緊緊防斷洗髮精 450毫升 X 2入",
-      "現價": "339",
-      "原價": "429",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hfe/hec/433249592999966.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/Diane-Perfect-Beauty-Extra-Hair-Fall-Control-Shampoo-450-ml-X-2-Pack/p/159492"
     },
     {
       "品牌": "Costco 台灣",
@@ -248,8 +228,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "Tree Top 樹頂 柳橙氣泡飲 320毫升 X 24入",
-      "現價": "409",
-      "原價": "499",
+      "現價": "499",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd9/h28/365472246136862.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Tree-Top-Sparkling-Orange-320ml-X-24-Can/p/149152"
     },
@@ -482,6 +462,26 @@
       "原價": "1385",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf8/hb8/450418259984414.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Skin-Care/CNP-Laboratory-Green-Propolis-Advanced-Anti-Oxidant-Ampule-Set-35-ml-X-2-Pack-5-ml-X-3-Pack/p/219174"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "大成 山賊燒去骨清雞腿與十三香雞翅 5公斤",
+      "現價": "1249",
+      "原價": "1429",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h78/hb5/418236625223710.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Dachan-Frozen-Toriageru-Thigh-and-Thirteen-Spices-Wings-5-kg/p/159017"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "明治 阿波羅草莓可可粒 21公克X24包",
+      "現價": "299",
+      "原價": "369",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h23/hd8/209600676069406.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Meiji-Apollo-Strawberry-Chocolate-21GX24PKS/p/241684"
     },
     {
       "品牌": "Costco 台灣",
