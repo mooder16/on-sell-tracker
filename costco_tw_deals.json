@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-10-10 14:16:57",
+  "scraped_at": "2026-10-10 19:49:09",
   "total": 54,
   "products": [
     {
@@ -22,16 +22,6 @@
       "原價": "849",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h94/ha7/487711290392606.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Kirkland-Signature-Mens-Long-Sleeve-Spread-Collar-Dress-Shirt/p/7771648"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "北海 鱈魚香絲 600公克",
-      "現價": "269",
-      "原價": "319",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h21/h0e/509996218056734.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/North-Sea-Fish-Snacks-600-g/p/78623"
     },
     {
       "品牌": "Costco 台灣",
@@ -81,7 +71,7 @@
       "現價": "1143",
       "原價": "1429",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h62/h92/312615946485790.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kleenex-Flushable-Wipes-46-Sheet-X-32-Count/p/123333"
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/p/123333"
     },
     {
       "品牌": "Costco 台灣",
@@ -301,7 +291,7 @@
       "現價": "325",
       "原價": "399",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h08/h60/400800633913374.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Natori-Cheese-Fish-Cake-957-g/p/168850"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/168850"
     },
     {
       "品牌": "Costco 台灣",
@@ -441,7 +431,7 @@
       "現價": "289",
       "原價": "359",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h02/h05/382511787999262.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Heinz-Tomato-Ketchup-1-L-X-3-Pack/p/201174"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/201174"
     },
     {
       "品牌": "Costco 台灣",
@@ -485,6 +475,16 @@
     },
     {
       "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "家電",
+      "商品名稱": "戴森 手提無線吸塵器 #V8 SV25 Motorhead",
+      "現價": "7999",
+      "原價": "8799",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf1/h7a/490097853628446.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Vacuums-Floor-Care/Dyson-Cordless-Vacuum-V8-SV25-Motorhead/p/160796"
+    },
+    {
+      "品牌": "Costco 台灣",
       "來源": "Costco 降價商品",
       "分類": "食品",
       "商品名稱": "科克蘭 杏仁 1.36公斤",
@@ -521,7 +521,7 @@
       "現價": "499",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h15/h51/171156051525662.jpg",
-      "商品連結": "https://www.costco.com.tw/p/137177"
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Cetaphil-Moisturising-Cream-550-g/p/137177"
     },
     {
       "品牌": "Costco 台灣",
