@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-10-10 04:26:27",
-  "total": 182,
+  "scraped_at": "2026-10-10 14:14:19",
+  "total": 177,
   "products": [
     {
       "分類": "上衣",
@@ -186,14 +186,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054298/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054298"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "短版條紋POLO衫(短袖)",
-      "現價": "190",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054304/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054304"
     },
     {
       "分類": "其他",
@@ -589,6 +581,14 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "棉麻短褲(條紋)",
+      "現價": "290",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053722/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053722"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "卡其短褲",
       "現價": "390",
       "原價": "790",
@@ -765,14 +765,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "打褶寬版錐形褲",
-      "現價": "590",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053204/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053204"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "特級彈性Active窄管長褲",
       "現價": "490",
       "原價": "990",
@@ -850,14 +842,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053875/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053875"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "SMART 九分褲(稍長)",
-      "現價": "590",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053486/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053486"
     },
     {
       "分類": "褲子",
@@ -1357,30 +1341,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "AIRism塑型褲(機能) 481036",
-      "現價": "249",
-      "原價": "390",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053199/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053199"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "素面單色襪",
-      "現價": "49",
-      "原價": "89",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054799/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054799"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "嫘縈RELACO七分褲(小花)",
-      "現價": "290",
-      "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053662/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053662"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "AIRism棉質休閒服組(短袖/長褲)",
       "現價": "790",
       "原價": "990",
@@ -1437,19 +1397,19 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "貓福珊迪 UT印花T恤(短袖)",
-      "現價": "290",
-      "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053637/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053637"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "Mickey & Friends 短版UT印花T恤(長袖)",
       "現價": "490",
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054477/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054477"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "貓福珊迪 UT印花T恤(短袖)",
+      "現價": "290",
+      "原價": "490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053638/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053638"
     },
     {
       "分類": "上衣",
