@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-10-15 08:54:49",
+  "scraped_at": "2026-10-15 16:23:33",
   "total": 54,
   "products": [
     {
@@ -29,7 +29,7 @@
       "分類": "清潔",
       "商品名稱": "Pril 小蘇打洗碗精清新檸檬香 1.5公升 X 2入",
       "現價": "234",
-      "原價": "289",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd5/h58/313983034228766.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Dish-Detergents/Pril-Baking-Soda-Dish-Washing-Liquid-Lemon-Flavor-15-L-X-2-Count/p/177837"
     },
@@ -89,7 +89,7 @@
       "分類": "其他",
       "商品名稱": "三立製菓 源氏派家庭包 240公克 X 3包",
       "現價": "259",
-      "原價": "319",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h13/hca/369281019215902.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Sanritsu-Seika-Family-Size-Genji-Pie-240-g-X-3-Pack/p/153830"
     },
@@ -446,6 +446,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "3C",
+      "商品名稱": "象印 黑金剛微電腦電子鍋 NS-ZLF18",
+      "現價": "3999",
+      "原價": "4999",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hbc/hbc/12216003067934.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/Zojirushi-Rice-Cooker-NS-ZLF18/p/122731"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "Iris Woozoo 空氣循環扇 STF-360DC-N",
       "現價": "1679",
@@ -472,16 +482,6 @@
       "原價": "449",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb8/h3b/452750418182174.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/CJ-Bibigo-Plantable-Frozen-Veggie-Dumpling-14-kg/p/658912"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "汽車",
-      "商品名稱": "M2R 3/4罩安全帽 騎乘機車用防護頭盔 M-700 L",
-      "現價": "650",
-      "原價": "795",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0e/h1b/103766564732958.jpg",
-      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Motorcycle/M2R-34-Road-Helmet-M-700-L/p/136384"
     },
     {
       "品牌": "Costco 台灣",
