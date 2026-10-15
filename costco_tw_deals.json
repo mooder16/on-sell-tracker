@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-10-15 03:20:36",
+  "scraped_at": "2026-10-15 08:54:49",
   "total": 54,
   "products": [
     {
@@ -22,6 +22,16 @@
       "原價": "319",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h21/h0e/509996218056734.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/North-Sea-Fish-Snacks-600-g/p/78623"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "清潔",
+      "商品名稱": "Pril 小蘇打洗碗精清新檸檬香 1.5公升 X 2入",
+      "現價": "234",
+      "原價": "289",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd5/h58/313983034228766.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Dish-Detergents/Pril-Baking-Soda-Dish-Washing-Liquid-Lemon-Flavor-15-L-X-2-Count/p/177837"
     },
     {
       "品牌": "Costco 台灣",
@@ -96,6 +106,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "歐樂B 電動牙刷刷頭 8入",
+      "現價": "749",
+      "原價": "949",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5f/h74/239741816569886.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Electric-Toothbrushes-Water-Flossers/Oral-B-Replacement-Toothbrush-Heads-8-Count/p/144120"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "旺旺 嚴選米菓 827公克",
       "現價": "295",
@@ -122,16 +142,6 @@
       "原價": "429",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb9/h92/363073675296798.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Quaker-Multi-Grains-High-Fiber-Oat-Rice-125-kg-X-3-Pack/p/145270"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "樂天 巧克力派 伯爵檸檬茶風味 180公克 X 5盒 /共30顆",
-      "現價": "389",
-      "原價": "479",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h7e/h44/488032030097438.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Lotte-Choco-Pie-Earl-Grey-Lemon-Tea-Flavor-180-g-X-5-Pack-30-Count/p/161340"
     },
     {
       "品牌": "Costco 台灣",
@@ -192,6 +202,16 @@
       "原價": "359",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb0/hb7/206032625500190.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/SHJ-Seaweed-Green-Onion-Crackers-1525-g/p/143895"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "森永 嗨啾軟糖經典綜合水果口味 1000公克",
+      "現價": "245",
+      "原價": "299",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h38/h40/431395552821278.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Morinaga-Hi-Chew-Candy-Stand-Up-Bag-Classic-Mixed-Fruits-1000-g/p/77915"
     },
     {
       "品牌": "Costco 台灣",
@@ -462,26 +482,6 @@
       "原價": "795",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0e/h1b/103766564732958.jpg",
       "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Motorcycle/M2R-34-Road-Helmet-M-700-L/p/136384"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "National Vita 顧可飛DHA魚油晶球膠囊 30包",
-      "現價": "509",
-      "原價": "629",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h68/h33/133324530876446.jpg",
-      "商品連結": "https://www.costco.com.tw/c/National-Vita-DHA-Omega-3-Fish-Oil-Seamless-Capsule/p/328912"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Calvin Klein 女運動內衣 2入組",
-      "現價": "679",
-      "原價": "849",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcd/h55/489268512391198.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Calvin-Klein-Ladies-Sports-Bra-2-Pack-Set/p/1969790"
     },
     {
       "品牌": "Costco 台灣",
