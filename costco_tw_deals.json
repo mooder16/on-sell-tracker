@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-10-16 16:10:06",
+  "scraped_at": "2026-10-16 22:35:17",
   "total": 54,
   "products": [
     {
@@ -268,7 +268,7 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "陳品 冷凍迷你生煎包",
-      "現價": "319",
+      "現價": "389",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0d/hd8/386020417568798.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Chen-Pin-Frozen-Mini-Pan-Fried-Bun/p/156338"
@@ -328,8 +328,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "服飾",
       "商品名稱": "Merrell Moab 3 男登山運動鞋",
-      "現價": "2999",
-      "原價": "3749",
+      "現價": "",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4d/h53/502266469285918.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Merrell-Moab-3-Mens-Hiking-Shoe/p/1846575"
     },
