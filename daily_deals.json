@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-10-18 08:33:51",
-  "total": 172,
+  "scraped_at": "2026-10-18 15:24:29",
+  "total": 178,
   "products": [
     {
       "分類": "外套",
@@ -229,6 +229,14 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "牛仔上衣(長袖)",
+      "現價": "790",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055037/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055037"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "特級亞麻襯衫(長袖)",
       "現價": "590",
       "原價": "1290",
@@ -274,6 +282,14 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055248/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055248"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "牛津格紋寬版襯衫(長袖)",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053150/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053150"
     },
     {
       "分類": "上衣",
@@ -469,6 +485,14 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "DRY多色圓領T恤(短袖)",
+      "現價": "99",
+      "原價": "190",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054950/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054950"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "AIRism棉質T恤(短袖) 474405",
       "現價": "190",
       "原價": "390",
@@ -586,6 +610,14 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054383/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054383"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "BRATOP削肩短版背心",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055212/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055212"
     },
     {
       "分類": "上衣",
@@ -770,6 +802,14 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053875/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053875"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "SMART 九分褲 479298",
+      "現價": "590",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053106/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053106"
     },
     {
       "分類": "褲子",
@@ -1220,14 +1260,6 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052857"
     },
     {
-      "分類": "配件",
-      "商品名稱": "襪子3雙",
-      "現價": "249",
-      "原價": "290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055180/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055180"
-    },
-    {
       "分類": "褲子",
       "商品名稱": "中腰內褲 482687 / 480902",
       "現價": "99",
@@ -1324,6 +1356,14 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054735"
     },
     {
+      "分類": "其他",
+      "商品名稱": "方形太陽眼鏡",
+      "現價": "190",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054540/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054540"
+    },
+    {
       "分類": "上衣",
       "商品名稱": "ZO&FRIENDS UT印花T恤(短袖)",
       "現價": "390",
@@ -1378,6 +1418,14 @@
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054478/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054478"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "PEANUTS UT印花T恤(短袖)",
+      "現價": "290",
+      "原價": "490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053650/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053650"
     }
   ]
 }
