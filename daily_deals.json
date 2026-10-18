@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-10-18 15:24:29",
+  "scraped_at": "2026-10-18 18:27:43",
   "total": 178,
   "products": [
     {
@@ -85,6 +85,14 @@
     },
     {
       "分類": "外套",
+      "商品名稱": "燈芯絨短版外套",
+      "現價": "1490",
+      "原價": "1990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055059/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055059"
+    },
+    {
+      "分類": "外套",
       "商品名稱": "刷毛短版外套",
       "現價": "1290",
       "原價": "1490",
@@ -98,14 +106,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054684/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054684"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "燈芯絨短版外套",
-      "現價": "1490",
-      "原價": "1990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055059/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055059"
     },
     {
       "分類": "外套",
@@ -341,19 +341,19 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "防曬拼色圓領針織衫(短袖)",
-      "現價": "590",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053614/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053614"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "可機洗米蘭羅紋針織T恤(短袖)",
       "現價": "390",
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055268/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055268"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "防曬拼色圓領針織衫(短袖)",
+      "現價": "590",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053614/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053614"
     },
     {
       "分類": "上衣",
@@ -933,19 +933,19 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "棉質彈性短褲(泡泡紗) 474123",
-      "現價": "390",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055265/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055265"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "棉質短褲(條紋)",
       "現價": "490",
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053326/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053326"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "棉質彈性短褲(泡泡紗) 474123",
+      "現價": "390",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055265/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055265"
     },
     {
       "分類": "褲子",
@@ -1416,8 +1416,8 @@
       "商品名稱": "Mickey & Friends 短版UT印花T恤(長袖)",
       "現價": "490",
       "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054478/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054478"
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054476/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054476"
     },
     {
       "分類": "上衣",
