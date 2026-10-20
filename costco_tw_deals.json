@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-10-20 03:33:03",
+  "scraped_at": "2026-10-20 09:10:31",
   "total": 54,
   "products": [
     {
@@ -296,16 +296,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "家電",
-      "商品名稱": "飛利浦 75吋 4K Google TV 顯示器聲霸組合 75PUH7890/96",
-      "現價": "23999",
-      "原價": "29999",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hac/hab/438072164974622.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/Philips-75-inch-4K-Google-TV-Monitor-with-Soundbar-Set-75PUH789096/p/153515"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "TCL 65吋 C7L 頂級 SQD-Mini LED 量子智能連網液晶顯示器 不含視訊盒 65C7L",
       "現價": "31999",
@@ -322,6 +312,16 @@
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4d/h53/502266469285918.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Merrell-Moab-3-Mens-Hiking-Shoe/p/1846575"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "居家",
+      "商品名稱": "Allspace 收納整理盒 3入組",
+      "現價": "479",
+      "原價": "599",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hbc/hb3/502266474987550.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Storage-Containers-Hooks/Allspace-Fabric-Storage-Organizer-3-Pack-Set/p/1901782"
     },
     {
       "品牌": "Costco 台灣",
