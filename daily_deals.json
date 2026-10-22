@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-10-22 16:40:25",
-  "total": 192,
+  "scraped_at": "2026-10-22 23:07:24",
+  "total": 188,
   "products": [
     {
       "分類": "外套",
@@ -157,14 +157,6 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "可攜式防曬連帽外套 474175",
-      "現價": "790",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000051630/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000051630"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "DRY-EX防曬連帽外套",
       "現價": "490",
       "原價": "990",
@@ -250,14 +242,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055144/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055144"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "牛仔上衣(長袖)",
-      "現價": "790",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055037/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055037"
     },
     {
       "分類": "上衣",
@@ -925,14 +909,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "棉麻短褲(條紋)",
-      "現價": "290",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053722/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053722"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "百褶褲裙(條紋)",
       "現價": "590",
       "原價": "790",
@@ -1474,14 +1450,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054735/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054735"
-    },
-    {
-      "分類": "其他",
-      "商品名稱": "威靈頓太陽眼鏡",
-      "現價": "190",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053261/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053261"
     },
     {
       "分類": "上衣",
