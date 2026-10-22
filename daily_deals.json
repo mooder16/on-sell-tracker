@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-10-21 23:01:34",
-  "total": 187,
+  "scraped_at": "2026-10-22 03:23:34",
+  "total": 186,
   "products": [
     {
       "分類": "外套",
@@ -498,14 +498,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054450/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054450"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "DRY多色圓領T恤(短袖)",
-      "現價": "99",
-      "原價": "190",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054950/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054950"
     },
     {
       "分類": "上衣",
