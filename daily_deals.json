@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-10-22 23:07:24",
-  "total": 188,
+  "scraped_at": "2026-10-23 03:38:31",
+  "total": 187,
   "products": [
     {
       "分類": "外套",
@@ -14,7 +14,7 @@
     {
       "分類": "外套",
       "商品名稱": "工裝外套(牛仔)",
-      "現價": "1290",
+      "現價": "990",
       "原價": "1490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054657/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054657"
@@ -30,7 +30,7 @@
     {
       "分類": "外套",
       "商品名稱": "工裝外套",
-      "現價": "1290",
+      "現價": "990",
       "原價": "1490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054623/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054623"
@@ -154,14 +154,6 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054695/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054695"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "DRY-EX防曬連帽外套",
-      "現價": "490",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054693/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054693"
     },
     {
       "分類": "外套",
