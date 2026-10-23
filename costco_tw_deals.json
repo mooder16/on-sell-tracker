@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-10-23 03:41:02",
+  "scraped_at": "2026-10-23 09:09:37",
   "total": 54,
   "products": [
     {
@@ -336,6 +336,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "道地的偉特 奶油太妃糖 1公斤",
+      "現價": "339",
+      "原價": "419",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha2/h4b/34526380752926.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Werthers-Original-Cream-Candies-1-kg/p/126427"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "3C",
       "商品名稱": "象印 黑金剛微電腦電子鍋 NS-ZLF18",
       "現價": "3999",
@@ -472,16 +482,6 @@
       "原價": "699",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h42/he6/102425062768670.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Storage-Containers-Hooks/MagicBag-Instant-Space-Saver-Storage-Combo-Set-15-Pack/p/1600355"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Merrell Moab 3 女登山運動鞋",
-      "現價": "",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hee/h40/502597111971870.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Merrell-Moab-3-Ladies-Hiking-Shoe/p/1763686"
     },
     {
       "品牌": "Costco 台灣",
