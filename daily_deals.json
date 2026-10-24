@@ -1,6 +1,6 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-10-24 15:25:06",
+  "scraped_at": "2026-10-24 18:35:39",
   "total": 180,
   "products": [
     {
@@ -37,19 +37,19 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "紋理開襟外套(長袖)(櫻桃)",
-      "現價": "490",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054413/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054413"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "無縫羽絨連帽外套",
       "現價": "2490",
       "原價": "3490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052104/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052104"
+    },
+    {
+      "分類": "外套",
+      "商品名稱": "紋理開襟外套(長袖)(櫻桃)",
+      "現價": "490",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054413/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054413"
     },
     {
       "分類": "外套",
@@ -101,19 +101,19 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "刷毛短版外套",
-      "現價": "1290",
-      "原價": "1490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055141/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055141"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "西裝外套",
       "現價": "1690",
       "原價": "1990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054763/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054763"
+    },
+    {
+      "分類": "外套",
+      "商品名稱": "刷毛短版外套",
+      "現價": "1290",
+      "原價": "1490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055141/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055141"
     },
     {
       "分類": "外套",
@@ -437,19 +437,19 @@
     },
     {
       "分類": "其他",
-      "商品名稱": "DRY網眼POLO衫(短袖)",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054450/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054450"
-    },
-    {
-      "分類": "其他",
       "商品名稱": "DRY網眼POLO衫(短袖)(細條紋)",
       "現價": "390",
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054698/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054698"
+    },
+    {
+      "分類": "其他",
+      "商品名稱": "DRY網眼POLO衫(短袖)",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054450/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054450"
     },
     {
       "分類": "上衣",
@@ -637,19 +637,19 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "牛仔寬褲 488694",
-      "現價": "590",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054566/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054566"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "合身直筒牛仔褲",
       "現價": "990",
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054414/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054414"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "牛仔寬褲 488694",
+      "現價": "590",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054566/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054566"
     },
     {
       "分類": "褲子",
@@ -685,6 +685,14 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "燈芯絨繭型褲",
+      "現價": "1290",
+      "原價": "1490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055053/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055053"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "繭型卡其褲",
       "現價": "990",
       "原價": "1290",
@@ -701,11 +709,11 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "燈芯絨繭型褲",
-      "現價": "1290",
-      "原價": "1490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055053/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055053"
+      "商品名稱": "特級彈性Active束口褲",
+      "現價": "490",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055165/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055165"
     },
     {
       "分類": "褲子",
@@ -717,11 +725,11 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "特級彈性Active束口褲",
-      "現價": "490",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055165/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055165"
+      "商品名稱": "卡其寬褲",
+      "現價": "990",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055148/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055148"
     },
     {
       "分類": "褲子",
@@ -730,14 +738,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055167/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055167"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "卡其寬褲",
-      "現價": "990",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055148/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055148"
     },
     {
       "分類": "褲子",
@@ -990,10 +990,10 @@
     {
       "分類": "上衣",
       "商品名稱": "嫘縈條紋開領上衣(七分袖)",
-      "現價": "390",
+      "現價": "590",
       "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052750/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052750"
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054146/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054146"
     },
     {
       "分類": "上衣",
@@ -1261,19 +1261,19 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "低腰內褲 479202",
-      "現價": "99",
-      "原價": "190",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052860/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052860"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "中腰內褲(花朵)",
       "現價": "149",
       "原價": "190",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054410/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054410"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "低腰內褲 479202",
+      "現價": "99",
+      "原價": "190",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052860/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052860"
     },
     {
       "分類": "上衣",
@@ -1301,14 +1301,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "高腰內褲 479200",
-      "現價": "99",
-      "原價": "190",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052784/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052784"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "低腰內褲(條紋)",
       "現價": "99",
       "原價": "190",
@@ -1322,6 +1314,14 @@
       "原價": "190",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052863/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052863"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "高腰內褲 479200",
+      "現價": "99",
+      "原價": "190",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052784/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052784"
     },
     {
       "分類": "褲子",
