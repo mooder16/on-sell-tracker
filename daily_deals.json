@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-10-24 08:39:33",
-  "total": 183,
+  "scraped_at": "2026-10-24 15:25:06",
+  "total": 180,
   "products": [
     {
       "分類": "外套",
@@ -346,14 +346,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054603/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054603"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "防曬拼色圓領針織衫(短袖)",
-      "現價": "490",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053614/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053614"
     },
     {
       "分類": "上衣",
@@ -773,14 +765,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "繭型牛仔褲(稍長) 484807",
-      "現價": "790",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055176/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055176"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "經典卡其褲",
       "現價": "590",
       "原價": "1290",
@@ -1010,14 +994,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052750/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052750"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "特級亞麻開領襯衫(七分袖)",
-      "現價": "590",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053417/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053417"
     },
     {
       "分類": "上衣",
