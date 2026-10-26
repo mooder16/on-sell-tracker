@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-10-26 09:46:15",
+  "scraped_at": "2026-10-26 18:18:42",
   "total": 54,
   "products": [
     {
@@ -218,8 +218,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "Magic Waffles 冷凍比利時巧克力鬆餅 80公克 X 16入",
-      "現價": "515",
-      "原價": "615",
+      "現價": "615",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h7f/h83/52747090591774.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Desserts-Ice-Cream/Magic-Waffles-Frozen-Belgian-Chocolate-Filled-Waffles-80G-X-16-Count/p/130843"
     },
@@ -298,8 +298,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "維力 素飄香麻辣風味麵 105公克 X 9入",
-      "現價": "229",
-      "原價": "279",
+      "現價": "279",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h6b/ha9/504582155206686.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Weilih-Veggie-Instant-Noodles-Spicy-Flavor-105-g-X-9-Pack/p/162542"
     },
@@ -406,6 +406,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "清潔",
+      "商品名稱": "ON THE BODY 46cm 淨味沐浴露 皂香 1000毫升",
+      "現價": "399",
+      "原價": "499",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcc/h85/471216388407326.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Bath-Body/ON-THE-BODY-46-cm-Body-Wash-Soap-Scent-1000-ml/p/159487"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "居家",
       "商品名稱": "歐司朗 20W LED 燈泡 8入",
       "現價": "1259",
@@ -472,16 +482,6 @@
       "原價": "939",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h31/ha7/488918661300254.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Adidas-Ladies-Embroidered-Logo-Long-Sleeve-Tee/p/157954"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "樂扣樂扣 新美學玻璃保鮮盒 含蓋10件組",
-      "現價": "949",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h74/h92/368770495479838.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Food-Storage-Containers/LocknLock-Glass-Food-Storage-with-Lid-10-Piece-Set/p/155268"
     },
     {
       "品牌": "Costco 台灣",
