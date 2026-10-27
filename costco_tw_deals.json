@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-10-27 09:38:43",
+  "scraped_at": "2026-10-27 17:32:42",
   "total": 54,
   "products": [
     {
@@ -78,8 +78,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "星巴克 陽光典藏咖啡豆 1.13公斤",
-      "現價": "835",
-      "原價": "1035",
+      "現價": "1035",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h6a/he4/228120201560094.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Starbucks-Blonde-Espresso-Roast-113-kg/p/145382"
     },
@@ -212,26 +212,6 @@
       "原價": "469",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h94/h03/118701813760030.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Lotte-Milkis-Soda-Drink-250-ml-X-30-Count/p/133053"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "阿舍食堂 流星拌麵-炸醬口味 95公克 X 12包",
-      "現價": "239",
-      "原價": "299",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h98/h7b/172714272030750.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/A-Sha-Meteor-Noodles-with-Fried-Sauce-95-g-X-12-Pack/p/1460189"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Monte & Jardin 印花舒適毯 152公分 X 177公分",
-      "現價": "279",
-      "原價": "349",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he7/h55/492430038630430.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Monte-Jardin-Plush-Throw-152-cm-X-177-cm/p/186800"
     },
     {
       "品牌": "Costco 台灣",
@@ -482,6 +462,26 @@
       "原價": "515",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb6/h39/294120940601374.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Airborne-Effervescent-Tablets-Zesty-Orange-30-Tablet/p/991335"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Copper & Oak 男長褲",
+      "現價": "519",
+      "原價": "649",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hfe/h9e/488918905552926.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Copper-Oak-Mens-Pant/p/1897586"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "滿意寶寶 瞬潔乾爽紙尿褲 XL號 168片",
+      "現價": "1079",
+      "原價": "1349",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h76/h19/507674926940190.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Baby-Extra-Dry-Diaper-Size-XL-168-Piece/p/165004"
     },
     {
       "品牌": "Costco 台灣",
