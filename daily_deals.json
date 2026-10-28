@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-10-28 04:06:15",
-  "total": 181,
+  "scraped_at": "2026-10-28 14:52:04",
+  "total": 183,
   "products": [
     {
       "分類": "外套",
@@ -341,6 +341,14 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "可機洗米蘭羅紋針織T恤(短袖)",
+      "現價": "290",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054603/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054603"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "可機洗針織襯衫(短袖)",
       "現價": "590",
       "原價": "990",
@@ -522,6 +530,14 @@
       "原價": "390",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054692/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054692"
+    },
+    {
+      "分類": "其他",
+      "商品名稱": "DRY-EX半開襟POLO衫(短袖)",
+      "現價": "290",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053917/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053917"
     },
     {
       "分類": "其他",
@@ -733,6 +749,14 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "特級彈性Active窄管長褲",
+      "現價": "390",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055167/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055167"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "燈芯絨寬褲",
       "現價": "990",
       "原價": "1490",
@@ -754,6 +778,14 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054694/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054694"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "防潑水多口袋機能長褲 479382 / 481269 / 482919",
+      "現價": "590",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052885/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052885"
     },
     {
       "分類": "褲子",
@@ -794,14 +826,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053057/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053057"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "SMART 九分褲 479298",
-      "現價": "490",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053106/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053106"
     },
     {
       "分類": "褲子",
@@ -1021,14 +1045,6 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "特級亞麻寬版開領襯衫(短袖)",
-      "現價": "390",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053442/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053442"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "寬版襯衫(短袖)",
       "現價": "490",
       "原價": "990",
@@ -1122,6 +1138,14 @@
       "原價": "1490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055225/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055225"
+    },
+    {
+      "分類": "洋裝",
+      "商品名稱": "AIRism棉質洋裝(短袖)",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052962/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052962"
     },
     {
       "分類": "洋裝",
@@ -1322,14 +1346,6 @@
       "原價": "190",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052862/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052862"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "HEATTECH U領T恤(8分袖) 478934",
-      "現價": "390",
-      "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000020076/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000020076"
     },
     {
       "分類": "褲子",
