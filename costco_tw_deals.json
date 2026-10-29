@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-10-29 14:59:39",
+  "scraped_at": "2026-10-29 20:55:47",
   "total": 54,
   "products": [
     {
@@ -58,8 +58,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "一風堂 綜合博多拉麵 8入/973.6公克",
-      "現價": "389",
-      "原價": "479",
+      "現價": "479",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h36/h99/455116839649310.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Ippudo-Hakata-Ramen-Set-8-Pack-9736-g/p/160801"
     },
@@ -148,8 +148,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "琣伯莉 綜合餅乾 X 3入/610公克",
-      "現價": "315",
-      "原價": "389",
+      "現價": "389",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd0/h98/487711274008606.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Pepperidge-Farm-Distinctive-Cookies-X-3-Pack-610-g/p/316874"
     },
@@ -401,7 +401,7 @@
       "現價": "799",
       "原價": "999",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h79/h39/503697345151006.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/158208"
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Childrens-Shoes/Skechers-Boys-Light-Shoe/p/158208"
     },
     {
       "品牌": "Costco 台灣",
