@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-10-31 19:46:05",
+  "scraped_at": "2026-10-31 23:09:02",
   "total": 54,
   "products": [
     {
@@ -37,6 +37,16 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
+      "商品名稱": "喜年來 Oh! 醬小蛋餅 42公克 X 21入",
+      "現價": "269",
+      "原價": "329",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4c/h0a/467794334679070.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Serena-Mini-Egg-Cookies-42-g-X-21-Pack/p/167882"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
       "商品名稱": "大田海洋 十三香辣鱈魚寬片 250公克 X 3包",
       "現價": "269",
       "原價": "329",
@@ -67,11 +77,11 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
-      "商品名稱": "喜年來 Oh! 醬小蛋餅 42公克 X 21入",
-      "現價": "269",
-      "原價": "329",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4c/h0a/467794334679070.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Serena-Mini-Egg-Cookies-42-g-X-21-Pack/p/167882"
+      "商品名稱": "卜蜂 台灣冷凍去骨雞腿肉 2.5公斤 X 6入",
+      "現價": "3019",
+      "原價": "3429",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h75/h9c/122430601134110.jpg",
+      "商品連結": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/CP-Taiwan-Frozen-Boneless-Chicken-Thigh-25-kg-X-6-Count/p/146146"
     },
     {
       "品牌": "Costco 台灣",
@@ -82,16 +92,6 @@
       "原價": "499",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he5/h98/101049247498270.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Tea/Ito-En-Jin-Xuan-Oolong-Tea-535-ml-X-24-Count/p/209829"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "卜蜂 台灣冷凍去骨雞腿肉 2.5公斤 X 6入",
-      "現價": "3019",
-      "原價": "3429",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h75/h9c/122430601134110.jpg",
-      "商品連結": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/CP-Taiwan-Frozen-Boneless-Chicken-Thigh-25-kg-X-6-Count/p/146146"
     },
     {
       "品牌": "Costco 台灣",
@@ -151,7 +151,7 @@
       "現價": "515",
       "原價": "629",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h55/h6e/291292251652126.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/149327"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Tai-Sun-Low-Sugar-Mixed-Congee-360-g-X-24-Count/p/149327"
     },
     {
       "品牌": "Costco 台灣",
