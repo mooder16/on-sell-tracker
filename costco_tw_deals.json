@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-11-01 14:47:29",
+  "scraped_at": "2026-11-01 20:14:15",
   "total": 54,
   "products": [
     {
@@ -18,8 +18,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "高坑 高粱原味牛肉乾 + 高粱辣味牛肉乾 300公克 X 2入",
-      "現價": "519",
-      "原價": "649",
+      "現價": "649",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h1b/h51/153904728571934.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kow-Kun-Beef-Jerky-Kaoliang-Liquor-Original-and-Spicy-Flavor-300-g-X-2-Pack/p/219930"
     },
@@ -28,10 +28,10 @@
       "來源": "Costco 每日精選優惠",
       "分類": "寵物",
       "商品名稱": "Cat Chow 貓乾糧完整均衡配方 6.8公斤",
-      "現價": "629",
-      "原價": "779",
+      "現價": "779",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he8/h75/419358172807198.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Pet-Supplies/Pet-Dry-Wet-Food/Cat-Chow-Cat-Food-68-kg/p/126098"
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/p/126098"
     },
     {
       "品牌": "Costco 台灣",
@@ -48,8 +48,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "大田海洋 十三香辣鱈魚寬片 250公克 X 3包",
-      "現價": "269",
-      "原價": "329",
+      "現價": "329",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8d/h60/386411411603486.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Dah-Tien-Thirteen-Spices-Fish-Jerky-250-g-X-3-Pack/p/155744"
     },
@@ -58,8 +58,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "KOH COCONUT 純椰子汁 1公升 X 6入",
-      "現價": "379",
-      "原價": "459",
+      "現價": "459",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h28/hd0/102276188930078.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/KOH-COCONUT-100-Pure-Coconut-Water-1-L-X-6-Count/p/75130"
     },
@@ -71,7 +71,7 @@
       "現價": "3019",
       "原價": "3429",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h75/h9c/122430601134110.jpg",
-      "商品連結": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/CP-Taiwan-Frozen-Boneless-Chicken-Thigh-25-kg-X-6-Count/p/146146"
+      "商品連結": "https://www.costco.com.tw/Frozen-Food/p/146146"
     },
     {
       "品牌": "Costco 台灣",
@@ -88,8 +88,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "Ito-En 伊藤園 金萱烏龍茶 535毫升 X 24入",
-      "現價": "409",
-      "原價": "499",
+      "現價": "499",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he5/h98/101049247498270.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Tea/Ito-En-Jin-Xuan-Oolong-Tea-535-ml-X-24-Count/p/209829"
     },
@@ -98,8 +98,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "森永 嗨啾軟糖經典綜合水果口味 1000公克",
-      "現價": "245",
-      "原價": "299",
+      "現價": "299",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h38/h40/431395552821278.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Morinaga-Hi-Chew-Candy-Stand-Up-Bag-Classic-Mixed-Fruits-1000-g/p/77915"
     },
@@ -138,8 +138,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "富果樂 可可草莓早餐麥片 1公斤",
-      "現價": "289",
-      "原價": "359",
+      "現價": "359",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf1/he2/452750414020638.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Calbee-Choco-Strawberry-Granola-1-kg/p/424884"
     },
@@ -148,8 +148,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "阿舍食堂 流星拌麵-炸醬口味 95公克 X 12包",
-      "現價": "239",
-      "原價": "299",
+      "現價": "299",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h98/h7b/172714272030750.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/A-Sha-Meteor-Noodles-with-Fried-Sauce-95-g-X-12-Pack/p/1460189"
     },
@@ -158,8 +158,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "寵物",
       "商品名稱": "Tidy Cats 高效清香凝結罐裝貓砂 6.35公斤 X 3罐",
-      "現價": "599",
-      "原價": "759",
+      "現價": "759",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h50/h56/61939547766814.jpg",
       "商品連結": "https://www.costco.com.tw/c/Tidy-Cats-Instant-Action-Clumping-Cat-Litter-635-kg-X-3-Count/p/115777"
     },
@@ -168,8 +168,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "Maruesu 芥末醬油海苔天婦羅 24公克 X 10入",
-      "現價": "259",
-      "原價": "319",
+      "現價": "319",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc6/h19/16127111757854.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Maruesu-Wasabi-Soy-Sauce-Flavored-Seaweed-Cracker-24-g-X-10-Pack/p/115139"
     },
@@ -191,7 +191,7 @@
       "現價": "1079",
       "原價": "1349",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h71/hb1/507674928709662.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Baby-Extra-Dry-Diaper-Size-XXL-120-Piece/p/165005"
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/p/165005"
     },
     {
       "品牌": "Costco 台灣",
@@ -261,7 +261,7 @@
       "現價": "369",
       "原價": "459",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb3/h36/65826714714142.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Kinder-Chocolate-Maxi-21-g-X-36-Count/p/106522"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/106522"
     },
     {
       "品牌": "Costco 台灣",
@@ -288,8 +288,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "清潔",
       "商品名稱": "ON THE BODY 46cm 淨味沐浴露 皂香 1000毫升",
-      "現價": "399",
-      "原價": "499",
+      "現價": "499",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcc/h85/471216388407326.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Bath-Body/ON-THE-BODY-46-cm-Body-Wash-Soap-Scent-1000-ml/p/159487"
     },
@@ -298,8 +298,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "大成跑跑雞 台灣冷凍放山雞切塊 0.8公斤 X 4入",
-      "現價": "1299",
-      "原價": "1499",
+      "現價": "1499",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h63/h4c/187953472831518.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Dachan-Running-Chicken-Taiwan-Frozen-Cage-Free-Chopped-Chicken-08-kg-X-4-Pack/p/142792"
     },
@@ -328,8 +328,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "Magic Waffles 冷凍比利時巧克力鬆餅 80公克 X 16入",
-      "現價": "515",
-      "原價": "615",
+      "現價": "615",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h7f/h83/52747090591774.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Desserts-Ice-Cream/Magic-Waffles-Frozen-Belgian-Chocolate-Filled-Waffles-80G-X-16-Count/p/130843"
     },
@@ -338,8 +338,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "奇美 冷凍港點三重奏 960公克",
-      "現價": "409",
-      "原價": "499",
+      "現價": "499",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha4/h2a/399197037658142.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Chi-Mei-Frozen-Dim-Sum-Set-960g/p/246436"
     },
@@ -378,8 +378,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "Reynolds 雷諾茲 保鮮膜 30公分 X 300公尺",
-      "現價": "329",
-      "原價": "399",
+      "現價": "399",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h7b/he0/34958971404318.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Food-Preservation/Reynolds-Plastic-Food-Wrap-30-cm-X-300-m/p/68080"
     },
@@ -418,8 +418,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "家電",
       "商品名稱": "LG 65吋 OLED AI 4K 智慧顯示器 B6經典系列 OLED65B6PTA",
-      "現價": "44479",
-      "原價": "55599",
+      "現價": "55599",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc7/h17/492247734714398.jpg",
       "商品連結": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/LG-65-inch-Class-B6-Series-OLED-AI-4K-Smart-TV-OLED65B6PTA/p/162230"
     },
@@ -461,7 +461,7 @@
       "現價": "2549",
       "原價": "3199",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb8/hd9/168536091066398.jpg",
-      "商品連結": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/Lao-Xie-Zhen-Frozen-Sukiyaki-Pork-Rice-Burger-195-g-X-3-Count-X-20-Case/p/124110"
+      "商品連結": "https://www.costco.com.tw/Frozen-Food/p/124110"
     },
     {
       "品牌": "Costco 台灣",
