@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-11-03 19:04:16",
-  "total": 162,
+  "scraped_at": "2026-11-04 00:23:06",
+  "total": 161,
   "products": [
     {
       "分類": "外套",
@@ -114,14 +114,6 @@
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054408/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054408"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "哈靈頓外套",
-      "現價": "990",
-      "原價": "1990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054697/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054697"
     },
     {
       "分類": "外套",
