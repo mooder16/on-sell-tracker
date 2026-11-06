@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-11-06 18:54:51",
-  "total": 159,
+  "scraped_at": "2026-11-06 23:57:32",
+  "total": 160,
   "products": [
     {
       "分類": "外套",
@@ -98,14 +98,6 @@
       "原價": "1990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054874/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054874"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "喀什米爾圓領毛衣(長袖)",
-      "現價": "1990",
-      "原價": "2990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052114/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052114"
     },
     {
       "分類": "上衣",
@@ -1213,11 +1205,27 @@
     },
     {
       "分類": "其他",
+      "商品名稱": "威靈頓太陽眼鏡",
+      "現價": "190",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053261/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053261"
+    },
+    {
+      "分類": "其他",
       "商品名稱": "波士頓太陽眼鏡",
       "現價": "190",
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053253/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053253"
+    },
+    {
+      "分類": "其他",
+      "商品名稱": "矩形太陽眼鏡",
+      "現價": "190",
+      "原價": "590",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055206/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055206"
     },
     {
       "分類": "上衣",
