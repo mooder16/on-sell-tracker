@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-11-07 19:54:33",
+  "scraped_at": "2026-11-07 23:27:17",
   "total": 55,
   "products": [
     {
@@ -16,16 +16,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "家電",
-      "商品名稱": "克潮靈 備長炭集水袋除濕劑替換包 40入",
-      "現價": "479",
-      "原價": "599",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h75/hc4/34526380556318.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Pest-Control-Air-Care/Farcent-Refillable-Charcoal-Dehumidifier-40-Count/p/126897"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "西雅圖 無加糖二合一咖啡 21公克 X 100包 X 2盒",
       "現價": "1249",
@@ -36,12 +26,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "IRIS OHYAMA 富士山強氣泡水 環保無標籤款 500毫升 X 24瓶",
-      "現價": "364",
-      "原價": "459",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4b/h27/261465740410910.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Water-Sparkling-Water/IRIS-OHYAMA-Strong-Sparkling-Water-500-ml-X-24-Count/p/151543"
+      "分類": "家電",
+      "商品名稱": "克潮靈 備長炭集水袋除濕劑替換包 40入",
+      "現價": "479",
+      "原價": "599",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h75/hc4/34526380556318.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Pest-Control-Air-Care/Farcent-Refillable-Charcoal-Dehumidifier-40-Count/p/126897"
     },
     {
       "品牌": "Costco 台灣",
@@ -66,12 +56,52 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "珍苑 清燉牛肉湯 500毫升 X 4包",
+      "現價": "379",
+      "原價": "469",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb0/h19/330166889119774.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Jen-Yuan-Stewed-Beef-Soup-500-ml-X-4-Pack/p/151628"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "IRIS OHYAMA 富士山強氣泡水 環保無標籤款 500毫升 X 24瓶",
+      "現價": "364",
+      "原價": "459",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4b/h27/261465740410910.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Water-Sparkling-Water/IRIS-OHYAMA-Strong-Sparkling-Water-500-ml-X-24-Count/p/151543"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "久世福 韃靼蕎麥茶 6公克 X 50包",
+      "現價": "239",
+      "原價": "299",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h40/h31/439233883897886.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Tea/Kuze-Fuku-Tartary-Buckwheat-Tea-6-g-X-50-Pack/p/146175"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "清潔",
       "商品名稱": "五月花 妙用綿柔抽取衛生紙 輕巧包 130抽 X 108入",
       "現價": "899",
       "原價": "1129",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h95/hdc/65294096039966.jpg",
       "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Mayflower-Multi-Function-Mini-Interfold-Tissue-Paper-130-Sheet-X-108-Count/p/187901"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "老舊金山 拿鐵咖啡原味 20公克 X 125入",
+      "現價": "545",
+      "原價": "679",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3f/hba/33329119789086.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Old-San-Francisco-Original-Instant-Cafe-Latte-20-g-X-125-Count/p/293167"
     },
     {
       "品牌": "Costco 台灣",
@@ -92,26 +122,6 @@
       "原價": "1035",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h80/hf3/46337917091870.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Starbucks-Pike-Place-Roast-Whole-Bean-Coffee-113-kg/p/608462"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "久世福 韃靼蕎麥茶 6公克 X 50包",
-      "現價": "239",
-      "原價": "299",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h40/h31/439233883897886.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Tea/Kuze-Fuku-Tartary-Buckwheat-Tea-6-g-X-50-Pack/p/146175"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "珍苑 清燉牛肉湯 500毫升 X 4包",
-      "現價": "379",
-      "原價": "469",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb0/h19/330166889119774.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Jen-Yuan-Stewed-Beef-Soup-500-ml-X-4-Pack/p/151628"
     },
     {
       "品牌": "Costco 台灣",
@@ -156,16 +166,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "老舊金山 拿鐵咖啡原味 20公克 X 125入",
-      "現價": "545",
-      "原價": "679",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3f/hba/33329119789086.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Old-San-Francisco-Original-Instant-Cafe-Latte-20-g-X-125-Count/p/293167"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "Brita Maxtra Pro 濾水壺專用濾芯純淨全效型 8入組",
       "現價": "1319",
@@ -177,11 +177,41 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
+      "商品名稱": "宴麥森林 黑芝麻堅果多燕麥穀片 770公克",
+      "現價": "269",
+      "原價": "339",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc2/h84/449275193819166.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Granola-House-Black-Sesame-Granola-770-g/p/145176"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "G.U.M 牙周護理潔齒液 960毫升 X 3入",
+      "現價": "579",
+      "原價": "725",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h7a/h6e/399196719415326.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Oral-Care/GUM-Dental-Rinse-960-ml-X-3-Pack/p/144210"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
       "商品名稱": "雀巢 原味即溶咖啡粉 300公克 X 2罐",
       "現價": "549",
       "原價": "689",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h94/hea/259146868817950.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Nescafe-Instant-Coffee-300-g-X-2-Pack/p/261182"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "健司 奶油胚芽餅乾 28.5公克 X 45入",
+      "現價": "305",
+      "原價": "379",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h1b/h00/452308934098974.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Kenji-Butter-Crackers-285-g-X-45-Pack/p/81990"
     },
     {
       "品牌": "Costco 台灣",
@@ -212,6 +242,16 @@
       "原價": "665",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcd/hb4/105007594438686.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/AROMASE-Herbal-Anti-Dandruff-Essential-Shampoo-1-L/p/226672"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "貓倍麗 香烤嫩雞主食罐 85公克 X 24入",
+      "現價": "459",
+      "原價": "579",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf3/h34/11133446750238.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Pet-Supplies/Pet-Dry-Wet-Food/Mon-Petit-Chicken-Canned-Cat-Food-85-g-X-24-Count/p/120407"
     },
     {
       "品牌": "Costco 台灣",
@@ -286,6 +326,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "健康保健",
+      "商品名稱": "中衛醫療口罩-成人立體(3D)白色 100入",
+      "現價": "679",
+      "原價": "849",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h1e/h3d/137143955783710.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Home-Health-Care/First-Aid-Supplies/CSD-Medical-Mask-Non-Sterile-100-Piece/p/139285"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "清潔",
       "商品名稱": "舒潔 Viva 三層廚房紙巾 60張 X 16卷",
       "現價": "423",
@@ -307,31 +357,11 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
-      "商品名稱": "貓倍麗 香烤嫩雞主食罐 85公克 X 24入",
-      "現價": "459",
-      "原價": "579",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf3/h34/11133446750238.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Pet-Supplies/Pet-Dry-Wet-Food/Mon-Petit-Chicken-Canned-Cat-Food-85-g-X-24-Count/p/120407"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
       "商品名稱": "珍苑 紅酒燉牛肉 200公克 X 6袋",
       "現價": "279",
       "原價": "349",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h65/hd9/415897346277406.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Jen-Yuan-Braised-Beef-in-Red-Wine-200-g-X-6-Pack/p/155296"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "G.U.M 牙周護理潔齒液 960毫升 X 3入",
-      "現價": "579",
-      "原價": "725",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h7a/h6e/399196719415326.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Oral-Care/GUM-Dental-Rinse-960-ml-X-3-Pack/p/144210"
     },
     {
       "品牌": "Costco 台灣",
@@ -346,32 +376,22 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "宴麥森林 黑芝麻堅果多燕麥穀片 770公克",
-      "現價": "269",
-      "原價": "339",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc2/h84/449275193819166.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Granola-House-Black-Sesame-Granola-770-g/p/145176"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "健司 奶油胚芽餅乾 28.5公克 X 45入",
-      "現價": "305",
-      "原價": "379",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h1b/h00/452308934098974.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Kenji-Butter-Crackers-285-g-X-45-Pack/p/81990"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "健達 倍多 21公克 X 36條",
       "現價": "369",
       "原價": "459",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb3/h36/65826714714142.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Kinder-Chocolate-Maxi-21-g-X-36-Count/p/106522"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "冷凍午仔魚一夜干",
+      "現價": "719",
+      "原價": "849",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h04/hb5/243378403672094.jpg",
+      "商品連結": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/Frozen-Dried-Fourfinger-Threadfin-Fish/p/212868"
     },
     {
       "品牌": "Costco 台灣",
@@ -462,26 +482,6 @@
       "原價": "329",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h28/h32/344500441415710.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Richy-Kenju-Vegetable-Thin-Cracker-960-g/p/151283"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "滿意寶寶 瞬潔乾爽紙尿褲 XL號 168片",
-      "現價": "1079",
-      "原價": "1349",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h76/h19/507674926940190.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Baby-Extra-Dry-Diaper-Size-XL-168-Piece/p/165004"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "Nescafe Excella 雀巢無糖黑咖啡 900毫升 X 12 入",
-      "現價": "479",
-      "原價": "599",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h28/h5a/470130472812574.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Nescafe-Excella-Black-Coffee-No-Sugar-900-ml-X-12-Count/p/161342"
     },
     {
       "品牌": "Costco 台灣",
