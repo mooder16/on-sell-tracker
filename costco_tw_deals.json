@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-11-13 11:53:50",
+  "scraped_at": "2026-11-13 19:15:34",
   "total": 55,
   "products": [
     {
@@ -171,7 +171,7 @@
       "現價": "429",
       "原價": "539",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h95/h5e/291632920657950.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/p/220289"
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Orange-House-Powder-Laundry-Detergent-4-kg/p/220289"
     },
     {
       "品牌": "Costco 台灣",
@@ -237,11 +237,21 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
+      "商品名稱": "易可多 環保水管疏通劑 1公升 X 2入",
+      "現價": "719",
+      "原價": "899",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h96/h44/403519328190494.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Cleaning-Supplies/Ecodoo-Drain-Cleaner-1-L-X-2-Count/p/1137346"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
       "商品名稱": "橘子工坊 萬用除臭去漬粉 1250公克",
       "現價": "259",
       "原價": "329",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h49/he4/379632643866654.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Dish-Detergents/Orange-House-Versatile-Odor-Remover-Powder-1250-g/p/235853"
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/p/235853"
     },
     {
       "品牌": "Costco 台灣",
@@ -466,22 +476,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "三和 女內褲 2入組",
-      "現價": "379",
-      "原價": "479",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h00/hee/329850430193694.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Sanwa-Ladies-Underwear-2-Pack/p/150541"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "福樂 草莓優格飲 200毫升 X 24入",
-      "現價": "299",
-      "原價": "359",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h6f/h9c/413801359671326.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Freshdelight-Strawberry-Yogurt-200-ml-X-24-Count/p/157402"
+      "分類": "其他",
+      "商品名稱": "盛香珍 Dr.Q 葡萄草莓蒟蒻果凍 1.86公斤",
+      "現價": "269",
+      "原價": "329",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5b/h55/13692449161246.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/SHJ-DrQ-Konjac-Grape-and-Strawberry-Jelly-186-kg/p/123003"
     },
     {
       "品牌": "Costco 台灣",
