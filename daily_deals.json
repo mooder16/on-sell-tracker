@@ -1,13 +1,13 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-11-13 00:53:43",
-  "total": 158,
+  "scraped_at": "2026-11-13 11:52:22",
+  "total": 160,
   "products": [
     {
       "分類": "外套",
       "商品名稱": "工裝外套(牛仔)",
       "現價": "990",
-      "原價": "990",
+      "原價": "1490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054657/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054657"
     },
@@ -15,7 +15,7 @@
       "分類": "外套",
       "商品名稱": "工裝外套",
       "現價": "990",
-      "原價": "990",
+      "原價": "1490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054623/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054623"
     },
@@ -63,7 +63,7 @@
       "分類": "外套",
       "商品名稱": "紋理開襟外套(長袖)(櫻桃)",
       "現價": "490",
-      "原價": "490",
+      "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054413/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054413"
     },
@@ -79,7 +79,7 @@
       "分類": "外套",
       "商品名稱": "紋理開襟外套(長袖)",
       "現價": "490",
-      "原價": "490",
+      "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054418/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054418"
     },
@@ -127,7 +127,7 @@
       "分類": "外套",
       "商品名稱": "紋理開襟外套(長袖)(愛心)",
       "現價": "490",
-      "原價": "490",
+      "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054408/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054408"
     },
@@ -143,7 +143,7 @@
       "分類": "外套",
       "商品名稱": "紋理開襟外套(長袖)(印花)",
       "現價": "490",
-      "原價": "490",
+      "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053029/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053029"
     },
@@ -202,6 +202,14 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054546/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054546"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "鈕釦半開襟休閒上衣(長袖)",
+      "現價": "590",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054870/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054870"
     },
     {
       "分類": "上衣",
@@ -709,9 +717,17 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "特級彈性Active窄管長褲",
+      "現價": "390",
+      "原價": "990",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055167/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055167"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "工裝氣球褲",
       "現價": "790",
-      "原價": "790",
+      "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054240/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054240"
     },
@@ -1005,6 +1021,14 @@
     },
     {
       "分類": "洋裝",
+      "商品名稱": "棉質立領洋裝(長袖)",
+      "現價": "990",
+      "原價": "1490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055225/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055225"
+    },
+    {
+      "分類": "洋裝",
       "商品名稱": "拼接洋裝(無袖)",
       "現價": "390",
       "原價": "990",
@@ -1018,14 +1042,6 @@
       "原價": "1490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055234/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055234"
-    },
-    {
-      "分類": "洋裝",
-      "商品名稱": "領結洋裝(短袖)",
-      "現價": "390",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054326/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054326"
     },
     {
       "分類": "裙子",
