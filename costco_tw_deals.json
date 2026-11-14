@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-11-14 11:14:31",
+  "scraped_at": "2026-11-14 17:42:06",
   "total": 55,
   "products": [
     {
@@ -12,16 +12,6 @@
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h1d/h2f/466199162257438.jpg",
       "商品連結": "https://www.costco.com.tw/BazaarVoiceExclusion/freight/Michelin-Tire-Exclusive-Limited-Time-Offer/p/117622"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "西雅圖 無加糖二合一咖啡 21公克 X 100包 X 2盒",
-      "現價": "1249",
-      "原價": "1549",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h51/h5b/83706089209886.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Barista-2-in-1-Coffee-21-g-X-100-Pack-X-2-Count/p/309399"
     },
     {
       "品牌": "Costco 台灣",
@@ -68,8 +58,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "老舊金山 拿鐵咖啡原味 20公克 X 125入",
-      "現價": "545",
-      "原價": "679",
+      "現價": "679",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3f/hba/33329119789086.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Old-San-Francisco-Original-Instant-Cafe-Latte-20-g-X-125-Count/p/293167"
     },
@@ -482,6 +472,16 @@
       "原價": "359",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h6f/h9c/413801359671326.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Freshdelight-Strawberry-Yogurt-200-ml-X-24-Count/p/157402"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "唐舖子 原味牛軋巧酥 650公克",
+      "現價": "285",
+      "原價": "359",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf4/h5e/238306004402206.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Tang-Shop-Nougat-with-Biscuit-Original-650-g/p/144896"
     },
     {
       "品牌": "Costco 台灣",
