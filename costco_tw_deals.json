@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-11-14 17:42:06",
+  "scraped_at": "2026-11-14 23:39:44",
   "total": 55,
   "products": [
     {
@@ -357,6 +357,16 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
+      "商品名稱": "珍苑 紅燒牛肉湯 500 公克 X 4包",
+      "現價": "379",
+      "原價": "469",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h85/h77/451293460987934.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Jen-Yuan-Braised-Beef-Soup-500-g-X-4-Pack/p/160084"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
       "商品名稱": "歐鮮 寵物雞肉凍乾 隨手包 10公克 X 30入",
       "現價": "549",
       "原價": "689",
@@ -472,16 +482,6 @@
       "原價": "359",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h6f/h9c/413801359671326.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Freshdelight-Strawberry-Yogurt-200-ml-X-24-Count/p/157402"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "唐舖子 原味牛軋巧酥 650公克",
-      "現價": "285",
-      "原價": "359",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf4/h5e/238306004402206.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Tang-Shop-Nougat-with-Biscuit-Original-650-g/p/144896"
     },
     {
       "品牌": "Costco 台灣",
