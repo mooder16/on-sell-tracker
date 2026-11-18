@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-11-17 23:22:06",
+  "scraped_at": "2026-11-18 05:59:57",
   "total": 55,
   "products": [
     {
@@ -11,7 +11,7 @@
       "現價": "11199",
       "原價": "13999",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hba/h1c/115073135771678.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Fridges-Freezers/SHARP-253-L-Top-Mount-Inverter-Fridge-SJ-H25Y-WH/p/137098"
+      "商品連結": "https://www.costco.com.tw/Large-Appliances/p/137098"
     },
     {
       "品牌": "Costco 台灣",
@@ -21,7 +21,7 @@
       "現價": "4749",
       "原價": "6699",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hbc/h06/509161144746014.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Hair-Skin-Care-Tools/Philips-Portable-Electric-Shaver-RQ91205/p/163039"
+      "商品連結": "https://www.costco.com.tw/Hair-Skin-Care-Tools/p/163039"
     },
     {
       "品牌": "Costco 台灣",
@@ -41,7 +41,7 @@
       "現價": "",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h1d/h2f/466199162257438.jpg",
-      "商品連結": "https://www.costco.com.tw/BazaarVoiceExclusion/freight/Michelin-Tire-Exclusive-Limited-Time-Offer/p/117622"
+      "商品連結": "https://www.costco.com.tw/p/117622"
     },
     {
       "品牌": "Costco 台灣",
@@ -51,17 +51,7 @@
       "現價": "229",
       "原價": "289",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h10/hfc/413801495330846.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Mariani-Dried-Dates-850-g/p/3319570"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "曾拌麵 香蔥椒麻拌麵 116公克 X 12包 X 2盒",
-      "現價": "685",
-      "原價": "865",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4f/hd6/432345307676702.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/PaMi-Zeng-Noodles-Scallion-Sichuan-Pepper-116-g-X-12-Pack-X-2-Count/p/4108994"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/3319570"
     },
     {
       "品牌": "Costco 台灣",
@@ -72,6 +62,16 @@
       "原價": "529",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h10/h9c/380783498690590.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/VONO-Bacon-Corn-Soup-194-g-X-32-Pack/p/136726"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "珍苑 紅燒牛肉湯 500 公克 X 4包",
+      "現價": "379",
+      "原價": "469",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h85/h77/451293460987934.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Jen-Yuan-Braised-Beef-Soup-500-g-X-4-Pack/p/160084"
     },
     {
       "品牌": "Costco 台灣",
@@ -96,42 +96,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "雀巢 奇巧迷你威化繽紛組 718公克",
-      "現價": "429",
-      "原價": "529",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb2/h2c/506938228801566.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Nestle-KitKat-mini-mix-Share-Bag-718-g/p/311188"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "翠果子 綜合米果 20公克 X 30包 X 4盒",
       "現價": "919",
       "原價": "1159",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h28/h8e/168536159420446.jpg",
       "商品連結": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Grains-Nuts-Snacks/Trygoodz-Rice-Crackers-with-Almonds-20-g-X-30-Bag-X-4-Case/p/211681"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "戶外運動",
-      "商品名稱": "莫凡彼餐廳 超值餐券 X 18張 加贈冰淇淋單球券 X 12張",
-      "現價": "7939",
-      "原價": "8989",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h22/h75/401756162228254.jpg",
-      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Garden-Lifestyle/Tickets-Voucher/Movenpick-MVP-Restaurant-18-Meal-Tickets-and-12-One-Scoop-of-Ice-Cream-Tickets/p/2026223"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "珍苑 紅燒牛肉湯 500 公克 X 4包",
-      "現價": "379",
-      "原價": "469",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h85/h77/451293460987934.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Jen-Yuan-Braised-Beef-Soup-500-g-X-4-Pack/p/160084"
     },
     {
       "品牌": "Costco 台灣",
@@ -156,22 +126,42 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "Honeywell 淨味空氣清淨機 HPA5350WTWV1",
-      "現價": "6999",
-      "原價": "9099",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h68/h7e/401755896152094.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Air-Purifiers-Filters-Accessories/Honeywell-Air-Purifier-HPA5350WTWV1/p/157137"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "健康保健",
       "商品名稱": "健康力 高鈣凍 45入",
       "現價": "835",
       "原價": "1035",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdc/h29/378822011879454.jpg",
       "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Bone-Joint-Support/Dr-Advice-Calcium-Jelly-45-Pack/p/148430"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "威德 輕暢酵素飲纖暢配方 30毫升 X 30入",
+      "現價": "829",
+      "原價": "1029",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3b/ha1/189087007670302.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/WEIDER-Multi-Enzyme-Drink-30-ml-X-30-Pack/p/940510"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "戶外運動",
+      "商品名稱": "莫凡彼餐廳 超值餐券 X 18張 加贈冰淇淋單球券 X 12張",
+      "現價": "7939",
+      "原價": "8989",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h22/h75/401756162228254.jpg",
+      "商品連結": "https://www.costco.com.tw/Sports-Lifestyle/Garden-Lifestyle/Tickets-Voucher/Movenpick-MVP-Restaurant-18-Meal-Tickets-and-12-One-Scoop-of-Ice-Cream-Tickets/p/2026223"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "Honeywell 淨味空氣清淨機 HPA5350WTWV1",
+      "現價": "6999",
+      "原價": "9099",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h68/h7e/401755896152094.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Air-Purifiers-Filters-Accessories/Honeywell-Air-Purifier-HPA5350WTWV1/p/157137"
     },
     {
       "品牌": "Costco 台灣",
@@ -187,21 +177,21 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "威德 輕暢酵素飲纖暢配方 30毫升 X 30入",
-      "現價": "829",
-      "原價": "1029",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h3b/ha1/189087007670302.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/WEIDER-Multi-Enzyme-Drink-30-ml-X-30-Pack/p/940510"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
       "商品名稱": "維大力 汽水 330毫升 X 24入",
       "現價": "265",
       "原價": "319",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h24/h5b/172356639883294.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Vitali-Vitamin-Soda-330-ml-X-24-Count/p/141523"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "福樂 草莓優格飲 200毫升 X 24入",
+      "現價": "299",
+      "原價": "359",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h6f/h9c/413801359671326.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Freshdelight-Strawberry-Yogurt-200-ml-X-24-Count/p/157402"
     },
     {
       "品牌": "Costco 台灣",
@@ -216,12 +206,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "福樂 草莓優格飲 200毫升 X 24入",
-      "現價": "299",
-      "原價": "359",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h6f/h9c/413801359671326.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Freshdelight-Strawberry-Yogurt-200-ml-X-24-Count/p/157402"
+      "分類": "其他",
+      "商品名稱": "Richy 瑞奇 迷你燕麥酥 1000公克",
+      "現價": "285",
+      "原價": "349",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hea/hdd/272954705674270.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Richy-Oatmeal-Mini-Bite-1000-g/p/1212068"
     },
     {
       "品牌": "Costco 台灣",
@@ -246,12 +236,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Richy 瑞奇 迷你燕麥酥 1000公克",
-      "現價": "285",
-      "原價": "349",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hea/hdd/272954705674270.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Richy-Oatmeal-Mini-Bite-1000-g/p/1212068"
+      "分類": "食品",
+      "商品名稱": "得意的一天 健康三益調和油 3.75公升",
+      "現價": "299",
+      "原價": "369",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he9/hdd/486580106067998.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Great-Day-Premium-Blended-Oil-375-L/p/161353"
     },
     {
       "品牌": "Costco 台灣",
@@ -296,12 +286,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "農心 安城湯麵 125公克 X 20包",
-      "現價": "449",
-      "原價": "569",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h77/hd2/121634979479582.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Nongshim-Ansung-Noodle-Soup-125-g-X-20-Pack/p/244777"
+      "分類": "其他",
+      "商品名稱": "UNOVE 角蛋白深層修護髮膜 320毫升 + 40毫升",
+      "現價": "523",
+      "原價": "649",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hab/h14/503697526882334.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/UNOVE-Deep-Damage-Repair-Hair-Mask-320-ml-40-ml/p/249596"
     },
     {
       "品牌": "Costco 台灣",
@@ -312,26 +302,6 @@
       "原價": "625",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h22/hb5/415043989471262.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/KIKANBO-Spicy-Miso-Ramen-138-g-X-10-Pack/p/158083"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Richy 瑞奇 富裕蔬菜餅 960公克",
-      "現價": "269",
-      "原價": "329",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h28/h32/344500441415710.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Richy-Kenju-Vegetable-Thin-Cracker-960-g/p/151283"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "UNOVE 角蛋白深層修護髮膜 320毫升 + 40毫升",
-      "現價": "523",
-      "原價": "649",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hab/h14/503697526882334.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/UNOVE-Deep-Damage-Repair-Hair-Mask-320-ml-40-ml/p/249596"
     },
     {
       "品牌": "Costco 台灣",
@@ -347,6 +317,26 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
+      "商品名稱": "My Motto 威化餅 雙重巧克力風味 30公克 X 20包",
+      "現價": "259",
+      "原價": "329",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdf/hcd/361958094733342.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/My-Motto-Premium-Wafers-Cocoa-Cocoa-Flavor-30-g-X-20-Pack/p/263941"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "農心 安城湯麵 125公克 X 20包",
+      "現價": "449",
+      "原價": "569",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h77/hd2/121634979479582.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Nongshim-Ansung-Noodle-Soup-125-g-X-20-Pack/p/244777"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "食品",
       "商品名稱": "金博家 正宗四川担担麵 145公克 X 10入",
       "現價": "309",
       "原價": "389",
@@ -356,22 +346,32 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "Richy 瑞奇 富裕蔬菜餅 960公克",
+      "現價": "269",
+      "原價": "329",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h28/h32/344500441415710.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Richy-Kenju-Vegetable-Thin-Cracker-960-g/p/151283"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "服飾",
       "商品名稱": "滿意寶寶 瞬潔乾爽紙尿褲 XL號 168片",
       "現價": "1079",
       "原價": "1349",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h76/h19/507674926940190.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Baby-Extra-Dry-Diaper-Size-XL-168-Piece/p/165004"
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/p/165004"
     },
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "得意的一天 健康三益調和油 3.75公升",
-      "現價": "299",
+      "分類": "清潔",
+      "商品名稱": "棕欖 橄欖精萃保濕沐浴乳 4公斤",
+      "現價": "295",
       "原價": "369",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he9/hdd/486580106067998.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Great-Day-Premium-Blended-Oil-375-L/p/161353"
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he3/h33/245667626713118.jpg",
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Bath-Body/Palmolive-Naturals-Moisture-Smooth-Vegan-Body-Wash-4KG/p/146005"
     },
     {
       "品牌": "Costco 台灣",
@@ -386,16 +386,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "萊佳 綜合迷你威化夾心餅 800公克",
-      "現價": "389",
-      "原價": "479",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf0/hd4/413801537011742.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Loacker-Classic-Minis-Wafer-Mix-800-g/p/592361"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "麗滋 小圓餅乾 100公克 X 16入",
       "現價": "259",
@@ -406,12 +396,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "My Motto 威化餅 雙重巧克力風味 30公克 X 20包",
-      "現價": "259",
-      "原價": "329",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdf/hcd/361958094733342.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/My-Motto-Premium-Wafers-Cocoa-Cocoa-Flavor-30-g-X-20-Pack/p/263941"
+      "分類": "其他",
+      "商品名稱": "萊佳 綜合迷你威化夾心餅 800公克",
+      "現價": "389",
+      "原價": "479",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf0/hd4/413801537011742.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/592361"
     },
     {
       "品牌": "Costco 台灣",
@@ -421,27 +411,7 @@
       "現價": "1259",
       "原價": "1599",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h40/hb6/275511554703390.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/OSRAM-20W-LED-Bulb-8-Pack/p/147362-B"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "樂扣樂扣 新美學玻璃保鮮盒 含蓋10件組",
-      "現價": "949",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h74/h92/368770495479838.jpg",
-      "商品連結": "https://www.costco.com.tw/p/155268"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "飛利浦 快速洩壓智慧萬用鍋 (黑小萬) HD2151",
-      "現價": "3899",
-      "原價": "5399",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h26/h96/102901170765854.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/Philips-All-in-One-Cooker-Pressurized-HD2151/p/136410"
+      "商品連結": "https://www.costco.com.tw/p/147362-B"
     },
     {
       "品牌": "Costco 台灣",
@@ -456,16 +426,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "Astonish 英國潔氣炸鍋除油清潔劑 750毫升 X 3入",
-      "現價": "539",
-      "原價": "649",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4e/h21/434451584483358.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Cleaning-Supplies/Astonish-Specialist-Air-Fryer-Cleaner-750-ml-X-3-Count/p/169390"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "幻知曲 天然乳膠舒眠枕 60公分 X 40公分 X 12公分",
       "現價": "799",
@@ -476,12 +436,52 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "Astonish 英國潔氣炸鍋除油清潔劑 750毫升 X 3入",
+      "現價": "539",
+      "原價": "649",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4e/h21/434451584483358.jpg",
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/p/169390"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "其他",
-      "商品名稱": "ODOYO 迷你筋膜槍",
-      "現價": "1829",
-      "原價": "2289",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9a/ha4/400800577421342.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Massage-Relaxation-Accessories/ODOYO-Mini-Massage-Gun/p/156899"
+      "商品名稱": "飛利浦 快速洩壓智慧萬用鍋 (黑小萬) HD2151",
+      "現價": "3899",
+      "原價": "5399",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h26/h96/102901170765854.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/Philips-All-in-One-Cooker-Pressurized-HD2151/p/136410"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "樂扣樂扣 新美學玻璃保鮮盒 含蓋10件組",
+      "現價": "949",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h74/h92/368770495479838.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Food-Storage-Containers/LocknLock-Glass-Food-Storage-with-Lid-10-Piece-Set/p/155268"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "清潔",
+      "商品名稱": "麗仕 秋韻金木犀輕盈修護洗髮精 400公克 X 3入",
+      "現價": "399",
+      "原價": "499",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha2/h32/492247689232414.jpg",
+      "商品連結": "https://www.costco.com.tw/p/160482"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "家電",
+      "商品名稱": "LG 50吋 QNED AI 4K mini LED 智慧顯示器 70系列 50QNED70BTA",
+      "現價": "15199",
+      "原價": "18999",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9c/h9b/501514885693470.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/LG-50-inch-Class-QNED70-Series-QNED-AI-Mini-LED-4K-Smart-webOS-TV-50QNED70BTA/p/162234"
     },
     {
       "品牌": "Costco 台灣",
