@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-11-19 01:43:25",
-  "total": 187,
+  "scraped_at": "2026-11-19 12:30:19",
+  "total": 184,
   "products": [
     {
       "分類": "外套",
@@ -276,6 +276,14 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055349"
     },
     {
+      "分類": "上衣",
+      "商品名稱": "可機洗V領針織衫(長袖)",
+      "現價": "590",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054648/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054648"
+    },
+    {
       "分類": "外套",
       "商品名稱": "羅紋V領開襟外套",
       "現價": "290",
@@ -354,14 +362,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055587/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055587"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "棉質條紋寬版襯衫(長袖)",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054256/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054256"
     },
     {
       "分類": "上衣",
@@ -610,14 +610,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054298/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054298"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "AIRism棉質網眼襯衫式POLO衫(短袖)",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053281/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053281"
     },
     {
       "分類": "上衣",
@@ -922,14 +914,6 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055589/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055589"
-    },
-    {
-      "分類": "褲子",
-      "商品名稱": "棉質舒適九分褲",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055274/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055274"
     },
     {
       "分類": "褲子",
@@ -1428,14 +1412,6 @@
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053261"
     },
     {
-      "分類": "其他",
-      "商品名稱": "方形太陽眼鏡",
-      "現價": "190",
-      "原價": "590",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054540/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054540"
-    },
-    {
       "分類": "上衣",
       "商品名稱": "ZO&FRIENDS UT印花T恤(短袖)",
       "現價": "290",
@@ -1456,8 +1432,8 @@
       "商品名稱": "Monchhichi UT印花T恤(短袖)",
       "現價": "190",
       "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053882/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053882"
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053883/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053883"
     },
     {
       "分類": "上衣",
