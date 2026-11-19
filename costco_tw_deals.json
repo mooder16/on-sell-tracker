@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-11-19 12:31:45",
+  "scraped_at": "2026-11-19 22:56:08",
   "total": 55,
   "products": [
     {
@@ -171,7 +171,7 @@
       "現價": "315",
       "原價": "389",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb6/hd9/202920796389406.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/143022"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Bee-Cheng-Hiang-Pork-Mini-Crunchies-150-g/p/143022"
     },
     {
       "品牌": "Costco 台灣",
@@ -188,8 +188,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "Honeywell 淨味空氣清淨機 HPA5350WTWV1",
-      "現價": "6999",
-      "原價": "9099",
+      "現價": "9099",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h68/h7e/401755896152094.jpg",
       "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Air-Purifiers-Filters-Accessories/Honeywell-Air-Purifier-HPA5350WTWV1/p/157137"
     },
@@ -478,8 +478,8 @@
       "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "飛利浦 快速洩壓智慧萬用鍋 (黑小萬) HD2151",
-      "現價": "3899",
-      "原價": "5399",
+      "現價": "5399",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h26/h96/102901170765854.jpg",
       "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/Philips-All-in-One-Cooker-Pressurized-HD2151/p/136410"
     },
