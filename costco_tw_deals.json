@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-11-20 05:49:48",
+  "scraped_at": "2026-11-20 16:44:39",
   "total": 55,
   "products": [
     {
@@ -59,7 +59,7 @@
       "分類": "其他",
       "商品名稱": "Mariani 棗乾 850公克",
       "現價": "229",
-      "原價": "289",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h10/hfc/413801495330846.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Mariani-Dried-Dates-850-g/p/3319570"
     },
@@ -139,7 +139,7 @@
       "分類": "其他",
       "商品名稱": "可爾必思水語 330毫升 X 24入",
       "現價": "305",
-      "原價": "369",
+      "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h30/he1/418530812231710.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Calpis-Yogurt-Drink-330-ml-X-24-Count/p/376899"
     },
@@ -201,7 +201,7 @@
       "現價": "429",
       "原價": "529",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb2/h2c/506938228801566.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Nestle-KitKat-mini-mix-Share-Bag-718-g/p/311188"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/311188"
     },
     {
       "品牌": "Costco 台灣",
@@ -271,7 +271,7 @@
       "現價": "639",
       "原價": "869",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8c/h18/362805066891294.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Redoxon-Vitamin-B-Complex-Effervescent-Orange-Flavor-45-Tablet-15-Tablet-X-3-Pack/p/990856"
+      "商品連結": "https://www.costco.com.tw/p/990856"
     },
     {
       "品牌": "Costco 台灣",
@@ -351,7 +351,7 @@
       "現價": "375",
       "原價": "459",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h18/h4e/261774607384606.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/PRETZ-Flavors-Stick-Biscuit-Tomato-Vegetable-Herbs-Chicken-12-Pack/p/352414"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/352414"
     },
     {
       "品牌": "Costco 台灣",
@@ -381,7 +381,7 @@
       "現價": "399",
       "原價": "499",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha2/h32/492247689232414.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/LUX-Osmanthus-Shampoo-400-g-X-3-Pack/p/160482"
+      "商品連結": "https://www.costco.com.tw/p/160482"
     },
     {
       "品牌": "Costco 台灣",
@@ -441,7 +441,7 @@
       "現價": "1079",
       "原價": "1349",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h76/h19/507674926940190.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Baby-Extra-Dry-Diaper-Size-XL-168-Piece/p/165004"
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/p/165004"
     },
     {
       "品牌": "Costco 台灣",
@@ -451,17 +451,7 @@
       "現價": "399",
       "原價": "499",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h95/he8/437687066951710.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Vilson-Lemon-Green-Tea-Chia-Seed-Drink-8-g-X-21-Pack/p/158980"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Ello 不鏽鋼保冷保溫瓶 946毫升 X 2件組",
-      "現價": "519",
-      "原價": "659",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc7/hf1/366001869455390.jpg",
-      "商品連結": "https://www.costco.com.tw/p/153155"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/p/158980"
     },
     {
       "品牌": "Costco 台灣",
@@ -481,7 +471,17 @@
       "現價": "15199",
       "原價": "18999",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9c/h9b/501514885693470.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/LG-50-inch-Class-QNED70-Series-QNED-AI-Mini-LED-4K-Smart-webOS-TV-50QNED70BTA/p/162234"
+      "商品連結": "https://www.costco.com.tw/Televisions-TV-Accessories/p/162234"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "幻知曲 天然乳膠舒眠枕 60公分 X 40公分 X 12公分",
+      "現價": "799",
+      "原價": "999",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd2/h74/308063009112094.jpg",
+      "商品連結": "https://www.costco.com.tw/Bedding/p/148600"
     },
     {
       "品牌": "Costco 台灣",
@@ -491,7 +491,7 @@
       "現價": "499",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h15/h51/171156051525662.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Cetaphil-Moisturising-Cream-550-g/p/137177"
+      "商品連結": "https://www.costco.com.tw/p/137177"
     },
     {
       "品牌": "Costco 台灣",
@@ -511,7 +511,7 @@
       "現價": "685",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he4/h04/419358168481822.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Downy-Ultra-Concentrated-HE-Fabric-Softener-503-L/p/138992"
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/p/138992"
     },
     {
       "品牌": "Costco 台灣",
@@ -521,7 +521,7 @@
       "現價": "7399",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h20/h39/157819005534238.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-Rack-5-Tier-Industrial-Rack/p/1600209"
+      "商品連結": "https://www.costco.com.tw/p/1600209"
     },
     {
       "品牌": "Costco 台灣",
@@ -541,7 +541,7 @@
       "現價": "38999",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcd/hd1/157818636828702.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-Rack-5-Tier-Industrial-Rack-6-Pack/p/139736"
+      "商品連結": "https://www.costco.com.tw/p/139736"
     },
     {
       "品牌": "Costco 台灣",
@@ -551,7 +551,7 @@
       "現價": "865",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha6/h12/16243883835422.jpg",
-      "商品連結": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Lifetime-6-ft-Fold-in-Half-Bench/p/1048251"
+      "商品連結": "https://www.costco.com.tw/Patio-Furniture/p/1048251"
     }
   ]
 }
