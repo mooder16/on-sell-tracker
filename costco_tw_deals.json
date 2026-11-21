@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-11-21 12:09:14",
+  "scraped_at": "2026-11-21 21:28:45",
   "total": 55,
   "products": [
     {
@@ -21,7 +21,7 @@
       "現價": "4749",
       "原價": "6699",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hbc/h06/509161144746014.jpg",
-      "商品連結": "https://www.costco.com.tw/Hair-Skin-Care-Tools/p/163039"
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Hair-Skin-Care-Tools/Philips-Portable-Electric-Shaver-RQ91205/p/163039"
     },
     {
       "品牌": "Costco 台灣",
@@ -71,7 +71,7 @@
       "現價": "259",
       "原價": "329",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdf/hcd/361958094733342.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/263941"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/My-Motto-Premium-Wafers-Cocoa-Cocoa-Flavor-30-g-X-20-Pack/p/263941"
     },
     {
       "品牌": "Costco 台灣",
@@ -131,7 +131,7 @@
       "現價": "265",
       "原價": "319",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h24/h5b/172356639883294.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/141523"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Vitali-Vitamin-Soda-330-ml-X-24-Count/p/141523"
     },
     {
       "品牌": "Costco 台灣",
@@ -191,7 +191,7 @@
       "現價": "285",
       "原價": "349",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hea/hdd/272954705674270.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/1212068"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Richy-Oatmeal-Mini-Bite-1000-g/p/1212068"
     },
     {
       "品牌": "Costco 台灣",
@@ -231,7 +231,7 @@
       "現價": "269",
       "原價": "329",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h5b/h55/13692449161246.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/123003"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/SHJ-DrQ-Konjac-Grape-and-Strawberry-Jelly-186-kg/p/123003"
     },
     {
       "品牌": "Costco 台灣",
@@ -251,7 +251,7 @@
       "現價": "209",
       "原價": "259",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h25/he3/350052653989918.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/337333"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Lays-Coriander-Flavor-Potato-Chips-580-g/p/337333"
     },
     {
       "品牌": "Costco 台灣",
@@ -311,7 +311,7 @@
       "現價": "835",
       "原價": "1035",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdc/h29/378822011879454.jpg",
-      "商品連結": "https://www.costco.com.tw/p/148430"
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Bone-Joint-Support/Dr-Advice-Calcium-Jelly-45-Pack/p/148430"
     },
     {
       "品牌": "Costco 台灣",
@@ -361,7 +361,7 @@
       "現價": "709",
       "原價": "889",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hb6/h9a/398741424439326.jpg",
-      "商品連結": "https://www.costco.com.tw/p/153470"
+      "商品連結": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Skin-Care/Hada-Labo-Gokujyun-Aging-Care-Essence-30-g-X-2-Pack/p/153470"
     },
     {
       "品牌": "Costco 台灣",
@@ -446,16 +446,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "健康保健",
-      "商品名稱": "福壽 機能腸胃保健配方乾狗糧 13.5公斤",
-      "現價": "809",
-      "原價": "999",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hfc/h53/308063171706910.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/p/150349"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "食品",
       "商品名稱": "金博家 正宗四川担担麵 145公克 X 10入",
       "現價": "309",
@@ -481,7 +471,17 @@
       "現價": "999",
       "原價": "1259",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h37/h2b/522083841245214.jpg",
-      "商品連結": "https://www.costco.com.tw/Bedding/p/163509"
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/La-Belle-Butterfly-Memory-Foam-Pillow-61-cm-X-38-cm-X-12-cm/p/163509"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "家電",
+      "商品名稱": "LG 50吋 QNED AI 4K mini LED 智慧顯示器 70系列 50QNED70BTA",
+      "現價": "15199",
+      "原價": "18999",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9c/h9b/501514885693470.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/LG-50-inch-Class-QNED70-Series-QNED-AI-Mini-LED-4K-Smart-webOS-TV-50QNED70BTA/p/162234"
     },
     {
       "品牌": "Costco 台灣",
@@ -511,7 +511,7 @@
       "現價": "685",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he4/h04/419358168481822.jpg",
-      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/p/138992"
+      "商品連結": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Downy-Ultra-Concentrated-HE-Fabric-Softener-503-L/p/138992"
     },
     {
       "品牌": "Costco 台灣",
