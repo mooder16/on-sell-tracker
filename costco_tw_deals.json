@@ -1,7 +1,7 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-11-24 04:38:37",
-  "total": 54,
+  "scraped_at": "2026-11-24 19:22:08",
+  "total": 55,
   "products": [
     {
       "品牌": "Costco 台灣",
@@ -197,16 +197,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "居家",
-      "商品名稱": "新視紀 矯正鏡片(未滅菌) 200度 COLE",
-      "現價": "469",
-      "原價": "589",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc8/hd1/378822008963102.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-200-COLE/p/146772"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "居家",
       "商品名稱": "新視紀 矯正鏡片(未滅菌) 175度 DAX",
       "現價": "469",
       "原價": "589",
@@ -242,16 +232,6 @@
       "原價": "545",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdd/he8/84088462344222.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Gunze-Japan-Mens-100-Cotton-Undershirt/p/134729"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "樂益活 男仕膠原蛋白凍 冷萃咖啡口味 40條",
-      "現價": "799",
-      "原價": "999",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hff/hb2/116024905170974.jpg",
-      "商品連結": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/MeridLife-Advanced-Formula-Collagen-For-Men-Cold-Brew-Coffee-Flavor-40-Pack/p/199501"
     },
     {
       "品牌": "Costco 台灣",
@@ -417,16 +397,6 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "居家",
-      "商品名稱": "新視紀 矯正鏡片(未滅菌) 275度 MCKAY 抗藍光",
-      "現價": "469",
-      "原價": "589",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h24/hb2/378821998051358.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/146768"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "居家",
       "商品名稱": "新視紀 矯正鏡片(未滅菌) 250度 DAX",
       "現價": "469",
       "原價": "589",
@@ -472,6 +442,46 @@
       "原價": "589",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h92/he6/378821893357598.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-175-KYNE/p/146745"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "世界經典童話故事套書 4冊 [ 世界偉人故事 + 希臘神話 + 猶太寓言 + 莎士比亞 ]",
+      "現價": "829",
+      "原價": "919",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha5/h80/87953894539294.jpg",
+      "商品連結": "https://www.costco.com.tw/Office-School/Books/Kids-Books/World-Classic-Fairy-Tales-4-Book-World-Great-Person-Stories-Greek-Mythology-Jewish-Fables-Shakespeare-/p/135838"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "家電",
+      "商品名稱": "大金 10-12坪 7.2kW 大關Z系列 變頻冷暖一對一分離式冷氣 含運費及基本安裝",
+      "現價": "64189",
+      "原價": "69489",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0f/h18/361386756964382.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/CSPF-Above-7-kW/Daikin-72kW-FTXV-Z-Series-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/154071"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "家電",
+      "商品名稱": "大金 8-10坪 6.0kW 大關Z系列 變頻冷暖一對一分離式冷氣 含運費及基本安裝",
+      "現價": "58599",
+      "原價": "62799",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc6/hf8/361386751328286.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/CSPF-669-kW/Daikin-60kW-FTXV-Z-Series-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/154060"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "家電",
+      "商品名稱": "大金 4-6坪 3.5kW 大關Z系列 變頻冷暖一對一分離式冷氣 含運費及基本安裝",
+      "現價": "37399",
+      "原價": "40499",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha5/h27/361386703814686.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/CSPF-339-kW/Daikin-35kW-FTXV-Z-Series-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/154036"
     },
     {
       "品牌": "Costco 台灣",
