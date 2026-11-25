@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-11-25 03:22:49",
-  "total": 193,
+  "scraped_at": "2026-11-25 13:53:53",
+  "total": 194,
   "products": [
     {
       "分類": "外套",
@@ -146,6 +146,14 @@
       "原價": "2990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055130/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055130"
+    },
+    {
+      "分類": "外套",
+      "商品名稱": "無縫羽絨連帽外套",
+      "現價": "2490",
+      "原價": "3490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052104/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052104"
     },
     {
       "分類": "外套",
@@ -373,6 +381,14 @@
     },
     {
       "分類": "上衣",
+      "商品名稱": "鈕釦半開襟休閒上衣(長袖)",
+      "現價": "590",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054870/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054870"
+    },
+    {
+      "分類": "上衣",
       "商品名稱": "牛津寬版襯衫(長袖)(條紋)",
       "現價": "790",
       "原價": "990",
@@ -482,14 +498,6 @@
       "原價": "990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053643/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053643"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "防曬圓領針織衫(短袖)",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053585/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053585"
     },
     {
       "分類": "上衣",
@@ -877,14 +885,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "特級彈性Active束口褲",
-      "現價": "390",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055165/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055165"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "寬版直筒牛仔褲",
       "現價": "790",
       "原價": "1290",
@@ -957,6 +957,14 @@
     },
     {
       "分類": "褲子",
+      "商品名稱": "防潑水多口袋機能長褲 479382 / 481269 / 482919",
+      "現價": "590",
+      "原價": "1290",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052885/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052885"
+    },
+    {
+      "分類": "褲子",
       "商品名稱": "工裝氣球褲",
       "現價": "790",
       "原價": "990",
@@ -1002,6 +1010,14 @@
       "原價": "790",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055589/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055589"
+    },
+    {
+      "分類": "褲子",
+      "商品名稱": "棉質舒適九分褲",
+      "現價": "390",
+      "原價": "790",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055274/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055274"
     },
     {
       "分類": "褲子",
@@ -1266,14 +1282,6 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055042/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055042"
-    },
-    {
-      "分類": "裙子",
-      "商品名稱": "絨面寬襬裙",
-      "現價": "790",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054980/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054980"
     },
     {
       "分類": "裙子",
@@ -1544,8 +1552,8 @@
       "商品名稱": "Disney/PIXAR 短版UT印花T恤(短袖)",
       "現價": "290",
       "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054092/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054092"
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054091/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054091"
     }
   ]
 }
