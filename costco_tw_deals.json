@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-11-24 19:22:08",
+  "scraped_at": "2026-11-25 03:24:18",
   "total": 55,
   "products": [
     {
@@ -56,16 +56,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "Tresanti 電動升降桌",
-      "現價": "5999",
-      "原價": "7399",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9b/h55/329177256460318.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Tresanti-Adjustable-Desk/p/1646074"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "華元 薯格格酸奶洋蔥口味 500公克",
       "現價": "145",
@@ -76,12 +66,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "寵物",
-      "商品名稱": "Food超人 幼兒智慧讀卡機 (400雙語單字+138音效)",
-      "現價": "599",
-      "原價": "669",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hfb/hbb/524432019030046.jpg",
-      "商品連結": "https://www.costco.com.tw/Office-School/Books/Kids-Books/Foodman-Smart-Card-Reader-400-Bilingual-Words-138-Sounds/p/164929"
+      "分類": "居家",
+      "商品名稱": "Tresanti 電動升降桌",
+      "現價": "5999",
+      "原價": "7399",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9b/h55/329177256460318.jpg",
+      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Tresanti-Adjustable-Desk/p/1646074"
     },
     {
       "品牌": "Costco 台灣",
@@ -96,52 +86,22 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Weatherproof Vintage 女開襟衫",
-      "現價": "589",
-      "原價": "739",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h2b/h1d/488032603275294.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Weatherproof-Vintage-Ladies-Cardigan/p/1956383"
+      "分類": "寵物",
+      "商品名稱": "Food超人 幼兒智慧讀卡機 (400雙語單字+138音效)",
+      "現價": "599",
+      "原價": "669",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hfb/hbb/524432019030046.jpg",
+      "商品連結": "https://www.costco.com.tw/Office-School/Books/Kids-Books/Foodman-Smart-Card-Reader-400-Bilingual-Words-138-Sounds/p/164929"
     },
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "服飾",
-      "商品名稱": "Tommy Hilfiger 女短袖Polo衫",
-      "現價": "679",
-      "原價": "849",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h36/h8d/509161086353438.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Tommy-Hilfiger-Ladies-Short-Sleeve-Polo-Shirt/p/156544"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Baby趣味學習貼貼書 (第二輯) : 我會ㄅㄆㄇ、我會ABC、認識顏色、有趣形狀",
-      "現價": "585",
-      "原價": "655",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/had/hdb/87530387767326.jpg",
-      "商品連結": "https://www.costco.com.tw/Office-School/Books/Kids-Books/Kids-Interaction-Book-Set-Book-2/p/135687"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "新視紀 矯正鏡片(未滅菌) 175度 LIAM 抗藍光",
-      "現價": "469",
-      "原價": "589",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h73/hf2/378821903646750.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-175-LIAM-Anti-Blue-Light/p/146751"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "郡是 男純棉平口褲 2入",
-      "現價": "559",
-      "原價": "699",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he7/hb7/449275189100574.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Gunze-Mens-Pure-Cotton-Boxer-2-Pack/p/144436"
+      "商品名稱": "Adidas 男戶外涼鞋",
+      "現價": "419",
+      "原價": "569",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h24/hae/466558437228574.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Adidas-Mens-Outdoor-Sandals/p/154890"
     },
     {
       "品牌": "Costco 台灣",
@@ -157,11 +117,91 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "服飾",
+      "商品名稱": "Tommy Hilfiger 女短袖Polo衫",
+      "現價": "679",
+      "原價": "849",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h36/h8d/509161086353438.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Tommy-Hilfiger-Ladies-Short-Sleeve-Polo-Shirt/p/156544"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Adidas 中性包腳拖鞋",
+      "現價": "599",
+      "原價": "759",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8d/h3f/503697502371870.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Unisex-Clothing/Adidas-Unisex-Clog/p/1968133"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "郡是 男純棉平口褲 2入",
+      "現價": "559",
+      "原價": "699",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he7/hb7/449275189100574.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Gunze-Mens-Pure-Cotton-Boxer-2-Pack/p/144436"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "居家",
+      "商品名稱": "飛利浦 直立式3段蒸氣式掛燙機 STE1030",
+      "現價": "2119",
+      "原價": "2949",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcc/h70/361110026387486.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Sewing-Garment-Care/Philips-Garment-Steamer-STE1030/p/152448"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "Jezebel 女連身洋裝",
+      "現價": "295",
+      "原價": "495",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h84/h35/451293688692766.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Jezebel-Ladies-Tiered-Midi-Dress/p/1912121"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
       "商品名稱": "郡是 日本製男純棉衛生褲",
       "現價": "435",
       "原價": "545",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/had/hbe/84088371019806.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Gunze-Japan-Mens-100-Cotton-Pants/p/134723"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "居家",
+      "商品名稱": "美膳雅 Precision Master Pro 6.2公升 12段桌上型攪拌機 CSM-130RPCTW",
+      "現價": "5299",
+      "原價": "6799",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h02/h58/134584487870494.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/Cuisinart-Precision-Master-Pro-62-L-Stand-Mixer-CSM-130RPCTW/p/136638"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "Weatherproof Vintage 女開襟衫",
+      "現價": "589",
+      "原價": "739",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h2b/h1d/488032603275294.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Weatherproof-Vintage-Ladies-Cardigan/p/1956383"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Adidas 女戶外涼鞋",
+      "現價": "419",
+      "原價": "569",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h6e/h85/466558441881630.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Adidas-Ladies-Outdoor-Sandals/p/154891"
     },
     {
       "品牌": "Costco 台灣",
@@ -176,12 +216,92 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "Nakai 男止滑室內保暖襪兩入組",
+      "現價": "559",
+      "原價": "699",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha7/h2b/508719794749470.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Nakai-Mens-Anti-Slip-Indoor-Fleece-Sock-2-Pack/p/163787"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "郡是 男發熱保暖肚圍",
+      "現價": "529",
+      "原價": "669",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd8/hd4/503697440899102.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Gunze-Mens-Thermal-Belly-Warmer/p/163777"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "服飾",
-      "商品名稱": "Briggs 女丹寧襯衫洋裝",
-      "現價": "869",
-      "原價": "1099",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9d/h76/487711003607070.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Briggs-Ladies-Denim-Shirt-Dress/p/158206"
+      "商品名稱": "AS 男圓領發熱衣",
+      "現價": "699",
+      "原價": "899",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h20/h9b/420739684466718.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/AS-Mens-Crew-Neck-Thermal-Shirt/p/158907"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "居家",
+      "商品名稱": "新視紀 矯正鏡片(未滅菌) 175度 LIAM 抗藍光",
+      "現價": "469",
+      "原價": "589",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h73/hf2/378821903646750.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-175-LIAM-Anti-Blue-Light/p/146751"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "Baby趣味學習貼貼書 (第二輯) : 我會ㄅㄆㄇ、我會ABC、認識顏色、有趣形狀",
+      "現價": "585",
+      "原價": "655",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/had/hdb/87530387767326.jpg",
+      "商品連結": "https://www.costco.com.tw/Office-School/Books/Kids-Books/Kids-Interaction-Book-Set-Book-2/p/135687"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "AS 男圓領刷毛長袖上衣",
+      "現價": "359",
+      "原價": "459",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd7/hc3/503697441554462.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/AS-Mens-Fleece-Crew-Neck-Long-Sleeve-Tee/p/163779"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Calvin Klein 女睡衣套組",
+      "現價": "749",
+      "原價": "949",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hf8/hce/502265309626398.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Pajamas/Calvin-Klein-Ladies-Lounger-Set/p/156476"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "日本黑芝麻甜柿 4公斤",
+      "現價": "2529",
+      "原價": "2779",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd2/h94/281048045256734.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/Japan-Kinokawa-Persimmon-4-kg/p/279003"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "Nakai 男止滑保暖中筒襪兩入組",
+      "現價": "559",
+      "原價": "699",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h2b/h31/507674879492126.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Nakai-Mens-Anti-Slip-Fleece-Sock-2-Pack/p/163784"
     },
     {
       "品牌": "Costco 台灣",
@@ -197,11 +317,61 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "居家",
-      "商品名稱": "新視紀 矯正鏡片(未滅菌) 175度 DAX",
+      "商品名稱": "新視紀 矯正鏡片(未滅菌) 250度 MCKAY 抗藍光",
       "現價": "469",
       "原價": "589",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h43/hff/378821913477150.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-175-DAX/p/146757"
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8f/h23/378821997527070.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-250-MCKAY-Anti-Blue-Light/p/146767"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "服飾",
+      "商品名稱": "Briggs 女丹寧襯衫洋裝",
+      "現價": "869",
+      "原價": "1099",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9d/h76/487711003607070.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Briggs-Ladies-Denim-Shirt-Dress/p/158206"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "世界經典童話故事套書 4冊 [ 安徒生童話 + 天方夜譚 + 世界經典童話 + 伊索寓言 ]",
+      "現價": "829",
+      "原價": "919",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/heb/h26/87953885724702.jpg",
+      "商品連結": "https://www.costco.com.tw/Office-School/Books/Kids-Books/World-Classic-Fairy-Tales-4-Book-Andersens-Fairy-Tales-Arabian-Nights-World-Classic-Fairy-Tales-Aesops-Fables-/p/135837"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "家電",
+      "商品名稱": "大金 4-6坪 3.5kW 大關Z系列 變頻冷暖一對一分離式冷氣 含運費及基本安裝",
+      "現價": "37399",
+      "原價": "40499",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha5/h27/361386703814686.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/CSPF-339-kW/Daikin-35kW-FTXV-Z-Series-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/154036"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "居家",
+      "商品名稱": "新視紀 矯正鏡片(未滅菌) 150度 COLE",
+      "現價": "469",
+      "原價": "589",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h31/he7/378822002311198.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-150-COLE/p/146770"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "居家",
+      "商品名稱": "新視紀 矯正鏡片(未滅菌) 250度 DAX",
+      "現價": "469",
+      "原價": "589",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4f/h37/378821918687262.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-250-DAX/p/146759"
     },
     {
       "品牌": "Costco 台灣",
@@ -236,122 +406,32 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Adidas 中性包腳拖鞋",
-      "現價": "599",
-      "原價": "759",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8d/h3f/503697502371870.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Unisex-Clothing/Adidas-Unisex-Clog/p/1968133"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Jezebel 女連身洋裝",
-      "現價": "295",
-      "原價": "495",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h84/h35/451293688692766.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Jezebel-Ladies-Tiered-Midi-Dress/p/1912121"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "Nakai 男止滑室內保暖襪兩入組",
-      "現價": "559",
-      "原價": "699",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha7/h2b/508719794749470.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Nakai-Mens-Anti-Slip-Indoor-Fleece-Sock-2-Pack/p/163787"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "居家",
-      "商品名稱": "飛利浦 直立式3段蒸氣式掛燙機 STE1030",
-      "現價": "2119",
-      "原價": "2949",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcc/h70/361110026387486.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Sewing-Garment-Care/Philips-Garment-Steamer-STE1030/p/152448"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "世界經典童話故事套書 4冊 [ 安徒生童話 + 天方夜譚 + 世界經典童話 + 伊索寓言 ]",
-      "現價": "829",
-      "原價": "919",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/heb/h26/87953885724702.jpg",
-      "商品連結": "https://www.costco.com.tw/Office-School/Books/Kids-Books/World-Classic-Fairy-Tales-4-Book-Andersens-Fairy-Tales-Arabian-Nights-World-Classic-Fairy-Tales-Aesops-Fables-/p/135837"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "AS 男圓領刷毛長袖上衣",
-      "現價": "359",
-      "原價": "459",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd7/hc3/503697441554462.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/AS-Mens-Fleece-Crew-Neck-Long-Sleeve-Tee/p/163779"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Adidas 男戶外涼鞋",
-      "現價": "419",
-      "原價": "569",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h24/hae/466558437228574.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Adidas-Mens-Outdoor-Sandals/p/154890"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "新視紀 矯正鏡片(未滅菌) 150度 COLE",
+      "商品名稱": "新視紀 矯正鏡片(未滅菌) 250度 LIAM 抗藍光",
       "現價": "469",
       "原價": "589",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h31/he7/378822002311198.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-150-COLE/p/146770"
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hee/hb9/378821907644446.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-250-LIAM-Anti-Blue-Light/p/146753"
     },
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "居家",
-      "商品名稱": "新視紀 矯正鏡片(未滅菌) 250度 MCKAY 抗藍光",
+      "商品名稱": "新視紀 矯正鏡片(未滅菌) 300度 ADDIE 金屬",
       "現價": "469",
       "原價": "589",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8f/h23/378821997527070.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-250-MCKAY-Anti-Blue-Light/p/146767"
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h76/h0c/378821991497758.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-300-ADDIE-Metal/p/146763"
     },
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "居家",
-      "商品名稱": "美膳雅 Precision Master Pro 6.2公升 12段桌上型攪拌機 CSM-130RPCTW",
-      "現價": "5299",
-      "原價": "6799",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h02/h58/134584487870494.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/Cuisinart-Precision-Master-Pro-62-L-Stand-Mixer-CSM-130RPCTW/p/136638"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "郡是 男發熱保暖肚圍",
-      "現價": "529",
-      "原價": "669",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd8/hd4/503697440899102.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Gunze-Mens-Thermal-Belly-Warmer/p/163777"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "服飾",
-      "商品名稱": "Adidas 女戶外涼鞋",
-      "現價": "419",
-      "原價": "569",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h6e/h85/466558441881630.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Adidas-Ladies-Outdoor-Sandals/p/154891"
+      "商品名稱": "新視紀 矯正鏡片(未滅菌) 300度 KYNE",
+      "現價": "469",
+      "原價": "589",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he4/h98/378821898960926.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-300-KYNE/p/146749"
     },
     {
       "品牌": "Costco 台灣",
@@ -397,91 +477,11 @@
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
       "分類": "居家",
-      "商品名稱": "新視紀 矯正鏡片(未滅菌) 250度 DAX",
+      "商品名稱": "新視紀 矯正鏡片(未滅菌) 300度 DAX",
       "現價": "469",
       "原價": "589",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4f/h37/378821918687262.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-250-DAX/p/146759"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "新視紀 矯正鏡片(未滅菌) 150度 DAX",
-      "現價": "469",
-      "原價": "589",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h92/h36/378821913247774.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-150-DAX/p/146756"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "新視紀 矯正鏡片(未滅菌) 250度 LIAM 抗藍光",
-      "現價": "469",
-      "原價": "589",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hee/hb9/378821907644446.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-250-LIAM-Anti-Blue-Light/p/146753"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "新視紀 矯正鏡片(未滅菌) 300度 KYNE",
-      "現價": "469",
-      "原價": "589",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/he4/h98/378821898960926.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-300-KYNE/p/146749"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "新視紀 矯正鏡片(未滅菌) 175度 KYNE",
-      "現價": "469",
-      "原價": "589",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h92/he6/378821893357598.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-175-KYNE/p/146745"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "世界經典童話故事套書 4冊 [ 世界偉人故事 + 希臘神話 + 猶太寓言 + 莎士比亞 ]",
-      "現價": "829",
-      "原價": "919",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha5/h80/87953894539294.jpg",
-      "商品連結": "https://www.costco.com.tw/Office-School/Books/Kids-Books/World-Classic-Fairy-Tales-4-Book-World-Great-Person-Stories-Greek-Mythology-Jewish-Fables-Shakespeare-/p/135838"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "家電",
-      "商品名稱": "大金 10-12坪 7.2kW 大關Z系列 變頻冷暖一對一分離式冷氣 含運費及基本安裝",
-      "現價": "64189",
-      "原價": "69489",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0f/h18/361386756964382.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/CSPF-Above-7-kW/Daikin-72kW-FTXV-Z-Series-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/154071"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "家電",
-      "商品名稱": "大金 8-10坪 6.0kW 大關Z系列 變頻冷暖一對一分離式冷氣 含運費及基本安裝",
-      "現價": "58599",
-      "原價": "62799",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc6/hf8/361386751328286.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/CSPF-669-kW/Daikin-60kW-FTXV-Z-Series-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/154060"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "家電",
-      "商品名稱": "大金 4-6坪 3.5kW 大關Z系列 變頻冷暖一對一分離式冷氣 含運費及基本安裝",
-      "現價": "37399",
-      "原價": "40499",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha5/h27/361386703814686.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/CSPF-339-kW/Daikin-35kW-FTXV-Z-Series-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/154036"
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hdb/h32/378821922029598.jpg",
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-300-DAX/p/146761"
     },
     {
       "品牌": "Costco 台灣",
@@ -502,6 +502,16 @@
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h8c/ha5/118320266608670.jpg",
       "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Whole-Almonds-136-kg/p/1516849"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 降價商品",
+      "分類": "居家",
+      "商品名稱": "Lifetime 6呎折疊長椅",
+      "現價": "865",
+      "原價": "",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha6/h12/16243883835422.jpg",
+      "商品連結": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Lifetime-6-ft-Fold-in-Half-Bench/p/1048251"
     },
     {
       "品牌": "Costco 台灣",
@@ -542,16 +552,6 @@
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcd/hd1/157818636828702.jpg",
       "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-Rack-5-Tier-Industrial-Rack-6-Pack/p/139736"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 降價商品",
-      "分類": "居家",
-      "商品名稱": "Lifetime 6呎折疊長椅",
-      "現價": "865",
-      "原價": "",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha6/h12/16243883835422.jpg",
-      "商品連結": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Lifetime-6-ft-Fold-in-Half-Bench/p/1048251"
     }
   ]
 }
