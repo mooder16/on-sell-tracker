@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-11-25 23:59:37",
-  "total": 192,
+  "scraped_at": "2026-11-26 08:00:07",
+  "total": 178,
   "products": [
     {
       "分類": "外套",
@@ -13,22 +13,6 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "MA-1 布勞森外套",
-      "現價": "1490",
-      "原價": "1990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055036/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055036"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "工裝外套(牛仔)",
-      "現價": "990",
-      "原價": "1490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054657/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054657"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "防風立領布勞森外套",
       "現價": "1490",
       "原價": "1690",
@@ -37,51 +21,11 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "輕量羽絨外套",
-      "現價": "2490",
-      "原價": "2990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055049/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055049"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "PADDED短版布勞森外套",
-      "現價": "1990",
-      "原價": "2490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054921/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054921"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "工裝外套",
-      "現價": "990",
-      "原價": "1490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054623/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054623"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "針織西裝外套",
-      "現價": "1990",
-      "原價": "2490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055241/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055241"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "毛絨刷毛拼接外套",
       "現價": "990",
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055033/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055033"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "短版布勞森外套",
-      "現價": "1690",
-      "原價": "1990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055298/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055298"
     },
     {
       "分類": "外套",
@@ -109,14 +53,6 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "連帽布勞森外套",
-      "現價": "1690",
-      "原價": "1990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055134/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055134"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "刷毛短版外套",
       "現價": "990",
       "原價": "1490",
@@ -141,27 +77,11 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "羊毛混紡短大衣",
-      "現價": "2490",
-      "原價": "2990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055130/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055130"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "PADDED工裝短版外套(格紋)",
       "現價": "1990",
       "原價": "2490",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054901/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054901"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "短版布勞森外套(印花)",
-      "現價": "1690",
-      "原價": "1990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055276/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055276"
     },
     {
       "分類": "外套",
@@ -173,14 +93,6 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "毛絨刷毛布勞森外套(長袖)(印花)",
-      "現價": "790",
-      "原價": "1290",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055112/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055112"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "燈芯絨短版外套",
       "現價": "1490",
       "原價": "1990",
@@ -189,27 +101,11 @@
     },
     {
       "分類": "外套",
-      "商品名稱": "連帽大衣",
-      "現價": "2490",
-      "原價": "3490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055147/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055147"
-    },
-    {
-      "分類": "外套",
       "商品名稱": "磨毛短版布勞森外套",
       "現價": "1690",
       "原價": "1990",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055294/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055294"
-    },
-    {
-      "分類": "外套",
-      "商品名稱": "防風刷毛外套",
-      "現價": "1290",
-      "原價": "1490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055283/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055283"
     },
     {
       "分類": "外套",
@@ -997,14 +893,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "棉質舒適九分褲",
-      "現價": "390",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055274/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055274"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "防潑水多口袋機能短褲 482937 / 482939",
       "現價": "390",
       "原價": "790",
@@ -1501,14 +1389,6 @@
     },
     {
       "分類": "上衣",
-      "商品名稱": "miffy UT印花T恤(短袖)",
-      "現價": "290",
-      "原價": "490",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052792/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052792"
-    },
-    {
-      "分類": "上衣",
       "商品名稱": "貓福珊迪 UT印花T恤(短袖)",
       "現價": "290",
       "原價": "490",
@@ -1530,6 +1410,14 @@
       "原價": "590",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054477/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054477"
+    },
+    {
+      "分類": "上衣",
+      "商品名稱": "miffy UT印花T恤(短袖)",
+      "現價": "290",
+      "原價": "490",
+      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000052795/main/first/561/1.jpg",
+      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000052795"
     },
     {
       "分類": "上衣",
