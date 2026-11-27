@@ -1,6 +1,6 @@
 {
   "brand": "Costco 台灣",
-  "scraped_at": "2026-11-27 13:31:20",
+  "scraped_at": "2026-11-27 23:55:57",
   "total": 53,
   "products": [
     {
@@ -11,17 +11,7 @@
       "現價": "145",
       "原價": "179",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hed/h3b/34118063915038.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/p/117731"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "多力多滋 迷你脆星級小吃組 54公克 X 18包(黃金起司 X 6 / 炭烤雞翅X 6 / 塔香椒鹽 X 6 )",
-      "現價": "279",
-      "原價": "349",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h9b/h21/501515174084638.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Doritos-Mini-Street-Food-Pack-54-g-X-18-Pack-Golden-CheeseX-6-Pack-Charcoal-Chicken-Wings-X-6-Pack-Pepper-Salt-With-BasilX-6-Pack/p/237556"
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Hwa-Yuan-Potato-Chips-Sour-Cream-Onion-Flavor-500-g/p/117731"
     },
     {
       "品牌": "Costco 台灣",
@@ -46,16 +36,6 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "食品",
-      "商品名稱": "米森 C多多檸檬茶 8公克 X 21包",
-      "現價": "399",
-      "原價": "499",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h95/he8/437687066951710.jpg",
-      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Vilson-Lemon-Green-Tea-Chia-Seed-Drink-8-g-X-21-Pack/p/158980"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "其他",
       "商品名稱": "su:m37º 活水潤澤酵能水凝霜 120毫升 + 50毫升",
       "現價": "889",
@@ -66,12 +46,32 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "食品",
+      "商品名稱": "米森 C多多檸檬茶 8公克 X 21包",
+      "現價": "399",
+      "原價": "499",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h95/he8/437687066951710.jpg",
+      "商品連結": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Vilson-Lemon-Green-Tea-Chia-Seed-Drink-8-g-X-21-Pack/p/158980"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "服飾",
       "商品名稱": "Tommy Hilfiger 女短袖Polo衫",
       "現價": "679",
       "原價": "849",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h36/h8d/509161086353438.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Tommy-Hilfiger-Ladies-Short-Sleeve-Polo-Shirt/p/156544"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "居家",
+      "商品名稱": "飛利浦 直立式3段蒸氣式掛燙機 STE1030",
+      "現價": "2119",
+      "原價": "2949",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcc/h70/361110026387486.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Sewing-Garment-Care/Philips-Garment-Steamer-STE1030/p/152448"
     },
     {
       "品牌": "Costco 台灣",
@@ -102,26 +102,6 @@
       "原價": "569",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h24/hae/466558437228574.jpg",
       "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Adidas-Mens-Outdoor-Sandals/p/154890"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "寵物",
-      "商品名稱": "Food超人 幼兒智慧讀卡機 (400雙語單字+138音效)",
-      "現價": "599",
-      "原價": "669",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hfb/hbb/524432019030046.jpg",
-      "商品連結": "https://www.costco.com.tw/Office-School/Books/Kids-Books/Foodman-Smart-Card-Reader-400-Bilingual-Words-138-Sounds/p/164929"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
-      "分類": "居家",
-      "商品名稱": "飛利浦 直立式3段蒸氣式掛燙機 STE1030",
-      "現價": "2119",
-      "原價": "2949",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hcc/h70/361110026387486.jpg",
-      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Sewing-Garment-Care/Philips-Garment-Steamer-STE1030/p/152448"
     },
     {
       "品牌": "Costco 台灣",
@@ -326,6 +306,16 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
+      "分類": "其他",
+      "商品名稱": "世界經典童話故事套書 4冊 [ 安徒生童話 + 天方夜譚 + 世界經典童話 + 伊索寓言 ]",
+      "現價": "829",
+      "原價": "919",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/heb/h26/87953885724702.jpg",
+      "商品連結": "https://www.costco.com.tw/Office-School/Books/Kids-Books/World-Classic-Fairy-Tales-4-Book-Andersens-Fairy-Tales-Arabian-Nights-World-Classic-Fairy-Tales-Aesops-Fables-/p/135837"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
       "分類": "居家",
       "商品名稱": "K&H 寵物架高涼床 76.2公分 X 106.6公分",
       "現價": "605",
@@ -366,22 +356,12 @@
     {
       "品牌": "Costco 台灣",
       "來源": "Costco 每日精選優惠",
-      "分類": "其他",
-      "商品名稱": "世界經典童話故事套書 4冊 [ 安徒生童話 + 天方夜譚 + 世界經典童話 + 伊索寓言 ]",
-      "現價": "829",
-      "原價": "919",
-      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/heb/h26/87953885724702.jpg",
-      "商品連結": "https://www.costco.com.tw/Office-School/Books/Kids-Books/World-Classic-Fairy-Tales-4-Book-Andersens-Fairy-Tales-Arabian-Nights-World-Classic-Fairy-Tales-Aesops-Fables-/p/135837"
-    },
-    {
-      "品牌": "Costco 台灣",
-      "來源": "Costco 每日精選優惠",
       "分類": "家電",
       "商品名稱": "大金 4-6坪 3.5kW 大關Z系列 變頻冷暖一對一分離式冷氣 含運費及基本安裝",
       "現價": "37399",
       "原價": "40499",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/ha5/h27/361386703814686.jpg",
-      "商品連結": "https://www.costco.com.tw/Large-Appliances/p/154036"
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/CSPF-339-kW/Daikin-35kW-FTXV-Z-Series-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/154036"
     },
     {
       "品牌": "Costco 台灣",
@@ -431,7 +411,7 @@
       "現價": "469",
       "原價": "589",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h92/h36/378821913247774.jpg",
-      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/p/146756"
+      "商品連結": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-150-DAX/p/146756"
     },
     {
       "品牌": "Costco 台灣",
@@ -461,7 +441,27 @@
       "現價": "64189",
       "原價": "69489",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h0f/h18/361386756964382.jpg",
-      "商品連結": "https://www.costco.com.tw/Large-Appliances/p/154071"
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/CSPF-Above-7-kW/Daikin-72kW-FTXV-Z-Series-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/154071"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "家電",
+      "商品名稱": "大金 5-7坪 4.1kW 大關Z系列 變頻冷暖一對一分離式冷氣 含運費及基本安裝",
+      "現價": "43399",
+      "原價": "46599",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/h4a/hf8/361386707877918.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/CSPF-449-kW/Daikin-41kW-FTXV-Z-Series-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/154041"
+    },
+    {
+      "品牌": "Costco 台灣",
+      "來源": "Costco 每日精選優惠",
+      "分類": "家電",
+      "商品名稱": "大金 3-5坪 2.8kW 大關Z系列 變頻冷暖一對一分離式冷氣 含運費及基本安裝",
+      "現價": "34489",
+      "原價": "37489",
+      "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hc5/hec/361386699751454.jpg",
+      "商品連結": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/CSPF-229-kW/Daikin-28kW-FTXV-Z-Series-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/154028"
     },
     {
       "品牌": "Costco 台灣",
@@ -521,7 +521,7 @@
       "現價": "689",
       "原價": "",
       "圖片網址": "https://www.costco.com.tw/medias/sys_master/images/hd3/h92/292858412302366.jpg",
-      "商品連結": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/12-ft-X-16-ft-Reversible-Tarps-2-Pack/p/1600091"
+      "商品連結": "https://www.costco.com.tw/p/1600091"
     },
     {
       "品牌": "Costco 台灣",
