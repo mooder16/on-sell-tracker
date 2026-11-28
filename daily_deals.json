@@ -1,7 +1,7 @@
 {
   "brand": "UNIQLO 台灣女性特價",
-  "scraped_at": "2026-11-27 23:54:31",
-  "total": 187,
+  "scraped_at": "2026-11-28 06:23:56",
+  "total": 183,
   "products": [
     {
       "分類": "外套",
@@ -234,14 +234,6 @@
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055349/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055349"
-    },
-    {
-      "分類": "上衣",
-      "商品名稱": "可機洗V領針織衫(長袖)",
-      "現價": "590",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054648/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054648"
     },
     {
       "分類": "外套",
@@ -965,14 +957,6 @@
     },
     {
       "分類": "褲子",
-      "商品名稱": "百褶褲裙 480302",
-      "現價": "290",
-      "原價": "790",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000053175/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000053175"
-    },
-    {
-      "分類": "褲子",
       "商品名稱": "棉質短褲(條紋)",
       "現價": "390",
       "原價": "590",
@@ -1197,27 +1181,11 @@
     },
     {
       "分類": "裙子",
-      "商品名稱": "雪紡百褶中長裙",
-      "現價": "390",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054746/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054746"
-    },
-    {
-      "分類": "裙子",
       "商品名稱": "燈芯絨短裙",
       "現價": "790",
       "原價": "1290",
       "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000055042/main/first/561/1.jpg",
       "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000055042"
-    },
-    {
-      "分類": "裙子",
-      "商品名稱": "絨面寬襬裙",
-      "現價": "790",
-      "原價": "990",
-      "圖片網址": "https://www.uniqlo.com/tw/hmall/test/u0000000054980/main/first/561/1.jpg",
-      "商品連結": "https://www.uniqlo.com/tw/zh_TW/product-detail.html?productCode=u0000000054980"
     },
     {
       "分類": "裙子",
